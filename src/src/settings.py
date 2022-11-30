@@ -39,7 +39,8 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     'rest_framework',
     'guardian',
-    'show_case_home'
+    'show_case_home',
+    'topic_event_home',
 ]
 
 MIDDLEWARE = [
