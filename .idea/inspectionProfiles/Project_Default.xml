@@ -1,0 +1,36 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyArgumentListInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="PyPep8NamingInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="N801" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="src.live_tv.models.Live_tv.objects" />
+          <option value="src.live_tv.models.Live_tv.DoesNotExist" />
+          <option value="src.live_tv.models.LiveTv.objects" />
+          <option value="src.live_tv.models.LiveTv.DoesNotExist" />
+          <option value="src.banner.models.Banner.objects" />
+          <option value="src.banner.models.Banner.DoesNotExist" />
+          <option value="src.live_streaming.models.LiveStreaming.objects" />
+          <option value="src.live_streaming.models.LiveStreaming.DoesNotExist" />
+          <option value="src.live_video.models.LiveVideo.objects" />
+          <option value="src.live_video.models.LiveVideo.DoesNotExist" />
+          <option value="src.live_film.models.LiveFilm.objects" />
+          <option value="src.live_film.models.LiveFilm.DoesNotExist" />
+          <option value="src.list_film.serializers.TopicFilmSerializers.objects" />
+          <option value="src.list_film.serializers.ListFilmSerializers.objects" />
+          <option value="src.list_film.models.TopicFilm.objects" />
+          <option value="src.search_film.models.SearchListFilm.objects" />
+          <option value="src.list_film.models.ListFilm.objects" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
