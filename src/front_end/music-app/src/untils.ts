@@ -8,3 +8,8 @@ export interface DataShowCase {
     order: string;
     imageUrl: string;
 }
+export interface DataTopicEvent {
+    key: string;
+    title:string;
+    thumbnail: string;
+}

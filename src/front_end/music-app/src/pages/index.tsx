@@ -2,8 +2,10 @@ import { GetServerSideProps } from "next";
 import React, { useEffect, useState } from "react";
 import { Box } from "theme-ui";
 import Slide from "../components/Slide";
+import SlideShow from "../components/SlideShow";
 import getShowCaseHome from "../service/getShowCaseHome";
-import { DataShowCase } from "../untils";
+import getTopicEventHome from "../service/getTopicEventHome";
+import { DataShowCase, DataTopicEvent } from "../untils";
 
 // type Props = {
 //     dataShowCase: Array<DataShowCase>
@@ -18,10 +20,15 @@ import { DataShowCase } from "../untils";
 // 	}
 // }
 const Home = () => {
-    const [dataShowCase, setDataShowCase] = useState<Array<DataShowCase>>()
+    const [dataShowCase, setDataShowCase] = useState<Array<DataShowCase>>();
+    const [dataTopicEvent, setDataTopicEvent] = useState<Array<DataTopicEvent>>()
     useEffect(() => {
         getShowCaseHome.getAll().then((res:any) => {
             setDataShowCase(res.data.data)
+        })
+        getTopicEventHome.getAll().then((res:any) => {
+            console.log(res.data)
+            setDataTopicEvent(res.data);
         })
         .catch((err:any) => {
             console.log(err.message)
@@ -42,6 +49,22 @@ const Home = () => {
                     }
                 })} 
             />
+            {dataTopicEvent?.map((item:any, index:any) => {
+                return(
+                    <Box key={index}>
+                        <SlideShow
+                            groupName={item?.groupName}
+                            dataSlide = {item?.listPlaylist?.map((items:any) => {
+                                return {
+                                    title: items?.title,
+                                    key: items?.key,
+                                    thumbnail: items?.thumbnail
+                                }
+                            })}
+                        />
+                    </Box>
+                );
+            })}
         </Box>
     );
 }

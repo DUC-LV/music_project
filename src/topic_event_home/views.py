@@ -1,9 +1,9 @@
 from django.shortcuts import render
 from django.http import HttpResponse, JsonResponse
-from django.views.decorators.csrf import csrf_exempt
+# from django.views.decorators.csrf import csrf_exempt
 # from rest_framework.parsers import JSONParser
 # from .serializers import TopicEventsSerializers, ListPlaylistsSerializers, ArtistsSerializers
-from django.http import HttpResponse
+# from django.http import HttpResponse
 from django.views import View
 from .models import TopicEvents, ListPlaylists, Artists
 
