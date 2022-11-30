@@ -19,4 +19,5 @@ from django.urls import path, include
 urlpatterns = [
     path('admin/', admin.site.urls),
     path('', include('show_case_home.urls')),
+    path('', include('topic_event_home.urls')),
 ]

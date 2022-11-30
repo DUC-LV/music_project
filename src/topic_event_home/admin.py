@@ -2,10 +2,9 @@ from django.contrib import admin
 from .models import TopicEvents, ListPlaylists, Artists
 
 
-# Register your models here.
 @admin.register(TopicEvents)
 class TopicEvents(admin.ModelAdmin):
-    list_display = ["created", "groupName"]
+    list_display = ["created_at", "group_name"]
 
 
 admin.register(ListPlaylists)
@@ -13,7 +12,7 @@ admin.register(ListPlaylists)
 
 @admin.register(ListPlaylists)
 class ListPlaylists(admin.ModelAdmin):
-    list_display = ["created", "key", "title", "thumbnail", "duration", "type", "dateModify", "topic_eventID"]
+    list_display = ["created_at", "title", "thumbnail", "duration", "type", "date_modify", "topic_event"]
 
 
 admin.register(ListPlaylists)
@@ -21,7 +20,7 @@ admin.register(ListPlaylists)
 
 @admin.register(Artists)
 class Artists(admin.ModelAdmin):
-    list_display = ["created", "artistId", "name", "shortLink", "imageUrl", "artist_eventID"]
+    list_display = ["created_at", "name", "short_link", "image_url", "artist_event"]
 
 
 admin.register(Artists)
