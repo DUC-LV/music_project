@@ -27,7 +27,6 @@ const Home = () => {
             setDataShowCase(res.data.data)
         })
         getTopicEventHome.getAll().then((res:any) => {
-            console.log(res.data)
             setDataTopicEvent(res.data);
         })
         .catch((err:any) => {

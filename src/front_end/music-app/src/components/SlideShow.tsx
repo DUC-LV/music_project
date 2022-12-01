@@ -1,5 +1,5 @@
 import React from "react";
-import { Box, Image } from "theme-ui";
+import { Box, Image, Text } from "theme-ui";
 import { DataTopicEvent } from "../untils";
 import Slider from "react-slick";
 import "slick-carousel/slick/slick.css";
@@ -10,45 +10,97 @@ interface DataSlide {
 }
 
 const SlideShow = ({ dataSlide, groupName }:DataSlide) => {
-    const setting = {
+    const settings = {
 		infinite: true,
-		slidesToShow: 4,
+		slidesToShow: 6,
 		slidesToScroll: 2,
+        responsive: [
+            {
+                breakpoint: 1200,
+                settings: {
+                    infinite: true,
+                    slidesToShow: 4,
+                    slidesToScroll: 2,
+                }  
+            },
+            {
+                breakpoint: 1023,
+                settings: {
+                    infinite: true,
+                    slidesToShow: 4,
+                    slidesToScroll: 2,
+                }  
+            },
+            {
+                breakpoint: 767,
+                settings: {
+                    infinite: true,
+                    slidesToShow: 3,
+                    slidesToScroll: 2,
+                }  
+            },
+
+        ]
 	}
     return(
         <Box
             sx={{
-                margin: '30px 330px 10px 210px',
+                margin: '0px 320px 0px 210px',
                 "@media only screen and (max-width: 1260px)": {
-                    margin: '10px 0px 10px 210px',
+                    margin: '0px 0px 0px 210px',
+                },
+                "@media only screen and (max-width: 767px)": {
+                    margin: '0px',
                 },
             }}
         >
-            <Box as="h2" sx={{ color: 'white'}}>{groupName}</Box>
-            <Slider {...setting}>
+            <Box as="h3" sx={{ color: 'white', mt: '20px'}}>{groupName}</Box>
+            <Slider {...settings}>
                 {dataSlide?.map((item, index:any) => {
                         return(
                             // eslint-disable-next-line react/jsx-key
-                            <Box 
-                                key={index}
-                                sx={{
-                                    mt: '10px',
-                                    outline: 'none'
-                                }}
-                            >
-                                <Image
-                                    alt=""
-                                    src={item?.thumbnail}
+                            <Box key={index}>
+                                <Box
                                     sx={{
-                                        borderRadius: '10px',
-                                        cursor: 'pointer',
-                                        width: '92%',
-                                        
+                                        mt: '15px',
+                                        outline: 'none',
+                                        width: '94%'
                                     }}
-                                />
+                                >
+                                    <Image
+                                        alt=""
+                                        src={item?.thumbnail}
+                                        sx={{
+                                            borderRadius: '10px',
+                                            cursor: 'pointer',
+                                            width: '100%',
+                                            ":hover": {
+                                                transform: "scale(1)",
+                                                border: "3px solid #28b1f4",
+                                            },
+                                        }}
+                                    />
+                                </Box>
+                                <Text 
+                                as="h5" 
+                                sx={{ 
+                                    textAlign: 'center', 
+                                    color: 'white', 
+                                    width: '94%', 
+                                    mt: '10px', 
+                                    cursor: 'pointer', 
+                                    ":hover": {
+                                        color: '#28b1f4'
+                                    },
+                                    "@media only screen and (max-width: 768px)": {
+                                        display: 'none',
+                                    },
+                                }}>
+                                    {item?.title}
+                                </Text>
                             </Box>
                         );
-                })}
+                    })}
             </Slider>
         </Box>
     );
