@@ -3,6 +3,7 @@ import React, { useEffect, useState } from "react";
 import { Box } from "theme-ui";
 import Slide from "../components/Slide";
 import SlideShow from "../components/SlideShow";
+import getNewReleases from "../service/getNewReleases";
 import getShowCaseHome from "../service/getShowCaseHome";
 import getTopicEventHome from "../service/getTopicEventHome";
 import { DataShowCase, DataTopicEvent } from "../untils";
@@ -21,13 +22,17 @@ import { DataShowCase, DataTopicEvent } from "../untils";
 // }
 const Home = () => {
     const [dataShowCase, setDataShowCase] = useState<Array<DataShowCase>>();
-    const [dataTopicEvent, setDataTopicEvent] = useState<Array<DataTopicEvent>>()
+    const [dataTopicEvent, setDataTopicEvent] = useState<Array<DataTopicEvent>>();
+    const [dataNewReleases, setDataNewReleases] = useState<Array<DataTopicEvent>>();
     useEffect(() => {
         getShowCaseHome.getAll().then((res:any) => {
             setDataShowCase(res.data.data)
         })
         getTopicEventHome.getAll().then((res:any) => {
             setDataTopicEvent(res.data);
+        })
+        getNewReleases.getAll().then((res:any) => {
+            setDataNewReleases(res.data)
         })
         .catch((err:any) => {
             console.log(err.message)
@@ -64,6 +69,16 @@ const Home = () => {
                     </Box>
                 );
             })}
+            <SlideShow
+                groupName="Mới phát hành"
+                dataSlide = {dataNewReleases?.map((items:any) => {
+                    return {
+                        title: items?.title,
+                        key: items?.key,
+                        thumbnail: items?.thumbnail
+                    }
+                })}
+            />
         </Box>
     );
 }
