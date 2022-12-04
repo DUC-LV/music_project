@@ -21,7 +21,7 @@ a {
     color-scheme: dark;
   }
   body {
-    color: white;
+    color: rgba(244,246,248,0.9);
     background: black;
   }
 }
@@ -37,7 +37,7 @@ a {
 }
   /* Handle */
 ::-webkit-scrollbar-thumb {
-	background: white;
+	background: rgba(244,246,248,0.9);
 	border-radius: 10px;
 }
 

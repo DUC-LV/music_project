@@ -5,6 +5,7 @@ import { BsSearch, BsHouseFill, BsArrowDownShort, BsArrowUpShort, BsHeadset } fr
 import { AiOutlineCompass } from "react-icons/ai";
 import { BiBarChart } from "react-icons/bi";
 import { TbHeartHandshake } from "react-icons/tb";
+import { useRouter } from "next/router";
 
 const Header = () => {
     const categories  = [
@@ -12,35 +13,41 @@ const Header = () => {
             id: 1,
             name: 'Tìm kiếm',
             icon: <BsSearch />,
-            link: '/search'
+            link: '/search',
+            color: 'rgba(244,246,248,0.9)',
         },
         {
             id: 2,
             name: 'Trang chủ',
             icon: <BsHouseFill />,
-            link: '/'
+            link: '/',
+            color: 'rgba(244,246,248,0.9)',
         },
     ]
     const categoriesDiscover  = [
         {
             id: 1,
             name: 'Bài hát',
-            link: '/'
+            link: '/music',
+            color: 'rgba(244,246,248,0.9)',
         },
         {
             id: 2,
             name: 'Playlist',
-            link: '/'
+            link: '/playlist',
+            color: 'rgba(244,246,248,0.9)',
         },
         {
             id: 3,
             name: 'Video',
-            link: '/'
+            link: '/video',
+            color: 'rgba(244,246,248,0.9)',
         },
         {
             id: 4,
             name: 'Nghệ sĩ',
-            link: '/'
+            link: '/artist',
+            color: 'rgba(244,246,248,0.9)',
         },
     ]
     const [clickDiscover, setClickDiscover] = useState(true);
@@ -51,17 +58,20 @@ const Header = () => {
         {
             id: 1,
             name: 'Chủ đề',
-            link: '/'
+            link: '/topic',
+            color: 'rgba(244,246,248,0.9)',
         },
         {
             id: 2,
             name: 'Tuyển tập',
-            link: '/'
+            link: '/collection',
+            color: 'rgba(244,246,248,0.9)',
         },
         {
             id: 3,
             name: 'Top 100',
-            link: '/'
+            link: '/top100',
+            color: 'rgba(244,246,248,0.9)',
         },
     ]
     const [clickListenToday, setClickListenToday] = useState(true);
@@ -73,15 +83,19 @@ const Header = () => {
             id: 1,
             name: 'BXH NCT',
             icon: <BiBarChart />,
-            link: '/search'
+            link: '/rank',
+            color: 'rgba(244,246,248,0.9)',
         },
         {
             id: 2,
             name: 'Music 4U',
             icon: <TbHeartHandshake />,
-            link: '/'
+            link: '/',
+            color: 'rgba(244,246,248,0.9)',
         },
     ]
+    const [color, setColor] = useState('rgba(244,246,248,0.9)');
+    const router = useRouter();
     return(
         <Box
             sx={{
@@ -111,27 +125,33 @@ const Header = () => {
                     alignItems: 'center',
                 }}
             >
-                <Box as='h5' sx={{ color: 'rgba(244,246,248,0.88)', fontSize: '15px',cursor: 'pointer'}}>Đăng nhập</Box>&ensp;
+                <Box as='h5' sx={{ color: 'rgba(244,246,248,0.9)', fontSize: '15px',cursor: 'pointer', ":hover":{ color: '#c2c6ca'}}}>Đăng nhập</Box>&ensp;
                 <Box sx={{ color: 'rgba(244,246,248,0.88)'}}>|</Box>&ensp;
-                <Box as='h5' sx={{ color: 'rgba(244,246,248,0.88)', fontSize: '15px', cursor: 'pointer'}}>Đăng kí</Box>
+                <Box as='h5' sx={{ color: 'rgba(244,246,248,0.88)', fontSize: '15px', cursor: 'pointer',":hover":{ color: '#c2c6ca'} }}>Đăng kí</Box>
             </Flex>
             <Flex sx={{ flexDirection: 'column', margin: '20px 20px auto'}}>
                 {categories.map(item => {
+                    if(router.pathname == item?.link){
+                        item.color = '#28b1f4';
+                    }
                     return(
                         <Flex 
                             key={item.id}
                             sx={{
                                 marginTop: '20px'
                             }}
+                            onClick={() => {
+                                router.push(item?.link)
+                            }}
                         >
                             <Box
                                 sx={{
                                     position: "relative",
                                     top: "2px",
-                                    color: "white",
+                                    color: item.color,
                                 }}
                             >{item.icon}</Box>
-                            <Box as='h5' sx={{ color: 'rgba(244,246,248,0.88)', fontSize: '15px',cursor: 'pointer', marginLeft: '15px'}}>{item.name}</Box>
+                            <Box as='h5' sx={{ color: item.color, fontSize: '15px',cursor: 'pointer', marginLeft: '15px', ":hover":{ color: '#c2c6ca'}}}>{item.name}</Box>
                         </Flex>
                     );
                 })}
@@ -140,24 +160,24 @@ const Header = () => {
                         sx={{
                             position: "relative",
                             top: "1px",
-                            color: "white",
+                            color: "rgba(244,246,248,0.9)",
                         }}
                     >
                         <AiOutlineCompass />
                     </Box>
-                    <Box as='h5' sx={{ color: 'rgba(244,246,248,0.88)', fontSize: '15px',cursor: 'pointer', marginLeft: '15px'}} onClick={handleClickDiscover}>Khám phá</Box>
+                    <Box as='h5' sx={{ color: 'rgba(244,246,248,0.88)', fontSize: '15px',cursor: 'pointer', marginLeft: '15px', ":hover":{ color: '#c2c6ca'}}} onClick={handleClickDiscover}>Khám phá</Box>
                     {clickDiscover ? 
                         <Box>
-                            <BsArrowUpShort style= {{ position: "relative", top: "2px", color: 'white', marginLeft: '37px'}}/>
+                            <BsArrowUpShort style= {{ position: "relative", top: "2px", color: 'rgba(244,246,248,0.9)', marginLeft: '37px'}}/>
                         </Box>:
                         <Box>
-                            <BsArrowDownShort style= {{ position: "relative", top: "2px", color: 'white', marginLeft: '37px'}}/>
+                            <BsArrowDownShort style= {{ position: "relative", top: "2px", color: 'rgba(244,246,248,0.9)', marginLeft: '37px'}}/>
                         </Box>}
                     {clickDiscover && <Flex sx={{ position: 'absolute', flexDirection: 'column', marginTop: '20px'}}>
                         {categoriesDiscover.map(item => {
                             return(
                                 <Flex key={item.id}>
-                                    <Box as='h6' sx={{ color: 'rgba(244,246,248,0.88)', fontSize: '13px',cursor: 'pointer', marginTop: '20px', marginLeft: '40px'}}>{item.name}</Box>
+                                    <Box as='h6' sx={{ color: 'rgba(244,246,248,0.88)', fontSize: '13px',cursor: 'pointer', marginTop: '20px', marginLeft: '40px', ":hover":{ color: '#c2c6ca'}}}>{item.name}</Box>
                                 </Flex>
                             );
                         })}
@@ -168,24 +188,24 @@ const Header = () => {
                         sx={{
                             position: "relative",
                             top: "1px",
-                            color: "white",
+                            color: "rgba(244,246,248,0.9)",
                         }}
                     >
                         <BsHeadset />
                     </Box>
-                    <Box as='h5' sx={{ color: 'rgba(244,246,248,0.88)', fontSize: '15px',cursor: 'pointer', marginLeft: '15px'}} onClick={handleClickListenToday}>Topic hôm nay</Box>
+                    <Box as='h5' sx={{ color: 'rgba(244,246,248,0.88)', fontSize: '15px',cursor: 'pointer', marginLeft: '15px', ":hover":{ color: '#c2c6ca'}}} onClick={handleClickListenToday}>Topic hôm nay</Box>
                     {clickListenToday ? 
                         <Box>
-                            <BsArrowDownShort style= {{ position: "relative", top: "2px", color: 'white', marginLeft: '5px'}}/>
+                            <BsArrowDownShort style= {{ position: "relative", top: "2px", color: 'rgba(244,246,248,0.9)', marginLeft: '5px'}}/>
                         </Box>:
                         <Box>
-                            <BsArrowUpShort style= {{ position: "relative", top: "2px", color: 'white',  marginLeft: '5px'}}/>
+                            <BsArrowUpShort style= {{ position: "relative", top: "2px", color: 'rgba(244,246,248,0.9)',  marginLeft: '5px'}}/>
                         </Box>}
                     {clickListenToday && <Flex sx={{ position: 'absolute', flexDirection: 'column', marginTop: '20px'}}>
                         {categoriesListenToday.map(item => {
                             return(
                                 <Flex key={item.id}>
-                                    <Box as='h6' sx={{ color: 'rgba(244,246,248,0.88)', fontSize: '13px',cursor: 'pointer', marginTop: '20px', marginLeft: '40px'}}>{item.name}</Box>
+                                    <Box as='h6' sx={{ color: 'rgba(244,246,248,0.88)', fontSize: '13px',cursor: 'pointer', marginTop: '20px', marginLeft: '40px', ":hover":{ color: '#c2c6ca'}}}>{item.name}</Box>
                                 </Flex>
                             );
                         })}
@@ -204,7 +224,7 @@ const Header = () => {
                                     sx={{
                                         position: "relative",
                                         top: "2px",
-                                        color: "white",
+                                        color: "rgba(244,246,248,0.9)",
                                     }}
                                 >{item.icon}</Box>
                                 <Box as='h5' sx={{ color: 'rgba(244,246,248,0.88)', fontSize: '15px',cursor: 'pointer', marginLeft: '15px'}}>{item.name}</Box>

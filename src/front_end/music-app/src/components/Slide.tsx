@@ -20,7 +20,7 @@ const Slide = ( { dataSlide }:DataSlide) => {
     return(
         <Box
             sx={{
-                margin: '10px 330px 10px 210px',
+                margin: '10px 320px 10px 210px',
                 "@media only screen and (max-width: 1260px)": {
                     margin: '10px 0px 10px 210px',
                 }

@@ -1,5 +1,5 @@
 from django.contrib import admin
-from .models import Songs, Artists
+from .models import Songs, Artists, SongRanking
 
 
 # Register your models here.
@@ -17,3 +17,11 @@ class Artists(admin.ModelAdmin):
 
 
 admin.register(Artists)
+
+
+@admin.register(SongRanking)
+class SongRanking(admin.ModelAdmin):
+    list_display = ["song", "ranking", "week"]
+
+
+admin.register(SongRanking)

@@ -41,7 +41,7 @@ INSTALLED_APPS = [
     'guardian',
     'show_case_home',
     'topic_event_home',
-    'new_releases'
+    'new_releases',
 ]
 
 MIDDLEWARE = [

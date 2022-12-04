@@ -52,3 +52,15 @@ class Artists(BaseModel):
 
     def __str__(self):
         return self.name
+
+
+class SongRanking(BaseModel):
+    class Meta:
+        ordering = ['created_at']
+
+    song = models.ForeignKey(Songs, on_delete=models.CASCADE)
+    ranking = models.IntegerField(null=True)
+    week = models.IntegerField()  # 1 -> 52
+
+    def __str__(self):
+        return self.song.title

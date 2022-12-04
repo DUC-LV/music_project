@@ -12,4 +12,30 @@ export interface DataTopicEvent {
     key: string;
     title:string;
     thumbnail: string;
+    dateRelease: string;
+    dateCreate: string;
+    dataArtists: [
+        artistId: string,
+        imageUrl: string,
+        name: string,
+        shortLink: string,
+    ]
+}
+export interface DataRanking {
+    key: string;
+    title:string;
+    thumbnail: string;
+    dateRelease: string;
+    dateCreate: string;
+    highestPosition: string;
+    dataArtists: [
+        artistId: string,
+        imageUrl: string,
+        name: string,
+        shortLink: string,
+    ]
+}
+export const getFullTimeFromDatetime = (dt: string) => {
+    const datetime = new Date(dt);
+    return `${datetime.getDate()}/${datetime.getMonth() + 1}/${datetime.getFullYear()}`
 }

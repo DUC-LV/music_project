@@ -45,7 +45,7 @@ const SlideShow = ({ dataSlide, groupName }:DataSlide) => {
     return(
         <Box
             sx={{
-                margin: '0px 320px 0px 210px',
+                margin: '0px 310px 0px 210px',
                 "@media only screen and (max-width: 1260px)": {
                     margin: '0px 0px 0px 210px',
                 },
@@ -54,7 +54,7 @@ const SlideShow = ({ dataSlide, groupName }:DataSlide) => {
                 },
             }}
         >
-            <Box as="h3" sx={{ color: 'white', mt: '20px'}}>{groupName}</Box>
+            <Box as="h3" sx={{ color: 'rgba(244,246,248,0.9)', mt: '20px'}}>{groupName}</Box>
             <Slider {...settings}>
                 {dataSlide?.map((item, index:any) => {
                         return(
@@ -85,7 +85,7 @@ const SlideShow = ({ dataSlide, groupName }:DataSlide) => {
                                 as="h5" 
                                 sx={{ 
                                     textAlign: 'center', 
-                                    color: 'white', 
+                                    color: 'rgba(244,246,248,0.9)', 
                                     width: '94%', 
                                     mt: '10px', 
                                     cursor: 'pointer', 
