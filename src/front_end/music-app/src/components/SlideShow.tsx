@@ -1,12 +1,12 @@
 import React from "react";
 import { Box, Image, Text } from "theme-ui";
-import { DataTopicEvent } from "../untils";
+import { DataShowCase } from "../untils";
 import Slider from "react-slick";
 import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css";
 interface DataSlide {
     groupName: string;
-    dataSlide: DataTopicEvent[] | undefined;
+    dataSlide: DataShowCase[] | undefined;
 }
 
 const SlideShow = ({ dataSlide, groupName }:DataSlide) => {

@@ -55,14 +55,14 @@ const RankingHome = ({ dataSlide, title }: DataSlide) => {
                                 />
                                 <Text sx={{ ml: '10px', display: 'flex', justifyContent: 'center', alignItems: 'center', color: 'rgba(244,246,248,0.9)',}}>{item?.title}</Text>
                             </Flex>
-                            <Flex sx={{ cursor: 'pointer'}}>
+                            <Flex sx={{ cursor: 'pointer', mt: '18px'}}>
                                 {item?.dataArtists?.map((item:any, index:any) => {
                                     return(
                                         <Text key={index} sx={{display: 'flex', justifyContent: 'center', alignItems: 'center', color: 'rgba(244,246,248,0.9)',}}>{item?.name}</Text>
                                     );
                                 })}
                             </Flex>
-                            <Text sx={{display: 'flex', justifyContent: 'center', alignItems: 'center', color: 'rgba(244,246,248,0.9)',}}>{item?.dateCreate}</Text>
+                            <Text sx={{display: 'flex', justifyContent: 'center', alignItems: 'center', color: 'rgba(244,246,248,0.9)',mt: '18px'}}>{item?.dateCreate}</Text>
                         </Grid>
                     )
                 })}

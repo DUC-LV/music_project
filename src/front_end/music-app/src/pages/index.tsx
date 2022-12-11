@@ -1,10 +1,11 @@
-import { GetServerSideProps } from "next";
+// import { GetServerSideProps } from "next";
 import React, { useEffect, useState } from "react";
 import { Box } from "theme-ui";
 import NewReleases from "../components/NewReleases";
 import RankingHome from "../components/RankHome";
 import Slide from "../components/Slide";
 import SlideShow from "../components/SlideShow";
+import getListTopic from "../service/getListTopic";
 import getNewReleases from "../service/getNewReleases";
 import getRankingHome from "../service/getRankingHome";
 import getShowCaseHome from "../service/getShowCaseHome";
@@ -27,7 +28,8 @@ const Home = () => {
     const [dataShowCase, setDataShowCase] = useState<Array<DataShowCase>>();
     const [dataTopicEvent, setDataTopicEvent] = useState<Array<DataTopicEvent>>();
     const [dataNewReleases, setDataNewReleases] = useState<Array<DataTopicEvent>>();
-    const [dataRanking, setDataRanking] = useState<Array<DataRanking>>()
+    const [dataRanking, setDataRanking] = useState<Array<DataRanking>>();
+    const [dataListTopic, setDataListTopic] = useState<Array<DataShowCase>>();
     useEffect(() => {
         getShowCaseHome.getAll().then((res:any) => {
             setDataShowCase(res.data.data)
@@ -39,8 +41,10 @@ const Home = () => {
             setDataNewReleases(res.data)
         })
         getRankingHome.getAll().then((res:any) => {
-            console.log(res.data);
             setDataRanking(res.data);
+        })
+        getListTopic.getAll().then((res:any) => {
+            setDataListTopic(res.data.data)
         })
         .catch((err:any) => {
             console.log(err.message)
@@ -115,6 +119,21 @@ const Home = () => {
                                 shortLink: item?.shortLink,
                             }
                         })
+                    }
+                })}
+            />
+            <SlideShow
+                groupName="Chủ đề HOT"
+                dataSlide = {dataListTopic?.map((items:any) => {
+                    return {
+                        title: items?.title,
+                        key: items?.key,
+                        thumbnail: items?.thumbnail,
+                        url: "",
+                        description: "",
+                        order: "",
+                        imageUrl:""
+
                     }
                 })}
             />

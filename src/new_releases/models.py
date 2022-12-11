@@ -20,6 +20,10 @@ class BaseModel(models.Model):
     def encode_hash_id(cls, from_id):
         return cls._HASH_IDS.encode(from_id)
 
+    @classmethod
+    def decode_hash_id(cls, from_id):
+        return cls._HASH_IDS.decode(from_id)[0]
+
     def get_hash_id(self):
         return self.encode_hash_id(self.id)
 

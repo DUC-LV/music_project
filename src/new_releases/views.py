@@ -87,11 +87,12 @@ class GetRankingNCT(View):
 
 
 class GetDetailNewReleases(View):
-    def get(self, request, id):
-        list_song = Songs.objects.filter(id=id)
-        if not list_song.exists():
+    def get(self, request, hash_id):
+        song_id = Songs.decode_hash_id(hash_id)
+        print(song_id)
+        song = Songs.objects.filter(id=song_id).first()
+        if song is None:
             return HttpResponse(status=404)
-        list_song = list_song[0]
         if request.method == 'GET':
-            serializer = SongsSerializers(list_song)
+            serializer = SongsSerializers(song)
             return JsonResponse(serializer.data)
