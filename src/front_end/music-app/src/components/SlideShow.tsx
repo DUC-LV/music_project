@@ -1,15 +1,18 @@
 import React from "react";
 import { Box, Image, Text } from "theme-ui";
-import { DataShowCase } from "../untils";
+import { convertSlug, DataShowCase } from "../untils";
 import Slider from "react-slick";
 import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css";
+import { useRouter } from "next/router";
 interface DataSlide {
     groupName: string;
     dataSlide: DataShowCase[] | undefined;
+    pathnameUrl: string;
+    pathnameSlug:string;
 }
 
-const SlideShow = ({ dataSlide, groupName }:DataSlide) => {
+const SlideShow = ({ dataSlide, groupName, pathnameUrl, pathnameSlug }:DataSlide) => {
     const settings = {
 		infinite: true,
 		slidesToShow: 6,
@@ -42,6 +45,7 @@ const SlideShow = ({ dataSlide, groupName }:DataSlide) => {
 
         ]
 	}
+    const router = useRouter();
     return(
         <Box
             sx={{
@@ -59,7 +63,15 @@ const SlideShow = ({ dataSlide, groupName }:DataSlide) => {
                 {dataSlide?.map((item, index:any) => {
                         return(
                             // eslint-disable-next-line react/jsx-key
-                            <Box key={index}>
+                            <Box key={index}
+                                onClick={() => router.push({
+                                    pathname: `${pathnameUrl}/[${pathnameSlug}]`,
+                                    query: {
+                                        [`${pathnameSlug}`]: convertSlug(item.title),
+                                        "key": item.key,
+                                    }
+                                }) }
+                            >
                                 <Box
                                     sx={{
                                         mt: '15px',

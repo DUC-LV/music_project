@@ -42,7 +42,10 @@ INSTALLED_APPS = [
     'show_case_home',
     'topic_event_home',
     'new_releases',
-    'topic'
+    'topic',
+    'top_100',
+    'playlist_detail',
+    'mptt'
 ]
 
 MIDDLEWARE = [

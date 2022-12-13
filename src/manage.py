@@ -1,5 +1,5 @@
 #!/usr/bin/env python
-"""Django's command-line utility for administrative tasks."""
+"""Django's commandw-line utility for administrative tasks."""
 import os
 import sys
 

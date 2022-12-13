@@ -22,6 +22,10 @@ class BaseModel(models.Model):
     def encode_hash_id(cls, from_id):
         return cls._HASH_IDS.encode(from_id)
 
+    @classmethod
+    def decode_hash_id(cls, from_id):
+        return cls._HASH_IDS.decode(from_id)[0]
+
     def get_hash_id(self):
         return self.encode_hash_id(self.id)
 
@@ -49,7 +53,7 @@ class ListPlaylists(BaseModel):
     topic_event = models.ForeignKey(TopicEvents, on_delete=models.CASCADE)
 
     def duration_to_string(self):
-        return  duration_string(self.duration)
+        return duration_string(self.duration)
 
     def __str__(self):
         return self.title

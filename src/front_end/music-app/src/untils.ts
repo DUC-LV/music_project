@@ -39,3 +39,6 @@ export const getFullTimeFromDatetime = (dt: string) => {
     const datetime = new Date(dt);
     return `${datetime.getDate()}/${datetime.getMonth() + 1}/${datetime.getFullYear()}`
 }
+export const convertSlug = (TXT:string) => {
+    return TXT.toLowerCase().replace(/ /g,'-').replace(/[^\w-]+/g,'')
+}

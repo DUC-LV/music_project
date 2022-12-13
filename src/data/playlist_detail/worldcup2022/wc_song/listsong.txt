@@ -1,0 +1,1117 @@
+{
+  "status": "success",
+  "playlist": {
+    "key": "UnhxV1eGioPi",
+    "title": "World Cup Songs & Anthems",
+    "thumbnail": "https://avatar-ex-swe.nixcdn.com/playlist/2022/11/22/0/b/6/6/1669106431421_300.jpg",
+    "duration": "00:00",
+    "artists": [
+      {
+        "artistId": 8248,
+        "name": "V.A",
+        "shortLink": "va",
+        "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2020/08/18/e/4/e/c/1597723219000_300.jpg"
+      }
+    ],
+    "type": "PLAYLIST",
+    "dateRelease": 0,
+    "dateCreate": 1669106431090,
+    "uploadBy": {
+      "userName": "tidebui",
+      "fullName": "tidebui",
+      "avatarUrl": "https://avatar-ex-swe.nixcdn.com/avatar/2022/08/23/b/8/3/d/1661244177645.jpg"
+    },
+    "provider": null,
+    "refMapping": [],
+    "genreKey": "pl-au-my-khac",
+    "songs": [
+      {
+        "key": "w1D8uDIV8rAS",
+        "title": "The Official FIFA World Cup Qatar 2022™ Theme",
+        "thumbnail": "https://avatar-ex-swe.nixcdn.com/song/2022/10/31/8/3/d/0/1667183005718_300.jpg",
+        "duration": "01:52",
+        "artists": [
+          {
+            "artistId": 494917,
+            "name": "FIFA Sound",
+            "shortLink": null,
+            "imageUrl": null
+          }
+        ],
+        "type": "SONG",
+        "dateRelease": 1666890000000,
+        "dateCreate": 1667183005266,
+        "uploadBy": {
+          "userName": "warner_music",
+          "fullName": "WARNER MUSIC",
+          "avatarUrl": ""
+        },
+        "provider": {
+          "name": "WARNER RECORDED MUSIC",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/provider/2020/11/12/e/2/a/c/1605147272711.jpg"
+        },
+        "isMyPlaylist": false,
+        "statusViewValue": 1,
+        "statusPlayValue": 1,
+        "statusDownloadValue": 0,
+        "statusAddPlaylistValue": 0,
+        "refMapping": [],
+        "genreKey": "s_us_other",
+        "streamUrls": [],
+        "description": "Ca khúc The Official FIFA World Cup Qatar 2022™ Theme do ca sĩ FIFA Sound thể hiện, thuộc thể loại Âu Mỹ khác. Các bạn có thể nghe, download (tải nhạc) bài hát The Official FIFA World Cup Qatar 2022™ Theme   mp3, playlist/album, MV/Video The Official FIFA World Cup Qatar 2022™ Theme miễn phí tại NhacCuaTui.com."
+      },
+      {
+        "key": "bapNZ8vgbh30",
+        "title": "Unity (The Official Fifa Women’s World Cup 2023™)",
+        "thumbnail": "https://avatar-ex-swe.nixcdn.com/song/2022/11/21/4/f/d/3/1669004358921_300.jpg",
+        "duration": "01:48",
+        "artists": [
+          {
+            "artistId": 494922,
+            "name": "Kelly Lee Owens",
+            "shortLink": null,
+            "imageUrl": null
+          }
+        ],
+        "type": "SONG",
+        "dateRelease": 0,
+        "dateCreate": 0,
+        "uploadBy": {
+          "userName": "lanquyen89",
+          "fullName": "lanquyen89",
+          "avatarUrl": ""
+        },
+        "provider": null,
+        "isMyPlaylist": false,
+        "statusViewValue": 1,
+        "statusPlayValue": 1,
+        "statusDownloadValue": 2,
+        "statusAddPlaylistValue": 0,
+        "refMapping": [],
+        "genreKey": "s-pop",
+        "streamUrls": [],
+        "description": "Ca khúc Unity (The Official Fifa Women’s World Cup 2023™) do ca sĩ Kelly Lee Owens thể hiện, thuộc thể loại Pop. Các bạn có thể nghe, download (tải nhạc) bài hát Unity (The Official Fifa Women’s World Cup 2023™)   mp3, playlist/album, MV/Video Unity (The Official Fifa Women’s World Cup 2023™) miễn phí tại NhacCuaTui.com."
+      },
+      {
+        "key": "qe3yIHpsUPM1",
+        "title": "Arhbo (Fifa World Cup 2022™ Official Soundtrack)",
+        "thumbnail": "https://avatar-ex-swe.nixcdn.com/song/2022/11/24/0/7/f/d/1669284879828_300.jpg",
+        "duration": "03:46",
+        "artists": [
+          {
+            "artistId": 176872,
+            "name": "Ozuna",
+            "shortLink": null,
+            "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2017/02/23/5/c/a/2/1487836226281_300.jpg"
+          },
+          {
+            "artistId": 320690,
+            "name": "Gims",
+            "shortLink": null,
+            "imageUrl": null
+          },
+          {
+            "artistId": 69493,
+            "name": "Red One",
+            "shortLink": null,
+            "imageUrl": null
+          }
+        ],
+        "type": "SONG",
+        "dateRelease": 0,
+        "dateCreate": 0,
+        "uploadBy": {
+          "userName": "lanquyen89",
+          "fullName": "lanquyen89",
+          "avatarUrl": ""
+        },
+        "provider": null,
+        "isMyPlaylist": false,
+        "statusViewValue": 1,
+        "statusPlayValue": 1,
+        "statusDownloadValue": 2,
+        "statusAddPlaylistValue": 0,
+        "refMapping": [],
+        "genreKey": "s-latin",
+        "streamUrls": [],
+        "description": "Ca khúc Arhbo (Fifa World Cup 2022™ Official Soundtrack) do ca sĩ OzunaGims, Red One,  thể hiện, thuộc thể loại Latin. Các bạn có thể nghe, download (tải nhạc) bài hát Arhbo (Fifa World Cup 2022™ Official Soundtrack)   mp3, playlist/album, MV/Video Arhbo (Fifa World Cup 2022™ Official Soundtrack) miễn phí tại NhacCuaTui.com."
+      },
+      {
+        "key": "VsxJBIAvbC44",
+        "title": "Dreamers (Music From The FIFA World Cup Qatar 2022 Official Soundtrack)",
+        "thumbnail": "https://avatar-ex-swe.nixcdn.com/song/2022/11/20/d/8/8/7/1668950510671_300.jpg",
+        "duration": "03:21",
+        "artists": [
+          {
+            "artistId": 171304,
+            "name": "Jung Kook (BTS)",
+            "shortLink": null,
+            "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2017/06/15/4/7/e/5/1497518838276_300.jpg"
+          },
+          {
+            "artistId": 494917,
+            "name": "FIFA Sound",
+            "shortLink": null,
+            "imageUrl": null
+          }
+        ],
+        "type": "SONG",
+        "dateRelease": 0,
+        "dateCreate": 0,
+        "uploadBy": {
+          "userName": "josievu518",
+          "fullName": "josievu518",
+          "avatarUrl": ""
+        },
+        "provider": null,
+        "isMyPlaylist": false,
+        "statusViewValue": 1,
+        "statusPlayValue": 1,
+        "statusDownloadValue": 2,
+        "statusAddPlaylistValue": 0,
+        "refMapping": [],
+        "genreKey": "s-pop",
+        "streamUrls": [],
+        "description": "Ca khúc Dreamers (Music From The FIFA World Cup Qatar 2022 Official Soundtrack) do ca sĩ Jung Kook (BTS)FIFA Sound,  thể hiện, thuộc thể loại Pop. Các bạn có thể nghe, download (tải nhạc) bài hát Dreamers (Music From The FIFA World Cup Qatar 2022 Official Soundtrack)   mp3, playlist/album, MV/Video Dreamers (Music From The FIFA World Cup Qatar 2022 Official Soundtrack) miễn phí tại NhacCuaTui.com."
+      },
+      {
+        "key": "uGHaZKQeGjNm",
+        "title": "Tukoh Taka (Official Fifa Fan Festival™ Anthem)",
+        "thumbnail": "https://avatar-ex-swe.nixcdn.com/song/2022/11/21/4/f/d/3/1669002772512_300.jpg",
+        "duration": "02:58",
+        "artists": [
+          {
+            "artistId": 50509,
+            "name": "Nicki Minaj",
+            "shortLink": "nicki-minaj",
+            "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2016/01/25/4/1/1/7/1453716892906_300.jpg"
+          },
+          {
+            "artistId": 121301,
+            "name": "Maluma",
+            "shortLink": "maluma",
+            "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2020/10/06/6/4/6/0/1601952478552_300.jpg"
+          }
+        ],
+        "type": "SONG",
+        "dateRelease": 0,
+        "dateCreate": 0,
+        "uploadBy": {
+          "userName": "lanquyen89",
+          "fullName": "lanquyen89",
+          "avatarUrl": ""
+        },
+        "provider": null,
+        "isMyPlaylist": false,
+        "statusViewValue": 1,
+        "statusPlayValue": 1,
+        "statusDownloadValue": 2,
+        "statusAddPlaylistValue": 0,
+        "refMapping": [],
+        "genreKey": "s-pop",
+        "streamUrls": [],
+        "description": "Ca khúc Tukoh Taka (Official Fifa Fan Festival™ Anthem) do ca sĩ Nicki MinajMaluma,  thể hiện, thuộc thể loại Pop. Các bạn có thể nghe, download (tải nhạc) bài hát Tukoh Taka (Official Fifa Fan Festival™ Anthem)   mp3, playlist/album, MV/Video Tukoh Taka (Official Fifa Fan Festival™ Anthem) miễn phí tại NhacCuaTui.com."
+      },
+      {
+        "key": "5HfenUGmze8f",
+        "title": "Hayya Hayya (Better Together) (Music From The Fifa World Cup Qatar 2022 Official Soundtrack) (Spanish Ver)",
+        "thumbnail": "https://avatar-ex-swe.nixcdn.com/song/2022/11/21/4/f/d/3/1669003131937_300.jpg",
+        "duration": "03:26",
+        "artists": [
+          {
+            "artistId": 227527,
+            "name": "Trinidad Cardona",
+            "shortLink": null,
+            "imageUrl": null
+          },
+          {
+            "artistId": 318738,
+            "name": "Davido",
+            "shortLink": null,
+            "imageUrl": null
+          },
+          {
+            "artistId": 71575,
+            "name": "Aisha",
+            "shortLink": null,
+            "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2022/06/11/7/c/e/b/1654966640827_300.jpg"
+          }
+        ],
+        "type": "SONG",
+        "dateRelease": 0,
+        "dateCreate": 0,
+        "uploadBy": {
+          "userName": "lanquyen89",
+          "fullName": "lanquyen89",
+          "avatarUrl": ""
+        },
+        "provider": null,
+        "isMyPlaylist": false,
+        "statusViewValue": 1,
+        "statusPlayValue": 1,
+        "statusDownloadValue": 2,
+        "statusAddPlaylistValue": 0,
+        "refMapping": [],
+        "genreKey": "s-pop",
+        "streamUrls": [],
+        "description": "Ca khúc Hayya Hayya (Better Together) (Music From The Fifa World Cup Qatar 2022 Official Soundtrack) (Spanish Ver) do ca sĩ Trinidad CardonaDavido, Aisha,  thể hiện, thuộc thể loại Pop. Các bạn có thể nghe, download (tải nhạc) bài hát Hayya Hayya (Better Together) (Music From The Fifa World Cup Qatar 2022 Official Soundtrack) (Spanish Ver)   mp3, playlist/album, MV/Video Hayya Hayya (Better Together) (Music From The Fifa World Cup Qatar 2022 Official Soundtrack) (Spanish Ver) miễn phí tại NhacCuaTui.com."
+      },
+      {
+        "key": "ACXxeEHnwDz8",
+        "title": "Boomba Way (FIFA World Cup Anthem 2022)",
+        "thumbnail": "https://avatar-ex-swe.nixcdn.com/song/2022/11/17/0/5/b/e/1668690132160_300.jpg",
+        "duration": "03:09",
+        "artists": [
+          {
+            "artistId": 494918,
+            "name": "Moin G",
+            "shortLink": null,
+            "imageUrl": null
+          },
+          {
+            "artistId": 494919,
+            "name": "Ahmed Muneef",
+            "shortLink": null,
+            "imageUrl": null
+          }
+        ],
+        "type": "SONG",
+        "dateRelease": 1668445200000,
+        "dateCreate": 1668690131078,
+        "uploadBy": {
+          "userName": "believe_music",
+          "fullName": "BELIEVE MUSIC",
+          "avatarUrl": ""
+        },
+        "provider": {
+          "name": "BELIEVE MUSIC",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/provider/2020/12/08/6/1/f/9/1607396500140.jpg"
+        },
+        "isMyPlaylist": false,
+        "statusViewValue": 1,
+        "statusPlayValue": 1,
+        "statusDownloadValue": 0,
+        "statusAddPlaylistValue": 0,
+        "refMapping": [],
+        "genreKey": "s-pop",
+        "streamUrls": [],
+        "description": "Ca khúc Boomba Way (FIFA World Cup Anthem 2022) do ca sĩ Moin GAhmed Muneef,  thể hiện, thuộc thể loại Pop. Các bạn có thể nghe, download (tải nhạc) bài hát Boomba Way (FIFA World Cup Anthem 2022)   mp3, playlist/album, MV/Video Boomba Way (FIFA World Cup Anthem 2022) miễn phí tại NhacCuaTui.com."
+      },
+      {
+        "key": "Z1nzDK7Vybzy",
+        "title": "Live It Up (Official Song 2018 FIFA World Cup Russia)",
+        "thumbnail": "https://avatar-ex-swe.nixcdn.com/song/2018/05/24/7/6/b/4/1527177982722_300.jpg",
+        "duration": "03:28",
+        "artists": [
+          {
+            "artistId": 28805,
+            "name": "Nicky Jam",
+            "shortLink": "Nicky-Jam",
+            "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2016/04/28/9/a/5/b/1461818429069_300.jpg"
+          },
+          {
+            "artistId": 7890,
+            "name": "Will Smith",
+            "shortLink": "will-smith",
+            "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2016/01/25/4/1/1/7/1453717707207_300.jpg"
+          },
+          {
+            "artistId": 207497,
+            "name": "Era Istrefi",
+            "shortLink": null,
+            "imageUrl": null
+          }
+        ],
+        "type": "SONG",
+        "dateRelease": 1527181200000,
+        "dateCreate": 1527177980722,
+        "uploadBy": {
+          "userName": "lee_00",
+          "fullName": "Truong Ba Quynh Chi",
+          "avatarUrl": ""
+        },
+        "provider": {
+          "name": "SONY MUSIC",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/provider/2020/02/13/8/d/9/4/1581563932392.jpg"
+        },
+        "isMyPlaylist": false,
+        "statusViewValue": 1,
+        "statusPlayValue": 1,
+        "statusDownloadValue": 0,
+        "statusAddPlaylistValue": 0,
+        "refMapping": [
+          {
+            "refKey": "uQE4nzMnUGIqi",
+            "refType": "VIDEO"
+          }
+        ],
+        "genreKey": "s-pop",
+        "streamUrls": [],
+        "description": "Ca khúc Live It Up (Official Song 2018 FIFA World Cup Russia) do ca sĩ Nicky JamWill Smith, Era Istrefi,  thể hiện, thuộc thể loại Pop. Các bạn có thể nghe, download (tải nhạc) bài hát Live It Up (Official Song 2018 FIFA World Cup Russia)   mp3, playlist/album, MV/Video Live It Up (Official Song 2018 FIFA World Cup Russia) miễn phí tại NhacCuaTui.com."
+      },
+      {
+        "key": "8hwtFKnh9ZFN",
+        "title": "One World (2018 FIFA World Cup Russia)",
+        "thumbnail": "https://avatar-ex-swe.nixcdn.com/song/2018/06/03/c/b/6/6/1528013318296_300.jpg",
+        "duration": "03:48",
+        "artists": [
+          {
+            "artistId": 76515,
+            "name": "RedOne",
+            "shortLink": "redone",
+            "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2016/08/27/0/3/0/1/1472316491537_300.jpg"
+          },
+          {
+            "artistId": 266354,
+            "name": "Adelina",
+            "shortLink": null,
+            "imageUrl": null
+          },
+          {
+            "artistId": 266355,
+            "name": "Now United",
+            "shortLink": null,
+            "imageUrl": null
+          }
+        ],
+        "type": "SONG",
+        "dateRelease": 0,
+        "dateCreate": 0,
+        "uploadBy": {
+          "userName": "lee_00",
+          "fullName": "Truong Ba Quynh Chi",
+          "avatarUrl": ""
+        },
+        "provider": null,
+        "isMyPlaylist": false,
+        "statusViewValue": 1,
+        "statusPlayValue": 1,
+        "statusDownloadValue": 3,
+        "statusAddPlaylistValue": 0,
+        "refMapping": [
+          {
+            "refKey": "ZsD9DOtIyPDZr",
+            "refType": "VIDEO"
+          }
+        ],
+        "genreKey": "s-pop",
+        "streamUrls": [],
+        "description": "Ca khúc One World (2018 FIFA World Cup Russia) do ca sĩ RedOneAdelina, Now United,  thể hiện, thuộc thể loại Pop. Các bạn có thể nghe, download (tải nhạc) bài hát One World (2018 FIFA World Cup Russia)   mp3, playlist/album, MV/Video One World (2018 FIFA World Cup Russia) miễn phí tại NhacCuaTui.com."
+      },
+      {
+        "key": "1YOKUPE513Lw",
+        "title": "Team 2018 (Official Song Of The World Cup 2018)",
+        "thumbnail": "https://avatar-ex-swe.nixcdn.com/song/2018/06/08/3/2/5/b/1528427094854_300.jpg",
+        "duration": "03:40",
+        "artists": [
+          {
+            "artistId": 88769,
+            "name": "DJ Smash",
+            "shortLink": null,
+            "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2018/06/08/9/7/a/1/1528427603474_300.jpg"
+          },
+          {
+            "artistId": 40149,
+            "name": "Polina Gagarina",
+            "shortLink": null,
+            "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2016/04/28/9/a/5/b/1461818309008_300.jpg"
+          },
+          {
+            "artistId": 198705,
+            "name": "Egor Krid",
+            "shortLink": null,
+            "imageUrl": null
+          }
+        ],
+        "type": "SONG",
+        "dateRelease": 0,
+        "dateCreate": 0,
+        "uploadBy": {
+          "userName": "minhnguyenkhoa",
+          "fullName": "MusicBooster",
+          "avatarUrl": ""
+        },
+        "provider": null,
+        "isMyPlaylist": false,
+        "statusViewValue": 1,
+        "statusPlayValue": 1,
+        "statusDownloadValue": 3,
+        "statusAddPlaylistValue": 0,
+        "refMapping": [
+          {
+            "refKey": "PrXvnZsLNOvC7",
+            "refType": "VIDEO"
+          }
+        ],
+        "genreKey": "s-pop",
+        "streamUrls": [],
+        "description": "Ca khúc Team 2018 (Official Song Of The World Cup 2018) do ca sĩ DJ SmashPolina Gagarina, Egor Krid,  thể hiện, thuộc thể loại Pop. Các bạn có thể nghe, download (tải nhạc) bài hát Team 2018 (Official Song Of The World Cup 2018)   mp3, playlist/album, MV/Video Team 2018 (Official Song Of The World Cup 2018) miễn phí tại NhacCuaTui.com."
+      },
+      {
+        "key": "ZYXuln0qBBAh",
+        "title": "Magic In The Air",
+        "thumbnail": "https://avatar-ex-swe.nixcdn.com/song/2018/06/14/3/a/4/6/1528949616593_300.jpg",
+        "duration": "03:54",
+        "artists": [
+          {
+            "artistId": 89196,
+            "name": "Magic System",
+            "shortLink": null,
+            "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2017/01/24/2/f/7/5/1485225325603_300.jpg"
+          },
+          {
+            "artistId": 154729,
+            "name": "Chawki",
+            "shortLink": null,
+            "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2018/06/28/9/9/e/7/1530172358879_300.jpg"
+          }
+        ],
+        "type": "SONG",
+        "dateRelease": 0,
+        "dateCreate": 0,
+        "uploadBy": {
+          "userName": "vampjrekjng",
+          "fullName": "Vũ Tuấn Ho&agrave;ng",
+          "avatarUrl": ""
+        },
+        "provider": null,
+        "isMyPlaylist": false,
+        "statusViewValue": 1,
+        "statusPlayValue": 1,
+        "statusDownloadValue": 3,
+        "statusAddPlaylistValue": 0,
+        "refMapping": [],
+        "genreKey": "s-pop",
+        "streamUrls": [],
+        "description": "Ca khúc Magic In The Air do ca sĩ Magic SystemChawki,  thể hiện, thuộc thể loại Pop. Các bạn có thể nghe, download (tải nhạc) bài hát Magic In The Air   mp3, playlist/album, MV/Video Magic In The Air miễn phí tại NhacCuaTui.com."
+      },
+      {
+        "key": "3Ow18f2AxvEV",
+        "title": "Dar Um Jeito (We Will Find A Way) (The Official 2014 FIFA World Cup Anthem)",
+        "thumbnail": "https://avatar-ex-swe.nixcdn.com/song/2018/06/14/3/a/4/6/1528949736031_300.jpg",
+        "duration": "03:48",
+        "artists": [
+          {
+            "artistId": 9718,
+            "name": "Santana",
+            "shortLink": "Santana",
+            "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2016/01/25/4/1/1/7/1453718139622_300.jpg"
+          },
+          {
+            "artistId": 15341,
+            "name": "Wyclef Jean",
+            "shortLink": "",
+            "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2016/01/25/4/1/1/7/1453716266024_300.jpg"
+          },
+          {
+            "artistId": 86749,
+            "name": "Avicii",
+            "shortLink": "avicii",
+            "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2017/11/18/7/a/1/0/1510943948217_300.jpg"
+          },
+          {
+            "artistId": 82035,
+            "name": "Alexandre Pires",
+            "shortLink": null,
+            "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2016/04/28/9/a/5/b/1461819039317_300.jpg"
+          }
+        ],
+        "type": "SONG",
+        "dateRelease": 0,
+        "dateCreate": 0,
+        "uploadBy": {
+          "userName": "toptimbot",
+          "fullName": "HUY",
+          "avatarUrl": ""
+        },
+        "provider": null,
+        "isMyPlaylist": false,
+        "statusViewValue": 1,
+        "statusPlayValue": 1,
+        "statusDownloadValue": 3,
+        "statusAddPlaylistValue": 0,
+        "refMapping": [],
+        "genreKey": "s-pop",
+        "streamUrls": [],
+        "description": "Ca khúc Dar Um Jeito (We Will Find A Way) (The Official 2014 FIFA World Cup Anthem) do ca sĩ SantanaWyclef Jean, Avicii, Alexandre Pires,  thể hiện, thuộc thể loại Pop. Các bạn có thể nghe, download (tải nhạc) bài hát Dar Um Jeito (We Will Find A Way) (The Official 2014 FIFA World Cup Anthem)   mp3, playlist/album, MV/Video Dar Um Jeito (We Will Find A Way) (The Official 2014 FIFA World Cup Anthem) miễn phí tại NhacCuaTui.com."
+      },
+      {
+        "key": "sEUcSTF7xxAy",
+        "title": "Sign Of A Victory",
+        "thumbnail": "https://avatar-ex-swe.nixcdn.com/song/2015/09/16/8/2/4/3/1442391876883_300.jpg",
+        "duration": "04:13",
+        "artists": [
+          {
+            "artistId": 22369,
+            "name": "R. Kelly",
+            "shortLink": "",
+            "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2016/01/25/4/1/1/7/1453716514646_300.jpg"
+          },
+          {
+            "artistId": 118558,
+            "name": "Soweto Spiritual Singers",
+            "shortLink": "",
+            "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/0"
+          }
+        ],
+        "type": "SONG",
+        "dateRelease": 0,
+        "dateCreate": 1346345876000,
+        "uploadBy": {
+          "userName": "sonymusic",
+          "fullName": "SONY MUSIC",
+          "avatarUrl": ""
+        },
+        "provider": {
+          "name": "SONY MUSIC",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/provider/2020/02/13/8/d/9/4/1581563932392.jpg"
+        },
+        "isMyPlaylist": false,
+        "statusViewValue": 1,
+        "statusPlayValue": 1,
+        "statusDownloadValue": 0,
+        "statusAddPlaylistValue": 0,
+        "refMapping": [
+          {
+            "refKey": "sYIRGxmVfhcY",
+            "refType": "VIDEO"
+          }
+        ],
+        "genreKey": "s-r-b-hip-hop-rap",
+        "streamUrls": [],
+        "description": "Ca khúc Sign Of A Victory do ca sĩ R. KellySoweto Spiritual Singers,  thể hiện, thuộc thể loại R&B/Hip Hop/Rap. Các bạn có thể nghe, download (tải nhạc) bài hát Sign Of A Victory   mp3, playlist/album, MV/Video Sign Of A Victory miễn phí tại NhacCuaTui.com."
+      },
+      {
+        "key": "MZ5vtQAl350j",
+        "title": "Dare (La La La)",
+        "thumbnail": "https://avatar-ex-swe.nixcdn.com/song/2018/06/13/a/3/e/f/1528853202000_300.jpg",
+        "duration": "03:06",
+        "artists": [
+          {
+            "artistId": 7302,
+            "name": "Shakira",
+            "shortLink": "shakira",
+            "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2016/01/25/4/1/1/7/1453717513341_300.jpg"
+          }
+        ],
+        "type": "SONG",
+        "dateRelease": 1523466000000,
+        "dateCreate": 1395261947944,
+        "uploadBy": {
+          "userName": "sonymusic",
+          "fullName": "SONY MUSIC",
+          "avatarUrl": ""
+        },
+        "provider": {
+          "name": "SONY MUSIC",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/provider/2020/02/13/8/d/9/4/1581563932392.jpg"
+        },
+        "isMyPlaylist": false,
+        "statusViewValue": 1,
+        "statusPlayValue": 1,
+        "statusDownloadValue": 0,
+        "statusAddPlaylistValue": 0,
+        "refMapping": [
+          {
+            "refKey": "JnZE2Srf7cOos",
+            "refType": "VIDEO"
+          }
+        ],
+        "genreKey": "s-pop",
+        "streamUrls": [],
+        "description": "Ca khúc Dare (La La La) do ca sĩ Shakira thể hiện, thuộc thể loại Pop. Các bạn có thể nghe, download (tải nhạc) bài hát Dare (La La La)   mp3, playlist/album, MV/Video Dare (La La La) miễn phí tại NhacCuaTui.com."
+      },
+      {
+        "key": "mWMW0rukfAo3",
+        "title": "C'est La Vie",
+        "thumbnail": "https://avatar-ex-swe.nixcdn.com/song/2018/05/25/f/1/d/6/1527221970756_300.jpg",
+        "duration": "03:49",
+        "artists": [
+          {
+            "artistId": 68890,
+            "name": "Khaled",
+            "shortLink": "",
+            "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2016/01/25/4/1/1/7/1453717421310_300.jpg"
+          }
+        ],
+        "type": "SONG",
+        "dateRelease": 0,
+        "dateCreate": 0,
+        "uploadBy": {
+          "userName": "toptimbot",
+          "fullName": "HUY",
+          "avatarUrl": ""
+        },
+        "provider": null,
+        "isMyPlaylist": false,
+        "statusViewValue": 1,
+        "statusPlayValue": 1,
+        "statusDownloadValue": 3,
+        "statusAddPlaylistValue": 0,
+        "refMapping": [],
+        "genreKey": "s_us_other",
+        "streamUrls": [],
+        "description": "Ca khúc C'est La Vie do ca sĩ Khaled thể hiện, thuộc thể loại Âu Mỹ khác. Các bạn có thể nghe, download (tải nhạc) bài hát C'est La Vie   mp3, playlist/album, MV/Video C'est La Vie miễn phí tại NhacCuaTui.com."
+      },
+      {
+        "key": "1CAQrHGj7P",
+        "title": "Waka Waka (This Time for Africa)",
+        "thumbnail": "https://avatar-ex-swe.nixcdn.com/song/2018/05/24/7/6/b/4/1527133087209_300.jpg",
+        "duration": "03:24",
+        "artists": [
+          {
+            "artistId": 7302,
+            "name": "Shakira",
+            "shortLink": "shakira",
+            "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2016/01/25/4/1/1/7/1453717513341_300.jpg"
+          },
+          {
+            "artistId": 65409,
+            "name": "Freshlyground",
+            "shortLink": null,
+            "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2017/01/24/2/f/7/5/1485224548896_300.jpg"
+          }
+        ],
+        "type": "SONG",
+        "dateRelease": 1523293200000,
+        "dateCreate": 1279002542000,
+        "uploadBy": {
+          "userName": "password01",
+          "fullName": "Loi",
+          "avatarUrl": ""
+        },
+        "provider": {
+          "name": "SONY MUSIC",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/provider/2020/02/13/8/d/9/4/1581563932392.jpg"
+        },
+        "isMyPlaylist": false,
+        "statusViewValue": 1,
+        "statusPlayValue": 1,
+        "statusDownloadValue": 0,
+        "statusAddPlaylistValue": 0,
+        "refMapping": [
+          {
+            "refKey": "oQqymLlKSVXv",
+            "refType": "VIDEO"
+          }
+        ],
+        "genreKey": "s-pop",
+        "streamUrls": [],
+        "description": "Ca khúc Waka Waka (This Time for Africa) do ca sĩ ShakiraFreshlyground,  thể hiện, thuộc thể loại Pop. Các bạn có thể nghe, download (tải nhạc) bài hát Waka Waka (This Time for Africa)   mp3, playlist/album, MV/Video Waka Waka (This Time for Africa) miễn phí tại NhacCuaTui.com."
+      },
+      {
+        "key": "shY0aM6Z6E0l",
+        "title": "Game On(The Official 2010 FIFA World Cup Mascot Song)",
+        "thumbnail": "https://avatar-ex-swe.nixcdn.com/song/2015/09/16/8/2/4/3/1442392028984_300.jpg",
+        "duration": "03:19",
+        "artists": [
+          {
+            "artistId": 15189,
+            "name": "Pitbull",
+            "shortLink": "pitbull",
+            "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2016/12/22/5/a/d/7/1482395179151_300.jpg"
+          },
+          {
+            "artistId": 71804,
+            "name": "TKZee",
+            "shortLink": null,
+            "imageUrl": null
+          },
+          {
+            "artistId": 40219,
+            "name": "Dario G",
+            "shortLink": null,
+            "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2013/9482_DarioG_A_300.jpg"
+          }
+        ],
+        "type": "SONG",
+        "dateRelease": 0,
+        "dateCreate": 1346346209000,
+        "uploadBy": {
+          "userName": "sonymusic",
+          "fullName": "SONY MUSIC",
+          "avatarUrl": ""
+        },
+        "provider": {
+          "name": "SONY MUSIC",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/provider/2020/02/13/8/d/9/4/1581563932392.jpg"
+        },
+        "isMyPlaylist": false,
+        "statusViewValue": 1,
+        "statusPlayValue": 1,
+        "statusDownloadValue": 0,
+        "statusAddPlaylistValue": 0,
+        "refMapping": [],
+        "genreKey": "s-r-b-hip-hop-rap",
+        "streamUrls": [],
+        "description": "Ca khúc Game On(The Official 2010 FIFA World Cup Mascot Song) do ca sĩ PitbullTKZee, Dario G,  thể hiện, thuộc thể loại R&B/Hip Hop/Rap. Các bạn có thể nghe, download (tải nhạc) bài hát Game On(The Official 2010 FIFA World Cup Mascot Song)   mp3, playlist/album, MV/Video Game On(The Official 2010 FIFA World Cup Mascot Song) miễn phí tại NhacCuaTui.com."
+      },
+      {
+        "key": "tpcut56Uha",
+        "title": "Waving Flag (Celebration Mix)",
+        "thumbnail": "",
+        "duration": "03:39",
+        "artists": [
+          {
+            "artistId": 48609,
+            "name": "K'naan",
+            "shortLink": "",
+            "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2016/01/25/4/1/1/7/1453716870019_300.jpg"
+          }
+        ],
+        "type": "SONG",
+        "dateRelease": 0,
+        "dateCreate": 0,
+        "uploadBy": {
+          "userName": "toptimbot",
+          "fullName": "HUY",
+          "avatarUrl": ""
+        },
+        "provider": null,
+        "isMyPlaylist": false,
+        "statusViewValue": 1,
+        "statusPlayValue": 1,
+        "statusDownloadValue": 3,
+        "statusAddPlaylistValue": 0,
+        "refMapping": [],
+        "genreKey": "s_us_other",
+        "streamUrls": [],
+        "description": "Ca khúc Waving Flag (Celebration Mix) do ca sĩ K'naan thể hiện, thuộc thể loại Âu Mỹ khác. Các bạn có thể nghe, download (tải nhạc) bài hát Waving Flag (Celebration Mix)   mp3, playlist/album, MV/Video Waving Flag (Celebration Mix) miễn phí tại NhacCuaTui.com."
+      },
+      {
+        "key": "7o5dJOeByH",
+        "title": "Celebrate The Day: 2006 FIFA World Cup Germany Anthem",
+        "thumbnail": "",
+        "duration": "04:57",
+        "artists": [
+          {
+            "artistId": 6077,
+            "name": "Herbert Gronemeyer",
+            "shortLink": null,
+            "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2016/04/28/9/a/5/b/1461817353736_300.jpg"
+          },
+          {
+            "artistId": 106781,
+            "name": "Amadou",
+            "shortLink": null,
+            "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2016/04/28/9/a/5/b/1461818381953_300.jpg"
+          },
+          {
+            "artistId": 106782,
+            "name": "Mariam",
+            "shortLink": null,
+            "imageUrl": null
+          }
+        ],
+        "type": "SONG",
+        "dateRelease": 0,
+        "dateCreate": 0,
+        "uploadBy": {
+          "userName": "toptimbot",
+          "fullName": "HUY",
+          "avatarUrl": ""
+        },
+        "provider": null,
+        "isMyPlaylist": false,
+        "statusViewValue": 1,
+        "statusPlayValue": 1,
+        "statusDownloadValue": 3,
+        "statusAddPlaylistValue": 0,
+        "refMapping": [],
+        "genreKey": "s_us_other",
+        "streamUrls": [],
+        "description": "Ca khúc Celebrate The Day: 2006 FIFA World Cup Germany Anthem do ca sĩ Herbert GronemeyerAmadou, Mariam,  thể hiện, thuộc thể loại Âu Mỹ khác. Các bạn có thể nghe, download (tải nhạc) bài hát Celebrate The Day: 2006 FIFA World Cup Germany Anthem   mp3, playlist/album, MV/Video Celebrate The Day: 2006 FIFA World Cup Germany Anthem miễn phí tại NhacCuaTui.com."
+      },
+      {
+        "key": "MKdmKgVCsq",
+        "title": "The Time Of Our Lives",
+        "thumbnail": "https://avatar-ex-swe.nixcdn.com/song/2018/06/12/f/6/f/5/1528775603923_300.jpg",
+        "duration": "04:44",
+        "artists": [
+          {
+            "artistId": 6172,
+            "name": "Il Divo",
+            "shortLink": "il-divo",
+            "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2016/01/25/4/1/1/7/1453717179245_300.jpg"
+          },
+          {
+            "artistId": 8738,
+            "name": "Toni Braxton",
+            "shortLink": "toni-braxton",
+            "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2016/01/25/4/1/1/7/1453717927808_300.jpg"
+          }
+        ],
+        "type": "SONG",
+        "dateRelease": 0,
+        "dateCreate": 0,
+        "uploadBy": {
+          "userName": "amnhac",
+          "fullName": "Âm Nhạc",
+          "avatarUrl": ""
+        },
+        "provider": null,
+        "isMyPlaylist": false,
+        "statusViewValue": 1,
+        "statusPlayValue": 1,
+        "statusDownloadValue": 3,
+        "statusAddPlaylistValue": 0,
+        "refMapping": [
+          {
+            "refKey": "X-P7yRnVYG",
+            "refType": "VIDEO"
+          }
+        ],
+        "genreKey": "s-pop",
+        "streamUrls": [],
+        "description": "Ca khúc The Time Of Our Lives do ca sĩ Il DivoToni Braxton,  thể hiện, thuộc thể loại Pop. Các bạn có thể nghe, download (tải nhạc) bài hát The Time Of Our Lives   mp3, playlist/album, MV/Video The Time Of Our Lives miễn phí tại NhacCuaTui.com."
+      },
+      {
+        "key": "4H4yjZPSFX",
+        "title": "2002 FIFA World Cup Official Anthem",
+        "thumbnail": "",
+        "duration": "03:43",
+        "artists": [
+          {
+            "artistId": 23351,
+            "name": "Vangelis",
+            "shortLink": "",
+            "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2016/01/25/4/1/1/7/1453716536977_300.jpg"
+          }
+        ],
+        "type": "SONG",
+        "dateRelease": 0,
+        "dateCreate": 0,
+        "uploadBy": {
+          "userName": "ssj4xxx",
+          "fullName": "Chá",
+          "avatarUrl": ""
+        },
+        "provider": null,
+        "isMyPlaylist": false,
+        "statusViewValue": 1,
+        "statusPlayValue": 1,
+        "statusDownloadValue": 2,
+        "statusAddPlaylistValue": 0,
+        "refMapping": [],
+        "genreKey": "s-khong-loi",
+        "streamUrls": [],
+        "description": "Ca khúc 2002 FIFA World Cup Official Anthem do ca sĩ Vangelis thể hiện, thuộc thể loại Không Lời. Các bạn có thể nghe, download (tải nhạc) bài hát 2002 FIFA World Cup Official Anthem   mp3, playlist/album, MV/Video 2002 FIFA World Cup Official Anthem miễn phí tại NhacCuaTui.com."
+      },
+      {
+        "key": "PpbC72xtHd",
+        "title": "Boom (2002 FIFA World Cup Official Song)",
+        "thumbnail": "",
+        "duration": "03:18",
+        "artists": [
+          {
+            "artistId": 9965,
+            "name": "Anastacia",
+            "shortLink": "",
+            "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2016/01/25/4/1/1/7/1453718191537_300.jpg"
+          }
+        ],
+        "type": "SONG",
+        "dateRelease": 0,
+        "dateCreate": 0,
+        "uploadBy": {
+          "userName": "toptimbot",
+          "fullName": "HUY",
+          "avatarUrl": ""
+        },
+        "provider": null,
+        "isMyPlaylist": false,
+        "statusViewValue": 1,
+        "statusPlayValue": 1,
+        "statusDownloadValue": 3,
+        "statusAddPlaylistValue": 0,
+        "refMapping": [],
+        "genreKey": "s_us_other",
+        "streamUrls": [],
+        "description": "Ca khúc Boom (2002 FIFA World Cup Official Song) do ca sĩ Anastacia thể hiện, thuộc thể loại Âu Mỹ khác. Các bạn có thể nghe, download (tải nhạc) bài hát Boom (2002 FIFA World Cup Official Song)   mp3, playlist/album, MV/Video Boom (2002 FIFA World Cup Official Song) miễn phí tại NhacCuaTui.com."
+      },
+      {
+        "key": "AxCITML1Sh",
+        "title": "The Cup Of Life (La Copa De La Vida) [The Official Song Of The World Cup, France ’98]",
+        "thumbnail": "https://avatar-ex-swe.nixcdn.com/song/2013/11/06/c/c/a/8/1383720038084_300.jpg",
+        "duration": "04:31",
+        "artists": [
+          {
+            "artistId": 9520,
+            "name": "Ricky Martin",
+            "shortLink": "ricky-martin",
+            "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2016/01/25/4/1/1/7/1453718085845_300.jpg"
+          }
+        ],
+        "type": "SONG",
+        "dateRelease": 0,
+        "dateCreate": 0,
+        "uploadBy": {
+          "userName": "tommytran84",
+          "fullName": "Trần Văn Ph&aacute;t",
+          "avatarUrl": ""
+        },
+        "provider": null,
+        "isMyPlaylist": false,
+        "statusViewValue": 1,
+        "statusPlayValue": 1,
+        "statusDownloadValue": 3,
+        "statusAddPlaylistValue": 0,
+        "refMapping": [],
+        "genreKey": "s_us_other",
+        "streamUrls": [],
+        "description": "Ca khúc The Cup Of Life (La Copa De La Vida) [The Official Song Of The World Cup, France ’98] do ca sĩ Ricky Martin thể hiện, thuộc thể loại Âu Mỹ khác. Các bạn có thể nghe, download (tải nhạc) bài hát The Cup Of Life (La Copa De La Vida) [The Official Song Of The World Cup, France ’98]   mp3, playlist/album, MV/Video The Cup Of Life (La Copa De La Vida) [The Official Song Of The World Cup, France ’98] miễn phí tại NhacCuaTui.com."
+      },
+      {
+        "key": "Sr9m2pvC9XoC",
+        "title": "La Cour Des Grands (World Cup '98 Anthem)",
+        "thumbnail": "",
+        "duration": "03:34",
+        "artists": [
+          {
+            "artistId": 109727,
+            "name": "Youssou N'Dour",
+            "shortLink": "",
+            "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2017/05/10/2/7/6/e/1494386119133_300.jpg"
+          },
+          {
+            "artistId": 81897,
+            "name": "Axelle Red",
+            "shortLink": "",
+            "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2013/6720_Axelle_Red_A_300.jpg"
+          }
+        ],
+        "type": "SONG",
+        "dateRelease": 0,
+        "dateCreate": 0,
+        "uploadBy": {
+          "userName": "lanna862",
+          "fullName": "lanna862",
+          "avatarUrl": ""
+        },
+        "provider": null,
+        "isMyPlaylist": false,
+        "statusViewValue": 1,
+        "statusPlayValue": 1,
+        "statusDownloadValue": 3,
+        "statusAddPlaylistValue": 0,
+        "refMapping": [],
+        "genreKey": "s_us_other",
+        "streamUrls": [],
+        "description": "Ca khúc La Cour Des Grands (World Cup '98 Anthem) do ca sĩ Youssou N'DourAxelle Red,  thể hiện, thuộc thể loại Âu Mỹ khác. Các bạn có thể nghe, download (tải nhạc) bài hát La Cour Des Grands (World Cup '98 Anthem)   mp3, playlist/album, MV/Video La Cour Des Grands (World Cup '98 Anthem) miễn phí tại NhacCuaTui.com."
+      },
+      {
+        "key": "aOGNKaJup0",
+        "title": "Gloryland (The Official Theme Song Of WorldCup USA 94)",
+        "thumbnail": "https://avatar-ex-swe.nixcdn.com/song/2018/05/25/f/1/d/6/1527223326821_300.jpg",
+        "duration": "04:02",
+        "artists": [
+          {
+            "artistId": 69148,
+            "name": "Daryl Hall",
+            "shortLink": "",
+            "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2016/04/28/9/a/5/b/1461819051915_300.jpg"
+          },
+          {
+            "artistId": 108647,
+            "name": "Sounds Of Blackness",
+            "shortLink": null,
+            "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2016/04/28/9/a/5/b/1461816965494_300.jpg"
+          }
+        ],
+        "type": "SONG",
+        "dateRelease": 0,
+        "dateCreate": 0,
+        "uploadBy": {
+          "userName": "ghost.datinh",
+          "fullName": "Tú",
+          "avatarUrl": ""
+        },
+        "provider": null,
+        "isMyPlaylist": false,
+        "statusViewValue": 1,
+        "statusPlayValue": 1,
+        "statusDownloadValue": 3,
+        "statusAddPlaylistValue": 0,
+        "refMapping": [],
+        "genreKey": "s_us_other",
+        "streamUrls": [],
+        "description": "Ca khúc Gloryland (The Official Theme Song Of WorldCup USA 94) do ca sĩ Daryl HallSounds Of Blackness,  thể hiện, thuộc thể loại Âu Mỹ khác. Các bạn có thể nghe, download (tải nhạc) bài hát Gloryland (The Official Theme Song Of WorldCup USA 94)   mp3, playlist/album, MV/Video Gloryland (The Official Theme Song Of WorldCup USA 94) miễn phí tại NhacCuaTui.com."
+      },
+      {
+        "key": "5qhkuciGF1",
+        "title": "Un'estate Italiana (World Cup 90)",
+        "thumbnail": "",
+        "duration": "04:16",
+        "artists": [
+          {
+            "artistId": 69147,
+            "name": "Edoardo Bennato",
+            "shortLink": "",
+            "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2013/13063_Edoardo_Bennato_A_300.jpg"
+          },
+          {
+            "artistId": 16000,
+            "name": "Gianna Nannini",
+            "shortLink": "",
+            "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2013/10026_Gianna_Nannini_A_300.jpg"
+          }
+        ],
+        "type": "SONG",
+        "dateRelease": 0,
+        "dateCreate": 0,
+        "uploadBy": {
+          "userName": "xin-em-thu-tha",
+          "fullName": "Th&aacute;i Sơn",
+          "avatarUrl": ""
+        },
+        "provider": null,
+        "isMyPlaylist": false,
+        "statusViewValue": 1,
+        "statusPlayValue": 1,
+        "statusDownloadValue": 2,
+        "statusAddPlaylistValue": 0,
+        "refMapping": [],
+        "genreKey": "s-pop",
+        "streamUrls": [],
+        "description": "Ca khúc Un'estate Italiana (World Cup 90) do ca sĩ Edoardo BennatoGianna Nannini,  thể hiện, thuộc thể loại Pop. Các bạn có thể nghe, download (tải nhạc) bài hát Un'estate Italiana (World Cup 90)   mp3, playlist/album, MV/Video Un'estate Italiana (World Cup 90) miễn phí tại NhacCuaTui.com."
+      }
+    ],
+    "videos": null,
+    "description": "World Cup 2022 đã chính thức bắt đầu! Hãy cùng NhacCuaTui hòa mình chung với không khí World Cup và những bài hát được dùng trong giải đấu bóng đá lớn nhất thế giới này nha. ",
+    "dateModify": "07/12/2022",
+    "listTag": [
+      {
+        "group": "the-loai",
+        "key": "au-my-khac",
+        "name": "Âu Mỹ Khác"
+      },
+      {
+        "group": "tam-trang",
+        "key": "hung-phan",
+        "name": "Hưng Phấn"
+      },
+      {
+        "group": "tam-trang",
+        "key": "hy-vong",
+        "name": "Hy Vọng"
+      },
+      {
+        "group": "tam-trang",
+        "key": "quyet-tam",
+        "name": "Quyết Tâm"
+      },
+      {
+        "group": "khung-canh",
+        "key": "the-thao",
+        "name": "Thể Thao"
+      },
+      {
+        "group": "chu-de",
+        "key": "bat-hu",
+        "name": "Bất Hủ"
+      }
+    ],
+    "numOfItems": 0
+  },
+  "time": 1670924976483
+}

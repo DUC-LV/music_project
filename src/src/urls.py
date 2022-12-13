@@ -22,4 +22,6 @@ urlpatterns = [
     path('', include('topic_event_home.urls')),
     path('', include('new_releases.urls')),
     path('', include('topic.urls')),
+    path('', include('top_100.urls')),
+    path('', include('playlist_detail.urls')),
 ]

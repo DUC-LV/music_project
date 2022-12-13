@@ -9,6 +9,7 @@ import getListTopic from "../service/getListTopic";
 import getNewReleases from "../service/getNewReleases";
 import getRankingHome from "../service/getRankingHome";
 import getShowCaseHome from "../service/getShowCaseHome";
+import getTop100 from "../service/getTop100";
 import getTopicEventHome from "../service/getTopicEventHome";
 import { DataRanking, DataShowCase, DataTopicEvent } from "../untils";
 
@@ -30,6 +31,7 @@ const Home = () => {
     const [dataNewReleases, setDataNewReleases] = useState<Array<DataTopicEvent>>();
     const [dataRanking, setDataRanking] = useState<Array<DataRanking>>();
     const [dataListTopic, setDataListTopic] = useState<Array<DataShowCase>>();
+    const [dataTop100, setDataTop100] = useState<Array<DataShowCase>>()
     useEffect(() => {
         getShowCaseHome.getAll().then((res:any) => {
             setDataShowCase(res.data.data)
@@ -45,6 +47,9 @@ const Home = () => {
         })
         getListTopic.getAll().then((res:any) => {
             setDataListTopic(res.data.data)
+        })
+        getTop100.getAll().then((res:any) => {
+            setDataTop100(res.data.top100)
         })
         .catch((err:any) => {
             console.log(err.message)
@@ -77,6 +82,8 @@ const Home = () => {
                                     thumbnail: items?.thumbnail
                                 }
                             })}
+                            pathnameUrl="playlist"
+                            pathnameSlug="slugPlaylist"
                         />
                     </Box>
                 );
@@ -133,9 +140,26 @@ const Home = () => {
                         description: "",
                         order: "",
                         imageUrl:""
-
                     }
                 })}
+                pathnameUrl="topic"
+                pathnameSlug="slugTopic"
+            />
+            <SlideShow
+                groupName="Top 100"
+                dataSlide = {dataTop100?.map((items:any) => {
+                    return {
+                        title: items?.title,
+                        key: items?.key,
+                        thumbnail: items?.thumbnail,
+                        url: "",
+                        description: "",
+                        order: "",
+                        imageUrl:""
+                    }
+                })}
+                pathnameUrl="top100"
+                pathnameSlug="slugTop100"
             />
         </Box>
     );

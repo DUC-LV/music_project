@@ -1,0 +1,560 @@
+{
+  "status": "success",
+  "playlist": {
+    "key": "HNIAqONWmk4s",
+    "title": "Những Bài Hát Hay Nhất Về Cổ Động Bóng Đá",
+    "thumbnail": "https://avatar-ex-swe.nixcdn.com/playlist/2021/06/22/e/c/9/3/1624348710865_300.jpg",
+    "duration": "00:00",
+    "artists": [
+      {
+        "artistId": 8248,
+        "name": "V.A",
+        "shortLink": "va",
+        "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2020/08/18/e/4/e/c/1597723219000_300.jpg"
+      }
+    ],
+    "type": "PLAYLIST",
+    "dateRelease": 0,
+    "dateCreate": 1340287680000,
+    "uploadBy": {
+      "userName": "xin-em-thu-tha",
+      "fullName": "Th&aacute;i Sơn",
+      "avatarUrl": "https://avatar-ex-swe.nixcdn.com/avatar/2014/08/13/0/6/0/4/1407916246797.jpg"
+    },
+    "provider": null,
+    "refMapping": [],
+    "genreKey": "pl-the-loai-khac",
+    "songs": [
+      {
+        "key": "Bl_jQTOGaG",
+        "title": "A special kind of hero (Mexico 1986)",
+        "thumbnail": "",
+        "duration": "03:26",
+        "artists": [
+          {
+            "artistId": 8248,
+            "name": "V.A",
+            "shortLink": "va",
+            "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2020/08/18/e/4/e/c/1597723219000_300.jpg"
+          }
+        ],
+        "type": "SONG",
+        "dateRelease": 0,
+        "dateCreate": 0,
+        "uploadBy": {
+          "userName": "nhaccuatui.com",
+          "fullName": "NCt",
+          "avatarUrl": ""
+        },
+        "provider": null,
+        "isMyPlaylist": false,
+        "statusViewValue": 1,
+        "statusPlayValue": 1,
+        "statusDownloadValue": 2,
+        "statusAddPlaylistValue": 0,
+        "refMapping": [],
+        "genreKey": "s-khong-loi",
+        "streamUrls": [],
+        "description": "Ca khúc A special kind of hero (Mexico 1986) do ca sĩ V.A thể hiện, thuộc thể loại Không Lời. Các bạn có thể nghe, download (tải nhạc) bài hát A special kind of hero (Mexico 1986)   mp3, playlist/album, MV/Video A special kind of hero (Mexico 1986) miễn phí tại NhacCuaTui.com."
+      },
+      {
+        "key": "5qhkuciGF1",
+        "title": "Un'estate Italiana (World Cup 90)",
+        "thumbnail": "",
+        "duration": "04:16",
+        "artists": [
+          {
+            "artistId": 69147,
+            "name": "Edoardo Bennato",
+            "shortLink": "",
+            "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2013/13063_Edoardo_Bennato_A_300.jpg"
+          },
+          {
+            "artistId": 16000,
+            "name": "Gianna Nannini",
+            "shortLink": "",
+            "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2013/10026_Gianna_Nannini_A_300.jpg"
+          }
+        ],
+        "type": "SONG",
+        "dateRelease": 0,
+        "dateCreate": 0,
+        "uploadBy": {
+          "userName": "xin-em-thu-tha",
+          "fullName": "Th&aacute;i Sơn",
+          "avatarUrl": ""
+        },
+        "provider": null,
+        "isMyPlaylist": false,
+        "statusViewValue": 1,
+        "statusPlayValue": 1,
+        "statusDownloadValue": 2,
+        "statusAddPlaylistValue": 0,
+        "refMapping": [],
+        "genreKey": "s-pop",
+        "streamUrls": [],
+        "description": "Ca khúc Un'estate Italiana (World Cup 90) do ca sĩ Edoardo BennatoGianna Nannini,  thể hiện, thuộc thể loại Pop. Các bạn có thể nghe, download (tải nhạc) bài hát Un'estate Italiana (World Cup 90)   mp3, playlist/album, MV/Video Un'estate Italiana (World Cup 90) miễn phí tại NhacCuaTui.com."
+      },
+      {
+        "key": "16E3ZL7u5t",
+        "title": "The Cup Of Life (FIFA World Cup 1998)",
+        "thumbnail": "",
+        "duration": "04:30",
+        "artists": [
+          {
+            "artistId": 9520,
+            "name": "Ricky Martin",
+            "shortLink": "ricky-martin",
+            "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2016/01/25/4/1/1/7/1453718085845_300.jpg"
+          }
+        ],
+        "type": "SONG",
+        "dateRelease": 0,
+        "dateCreate": 0,
+        "uploadBy": {
+          "userName": "toptimbot",
+          "fullName": "HUY",
+          "avatarUrl": ""
+        },
+        "provider": null,
+        "isMyPlaylist": false,
+        "statusViewValue": 1,
+        "statusPlayValue": 1,
+        "statusDownloadValue": 3,
+        "statusAddPlaylistValue": 0,
+        "refMapping": [],
+        "genreKey": "s_us_other",
+        "streamUrls": [],
+        "description": "Ca khúc The Cup Of Life (FIFA World Cup 1998) do ca sĩ Ricky Martin thể hiện, thuộc thể loại Âu Mỹ khác. Các bạn có thể nghe, download (tải nhạc) bài hát The Cup Of Life (FIFA World Cup 1998)   mp3, playlist/album, MV/Video The Cup Of Life (FIFA World Cup 1998) miễn phí tại NhacCuaTui.com."
+      },
+      {
+        "key": "3WWu3ntxIe",
+        "title": "Let's Get Loud ",
+        "thumbnail": "https://avatar-ex-swe.nixcdn.com/song/2014/01/24/c/d/a/3/1390548560392_300.jpg",
+        "duration": "03:58",
+        "artists": [
+          {
+            "artistId": 6210,
+            "name": "Jennifer Lopez",
+            "shortLink": "jennifer-lopez",
+            "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2018/02/02/c/3/a/d/1517562265802_300.jpg"
+          }
+        ],
+        "type": "SONG",
+        "dateRelease": 0,
+        "dateCreate": 0,
+        "uploadBy": {
+          "userName": "toptimbot",
+          "fullName": "HUY",
+          "avatarUrl": ""
+        },
+        "provider": {
+          "name": "Đang Cập Nhật",
+          "imageUrl": ""
+        },
+        "isMyPlaylist": false,
+        "statusViewValue": 1,
+        "statusPlayValue": 1,
+        "statusDownloadValue": 0,
+        "statusAddPlaylistValue": 0,
+        "refMapping": [],
+        "genreKey": "s-pop",
+        "streamUrls": [],
+        "description": "Ca khúc Let's Get Loud  do ca sĩ Jennifer Lopez thể hiện, thuộc thể loại Pop. Các bạn có thể nghe, download (tải nhạc) bài hát Let's Get Loud    mp3, playlist/album, MV/Video Let's Get Loud  miễn phí tại NhacCuaTui.com."
+      },
+      {
+        "key": "0NMFXTYsBv",
+        "title": "Rendez vous '98",
+        "thumbnail": "",
+        "duration": "03:42",
+        "artists": [
+          {
+            "artistId": 7059,
+            "name": "Paul Mauriat",
+            "shortLink": "paul-mauriat",
+            "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2016/01/25/4/1/1/7/1453717446069_300.jpg"
+          }
+        ],
+        "type": "SONG",
+        "dateRelease": 0,
+        "dateCreate": 0,
+        "uploadBy": {
+          "userName": "hlmasterchief93",
+          "fullName": "HL",
+          "avatarUrl": ""
+        },
+        "provider": null,
+        "isMyPlaylist": false,
+        "statusViewValue": 1,
+        "statusPlayValue": 1,
+        "statusDownloadValue": 2,
+        "statusAddPlaylistValue": 0,
+        "refMapping": [],
+        "genreKey": "s-khong-loi",
+        "streamUrls": [],
+        "description": "Ca khúc Rendez vous '98 do ca sĩ Paul Mauriat thể hiện, thuộc thể loại Không Lời. Các bạn có thể nghe, download (tải nhạc) bài hát Rendez vous '98   mp3, playlist/album, MV/Video Rendez vous '98 miễn phí tại NhacCuaTui.com."
+      },
+      {
+        "key": "1sTsw8bPIZ",
+        "title": "Hips Don't Lie",
+        "thumbnail": "https://avatar-ex-swe.nixcdn.com/song/2015/09/16/8/2/4/3/1442386254723_300.jpg",
+        "duration": "03:33",
+        "artists": [
+          {
+            "artistId": 7302,
+            "name": "Shakira",
+            "shortLink": "shakira",
+            "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2016/01/25/4/1/1/7/1453717513341_300.jpg"
+          },
+          {
+            "artistId": 15341,
+            "name": "Wyclef Jean",
+            "shortLink": "",
+            "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2016/01/25/4/1/1/7/1453716266024_300.jpg"
+          }
+        ],
+        "type": "SONG",
+        "dateRelease": 0,
+        "dateCreate": 0,
+        "uploadBy": {
+          "userName": "toptimbot",
+          "fullName": "HUY",
+          "avatarUrl": ""
+        },
+        "provider": {
+          "name": "Đang Cập Nhật",
+          "imageUrl": ""
+        },
+        "isMyPlaylist": false,
+        "statusViewValue": 1,
+        "statusPlayValue": 1,
+        "statusDownloadValue": 0,
+        "statusAddPlaylistValue": 0,
+        "refMapping": [
+          {
+            "refKey": "ZTaGbjY70p4v",
+            "refType": "VIDEO"
+          }
+        ],
+        "genreKey": "s_us_other",
+        "streamUrls": [],
+        "description": "Ca khúc Hips Don't Lie do ca sĩ ShakiraWyclef Jean,  thể hiện, thuộc thể loại Âu Mỹ khác. Các bạn có thể nghe, download (tải nhạc) bài hát Hips Don't Lie   mp3, playlist/album, MV/Video Hips Don't Lie miễn phí tại NhacCuaTui.com."
+      },
+      {
+        "key": "keoJrO0xDL",
+        "title": "Waka Waka",
+        "thumbnail": "https://avatar-ex-swe.nixcdn.com/song/2015/03/21/1/3/7/8/1426910010527_300.jpg",
+        "duration": "03:22",
+        "artists": [
+          {
+            "artistId": 7302,
+            "name": "Shakira",
+            "shortLink": "shakira",
+            "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2016/01/25/4/1/1/7/1453717513341_300.jpg"
+          },
+          {
+            "artistId": 65409,
+            "name": "Freshlyground",
+            "shortLink": null,
+            "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2017/01/24/2/f/7/5/1485224548896_300.jpg"
+          }
+        ],
+        "type": "SONG",
+        "dateRelease": 0,
+        "dateCreate": 0,
+        "uploadBy": {
+          "userName": "nguyenlinh1510",
+          "fullName": "Nguyễn Thị Thùy Linh",
+          "avatarUrl": ""
+        },
+        "provider": null,
+        "isMyPlaylist": false,
+        "statusViewValue": 1,
+        "statusPlayValue": 1,
+        "statusDownloadValue": 3,
+        "statusAddPlaylistValue": 0,
+        "refMapping": [],
+        "genreKey": "s_us_other",
+        "streamUrls": [],
+        "description": "Ca khúc Waka Waka do ca sĩ ShakiraFreshlyground,  thể hiện, thuộc thể loại Âu Mỹ khác. Các bạn có thể nghe, download (tải nhạc) bài hát Waka Waka   mp3, playlist/album, MV/Video Waka Waka miễn phí tại NhacCuaTui.com."
+      },
+      {
+        "key": "19STEjS9v8",
+        "title": "Wavin' Flag",
+        "thumbnail": "https://avatar-ex-swe.nixcdn.com/song/2015/03/21/1/3/7/8/1426910407402_300.jpg",
+        "duration": "03:43",
+        "artists": [
+          {
+            "artistId": 48609,
+            "name": "K'naan",
+            "shortLink": "",
+            "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2016/01/25/4/1/1/7/1453716870019_300.jpg"
+          }
+        ],
+        "type": "SONG",
+        "dateRelease": 0,
+        "dateCreate": 0,
+        "uploadBy": {
+          "userName": "toptimbot",
+          "fullName": "HUY",
+          "avatarUrl": ""
+        },
+        "provider": null,
+        "isMyPlaylist": false,
+        "statusViewValue": 1,
+        "statusPlayValue": 1,
+        "statusDownloadValue": 3,
+        "statusAddPlaylistValue": 0,
+        "refMapping": [
+          {
+            "refKey": "WD26AXwR1up7",
+            "refType": "VIDEO"
+          }
+        ],
+        "genreKey": "s-r-b-hip-hop-rap",
+        "streamUrls": [],
+        "description": "Ca khúc Wavin' Flag do ca sĩ K'naan thể hiện, thuộc thể loại R&B/Hip Hop/Rap. Các bạn có thể nghe, download (tải nhạc) bài hát Wavin' Flag   mp3, playlist/album, MV/Video Wavin' Flag miễn phí tại NhacCuaTui.com."
+      },
+      {
+        "key": "aO8oVXu2M7",
+        "title": "Ole Ole Ole ",
+        "thumbnail": "",
+        "duration": "04:07",
+        "artists": [
+          {
+            "artistId": 8248,
+            "name": "V.A",
+            "shortLink": "va",
+            "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2020/08/18/e/4/e/c/1597723219000_300.jpg"
+          }
+        ],
+        "type": "SONG",
+        "dateRelease": 0,
+        "dateCreate": 0,
+        "uploadBy": {
+          "userName": "xin-em-thu-tha",
+          "fullName": "Th&aacute;i Sơn",
+          "avatarUrl": ""
+        },
+        "provider": null,
+        "isMyPlaylist": false,
+        "statusViewValue": 1,
+        "statusPlayValue": 1,
+        "statusDownloadValue": 3,
+        "statusAddPlaylistValue": 0,
+        "refMapping": [],
+        "genreKey": "s_us_other",
+        "streamUrls": [],
+        "description": "Ca khúc Ole Ole Ole  do ca sĩ V.A thể hiện, thuộc thể loại Âu Mỹ khác. Các bạn có thể nghe, download (tải nhạc) bài hát Ole Ole Ole    mp3, playlist/album, MV/Video Ole Ole Ole  miễn phí tại NhacCuaTui.com."
+      },
+      {
+        "key": "orcn4scMa1",
+        "title": "We Will Rock You",
+        "thumbnail": "https://avatar-ex-swe.nixcdn.com/song/2015/03/21/1/3/7/8/1426909632525_300.jpg",
+        "duration": "02:02",
+        "artists": [
+          {
+            "artistId": 11291,
+            "name": "Queen",
+            "shortLink": "queen",
+            "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2016/01/25/4/1/1/7/1453715845197_300.jpg"
+          }
+        ],
+        "type": "SONG",
+        "dateRelease": 0,
+        "dateCreate": 0,
+        "uploadBy": {
+          "userName": "tommytran84",
+          "fullName": "Trần Văn Ph&aacute;t",
+          "avatarUrl": ""
+        },
+        "provider": null,
+        "isMyPlaylist": false,
+        "statusViewValue": 1,
+        "statusPlayValue": 1,
+        "statusDownloadValue": 3,
+        "statusAddPlaylistValue": 0,
+        "refMapping": [],
+        "genreKey": "s-rock",
+        "streamUrls": [],
+        "description": "Ca khúc We Will Rock You do ca sĩ Queen thể hiện, thuộc thể loại Rock. Các bạn có thể nghe, download (tải nhạc) bài hát We Will Rock You   mp3, playlist/album, MV/Video We Will Rock You miễn phí tại NhacCuaTui.com."
+      },
+      {
+        "key": "mFhgXSCbhPSs",
+        "title": "Endless Summer (Ca Khúc Chính Thức Của Euro 2012)",
+        "thumbnail": "",
+        "duration": "04:51",
+        "artists": [
+          {
+            "artistId": 47056,
+            "name": "Oceana",
+            "shortLink": null,
+            "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2017/01/24/2/f/7/5/1485225127774_300.jpg"
+          }
+        ],
+        "type": "SONG",
+        "dateRelease": 0,
+        "dateCreate": 0,
+        "uploadBy": {
+          "userName": "xin-em-thu-tha",
+          "fullName": "Th&aacute;i Sơn",
+          "avatarUrl": ""
+        },
+        "provider": null,
+        "isMyPlaylist": false,
+        "statusViewValue": 1,
+        "statusPlayValue": 1,
+        "statusDownloadValue": 2,
+        "statusAddPlaylistValue": 0,
+        "refMapping": [],
+        "genreKey": "s-the-loai-khac",
+        "streamUrls": [],
+        "description": "Ca khúc Endless Summer (Ca Khúc Chính Thức Của Euro 2012) do ca sĩ Oceana thể hiện, thuộc thể loại Thể Loại Khác. Các bạn có thể nghe, download (tải nhạc) bài hát Endless Summer (Ca Khuc Chinh Thuc Cua Euro 2012)   mp3, playlist/album, MV/Video Endless Summer (Ca Khúc Chính Thức Của Euro 2012) miễn phí tại NhacCuaTui.com."
+      },
+      {
+        "key": "AhARQDoRK5",
+        "title": "Samba E Gol",
+        "thumbnail": "",
+        "duration": "03:12",
+        "artists": [
+          {
+            "artistId": 76710,
+            "name": "Đang Cập Nhật",
+            "shortLink": null,
+            "imageUrl": null
+          }
+        ],
+        "type": "SONG",
+        "dateRelease": 0,
+        "dateCreate": 0,
+        "uploadBy": {
+          "userName": "fantasy_hp",
+          "fullName": "Đinh Chiến Thắng",
+          "avatarUrl": ""
+        },
+        "provider": null,
+        "isMyPlaylist": false,
+        "statusViewValue": 1,
+        "statusPlayValue": 1,
+        "statusDownloadValue": 3,
+        "statusAddPlaylistValue": 0,
+        "refMapping": [],
+        "genreKey": "s_us_other",
+        "streamUrls": [],
+        "description": "Ca khúc Samba E Gol do ca sĩ Đang Cập Nhật thể hiện, thuộc thể loại Âu Mỹ khác. Các bạn có thể nghe, download (tải nhạc) bài hát Samba E Gol   mp3, playlist/album, MV/Video Samba E Gol miễn phí tại NhacCuaTui.com."
+      },
+      {
+        "key": "zEBdoWO4hp",
+        "title": "You'll never walk alone",
+        "thumbnail": "",
+        "duration": "03:35",
+        "artists": [
+          {
+            "artistId": 8315,
+            "name": "Liverpool FC",
+            "shortLink": null,
+            "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2022/06/13/8/a/7/e/1655125562707_300.jpg"
+          }
+        ],
+        "type": "SONG",
+        "dateRelease": 0,
+        "dateCreate": 0,
+        "uploadBy": {
+          "userName": "siriusblack1991",
+          "fullName": "HMĐ",
+          "avatarUrl": ""
+        },
+        "provider": null,
+        "isMyPlaylist": false,
+        "statusViewValue": 1,
+        "statusPlayValue": 1,
+        "statusDownloadValue": 3,
+        "statusAddPlaylistValue": 0,
+        "refMapping": [],
+        "genreKey": "s_us_other",
+        "streamUrls": [],
+        "description": "Ca khúc You'll never walk alone do ca sĩ Liverpool FC thể hiện, thuộc thể loại Âu Mỹ khác. Các bạn có thể nghe, download (tải nhạc) bài hát You'll never walk alone   mp3, playlist/album, MV/Video You'll never walk alone miễn phí tại NhacCuaTui.com."
+      },
+      {
+        "key": "21VXbuuYGb",
+        "title": "Wavin' Flag",
+        "thumbnail": "",
+        "duration": "03:28",
+        "artists": [
+          {
+            "artistId": 48609,
+            "name": "K'naan",
+            "shortLink": "",
+            "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2016/01/25/4/1/1/7/1453716870019_300.jpg"
+          }
+        ],
+        "type": "SONG",
+        "dateRelease": 0,
+        "dateCreate": 0,
+        "uploadBy": {
+          "userName": "nhaccuatui.com",
+          "fullName": "NCt",
+          "avatarUrl": ""
+        },
+        "provider": null,
+        "isMyPlaylist": false,
+        "statusViewValue": 1,
+        "statusPlayValue": 1,
+        "statusDownloadValue": 3,
+        "statusAddPlaylistValue": 0,
+        "refMapping": [
+          {
+            "refKey": "WD26AXwR1up7",
+            "refType": "VIDEO"
+          }
+        ],
+        "genreKey": "s-r-b-hip-hop-rap",
+        "streamUrls": [],
+        "description": "Ca khúc Wavin' Flag do ca sĩ K'naan thể hiện, thuộc thể loại R&B/Hip Hop/Rap. Các bạn có thể nghe, download (tải nhạc) bài hát Wavin' Flag   mp3, playlist/album, MV/Video Wavin' Flag miễn phí tại NhacCuaTui.com."
+      },
+      {
+        "key": "zHrJ6NZgwE",
+        "title": "We Are The Champions",
+        "thumbnail": "https://avatar-ex-swe.nixcdn.com/song/2015/03/21/1/3/7/8/1426912845128_300.jpg",
+        "duration": "03:02",
+        "artists": [
+          {
+            "artistId": 11291,
+            "name": "Queen",
+            "shortLink": "queen",
+            "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2016/01/25/4/1/1/7/1453715845197_300.jpg"
+          }
+        ],
+        "type": "SONG",
+        "dateRelease": 0,
+        "dateCreate": 0,
+        "uploadBy": {
+          "userName": "tommytran84",
+          "fullName": "Trần Văn Ph&aacute;t",
+          "avatarUrl": ""
+        },
+        "provider": null,
+        "isMyPlaylist": false,
+        "statusViewValue": 1,
+        "statusPlayValue": 1,
+        "statusDownloadValue": 3,
+        "statusAddPlaylistValue": 0,
+        "refMapping": [
+          {
+            "refKey": "rcxqKAYCaP",
+            "refType": "VIDEO"
+          }
+        ],
+        "genreKey": "s-rock",
+        "streamUrls": [],
+        "description": "Ca khúc We Are The Champions do ca sĩ Queen thể hiện, thuộc thể loại Rock. Các bạn có thể nghe, download (tải nhạc) bài hát We Are The Champions   mp3, playlist/album, MV/Video We Are The Champions miễn phí tại NhacCuaTui.com."
+      }
+    ],
+    "videos": null,
+    "description": "Trong lịch sử World Cup và EURO, có nhiều giai điệu vang lên vào những ngày ăn bóng đá, ngủ bóng đá đã làm say mê và ghi sâu trong ký ức của người hâm mộ trái bóng tròn:  Unestate Italiana (Wc 1990), A special kind of hero (Wc 1986), The cup of life (Wc 1998), gần đây Waving flag và Waka Waka (Wc 2010)... Có thể những giai điệu đó không là chính thức cho giải đấu nhưng mãi ghi sâu vào lòng những fan của làng túc cầu thế giới. Nào hãy cùng ăn bóng đá, ngủ bóng đá và nghe nhạc bóng đá!",
+    "dateModify": "28/06/2021",
+    "listTag": [],
+    "numOfItems": 0
+  },
+  "time": 1670925502093
+}
