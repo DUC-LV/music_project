@@ -35,6 +35,7 @@ class GetListTopic(View):
                 "type": playlist.type,
                 "dateModify": playlist.date_modify,
                 "dateCreate": int(playlist.created_at.timestamp()),
+                "description": playlist.description,
                 "artists": artists_data
             }
             if tp_pl is None:

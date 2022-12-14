@@ -37,8 +37,8 @@ class Songs(BaseModel):
     thumbnail = models.CharField(max_length=500)
     duration = models.CharField(max_length=100)
     type = models.CharField(max_length=100, default="SONG")
-    date_release = models.IntegerField()
-    date_create = models.IntegerField()
+    date_release = models.IntegerField(default=0)
+    date_create = models.IntegerField(default=0)
     description = models.TextField()
 
     def __str__(self):
@@ -64,8 +64,8 @@ class ListTags(BaseModel, MPTTModel):
 
 class Artists(BaseModel):
     name = models.CharField(max_length=200)
-    short_link = models.CharField(max_length=100)
-    image_url = models.CharField(max_length=200)
+    short_link = models.CharField(max_length=100, default="null")
+    image_url = models.CharField(max_length=200, default="null")
     artist_event = models.ForeignKey(Songs, on_delete=models.CASCADE)
 
     def __str__(self):

@@ -12,7 +12,7 @@ admin.register(ListPlaylists)
 
 @admin.register(ListPlaylists)
 class ListPlaylists(admin.ModelAdmin):
-    list_display = ["created_at", "title", "thumbnail", "duration", "type", "date_modify", "topic_event"]
+    list_display = ["created_at", "title", "thumbnail", "duration", "type", "date_modify", "topic_event", "description"]
 
 
 admin.register(ListPlaylists)

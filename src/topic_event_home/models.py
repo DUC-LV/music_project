@@ -51,6 +51,7 @@ class ListPlaylists(BaseModel):
     type = models.CharField(max_length=100)
     date_modify = models.CharField(max_length=100)
     topic_event = models.ForeignKey(TopicEvents, on_delete=models.CASCADE)
+    description = models.TextField()
 
     def duration_to_string(self):
         return duration_string(self.duration)

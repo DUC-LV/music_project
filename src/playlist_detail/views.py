@@ -22,6 +22,9 @@ class GetPlaylistDetail(View):
                     "thumbnail": s.thumbnail,
                     "duration": s.duration,
                     "type": s.type,
+                    "date_release": s.date_release,
+                    "date_create": s.date_create,
+                    "description": s.description,
                 }
                 artists_data = []
                 artists = Artists.objects.filter(artist_event_id=s.id).all()
@@ -31,9 +34,6 @@ class GetPlaylistDetail(View):
                         "name": art.name,
                         "shortLink": art.short_link,
                         "imageUrl": art.image_url,
-                        "date_release": s.date_release,
-                        "date_create": s.date_create,
-                        "description": s.description,
                     })
 
                 s_data["artists"] = artists_data
@@ -53,8 +53,8 @@ class GetPlaylistDetail(View):
                 "title": pl.title,
                 "thumbnail": pl.thumbnail,
                 "duration": pl.duration,
-                # "date_create": pl.date_create,
-                # "description": pl.description,
+                "dateModify": pl.date_modify,
+                "description": pl.description,
                 "type": pl.type,
                 "song": song_data,
                 "tags": list_tag,
