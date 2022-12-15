@@ -1,6 +1,6 @@
 import { useRouter } from "next/router";
 import React, { useEffect, useState } from "react";
-import { Box, Button, Flex, Image, Text } from "theme-ui";
+import { Box, Flex, Grid, Image, Text } from "theme-ui";
 import getPlaylistDetail from "../../service/getPlaylistDetail";
 export interface DataTags{
     name: string | undefined;
@@ -12,25 +12,148 @@ export interface DataHeaderPlaylist {
     description: string | undefined,
     tags: DataTags[] | undefined,
 }
+export interface DataArtist {
+    nameArtist: string | undefined;
+}
 export interface NameSong {
     name: string | undefined;
-}
-export interface DurationSong {
     duration: string | undefined;
+    artist: DataArtist[] | undefined;
+    image: string | undefined;
 }
+
 interface DataListSong {
-    name: NameSong[] | undefined,
-    duration: DurationSong[] | undefined,
+    song: NameSong[] | undefined,
 }
-export const ListSonginPlayList = ({ name, duration }: DataListSong) => {
+export const ListSonginPlayList = ({ song }: DataListSong) => {
     return(
         <Box
             sx={{
-                mt: '20px',
                 ml: '30px',
+                mr: '30px',
+                mt: '30px'
             }}
         >
             <Text as="h2" sx={{ color: 'rgba(244,246,248,0.88)'}}>Danh sách bài hát</Text>
+            <Box
+                sx={{
+                    background: "#212a35",
+                    borderRadius: '4px', height: '35px'
+                }}
+            >
+                <Grid
+                    sx={{
+                        gridTemplateColumns: ['3','3.5fr 2fr 1.3fr'],
+                        mt: '20px',
+                    }}
+                >
+                    <Text
+                        as="h3"
+                        sx={{
+                            ml: '20px',
+                            color: '#dadde0',
+                            my: '7px',
+                        }}>
+                        Tiêu Đề
+                    </Text>
+                    <Text
+                        as="h3"
+                        sx={{ 
+                            color: '#dadde0',
+                            my: '7px'
+                        }}>
+                        Nghệ Sĩ
+                    </Text>
+                    <Text
+                        as="h3"
+                        sx={{
+                            textAlign: 'center',
+                            color: '#dadde0',
+                            my: '7px'
+                        }}>
+                        Thời Gian
+                    </Text>
+                </Grid>
+            </Box>
+            {song?.map((item:any, index:any) => {
+                return(
+                    <Box
+                        key={index}
+                        sx={{
+                            background: '#212a35',
+                            borderRadius: '4px',
+                            height: '40px',
+                            cursor: 'pointer',
+                            ":hover": {
+                                background: 'rgba(244,246,248,0.05)'
+                            }
+                            }}
+                        >
+                        <Grid
+                            sx={{
+                                gridTemplateColumns: ['3','3.5fr 2fr 1.2fr'],
+                                mt: '5px',
+                                backgroundColor: '',
+                            }}
+                        >
+                            <Flex>
+                                {/* <Image
+                                    alt=""
+                                    src={item?.image}
+                                    sx={{
+                                        height: '20px',
+                                        width: '40px'
+                                    }}
+                                /> */}
+                                <Text
+                                    sx={{
+                                        marginX: '20px',
+                                        whiteSpace: 'nowrap',
+                                        overflow: 'hidden',
+                                        textOverflow: "ellipsis",
+                                        color: 'rgba(244,246,248,0.88)',
+                                        fontSize: '14px',
+                                        my: '10px',
+                                        fontWeight: '700'
+                                    }}>
+                                    {item?.name}
+                                </Text>
+                            </Flex>
+                            <Text
+                                sx={{
+                                    my: '10px',
+                                    whiteSpace: 'nowrap',
+                                    overflow: 'hidden',
+                                    textOverflow:'ellipsis',
+                                    fontWeight: '700'
+                                }}
+                            >
+                                {item?.artist?.map((items:any, index :any) => {
+                                    return(
+                                        <Text key={index}
+                                            sx={{
+                                                fontSize: '14px',
+                                                color: 'rgba(244,246,248,0.5)',
+                                            }}>
+                                            {items?.nameArtist}&emsp;
+                                        </Text>
+                                    );
+                                })}
+                            </Text>
+                            <Text 
+                                sx={{
+                                    textAlign: 'center', 
+                                    fontSize: '14px', 
+                                    color: 'rgba(244,246,248,0.5)', 
+                                    my: '10px',
+                                    fontWeight: '700'
+                                }}>
+                                {item?.duration}
+                            </Text>
+                        </Grid>
+                    </Box>
+                );
+            })}
         </Box>
     );
 }
@@ -92,11 +215,17 @@ export const HeaderPlayListDetail = ({ title, thumbnail, dateModify, description
                     }}
                     >{description}
                 </Text><br></br>
-                <Flex>
+                <Flex
+                    sx={{
+                        "@media only screen and (max-width: 768px)": {
+                            display: 'none'
+                        }
+                    }}
+                >
                     <Text as="h5" sx={{ color: 'rgba(244,246,248,0.5)', fontSize: '14px'}}>Tags:</Text>
                     {tags?.slice(0,3)?.map((item:any, index:any) => {
                         return(
-                            <Button
+                            <Box
                                 key={index}
                                 sx={{
                                     color: 'rgba(244,246,248,0.5)',
@@ -105,13 +234,17 @@ export const HeaderPlayListDetail = ({ title, thumbnail, dateModify, description
                                     whiteSpace: 'nowrap',
                                     ml: '20px',
                                     fontSize: '14px',
+                                    height: '30px',
+                                    padding: '5px 10px',
+                                    position: 'relative',
+                                    bottom: '5px',
                                     borderRadius: '5px 100px 10px 5px',
                                     ":hover": {
                                         color: '#2DAAED',
-                                    }
+                                    },
                                 }}
                                 >{item?.name}
-                            </Button>
+                            </Box>
                         );
                     })}
                 </Flex>
@@ -122,10 +255,12 @@ export const HeaderPlayListDetail = ({ title, thumbnail, dateModify, description
 const PlayListDetail = () => {
     const router = useRouter();
     const [dataHeaderPlaylist, setDataHeaderPlaylist] = useState<DataHeaderPlaylist>();
+    const [dataSong, setDataSong] = useState<DataListSong>()
     useEffect(() => {
         if(router?.query?.key){
             getPlaylistDetail.getAll(String(router.query.key)).then(res => {
                 setDataHeaderPlaylist(res.data)
+                setDataSong(res.data)
             })
         }
     }, [router.query.key])
@@ -153,7 +288,18 @@ const PlayListDetail = () => {
                 })}
             />
             <ListSonginPlayList
-
+                song={dataSong?.song?.map((item:any) => {
+                    return{
+                        name: item?.title,
+                        duration: item?.duration,
+                        image : item?.thumbnail,
+                        artist: item?.artists?.map((items:any) => {
+                            return {
+                                nameArtist: items?.name,
+                            }
+                        }),
+                    }
+                })}
             />
         </Box>
     );
