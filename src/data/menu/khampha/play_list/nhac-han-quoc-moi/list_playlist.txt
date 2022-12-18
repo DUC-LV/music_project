@@ -1,0 +1,981 @@
+{
+  "status": "success",
+  "data": [
+    {
+      "key": "8dXjz1dXWoBH",
+      "title": "Lowlife Princess: Noir",
+      "thumbnail": "https://avatar-ex-swe.nixcdn.com/playlist/2022/11/17/c/0/8/a/1668670281514_300.jpg",
+      "duration": "00:00",
+      "artists": [
+        {
+          "artistId": 381268,
+          "name": "BIBI",
+          "shortLink": null,
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2022/06/01/0/6/9/d/1654020512721_300.jpg"
+        }
+      ],
+      "type": "PLAYLIST",
+      "dateRelease": 1668704400000,
+      "dateCreate": 1668670269996,
+      "uploadBy": null,
+      "provider": null,
+      "refMapping": [],
+      "genreKey": "",
+      "songs": null,
+      "videos": null,
+      "description": "",
+      "dateModify": "29/11/2022",
+      "listTag": [],
+      "numOfItems": 12
+    },
+    {
+      "key": "0H09nwCmIqUk",
+      "title": "BORN PINK",
+      "thumbnail": "https://avatar-ex-swe.nixcdn.com/playlist/2022/09/16/6/7/c/8/1663300848864_300.jpg",
+      "duration": "00:00",
+      "artists": [
+        {
+          "artistId": 215682,
+          "name": "BLACKPINK",
+          "shortLink": "blackpink",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2022/09/16/2/e/3/c/1663304243525_300.jpg"
+        }
+      ],
+      "type": "PLAYLIST",
+      "dateRelease": 1663261200000,
+      "dateCreate": 1663300838353,
+      "uploadBy": null,
+      "provider": null,
+      "refMapping": [],
+      "genreKey": "",
+      "songs": null,
+      "videos": null,
+      "description": "",
+      "dateModify": "16/09/2022",
+      "listTag": [],
+      "numOfItems": 8
+    },
+    {
+      "key": "gMWTe6Nhc3vN",
+      "title": "Melon Music Awards 2022",
+      "thumbnail": "https://avatar-ex-swe.nixcdn.com/playlist/2022/11/28/4/1/9/1/1669626592076_300.jpg",
+      "duration": "00:00",
+      "artists": [
+        {
+          "artistId": 8248,
+          "name": "V.A",
+          "shortLink": "va",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2020/08/18/e/4/e/c/1597723219000_300.jpg"
+        }
+      ],
+      "type": "PLAYLIST",
+      "dateRelease": 0,
+      "dateCreate": 1669626591742,
+      "uploadBy": null,
+      "provider": null,
+      "refMapping": [],
+      "genreKey": "",
+      "songs": null,
+      "videos": null,
+      "description": "",
+      "dateModify": "28/11/2022",
+      "listTag": [],
+      "numOfItems": 8
+    },
+    {
+      "key": "W5RyAkf7s4Yd",
+      "title": "Lowlife Princess: Noir",
+      "thumbnail": "https://avatar-ex-swe.nixcdn.com/playlist/2022/11/17/c/0/8/a/1668669815921_300.jpg",
+      "duration": "00:00",
+      "artists": [
+        {
+          "artistId": 381268,
+          "name": "BIBI",
+          "shortLink": null,
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2022/06/01/0/6/9/d/1654020512721_300.jpg"
+        }
+      ],
+      "type": "PLAYLIST",
+      "dateRelease": 1668618000000,
+      "dateCreate": 1668669782753,
+      "uploadBy": null,
+      "provider": null,
+      "refMapping": [],
+      "genreKey": "",
+      "songs": null,
+      "videos": null,
+      "description": "",
+      "dateModify": "23/11/2022",
+      "listTag": [],
+      "numOfItems": 12
+    },
+    {
+      "key": "pJAQkKe70s5z",
+      "title": "NewJeans 1st EP 'New Jeans'",
+      "thumbnail": "https://avatar-ex-swe.nixcdn.com/playlist/2022/08/03/b/9/4/d/1659518210560_300.jpg",
+      "duration": "00:00",
+      "artists": [
+        {
+          "artistId": 432042,
+          "name": "NewJeans",
+          "shortLink": null,
+          "imageUrl": null
+        }
+      ],
+      "type": "PLAYLIST",
+      "dateRelease": 1659344400000,
+      "dateCreate": 1659518210175,
+      "uploadBy": null,
+      "provider": null,
+      "refMapping": [],
+      "genreKey": "",
+      "songs": null,
+      "videos": null,
+      "description": "",
+      "dateModify": "19/10/2022",
+      "listTag": [],
+      "numOfItems": 4
+    },
+    {
+      "key": "1jM1nzD1zsuu",
+      "title": "ANTIFRAGILE (EP)",
+      "thumbnail": "https://avatar-ex-swe.nixcdn.com/playlist/2022/10/17/0/c/3/a/1666008122739_300.jpg",
+      "duration": "00:00",
+      "artists": [
+        {
+          "artistId": 382066,
+          "name": "LE SSERAFIM",
+          "shortLink": null,
+          "imageUrl": null
+        }
+      ],
+      "type": "PLAYLIST",
+      "dateRelease": 1665939600000,
+      "dateCreate": 1666008122368,
+      "uploadBy": null,
+      "provider": null,
+      "refMapping": [],
+      "genreKey": "",
+      "songs": null,
+      "videos": null,
+      "description": "",
+      "dateModify": "02/11/2022",
+      "listTag": [],
+      "numOfItems": 5
+    },
+    {
+      "key": "wEcIgLQtWHh5",
+      "title": "Top NHẠC PHIM HÀN QUỐC Nửa Năm 2022",
+      "thumbnail": "https://avatar-ex-swe.nixcdn.com/playlist/2022/06/15/6/0/4/9/1655282790171_300.jpg",
+      "duration": "00:00",
+      "artists": [
+        {
+          "artistId": 8248,
+          "name": "V.A",
+          "shortLink": "va",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2020/08/18/e/4/e/c/1597723219000_300.jpg"
+        }
+      ],
+      "type": "PLAYLIST",
+      "dateRelease": 0,
+      "dateCreate": 1655282790105,
+      "uploadBy": null,
+      "provider": null,
+      "refMapping": [],
+      "genreKey": "",
+      "songs": null,
+      "videos": null,
+      "description": "",
+      "dateModify": "15/06/2022",
+      "listTag": [],
+      "numOfItems": 100
+    },
+    {
+      "key": "cf6h89SxmJlv",
+      "title": "Top K-POP Nửa Năm 2022",
+      "thumbnail": "https://avatar-ex-swe.nixcdn.com/playlist/2022/06/15/6/0/4/9/1655281784686_300.jpg",
+      "duration": "00:00",
+      "artists": [
+        {
+          "artistId": 8248,
+          "name": "V.A",
+          "shortLink": "va",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2020/08/18/e/4/e/c/1597723219000_300.jpg"
+        }
+      ],
+      "type": "PLAYLIST",
+      "dateRelease": 0,
+      "dateCreate": 1655281784589,
+      "uploadBy": null,
+      "provider": null,
+      "refMapping": [],
+      "genreKey": "",
+      "songs": null,
+      "videos": null,
+      "description": "",
+      "dateModify": "15/06/2022",
+      "listTag": [],
+      "numOfItems": 100
+    },
+    {
+      "key": "JwevduuVOLxp",
+      "title": "K-POP Hay Nhất 2022",
+      "thumbnail": "https://avatar-ex-swe.nixcdn.com/playlist/2022/09/16/5/4/e/6/1663302439325_300.jpg",
+      "duration": "00:00",
+      "artists": [
+        {
+          "artistId": 8248,
+          "name": "V.A",
+          "shortLink": "va",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2020/08/18/e/4/e/c/1597723219000_300.jpg"
+        }
+      ],
+      "type": "PLAYLIST",
+      "dateRelease": 0,
+      "dateCreate": 1641370875268,
+      "uploadBy": null,
+      "provider": null,
+      "refMapping": [],
+      "genreKey": "",
+      "songs": null,
+      "videos": null,
+      "description": "",
+      "dateModify": "02/11/2022",
+      "listTag": [],
+      "numOfItems": 61
+    },
+    {
+      "key": "aCUkQZXQC3jy",
+      "title": "Pink Venom (Single)",
+      "thumbnail": "https://avatar-ex-swe.nixcdn.com/playlist/2022/08/19/e/8/2/2/1660881695473_300.jpg",
+      "duration": "00:00",
+      "artists": [
+        {
+          "artistId": 215682,
+          "name": "BLACKPINK",
+          "shortLink": "blackpink",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2022/09/16/2/e/3/c/1663304243525_300.jpg"
+        }
+      ],
+      "type": "PLAYLIST",
+      "dateRelease": 1660842000000,
+      "dateCreate": 1660881688317,
+      "uploadBy": null,
+      "provider": null,
+      "refMapping": [],
+      "genreKey": "",
+      "songs": null,
+      "videos": null,
+      "description": "",
+      "dateModify": "19/08/2022",
+      "listTag": [],
+      "numOfItems": 1
+    },
+    {
+      "key": "lWHgsKLXheLj",
+      "title": "Nhạc Hàn Quốc Hot Tháng 09/2022",
+      "thumbnail": "https://avatar-ex-swe.nixcdn.com/playlist/2022/09/07/9/0/3/7/1662516866218_300.jpg",
+      "duration": "00:00",
+      "artists": [
+        {
+          "artistId": 8248,
+          "name": "V.A",
+          "shortLink": "va",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2020/08/18/e/4/e/c/1597723219000_300.jpg"
+        }
+      ],
+      "type": "PLAYLIST",
+      "dateRelease": 0,
+      "dateCreate": 1662460618620,
+      "uploadBy": null,
+      "provider": null,
+      "refMapping": [],
+      "genreKey": "",
+      "songs": null,
+      "videos": null,
+      "description": "",
+      "dateModify": "19/10/2022",
+      "listTag": [],
+      "numOfItems": 74
+    },
+    {
+      "key": "iW2bWH6Kcmsx",
+      "title": "K-POP ON!",
+      "thumbnail": "https://avatar-ex-swe.nixcdn.com/playlist/2022/08/19/e/f/8/3/1660904688818_300.jpg",
+      "duration": "00:00",
+      "artists": [
+        {
+          "artistId": 8248,
+          "name": "V.A",
+          "shortLink": "va",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2020/08/18/e/4/e/c/1597723219000_300.jpg"
+        }
+      ],
+      "type": "PLAYLIST",
+      "dateRelease": 0,
+      "dateCreate": 1648803003005,
+      "uploadBy": null,
+      "provider": null,
+      "refMapping": [],
+      "genreKey": "",
+      "songs": null,
+      "videos": null,
+      "description": "",
+      "dateModify": "28/11/2022",
+      "listTag": [],
+      "numOfItems": 81
+    },
+    {
+      "key": "Xpv6SqKskueo",
+      "title": "ENTWURF",
+      "thumbnail": "https://avatar-ex-swe.nixcdn.com/playlist/2022/09/19/2/1/7/e/1663579301097_300.jpg",
+      "duration": "00:00",
+      "artists": [
+        {
+          "artistId": 364911,
+          "name": "NMIXX",
+          "shortLink": "nmixx",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2022/12/12/8/e/5/6/1670813378930_300.jpg"
+        }
+      ],
+      "type": "PLAYLIST",
+      "dateRelease": 1663578000000,
+      "dateCreate": 1663579300896,
+      "uploadBy": null,
+      "provider": null,
+      "refMapping": [],
+      "genreKey": "",
+      "songs": null,
+      "videos": null,
+      "description": "",
+      "dateModify": "20/09/2022",
+      "listTag": [],
+      "numOfItems": 4
+    },
+    {
+      "key": "yKdoNjFRhKa2",
+      "title": "Người Chơi Hệ K-POP",
+      "thumbnail": "https://avatar-ex-swe.nixcdn.com/playlist/2022/09/16/5/4/e/6/1663302188592_300.jpg",
+      "duration": "00:00",
+      "artists": [
+        {
+          "artistId": 8248,
+          "name": "V.A",
+          "shortLink": "va",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2020/08/18/e/4/e/c/1597723219000_300.jpg"
+        }
+      ],
+      "type": "PLAYLIST",
+      "dateRelease": 0,
+      "dateCreate": 1611893005814,
+      "uploadBy": null,
+      "provider": null,
+      "refMapping": [],
+      "genreKey": "",
+      "songs": null,
+      "videos": null,
+      "description": "",
+      "dateModify": "13/12/2022",
+      "listTag": [],
+      "numOfItems": 75
+    },
+    {
+      "key": "829cB7kBdH2j",
+      "title": "BETWEEN 1&2",
+      "thumbnail": "https://avatar-ex-swe.nixcdn.com/playlist/2022/08/26/b/3/3/1/1661494811464_300.jpg",
+      "duration": "00:00",
+      "artists": [
+        {
+          "artistId": 16907,
+          "name": "TWICE",
+          "shortLink": "Twice",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2019/09/23/5/0/5/1/1569229552362_300.jpg"
+        }
+      ],
+      "type": "PLAYLIST",
+      "dateRelease": 1661486400000,
+      "dateCreate": 1661494811328,
+      "uploadBy": null,
+      "provider": null,
+      "refMapping": [],
+      "genreKey": "",
+      "songs": null,
+      "videos": null,
+      "description": "",
+      "dateModify": "19/10/2022",
+      "listTag": [],
+      "numOfItems": 7
+    },
+    {
+      "key": "w1eedLmMONUR",
+      "title": "[Apocalypse : Follow us]",
+      "thumbnail": "https://avatar-ex-swe.nixcdn.com/playlist/2022/10/13/8/2/c/f/1665671053641_300.jpg",
+      "duration": "00:00",
+      "artists": [
+        {
+          "artistId": 223707,
+          "name": "Dreamcatcher",
+          "shortLink": null,
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2019/09/18/6/0/3/c/1568802153154_300.jpg"
+        }
+      ],
+      "type": "PLAYLIST",
+      "dateRelease": 1665421200000,
+      "dateCreate": 1665671042307,
+      "uploadBy": null,
+      "provider": null,
+      "refMapping": [],
+      "genreKey": "",
+      "songs": null,
+      "videos": null,
+      "description": "",
+      "dateModify": "14/10/2022",
+      "listTag": [],
+      "numOfItems": 6
+    },
+    {
+      "key": "KZPzRsAjyvQa",
+      "title": "Girls (The 2nd Mini Album)",
+      "thumbnail": "https://avatar-ex-swe.nixcdn.com/playlist/2022/07/08/9/8/6/6/1657266968724_300.jpg",
+      "duration": "00:00",
+      "artists": [
+        {
+          "artistId": 340610,
+          "name": "aespa",
+          "shortLink": null,
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2020/11/17/e/9/4/5/1605606031249_300.jpg"
+        }
+      ],
+      "type": "PLAYLIST",
+      "dateRelease": 1657252800000,
+      "dateCreate": 1657266968317,
+      "uploadBy": null,
+      "provider": null,
+      "refMapping": [],
+      "genreKey": "",
+      "songs": null,
+      "videos": null,
+      "description": "",
+      "dateModify": "08/07/2022",
+      "listTag": [],
+      "numOfItems": 9
+    },
+    {
+      "key": "ZPOg5wVczPko",
+      "title": "K-POP Today's Top Hits",
+      "thumbnail": "https://avatar-ex-swe.nixcdn.com/playlist/2022/10/19/9/d/b/7/1666168921758_300.jpg",
+      "duration": "00:00",
+      "artists": [
+        {
+          "artistId": 8248,
+          "name": "V.A",
+          "shortLink": "va",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2020/08/18/e/4/e/c/1597723219000_300.jpg"
+        }
+      ],
+      "type": "PLAYLIST",
+      "dateRelease": 0,
+      "dateCreate": 1532572636472,
+      "uploadBy": null,
+      "provider": null,
+      "refMapping": [],
+      "genreKey": "",
+      "songs": null,
+      "videos": null,
+      "description": "",
+      "dateModify": "19/10/2022",
+      "listTag": [],
+      "numOfItems": 65
+    },
+    {
+      "key": "rMRiAk5Rr64b",
+      "title": "Webtoon 'Return of the Blossoming Blade' Part.2 (Original Soundtrack)",
+      "thumbnail": "https://avatar-ex-swe.nixcdn.com/playlist/2022/11/23/1/6/4/b/1669171077286_300.jpg",
+      "duration": "00:00",
+      "artists": [
+        {
+          "artistId": 208559,
+          "name": "Ahn Ye Eun",
+          "shortLink": null,
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2017/03/13/3/e/f/1/1489420670971_300.jpg"
+        }
+      ],
+      "type": "PLAYLIST",
+      "dateRelease": 1669136400000,
+      "dateCreate": 1669171066645,
+      "uploadBy": null,
+      "provider": null,
+      "refMapping": [],
+      "genreKey": "",
+      "songs": null,
+      "videos": null,
+      "description": "",
+      "dateModify": "01/12/2022",
+      "listTag": [],
+      "numOfItems": 2
+    },
+    {
+      "key": "faKiT81W7LrE",
+      "title": "Gray",
+      "thumbnail": "https://avatar-ex-swe.nixcdn.com/playlist/2022/11/28/4/9/f/c/1669606660273_300.jpg",
+      "duration": "00:00",
+      "artists": [
+        {
+          "artistId": 379297,
+          "name": "Michel Yang",
+          "shortLink": null,
+          "imageUrl": null
+        }
+      ],
+      "type": "PLAYLIST",
+      "dateRelease": 1669654800000,
+      "dateCreate": 1669606628599,
+      "uploadBy": null,
+      "provider": null,
+      "refMapping": [],
+      "genreKey": "",
+      "songs": null,
+      "videos": null,
+      "description": "",
+      "dateModify": "01/12/2022",
+      "listTag": [],
+      "numOfItems": 10
+    },
+    {
+      "key": "hVf5bNFxMCs8",
+      "title": "K-Pop Volume Up",
+      "thumbnail": "https://avatar-ex-swe.nixcdn.com/playlist/2022/11/29/2/c/b/6/1669691468097_300.jpg",
+      "duration": "00:00",
+      "artists": [
+        {
+          "artistId": 8248,
+          "name": "V.A",
+          "shortLink": "va",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2020/08/18/e/4/e/c/1597723219000_300.jpg"
+        }
+      ],
+      "type": "PLAYLIST",
+      "dateRelease": 0,
+      "dateCreate": 1582014017250,
+      "uploadBy": null,
+      "provider": null,
+      "refMapping": [],
+      "genreKey": "",
+      "songs": null,
+      "videos": null,
+      "description": "",
+      "dateModify": "29/11/2022",
+      "listTag": [],
+      "numOfItems": 46
+    },
+    {
+      "key": "8Q3vBelsVBaI",
+      "title": "SEXY NUKIM (feat. RM of BTS)",
+      "thumbnail": "https://avatar-ex-swe.nixcdn.com/playlist/2022/09/05/7/1/0/6/1662373515027_300.jpg",
+      "duration": "00:00",
+      "artists": [
+        {
+          "artistId": 267986,
+          "name": "Balming Tiger",
+          "shortLink": null,
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2022/09/05/0/3/1/e/1662374394580_300.jpg"
+        }
+      ],
+      "type": "PLAYLIST",
+      "dateRelease": 1661965200000,
+      "dateCreate": 1662373501088,
+      "uploadBy": null,
+      "provider": null,
+      "refMapping": [],
+      "genreKey": "",
+      "songs": null,
+      "videos": null,
+      "description": "",
+      "dateModify": "06/09/2022",
+      "listTag": [],
+      "numOfItems": 1
+    },
+    {
+      "key": "AYeW9aHvb7Qo",
+      "title": "Omnibus, Pt. 2: Inside Out",
+      "thumbnail": "https://avatar-ex-swe.nixcdn.com/playlist/2022/12/08/2/8/7/3/1670468426483_300.jpg",
+      "duration": "00:00",
+      "artists": [
+        {
+          "artistId": 267991,
+          "name": "SHAUN",
+          "shortLink": "shaun",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2018/07/18/3/b/7/f/1531879450741_300.jpg"
+        }
+      ],
+      "type": "PLAYLIST",
+      "dateRelease": 1670518800000,
+      "dateCreate": 1670468403942,
+      "uploadBy": null,
+      "provider": null,
+      "refMapping": [],
+      "genreKey": "",
+      "songs": null,
+      "videos": null,
+      "description": "",
+      "dateModify": "12/12/2022",
+      "listTag": [],
+      "numOfItems": 3
+    },
+    {
+      "key": "7qnyddKZdn3i",
+      "title": "ERROR",
+      "thumbnail": "https://avatar-ex-swe.nixcdn.com/playlist/2022/10/17/5/1/8/b/1665999991044_300.jpg",
+      "duration": "00:00",
+      "artists": [
+        {
+          "artistId": 199702,
+          "name": "Lee Chanhyuk",
+          "shortLink": null,
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2022/10/17/5/d/1/8/1666004048955_300.jpg"
+        }
+      ],
+      "type": "PLAYLIST",
+      "dateRelease": 1665939600000,
+      "dateCreate": 1665999980903,
+      "uploadBy": null,
+      "provider": null,
+      "refMapping": [],
+      "genreKey": "",
+      "songs": null,
+      "videos": null,
+      "description": "",
+      "dateModify": "17/10/2022",
+      "listTag": [],
+      "numOfItems": 11
+    },
+    {
+      "key": "3N86Rl1tE3Kh",
+      "title": "K-POP Những Bản Hit Quốc Dân",
+      "thumbnail": "https://avatar-ex-swe.nixcdn.com/playlist/2022/09/09/e/4/b/1/1662709522879_300.jpg",
+      "duration": "00:00",
+      "artists": [
+        {
+          "artistId": 8248,
+          "name": "V.A",
+          "shortLink": "va",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2020/08/18/e/4/e/c/1597723219000_300.jpg"
+        }
+      ],
+      "type": "PLAYLIST",
+      "dateRelease": 0,
+      "dateCreate": 1581317458571,
+      "uploadBy": null,
+      "provider": null,
+      "refMapping": [],
+      "genreKey": "",
+      "songs": null,
+      "videos": null,
+      "description": "",
+      "dateModify": "16/09/2022",
+      "listTag": [],
+      "numOfItems": 68
+    },
+    {
+      "key": "MhwtsS8wI0Pm",
+      "title": "Nhạc Hàn Cho Ngày Mới Năng Động",
+      "thumbnail": "https://avatar-ex-swe.nixcdn.com/playlist/2022/06/30/d/6/4/f/1656583302577_300.jpg",
+      "duration": "00:00",
+      "artists": [
+        {
+          "artistId": 8248,
+          "name": "V.A",
+          "shortLink": "va",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2020/08/18/e/4/e/c/1597723219000_300.jpg"
+        }
+      ],
+      "type": "PLAYLIST",
+      "dateRelease": 0,
+      "dateCreate": 1656583302525,
+      "uploadBy": null,
+      "provider": null,
+      "refMapping": [],
+      "genreKey": "",
+      "songs": null,
+      "videos": null,
+      "description": "",
+      "dateModify": "01/07/2022",
+      "listTag": [],
+      "numOfItems": 30
+    },
+    {
+      "key": "tacJGzn7kWXB",
+      "title": "4 ONLY",
+      "thumbnail": "https://avatar-ex-swe.nixcdn.com/playlist/2022/07/08/5/1/d/f/1657299594774_300.jpg",
+      "duration": "00:00",
+      "artists": [
+        {
+          "artistId": 114078,
+          "name": "Lee Hi",
+          "shortLink": "lee-hi",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2014/04/11/6/4/4/b/1397189114353_300.jpg"
+        }
+      ],
+      "type": "PLAYLIST",
+      "dateRelease": -3600000,
+      "dateCreate": 1657298327579,
+      "uploadBy": null,
+      "provider": null,
+      "refMapping": [],
+      "genreKey": "",
+      "songs": null,
+      "videos": null,
+      "description": "",
+      "dateModify": "29/08/2022",
+      "listTag": [],
+      "numOfItems": 10
+    },
+    {
+      "key": "KVhUt3kCX8H8",
+      "title": "Nhạc Hàn Quốc Hot Tháng 08/2022",
+      "thumbnail": "https://avatar-ex-swe.nixcdn.com/playlist/2022/08/02/f/9/d/4/1659420640388_300.jpg",
+      "duration": "00:00",
+      "artists": [
+        {
+          "artistId": 8248,
+          "name": "V.A",
+          "shortLink": "va",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2020/08/18/e/4/e/c/1597723219000_300.jpg"
+        }
+      ],
+      "type": "PLAYLIST",
+      "dateRelease": 0,
+      "dateCreate": 1659420640231,
+      "uploadBy": null,
+      "provider": null,
+      "refMapping": [],
+      "genreKey": "",
+      "songs": null,
+      "videos": null,
+      "description": "",
+      "dateModify": "19/10/2022",
+      "listTag": [],
+      "numOfItems": 51
+    },
+    {
+      "key": "jAo8d0W9UxhV",
+      "title": "LOVE & HOLIDAY",
+      "thumbnail": "https://avatar-ex-swe.nixcdn.com/playlist/2022/09/12/e/d/7/4/1662983023770_300.jpg",
+      "duration": "00:00",
+      "artists": [
+        {
+          "artistId": 191146,
+          "name": "Ravi",
+          "shortLink": null,
+          "imageUrl": null
+        }
+      ],
+      "type": "PLAYLIST",
+      "dateRelease": 1662915600000,
+      "dateCreate": 1662983002869,
+      "uploadBy": null,
+      "provider": null,
+      "refMapping": [],
+      "genreKey": "",
+      "songs": null,
+      "videos": null,
+      "description": "",
+      "dateModify": "13/09/2022",
+      "listTag": [],
+      "numOfItems": 9
+    },
+    {
+      "key": "gdvU8QEZlmtH",
+      "title": "JOURNEY",
+      "thumbnail": "https://avatar-ex-swe.nixcdn.com/playlist/2022/09/12/e/d/7/4/1662978310337_300.jpg",
+      "duration": "00:00",
+      "artists": [
+        {
+          "artistId": 79490,
+          "name": "Henry Lau",
+          "shortLink": "henry-lau",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2017/08/29/b/c/a/6/1504002129149_300.jpg"
+        }
+      ],
+      "type": "PLAYLIST",
+      "dateRelease": 1605632400000,
+      "dateCreate": 1662978295247,
+      "uploadBy": null,
+      "provider": null,
+      "refMapping": [],
+      "genreKey": "",
+      "songs": null,
+      "videos": null,
+      "description": "",
+      "dateModify": "13/09/2022",
+      "listTag": [],
+      "numOfItems": 6
+    },
+    {
+      "key": "nUzAd3XfZLuq",
+      "title": "K-POP Không Thể Bỏ Qua",
+      "thumbnail": "https://avatar-ex-swe.nixcdn.com/playlist/2022/09/07/9/0/3/7/1662525982249_300.jpg",
+      "duration": "00:00",
+      "artists": [
+        {
+          "artistId": 8248,
+          "name": "V.A",
+          "shortLink": "va",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2020/08/18/e/4/e/c/1597723219000_300.jpg"
+        }
+      ],
+      "type": "PLAYLIST",
+      "dateRelease": 0,
+      "dateCreate": 1598345583678,
+      "uploadBy": null,
+      "provider": null,
+      "refMapping": [],
+      "genreKey": "",
+      "songs": null,
+      "videos": null,
+      "description": "",
+      "dateModify": "13/12/2022",
+      "listTag": [],
+      "numOfItems": 99
+    },
+    {
+      "key": "5btnEmIUcIA2",
+      "title": "Top Songs: BlackPink",
+      "thumbnail": "https://avatar-ex-swe.nixcdn.com/playlist/2022/08/25/b/a/a/2/1661418516429_300.jpg",
+      "duration": "00:00",
+      "artists": [
+        {
+          "artistId": 215682,
+          "name": "BLACKPINK",
+          "shortLink": "blackpink",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2022/09/16/2/e/3/c/1663304243525_300.jpg"
+        }
+      ],
+      "type": "PLAYLIST",
+      "dateRelease": 0,
+      "dateCreate": 1489730956539,
+      "uploadBy": null,
+      "provider": null,
+      "refMapping": [],
+      "genreKey": "",
+      "songs": null,
+      "videos": null,
+      "description": "",
+      "dateModify": "24/10/2022",
+      "listTag": [],
+      "numOfItems": 74
+    },
+    {
+      "key": "vFFoNelkDZPV",
+      "title": "K-POP Teen Party",
+      "thumbnail": "https://avatar-ex-swe.nixcdn.com/playlist/2022/08/22/0/e/5/c/1661150052880_300.jpg",
+      "duration": "00:00",
+      "artists": [
+        {
+          "artistId": 8248,
+          "name": "V.A",
+          "shortLink": "va",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2020/08/18/e/4/e/c/1597723219000_300.jpg"
+        }
+      ],
+      "type": "PLAYLIST",
+      "dateRelease": 0,
+      "dateCreate": 1621417055711,
+      "uploadBy": null,
+      "provider": null,
+      "refMapping": [],
+      "genreKey": "",
+      "songs": null,
+      "videos": null,
+      "description": "",
+      "dateModify": "22/08/2022",
+      "listTag": [],
+      "numOfItems": 47
+    },
+    {
+      "key": "8bREblaFT9dj",
+      "title": "COUP D'ETAT (Korean Version)",
+      "thumbnail": "https://avatar-ex-swe.nixcdn.com/playlist/2022/09/05/7/1/0/6/1662373612786_300.jpg",
+      "duration": "00:00",
+      "artists": [
+        {
+          "artistId": 20131,
+          "name": "G-Dragon",
+          "shortLink": "G-Dragon",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2022/04/05/a/d/b/b/1649126694681_300.jpg"
+        }
+      ],
+      "type": "PLAYLIST",
+      "dateRelease": 1378314000000,
+      "dateCreate": 1662373590183,
+      "uploadBy": null,
+      "provider": null,
+      "refMapping": [],
+      "genreKey": "",
+      "songs": null,
+      "videos": null,
+      "description": "",
+      "dateModify": "06/09/2022",
+      "listTag": [],
+      "numOfItems": 12
+    },
+    {
+      "key": "fzp5LDTrEaDF",
+      "title": "Feelin' Like",
+      "thumbnail": "https://avatar-ex-swe.nixcdn.com/playlist/2022/09/14/5/e/2/1/1663123154808_300.jpg",
+      "duration": "00:00",
+      "artists": [
+        {
+          "artistId": 216018,
+          "name": "Pentagon",
+          "shortLink": "pentagon",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2017/11/22/5/0/e/7/1511343308361_300.jpg"
+        }
+      ],
+      "type": "PLAYLIST",
+      "dateRelease": 1663088400000,
+      "dateCreate": 1663123135127,
+      "uploadBy": null,
+      "provider": null,
+      "refMapping": [],
+      "genreKey": "",
+      "songs": null,
+      "videos": null,
+      "description": "",
+      "dateModify": "13/10/2022",
+      "listTag": [],
+      "numOfItems": 5
+    },
+    {
+      "key": "euJ6uLlFr5Y1",
+      "title": "Nhạc Hàn Quốc Hot Tháng 06/2022",
+      "thumbnail": "https://avatar-ex-swe.nixcdn.com/playlist/2022/06/02/d/e/d/e/1654165675755_300.jpg",
+      "duration": "00:00",
+      "artists": [
+        {
+          "artistId": 8248,
+          "name": "V.A",
+          "shortLink": "va",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2020/08/18/e/4/e/c/1597723219000_300.jpg"
+        }
+      ],
+      "type": "PLAYLIST",
+      "dateRelease": 0,
+      "dateCreate": 1654165674972,
+      "uploadBy": null,
+      "provider": null,
+      "refMapping": [],
+      "genreKey": "",
+      "songs": null,
+      "videos": null,
+      "description": "",
+      "dateModify": "19/10/2022",
+      "listTag": [],
+      "numOfItems": 60
+    }
+  ],
+  "total": 1000,
+  "type": "playlist",
+  "clientIp": "183.80.235.131",
+  "time": 1671256692051
+}

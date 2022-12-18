@@ -1,0 +1,1059 @@
+{
+  "status": "success",
+  "data": [
+    {
+      "key": "OJGSKJaiASJK",
+      "title": "Wild Flower",
+      "thumbnail": "https://avatar-ex-swe.nixcdn.com/song/2022/12/05/a/d/e/b/1670225807994_300.jpg",
+      "duration": "04:33",
+      "artists": [
+        {
+          "artistId": 136583,
+          "name": "RM (BTS)",
+          "shortLink": "rm-bts",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2017/02/13/e/3/b/8/1486977492975_300.jpg"
+        },
+        {
+          "artistId": 495245,
+          "name": "Youjeen",
+          "shortLink": null,
+          "imageUrl": null
+        }
+      ],
+      "type": "SONG",
+      "dateRelease": 0,
+      "dateCreate": 0,
+      "uploadBy": null,
+      "provider": null,
+      "isMyPlaylist": false,
+      "statusViewValue": 1,
+      "statusPlayValue": 1,
+      "statusDownloadValue": 2,
+      "statusAddPlaylistValue": 0,
+      "refMapping": [],
+      "genreKey": "",
+      "streamUrls": [],
+      "description": ""
+    },
+    {
+      "key": "CT6nRyYbwQXJ",
+      "title": "Candy",
+      "thumbnail": "https://avatar-ex-swe.nixcdn.com/song/2022/12/16/7/d/4/0/1671182184358_300.jpg",
+      "duration": "03:37",
+      "artists": [
+        {
+          "artistId": 216670,
+          "name": "NCT Dream",
+          "shortLink": "nct-dream",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2022/12/16/1/6/6/d/1671183885242_300.jpg"
+        }
+      ],
+      "type": "SONG",
+      "dateRelease": 0,
+      "dateCreate": 0,
+      "uploadBy": null,
+      "provider": null,
+      "isMyPlaylist": false,
+      "statusViewValue": 1,
+      "statusPlayValue": 1,
+      "statusDownloadValue": 2,
+      "statusAddPlaylistValue": 0,
+      "refMapping": [],
+      "genreKey": "",
+      "streamUrls": [],
+      "description": ""
+    },
+    {
+      "key": "9OYtk1NPKMrE",
+      "title": "Shut Down",
+      "thumbnail": "https://avatar-ex-swe.nixcdn.com/song/2022/09/16/0/2/1/c/1663301881856_300.jpg",
+      "duration": "02:55",
+      "artists": [
+        {
+          "artistId": 215682,
+          "name": "BLACKPINK",
+          "shortLink": "blackpink",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2022/09/16/2/e/3/c/1663304243525_300.jpg"
+        }
+      ],
+      "type": "SONG",
+      "dateRelease": 1663300800000,
+      "dateCreate": 1663301868913,
+      "uploadBy": null,
+      "provider": null,
+      "isMyPlaylist": false,
+      "statusViewValue": 1,
+      "statusPlayValue": 1,
+      "statusDownloadValue": 0,
+      "statusAddPlaylistValue": 0,
+      "refMapping": [],
+      "genreKey": "",
+      "streamUrls": [],
+      "description": ""
+    },
+    {
+      "key": "FU5Nz7VeanND",
+      "title": "Typa Girl",
+      "thumbnail": "https://avatar-ex-swe.nixcdn.com/song/2022/09/16/0/2/1/c/1663301917984_300.jpg",
+      "duration": "02:59",
+      "artists": [
+        {
+          "artistId": 215682,
+          "name": "BLACKPINK",
+          "shortLink": "blackpink",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2022/09/16/2/e/3/c/1663304243525_300.jpg"
+        }
+      ],
+      "type": "SONG",
+      "dateRelease": 1663300800000,
+      "dateCreate": 1663301901029,
+      "uploadBy": null,
+      "provider": null,
+      "isMyPlaylist": false,
+      "statusViewValue": 1,
+      "statusPlayValue": 1,
+      "statusDownloadValue": 0,
+      "statusAddPlaylistValue": 0,
+      "refMapping": [],
+      "genreKey": "",
+      "streamUrls": [],
+      "description": ""
+    },
+    {
+      "key": "Bur1cQkiJWzD",
+      "title": "Take My Breath",
+      "thumbnail": "https://avatar-ex-swe.nixcdn.com/song/2022/12/16/7/d/4/0/1671183098497_300.jpg",
+      "duration": "03:01",
+      "artists": [
+        {
+          "artistId": 216670,
+          "name": "NCT Dream",
+          "shortLink": "nct-dream",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2022/12/16/1/6/6/d/1671183885242_300.jpg"
+        }
+      ],
+      "type": "SONG",
+      "dateRelease": 0,
+      "dateCreate": 0,
+      "uploadBy": null,
+      "provider": null,
+      "isMyPlaylist": false,
+      "statusViewValue": 1,
+      "statusPlayValue": 1,
+      "statusDownloadValue": 2,
+      "statusAddPlaylistValue": 0,
+      "refMapping": [],
+      "genreKey": "",
+      "streamUrls": [],
+      "description": ""
+    },
+    {
+      "key": "fweebmFSSICR",
+      "title": "Still Life ",
+      "thumbnail": "https://avatar-ex-swe.nixcdn.com/song/2022/12/05/a/d/e/b/1670225289154_300.jpg",
+      "duration": "02:55",
+      "artists": [
+        {
+          "artistId": 136583,
+          "name": "RM (BTS)",
+          "shortLink": "rm-bts",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2017/02/13/e/3/b/8/1486977492975_300.jpg"
+        },
+        {
+          "artistId": 434170,
+          "name": "Anderson .Paak",
+          "shortLink": null,
+          "imageUrl": null
+        }
+      ],
+      "type": "SONG",
+      "dateRelease": 0,
+      "dateCreate": 0,
+      "uploadBy": null,
+      "provider": null,
+      "isMyPlaylist": false,
+      "statusViewValue": 1,
+      "statusPlayValue": 1,
+      "statusDownloadValue": 2,
+      "statusAddPlaylistValue": 0,
+      "refMapping": [],
+      "genreKey": "",
+      "streamUrls": [],
+      "description": ""
+    },
+    {
+      "key": "nR7GQSurHEs3",
+      "title": "Moon",
+      "thumbnail": "https://avatar-ex-swe.nixcdn.com/song/2022/12/16/7/d/4/0/1671183196811_300.jpg",
+      "duration": "04:13",
+      "artists": [
+        {
+          "artistId": 216670,
+          "name": "NCT Dream",
+          "shortLink": "nct-dream",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2022/12/16/1/6/6/d/1671183885242_300.jpg"
+        }
+      ],
+      "type": "SONG",
+      "dateRelease": 0,
+      "dateCreate": 0,
+      "uploadBy": null,
+      "provider": null,
+      "isMyPlaylist": false,
+      "statusViewValue": 1,
+      "statusPlayValue": 1,
+      "statusDownloadValue": 2,
+      "statusAddPlaylistValue": 0,
+      "refMapping": [],
+      "genreKey": "",
+      "streamUrls": [],
+      "description": ""
+    },
+    {
+      "key": "H9jZWQ7m4Feh",
+      "title": "The Astronaut",
+      "thumbnail": "https://avatar-ex-swe.nixcdn.com/song/2022/10/31/8/3/d/0/1667191282116_300.jpg",
+      "duration": "04:32",
+      "artists": [
+        {
+          "artistId": 136584,
+          "name": "Jin (BTS)",
+          "shortLink": null,
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2017/06/15/4/7/e/5/1497519102100_300.jpg"
+        }
+      ],
+      "type": "SONG",
+      "dateRelease": 0,
+      "dateCreate": 0,
+      "uploadBy": null,
+      "provider": null,
+      "isMyPlaylist": false,
+      "statusViewValue": 1,
+      "statusPlayValue": 1,
+      "statusDownloadValue": 2,
+      "statusAddPlaylistValue": 0,
+      "refMapping": [],
+      "genreKey": "",
+      "streamUrls": [],
+      "description": ""
+    },
+    {
+      "key": "sZeYtwTaHNlt",
+      "title": "Funky Glitter Christmas",
+      "thumbnail": "https://avatar-ex-swe.nixcdn.com/song/2022/11/24/0/7/f/d/1669260814602_300.jpg",
+      "duration": "03:10",
+      "artists": [
+        {
+          "artistId": 364911,
+          "name": "NMIXX",
+          "shortLink": "nmixx",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2022/12/12/8/e/5/6/1670813378930_300.jpg"
+        }
+      ],
+      "type": "SONG",
+      "dateRelease": 1669194000000,
+      "dateCreate": 1669260810622,
+      "uploadBy": null,
+      "provider": null,
+      "isMyPlaylist": false,
+      "statusViewValue": 1,
+      "statusPlayValue": 1,
+      "statusDownloadValue": 2,
+      "statusAddPlaylistValue": 0,
+      "refMapping": [],
+      "genreKey": "",
+      "streamUrls": [],
+      "description": ""
+    },
+    {
+      "key": "mUhH7OIIb0uQ",
+      "title": "Hard To Love",
+      "thumbnail": "https://avatar-ex-swe.nixcdn.com/song/2022/09/16/0/2/1/c/1663308787709_300.jpg",
+      "duration": "02:42",
+      "artists": [
+        {
+          "artistId": 215682,
+          "name": "BLACKPINK",
+          "shortLink": "blackpink",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2022/09/16/2/e/3/c/1663304243525_300.jpg"
+        }
+      ],
+      "type": "SONG",
+      "dateRelease": 1663300800000,
+      "dateCreate": 1663302006210,
+      "uploadBy": null,
+      "provider": null,
+      "isMyPlaylist": false,
+      "statusViewValue": 1,
+      "statusPlayValue": 1,
+      "statusDownloadValue": 0,
+      "statusAddPlaylistValue": 0,
+      "refMapping": [],
+      "genreKey": "",
+      "streamUrls": [],
+      "description": ""
+    },
+    {
+      "key": "wrOAc1ZKVToj",
+      "title": "Yun",
+      "thumbnail": "https://avatar-ex-swe.nixcdn.com/song/2022/12/05/a/d/e/b/1670225253412_300.jpg",
+      "duration": "03:53",
+      "artists": [
+        {
+          "artistId": 136583,
+          "name": "RM (BTS)",
+          "shortLink": "rm-bts",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2017/02/13/e/3/b/8/1486977492975_300.jpg"
+        },
+        {
+          "artistId": 52624,
+          "name": "Erykah Badu",
+          "shortLink": "erykah-badu",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2016/12/22/5/a/d/7/1482395646978_300.jpg"
+        }
+      ],
+      "type": "SONG",
+      "dateRelease": 0,
+      "dateCreate": 0,
+      "uploadBy": null,
+      "provider": null,
+      "isMyPlaylist": false,
+      "statusViewValue": 1,
+      "statusPlayValue": 1,
+      "statusDownloadValue": 2,
+      "statusAddPlaylistValue": 0,
+      "refMapping": [],
+      "genreKey": "",
+      "streamUrls": [],
+      "description": ""
+    },
+    {
+      "key": "MXNzzQxhZ9JL",
+      "title": "Không Sao Đâu, Mọi Chuyện Rồi Sẽ Ổn Thôi / 나의 모든 이들에게",
+      "thumbnail": "",
+      "duration": "02:46",
+      "artists": [
+        {
+          "artistId": 304704,
+          "name": "Mingginyu",
+          "shortLink": null,
+          "imageUrl": null
+        }
+      ],
+      "type": "SONG",
+      "dateRelease": 0,
+      "dateCreate": 0,
+      "uploadBy": null,
+      "provider": null,
+      "isMyPlaylist": false,
+      "statusViewValue": 1,
+      "statusPlayValue": 1,
+      "statusDownloadValue": 2,
+      "statusAddPlaylistValue": 0,
+      "refMapping": [],
+      "genreKey": "",
+      "streamUrls": [],
+      "description": ""
+    },
+    {
+      "key": "PygJaoCZEFIy",
+      "title": "The Happiest Girl",
+      "thumbnail": "https://avatar-ex-swe.nixcdn.com/song/2022/09/16/0/2/1/c/1663308767667_300.jpg",
+      "duration": "03:42",
+      "artists": [
+        {
+          "artistId": 215682,
+          "name": "BLACKPINK",
+          "shortLink": "blackpink",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2022/09/16/2/e/3/c/1663304243525_300.jpg"
+        }
+      ],
+      "type": "SONG",
+      "dateRelease": 1663300800000,
+      "dateCreate": 1663302055880,
+      "uploadBy": null,
+      "provider": null,
+      "isMyPlaylist": false,
+      "statusViewValue": 1,
+      "statusPlayValue": 1,
+      "statusDownloadValue": 0,
+      "statusAddPlaylistValue": 0,
+      "refMapping": [],
+      "genreKey": "",
+      "streamUrls": [],
+      "description": ""
+    },
+    {
+      "key": "HKNj9X43dimw",
+      "title": "Closer",
+      "thumbnail": "https://avatar-ex-swe.nixcdn.com/song/2022/12/05/a/d/e/b/1670225442866_300.jpg",
+      "duration": "03:16",
+      "artists": [
+        {
+          "artistId": 136583,
+          "name": "RM (BTS)",
+          "shortLink": "rm-bts",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2017/02/13/e/3/b/8/1486977492975_300.jpg"
+        },
+        {
+          "artistId": 301245,
+          "name": "Paul Blanco",
+          "shortLink": null,
+          "imageUrl": null
+        },
+        {
+          "artistId": 195476,
+          "name": "Mahalia",
+          "shortLink": null,
+          "imageUrl": null
+        }
+      ],
+      "type": "SONG",
+      "dateRelease": 0,
+      "dateCreate": 0,
+      "uploadBy": null,
+      "provider": null,
+      "isMyPlaylist": false,
+      "statusViewValue": 1,
+      "statusPlayValue": 1,
+      "statusDownloadValue": 2,
+      "statusAddPlaylistValue": 0,
+      "refMapping": [],
+      "genreKey": "",
+      "streamUrls": [],
+      "description": ""
+    },
+    {
+      "key": "3McdkLoWgsyS",
+      "title": "When I Move",
+      "thumbnail": "https://avatar-ex-swe.nixcdn.com/song/2022/11/30/d/4/5/0/1669812836972_300.jpg",
+      "duration": "02:58",
+      "artists": [
+        {
+          "artistId": 8688,
+          "name": "KARA",
+          "shortLink": "kara",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2016/12/22/5/a/d/7/1482395742991_300.jpg"
+        }
+      ],
+      "type": "SONG",
+      "dateRelease": 0,
+      "dateCreate": 0,
+      "uploadBy": null,
+      "provider": null,
+      "isMyPlaylist": false,
+      "statusViewValue": 1,
+      "statusPlayValue": 1,
+      "statusDownloadValue": 2,
+      "statusAddPlaylistValue": 0,
+      "refMapping": [],
+      "genreKey": "",
+      "streamUrls": [],
+      "description": ""
+    },
+    {
+      "key": "IBiqYntSqc3G",
+      "title": "After LIKE",
+      "thumbnail": "https://avatar-ex-swe.nixcdn.com/song/2022/08/23/b/0/1/e/1661224582986_300.jpg",
+      "duration": "02:57",
+      "artists": [
+        {
+          "artistId": 364765,
+          "name": "IVE",
+          "shortLink": null,
+          "imageUrl": null
+        }
+      ],
+      "type": "SONG",
+      "dateRelease": 0,
+      "dateCreate": 0,
+      "uploadBy": null,
+      "provider": null,
+      "isMyPlaylist": false,
+      "statusViewValue": 1,
+      "statusPlayValue": 1,
+      "statusDownloadValue": 2,
+      "statusAddPlaylistValue": 0,
+      "refMapping": [],
+      "genreKey": "",
+      "streamUrls": [],
+      "description": ""
+    },
+    {
+      "key": "X7hShFWxUvw2",
+      "title": "Tally",
+      "thumbnail": "https://avatar-ex-swe.nixcdn.com/song/2022/09/16/0/2/1/c/1663308751135_300.jpg",
+      "duration": "03:04",
+      "artists": [
+        {
+          "artistId": 215682,
+          "name": "BLACKPINK",
+          "shortLink": "blackpink",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2022/09/16/2/e/3/c/1663304243525_300.jpg"
+        }
+      ],
+      "type": "SONG",
+      "dateRelease": 1663300800000,
+      "dateCreate": 1663302091874,
+      "uploadBy": null,
+      "provider": null,
+      "isMyPlaylist": false,
+      "statusViewValue": 1,
+      "statusPlayValue": 1,
+      "statusDownloadValue": 0,
+      "statusAddPlaylistValue": 0,
+      "refMapping": [],
+      "genreKey": "",
+      "streamUrls": [],
+      "description": ""
+    },
+    {
+      "key": "jNbsEuDrjdCS",
+      "title": "All Day",
+      "thumbnail": "https://avatar-ex-swe.nixcdn.com/song/2022/12/05/a/d/e/b/1670225317783_300.jpg",
+      "duration": "03:06",
+      "artists": [
+        {
+          "artistId": 136583,
+          "name": "RM (BTS)",
+          "shortLink": "rm-bts",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2017/02/13/e/3/b/8/1486977492975_300.jpg"
+        },
+        {
+          "artistId": 101037,
+          "name": "Tablo",
+          "shortLink": "",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2017/01/24/2/f/7/5/1485224919584_300.jpg"
+        }
+      ],
+      "type": "SONG",
+      "dateRelease": 0,
+      "dateCreate": 0,
+      "uploadBy": null,
+      "provider": null,
+      "isMyPlaylist": false,
+      "statusViewValue": 1,
+      "statusPlayValue": 1,
+      "statusDownloadValue": 2,
+      "statusAddPlaylistValue": 0,
+      "refMapping": [],
+      "genreKey": "",
+      "streamUrls": [],
+      "description": ""
+    },
+    {
+      "key": "tOFmAKNtcLi8",
+      "title": "Yeah Yeah Yeah",
+      "thumbnail": "https://avatar-ex-swe.nixcdn.com/song/2022/09/16/0/2/1/c/1663308824231_300.jpg",
+      "duration": "02:58",
+      "artists": [
+        {
+          "artistId": 215682,
+          "name": "BLACKPINK",
+          "shortLink": "blackpink",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2022/09/16/2/e/3/c/1663304243525_300.jpg"
+        }
+      ],
+      "type": "SONG",
+      "dateRelease": 1663300800000,
+      "dateCreate": 1663301962235,
+      "uploadBy": null,
+      "provider": null,
+      "isMyPlaylist": false,
+      "statusViewValue": 1,
+      "statusPlayValue": 1,
+      "statusDownloadValue": 0,
+      "statusAddPlaylistValue": 0,
+      "refMapping": [],
+      "genreKey": "",
+      "streamUrls": [],
+      "description": ""
+    },
+    {
+      "key": "llEXwEHsn2Re",
+      "title": "Bye Bye",
+      "thumbnail": "https://avatar-ex-swe.nixcdn.com/song/2022/11/30/d/4/5/0/1669780021414_300.jpg",
+      "duration": "03:16",
+      "artists": [
+        {
+          "artistId": 162551,
+          "name": "Red Velvet",
+          "shortLink": "red-velvet",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2018/08/06/4/5/5/2/1533543542175_300.jpg"
+        }
+      ],
+      "type": "SONG",
+      "dateRelease": 0,
+      "dateCreate": 0,
+      "uploadBy": null,
+      "provider": null,
+      "isMyPlaylist": false,
+      "statusViewValue": 1,
+      "statusPlayValue": 1,
+      "statusDownloadValue": 2,
+      "statusAddPlaylistValue": 0,
+      "refMapping": [],
+      "genreKey": "",
+      "streamUrls": [],
+      "description": ""
+    },
+    {
+      "key": "obVyE3sMRvlt",
+      "title": "DICE",
+      "thumbnail": "https://avatar-ex-swe.nixcdn.com/song/2022/09/19/8/d/2/9/1663578662092_300.jpg",
+      "duration": "02:45",
+      "artists": [
+        {
+          "artistId": 364911,
+          "name": "NMIXX",
+          "shortLink": "nmixx",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2022/12/12/8/e/5/6/1670813378930_300.jpg"
+        }
+      ],
+      "type": "SONG",
+      "dateRelease": 1663578000000,
+      "dateCreate": 1663578639846,
+      "uploadBy": null,
+      "provider": null,
+      "isMyPlaylist": false,
+      "statusViewValue": 1,
+      "statusPlayValue": 1,
+      "statusDownloadValue": 2,
+      "statusAddPlaylistValue": 0,
+      "refMapping": [],
+      "genreKey": "",
+      "streamUrls": [],
+      "description": ""
+    },
+    {
+      "key": "TLbXivZH0uaO",
+      "title": "Celebrate",
+      "thumbnail": "https://avatar-ex-swe.nixcdn.com/song/2022/11/30/d/4/5/0/1669780561393_300.jpg",
+      "duration": "02:44",
+      "artists": [
+        {
+          "artistId": 162551,
+          "name": "Red Velvet",
+          "shortLink": "red-velvet",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2018/08/06/4/5/5/2/1533543542175_300.jpg"
+        }
+      ],
+      "type": "SONG",
+      "dateRelease": 0,
+      "dateCreate": 0,
+      "uploadBy": null,
+      "provider": null,
+      "isMyPlaylist": false,
+      "statusViewValue": 1,
+      "statusPlayValue": 1,
+      "statusDownloadValue": 2,
+      "statusAddPlaylistValue": 0,
+      "refMapping": [],
+      "genreKey": "",
+      "streamUrls": [],
+      "description": ""
+    },
+    {
+      "key": "HcCLcDWRnQM0",
+      "title": "Cookie",
+      "thumbnail": "https://avatar-ex-swe.nixcdn.com/song/2022/08/01/7/9/a/f/1659346136142_300.jpg",
+      "duration": "03:55",
+      "artists": [
+        {
+          "artistId": 432042,
+          "name": "NewJeans",
+          "shortLink": null,
+          "imageUrl": null
+        }
+      ],
+      "type": "SONG",
+      "dateRelease": 0,
+      "dateCreate": 0,
+      "uploadBy": null,
+      "provider": null,
+      "isMyPlaylist": false,
+      "statusViewValue": 1,
+      "statusPlayValue": 1,
+      "statusDownloadValue": 2,
+      "statusAddPlaylistValue": 0,
+      "refMapping": [],
+      "genreKey": "",
+      "streamUrls": [],
+      "description": ""
+    },
+    {
+      "key": "DXM3JBNVbdtx",
+      "title": "Ready For Love",
+      "thumbnail": "https://avatar-ex-swe.nixcdn.com/song/2022/09/16/0/2/1/c/1663308730148_300.jpg",
+      "duration": "03:04",
+      "artists": [
+        {
+          "artistId": 215682,
+          "name": "BLACKPINK",
+          "shortLink": "blackpink",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2022/09/16/2/e/3/c/1663304243525_300.jpg"
+        }
+      ],
+      "type": "SONG",
+      "dateRelease": 1659067200000,
+      "dateCreate": 1659069503981,
+      "uploadBy": null,
+      "provider": null,
+      "isMyPlaylist": false,
+      "statusViewValue": 1,
+      "statusPlayValue": 1,
+      "statusDownloadValue": 0,
+      "statusAddPlaylistValue": 0,
+      "refMapping": [],
+      "genreKey": "",
+      "streamUrls": [],
+      "description": ""
+    },
+    {
+      "key": "FICdAK9iggun",
+      "title": "Freaky",
+      "thumbnail": "https://avatar-ex-swe.nixcdn.com/song/2022/11/30/d/4/5/0/1669811418627_300.jpg",
+      "duration": "02:55",
+      "artists": [
+        {
+          "artistId": 119533,
+          "name": "ITZY",
+          "shortLink": "itzy",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2019/07/30/6/0/5/f/1564471326786_300.jpg"
+        }
+      ],
+      "type": "SONG",
+      "dateRelease": 0,
+      "dateCreate": 0,
+      "uploadBy": null,
+      "provider": null,
+      "isMyPlaylist": false,
+      "statusViewValue": 1,
+      "statusPlayValue": 1,
+      "statusDownloadValue": 2,
+      "statusAddPlaylistValue": 0,
+      "refMapping": [],
+      "genreKey": "",
+      "streamUrls": [],
+      "description": ""
+    },
+    {
+      "key": "BHfnUUOhYaCm",
+      "title": "Because Of Me (The Love In Your Eyes Ost)",
+      "thumbnail": "https://avatar-ex-swe.nixcdn.com/song/2022/11/19/a/d/1/9/1668872035268_300.jpg",
+      "duration": "03:53",
+      "artists": [
+        {
+          "artistId": 77333,
+          "name": "Woo Eun Mi",
+          "shortLink": "",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2017/02/23/5/c/a/2/1487836435993_300.jpg"
+        }
+      ],
+      "type": "SONG",
+      "dateRelease": 0,
+      "dateCreate": 0,
+      "uploadBy": null,
+      "provider": null,
+      "isMyPlaylist": false,
+      "statusViewValue": 1,
+      "statusPlayValue": 1,
+      "statusDownloadValue": 2,
+      "statusAddPlaylistValue": 0,
+      "refMapping": [],
+      "genreKey": "",
+      "streamUrls": [],
+      "description": ""
+    },
+    {
+      "key": "84eNhDGeWzlN",
+      "title": "Generation ",
+      "thumbnail": "https://avatar-ex-swe.nixcdn.com/song/2022/10/31/8/3/d/0/1667232100631_300.jpg",
+      "duration": "02:44",
+      "artists": [
+        {
+          "artistId": 489094,
+          "name": "Triples",
+          "shortLink": null,
+          "imageUrl": null
+        }
+      ],
+      "type": "SONG",
+      "dateRelease": 0,
+      "dateCreate": 0,
+      "uploadBy": null,
+      "provider": null,
+      "isMyPlaylist": false,
+      "statusViewValue": 1,
+      "statusPlayValue": 1,
+      "statusDownloadValue": 2,
+      "statusAddPlaylistValue": 0,
+      "refMapping": [],
+      "genreKey": "",
+      "streamUrls": [],
+      "description": ""
+    },
+    {
+      "key": "YNpJZ2Xs3CAA",
+      "title": "Talk That Talk",
+      "thumbnail": "https://avatar-ex-swe.nixcdn.com/song/2022/08/26/7/9/f/5/1661494537545_300.jpg",
+      "duration": "02:57",
+      "artists": [
+        {
+          "artistId": 16907,
+          "name": "TWICE",
+          "shortLink": "Twice",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2019/09/23/5/0/5/1/1569229552362_300.jpg"
+        }
+      ],
+      "type": "SONG",
+      "dateRelease": 0,
+      "dateCreate": 0,
+      "uploadBy": null,
+      "provider": null,
+      "isMyPlaylist": false,
+      "statusViewValue": 1,
+      "statusPlayValue": 1,
+      "statusDownloadValue": 2,
+      "statusAddPlaylistValue": 0,
+      "refMapping": [],
+      "genreKey": "",
+      "streamUrls": [],
+      "description": ""
+    },
+    {
+      "key": "JHyz9whxmlE4",
+      "title": "Happy Christmas",
+      "thumbnail": "https://avatar-ex-swe.nixcdn.com/song/2022/12/15/0/3/9/2/1671114943758_300.jpg",
+      "duration": "04:03",
+      "artists": [
+        {
+          "artistId": 314371,
+          "name": "Weeekly",
+          "shortLink": null,
+          "imageUrl": null
+        }
+      ],
+      "type": "SONG",
+      "dateRelease": 0,
+      "dateCreate": 0,
+      "uploadBy": null,
+      "provider": null,
+      "isMyPlaylist": false,
+      "statusViewValue": 1,
+      "statusPlayValue": 1,
+      "statusDownloadValue": 2,
+      "statusAddPlaylistValue": 0,
+      "refMapping": [],
+      "genreKey": "",
+      "streamUrls": [],
+      "description": ""
+    },
+    {
+      "key": "2LKemtPFWcoy",
+      "title": "Taste The Feeling",
+      "thumbnail": "https://avatar-ex-swe.nixcdn.com/song/2022/11/24/9/9/c/4/1669289030135_300.jpg",
+      "duration": "03:20",
+      "artists": [
+        {
+          "artistId": 458757,
+          "name": "TEMPEST",
+          "shortLink": null,
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2022/09/13/d/4/b/3/1663056932818_300.jpg"
+        }
+      ],
+      "type": "SONG",
+      "dateRelease": 0,
+      "dateCreate": 0,
+      "uploadBy": null,
+      "provider": null,
+      "isMyPlaylist": false,
+      "statusViewValue": 1,
+      "statusPlayValue": 1,
+      "statusDownloadValue": 2,
+      "statusAddPlaylistValue": 0,
+      "refMapping": [],
+      "genreKey": "",
+      "streamUrls": [],
+      "description": ""
+    },
+    {
+      "key": "7MzLo8wkD20X",
+      "title": "DREAM",
+      "thumbnail": "https://avatar-ex-swe.nixcdn.com/song/2022/11/09/7/3/6/0/1667952746904_300.jpg",
+      "duration": "03:08",
+      "artists": [
+        {
+          "artistId": 153431,
+          "name": "Seventeen",
+          "shortLink": "seventeen",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2017/07/02/9/1/1/f/1498991079367_300.jpg"
+        }
+      ],
+      "type": "SONG",
+      "dateRelease": 0,
+      "dateCreate": 0,
+      "uploadBy": null,
+      "provider": null,
+      "isMyPlaylist": false,
+      "statusViewValue": 1,
+      "statusPlayValue": 1,
+      "statusDownloadValue": 2,
+      "statusAddPlaylistValue": 0,
+      "refMapping": [],
+      "genreKey": "",
+      "streamUrls": [],
+      "description": ""
+    },
+    {
+      "key": "lD5Rmh6wlqJf",
+      "title": "LOVE THING",
+      "thumbnail": "https://avatar-ex-swe.nixcdn.com/song/2022/11/16/a/e/6/9/1668578417396_300.jpg",
+      "duration": "03:37",
+      "artists": [
+        {
+          "artistId": 305796,
+          "name": "woo!ah!",
+          "shortLink": "wooah",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2022/11/16/2/2/5/a/1668582922790_300.jpg"
+        }
+      ],
+      "type": "SONG",
+      "dateRelease": 1668589200000,
+      "dateCreate": 1668578416883,
+      "uploadBy": null,
+      "provider": null,
+      "isMyPlaylist": false,
+      "statusViewValue": 1,
+      "statusPlayValue": 1,
+      "statusDownloadValue": 2,
+      "statusAddPlaylistValue": 0,
+      "refMapping": [],
+      "genreKey": "",
+      "streamUrls": [],
+      "description": ""
+    },
+    {
+      "key": "e9QJIrmsxIts",
+      "title": "Raise Me Up",
+      "thumbnail": "https://avatar-ex-swe.nixcdn.com/song/2022/11/24/9/9/c/4/1669289107113_300.jpg",
+      "duration": "03:15",
+      "artists": [
+        {
+          "artistId": 458757,
+          "name": "TEMPEST",
+          "shortLink": null,
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2022/09/13/d/4/b/3/1663056932818_300.jpg"
+        }
+      ],
+      "type": "SONG",
+      "dateRelease": 0,
+      "dateCreate": 0,
+      "uploadBy": null,
+      "provider": null,
+      "isMyPlaylist": false,
+      "statusViewValue": 1,
+      "statusPlayValue": 1,
+      "statusDownloadValue": 2,
+      "statusAddPlaylistValue": 0,
+      "refMapping": [],
+      "genreKey": "",
+      "streamUrls": [],
+      "description": ""
+    },
+    {
+      "key": "Gp57ynb0Jif0",
+      "title": "Rush Hour",
+      "thumbnail": "https://avatar-ex-swe.nixcdn.com/song/2022/09/28/2/5/b/5/1664350387310_300.jpg",
+      "duration": "02:57",
+      "artists": [
+        {
+          "artistId": 126357,
+          "name": "Crush",
+          "shortLink": "crush",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2017/06/30/3/a/2/6/1498841613354_300.jpg"
+        },
+        {
+          "artistId": 187940,
+          "name": "J-Hope (BTS)",
+          "shortLink": "j-hope",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2018/03/03/3/0/f/e/1520078969864_300.jpg"
+        }
+      ],
+      "type": "SONG",
+      "dateRelease": 0,
+      "dateCreate": 0,
+      "uploadBy": null,
+      "provider": null,
+      "isMyPlaylist": false,
+      "statusViewValue": 1,
+      "statusPlayValue": 1,
+      "statusDownloadValue": 2,
+      "statusAddPlaylistValue": 0,
+      "refMapping": [],
+      "genreKey": "",
+      "streamUrls": [],
+      "description": ""
+    },
+    {
+      "key": "EbuAg6BuFisC",
+      "title": "Make The Change",
+      "thumbnail": "https://avatar-ex-swe.nixcdn.com/song/2022/12/04/7/a/e/4/1670166805694_300.jpg",
+      "duration": "03:07",
+      "artists": [
+        {
+          "artistId": 344129,
+          "name": "ENHYPEN",
+          "shortLink": null,
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2020/12/21/3/a/8/0/1608519482933_300.jpg"
+        }
+      ],
+      "type": "SONG",
+      "dateRelease": 0,
+      "dateCreate": 0,
+      "uploadBy": null,
+      "provider": null,
+      "isMyPlaylist": false,
+      "statusViewValue": 1,
+      "statusPlayValue": 1,
+      "statusDownloadValue": 2,
+      "statusAddPlaylistValue": 0,
+      "refMapping": [],
+      "genreKey": "",
+      "streamUrls": [],
+      "description": ""
+    },
+    {
+      "key": "1tvtCyPuhVCM",
+      "title": "Tick Tick Boom",
+      "thumbnail": "https://avatar-ex-swe.nixcdn.com/song/2022/11/05/d/f/1/7/1667649554976_300.jpg",
+      "duration": "02:59",
+      "artists": [
+        {
+          "artistId": 383496,
+          "name": "CLASS:y",
+          "shortLink": null,
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2022/06/02/b/0/3/0/1654157527151_300.jpg"
+        }
+      ],
+      "type": "SONG",
+      "dateRelease": 0,
+      "dateCreate": 0,
+      "uploadBy": null,
+      "provider": null,
+      "isMyPlaylist": false,
+      "statusViewValue": 1,
+      "statusPlayValue": 1,
+      "statusDownloadValue": 2,
+      "statusAddPlaylistValue": 0,
+      "refMapping": [],
+      "genreKey": "",
+      "streamUrls": [],
+      "description": ""
+    }
+  ],
+  "total": 1000,
+  "type": "song",
+  "clientIp": "183.80.235.131",
+  "time": 1671339229358
+}

@@ -1,0 +1,1065 @@
+{
+  "status": "success",
+  "data": [
+    {
+      "key": "vkLJTOSirbrx",
+      "title": "Golden Hour",
+      "thumbnail": "https://avatar-ex-swe.nixcdn.com/song/2022/12/13/a/f/7/3/1670903992722_300.jpg",
+      "duration": "03:36",
+      "artists": [
+        {
+          "artistId": 352689,
+          "name": "JVKE",
+          "shortLink": null,
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2022/06/05/8/d/b/c/1654426090321_300.jpg"
+        }
+      ],
+      "type": "SONG",
+      "dateRelease": 0,
+      "dateCreate": 0,
+      "uploadBy": null,
+      "provider": null,
+      "isMyPlaylist": false,
+      "statusViewValue": 1,
+      "statusPlayValue": 1,
+      "statusDownloadValue": 2,
+      "statusAddPlaylistValue": 0,
+      "refMapping": [],
+      "genreKey": "",
+      "streamUrls": [],
+      "description": ""
+    },
+    {
+      "key": "ShXSd2cfduIX",
+      "title": "Fall In Love Alone",
+      "thumbnail": "https://avatar-ex-swe.nixcdn.com/song/2022/11/14/4/3/5/a/1668410085166_300.jpg",
+      "duration": "03:25",
+      "artists": [
+        {
+          "artistId": 375226,
+          "name": "Stacey Ryan",
+          "shortLink": null,
+          "imageUrl": null
+        }
+      ],
+      "type": "SONG",
+      "dateRelease": 0,
+      "dateCreate": 0,
+      "uploadBy": null,
+      "provider": null,
+      "isMyPlaylist": false,
+      "statusViewValue": 1,
+      "statusPlayValue": 1,
+      "statusDownloadValue": 2,
+      "statusAddPlaylistValue": 0,
+      "refMapping": [],
+      "genreKey": "",
+      "streamUrls": [],
+      "description": ""
+    },
+    {
+      "key": "VAgrqcKkzF1E",
+      "title": "Anti-hero",
+      "thumbnail": "https://avatar-ex-swe.nixcdn.com/song/2022/10/31/8/3/d/0/1667214921584_300.jpg",
+      "duration": "03:20",
+      "artists": [
+        {
+          "artistId": 10114,
+          "name": "Taylor Swift",
+          "shortLink": "taylor-swift",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2022/10/31/1/c/7/2/1667214346412_300.jpg"
+        }
+      ],
+      "type": "SONG",
+      "dateRelease": 0,
+      "dateCreate": 0,
+      "uploadBy": null,
+      "provider": null,
+      "isMyPlaylist": false,
+      "statusViewValue": 1,
+      "statusPlayValue": 1,
+      "statusDownloadValue": 2,
+      "statusAddPlaylistValue": 0,
+      "refMapping": [],
+      "genreKey": "",
+      "streamUrls": [],
+      "description": ""
+    },
+    {
+      "key": "N3hgz2ZG5CkP",
+      "title": "Old Love",
+      "thumbnail": "https://avatar-ex-swe.nixcdn.com/song/2022/10/26/9/2/5/2/1666724775087_300.jpg",
+      "duration": "04:09",
+      "artists": [
+        {
+          "artistId": 267412,
+          "name": "Yuji",
+          "shortLink": null,
+          "imageUrl": null
+        },
+        {
+          "artistId": 458708,
+          "name": "Putri Dahlia",
+          "shortLink": null,
+          "imageUrl": null
+        }
+      ],
+      "type": "SONG",
+      "dateRelease": 1666198800000,
+      "dateCreate": 1662710486229,
+      "uploadBy": null,
+      "provider": null,
+      "isMyPlaylist": false,
+      "statusViewValue": 1,
+      "statusPlayValue": 1,
+      "statusDownloadValue": 0,
+      "statusAddPlaylistValue": 0,
+      "refMapping": [],
+      "genreKey": "",
+      "streamUrls": [],
+      "description": ""
+    },
+    {
+      "key": "URC0TXiDy2m8",
+      "title": "Girl Like Me",
+      "thumbnail": "https://avatar-ex-swe.nixcdn.com/song/2022/12/09/2/2/3/f/1670571882171_300.jpg",
+      "duration": "02:29",
+      "artists": [
+        {
+          "artistId": 131505,
+          "name": "Dove Cameron",
+          "shortLink": null,
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2016/08/26/a/7/2/e/1472199023656_300.jpg"
+        }
+      ],
+      "type": "SONG",
+      "dateRelease": 1670518800000,
+      "dateCreate": 1670571871681,
+      "uploadBy": null,
+      "provider": null,
+      "isMyPlaylist": false,
+      "statusViewValue": 1,
+      "statusPlayValue": 1,
+      "statusDownloadValue": 0,
+      "statusAddPlaylistValue": 0,
+      "refMapping": [],
+      "genreKey": "",
+      "streamUrls": [],
+      "description": ""
+    },
+    {
+      "key": "NcEm5kWY1T8Y",
+      "title": "Left And Right",
+      "thumbnail": "https://avatar-ex-swe.nixcdn.com/song/2022/06/24/c/5/b/4/1656046374020_300.jpg",
+      "duration": "02:34",
+      "artists": [
+        {
+          "artistId": 106521,
+          "name": "Charlie Puth",
+          "shortLink": "charlie-puth",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2022/09/28/c/4/9/3/1664351016323_300.jpg"
+        },
+        {
+          "artistId": 171304,
+          "name": "Jung Kook (BTS)",
+          "shortLink": null,
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2017/06/15/4/7/e/5/1497518838276_300.jpg"
+        }
+      ],
+      "type": "SONG",
+      "dateRelease": 1665075600000,
+      "dateCreate": 1656046361318,
+      "uploadBy": null,
+      "provider": null,
+      "isMyPlaylist": false,
+      "statusViewValue": 1,
+      "statusPlayValue": 1,
+      "statusDownloadValue": 0,
+      "statusAddPlaylistValue": 0,
+      "refMapping": [],
+      "genreKey": "",
+      "streamUrls": [],
+      "description": ""
+    },
+    {
+      "key": "8pPKHXRt9R5u",
+      "title": "Runaway",
+      "thumbnail": "https://avatar-ex-swe.nixcdn.com/song/2022/12/15/0/3/9/2/1671075489836_300.jpg",
+      "duration": "02:28",
+      "artists": [
+        {
+          "artistId": 98932,
+          "name": "KAYDEN",
+          "shortLink": null,
+          "imageUrl": null
+        }
+      ],
+      "type": "SONG",
+      "dateRelease": 0,
+      "dateCreate": 0,
+      "uploadBy": null,
+      "provider": null,
+      "isMyPlaylist": false,
+      "statusViewValue": 1,
+      "statusPlayValue": 1,
+      "statusDownloadValue": 2,
+      "statusAddPlaylistValue": 0,
+      "refMapping": [],
+      "genreKey": "",
+      "streamUrls": [],
+      "description": ""
+    },
+    {
+      "key": "J1Lqd3NFnjb0",
+      "title": "Build A Bitch",
+      "thumbnail": "",
+      "duration": "02:22",
+      "artists": [
+        {
+          "artistId": 215686,
+          "name": "ROSÉ",
+          "shortLink": "rose-blackpink",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2022/09/16/2/e/3/c/1663304261229_300.jpg"
+        }
+      ],
+      "type": "SONG",
+      "dateRelease": 0,
+      "dateCreate": 0,
+      "uploadBy": null,
+      "provider": null,
+      "isMyPlaylist": false,
+      "statusViewValue": 1,
+      "statusPlayValue": 1,
+      "statusDownloadValue": 2,
+      "statusAddPlaylistValue": 0,
+      "refMapping": [],
+      "genreKey": "",
+      "streamUrls": [],
+      "description": ""
+    },
+    {
+      "key": "TnrdP0eOGRQI",
+      "title": "Sunroof",
+      "thumbnail": "https://avatar-ex-swe.nixcdn.com/song/2022/06/08/0/0/9/1/1654660851398_300.jpg",
+      "duration": "02:43",
+      "artists": [
+        {
+          "artistId": 381555,
+          "name": "Nicky Youre",
+          "shortLink": null,
+          "imageUrl": null
+        },
+        {
+          "artistId": 200224,
+          "name": "Dazy",
+          "shortLink": null,
+          "imageUrl": null
+        }
+      ],
+      "type": "SONG",
+      "dateRelease": 1654621200000,
+      "dateCreate": 1654660837938,
+      "uploadBy": null,
+      "provider": null,
+      "isMyPlaylist": false,
+      "statusViewValue": 1,
+      "statusPlayValue": 1,
+      "statusDownloadValue": 0,
+      "statusAddPlaylistValue": 0,
+      "refMapping": [],
+      "genreKey": "",
+      "streamUrls": [],
+      "description": ""
+    },
+    {
+      "key": "KGpCF6lAgVmt",
+      "title": "Hero",
+      "thumbnail": "https://avatar-ex-swe.nixcdn.com/song/2022/12/08/f/7/5/2/1670514927233_300.jpg",
+      "duration": "02:40",
+      "artists": [
+        {
+          "artistId": 130980,
+          "name": "Martin Garrix",
+          "shortLink": "martin-garrix",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2019/03/21/0/e/3/d/1553153837657_300.jpg"
+        },
+        {
+          "artistId": 352689,
+          "name": "JVKE",
+          "shortLink": null,
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2022/06/05/8/d/b/c/1654426090321_300.jpg"
+        }
+      ],
+      "type": "SONG",
+      "dateRelease": 1670432400000,
+      "dateCreate": 1670514223304,
+      "uploadBy": null,
+      "provider": null,
+      "isMyPlaylist": false,
+      "statusViewValue": 1,
+      "statusPlayValue": 1,
+      "statusDownloadValue": 0,
+      "statusAddPlaylistValue": 0,
+      "refMapping": [],
+      "genreKey": "",
+      "streamUrls": [],
+      "description": ""
+    },
+    {
+      "key": "kceQ4MHRpWkb",
+      "title": "Boytoy",
+      "thumbnail": "https://avatar-ex-swe.nixcdn.com/song/2022/11/21/4/f/d/3/1669025287282_300.jpg",
+      "duration": "01:50",
+      "artists": [
+        {
+          "artistId": 494935,
+          "name": "Halle Abadi",
+          "shortLink": null,
+          "imageUrl": null
+        }
+      ],
+      "type": "SONG",
+      "dateRelease": 0,
+      "dateCreate": 0,
+      "uploadBy": null,
+      "provider": null,
+      "isMyPlaylist": false,
+      "statusViewValue": 1,
+      "statusPlayValue": 1,
+      "statusDownloadValue": 2,
+      "statusAddPlaylistValue": 0,
+      "refMapping": [],
+      "genreKey": "",
+      "streamUrls": [],
+      "description": ""
+    },
+    {
+      "key": "kRX5PRHM4vqx",
+      "title": "Last Christmas",
+      "thumbnail": "https://avatar-ex-swe.nixcdn.com/song/2022/11/30/d/4/5/0/1669784221616_300.jpg",
+      "duration": "02:31",
+      "artists": [
+        {
+          "artistId": 233329,
+          "name": "Ally Brooke",
+          "shortLink": null,
+          "imageUrl": null
+        }
+      ],
+      "type": "SONG",
+      "dateRelease": 0,
+      "dateCreate": 0,
+      "uploadBy": null,
+      "provider": null,
+      "isMyPlaylist": false,
+      "statusViewValue": 1,
+      "statusPlayValue": 1,
+      "statusDownloadValue": 2,
+      "statusAddPlaylistValue": 0,
+      "refMapping": [],
+      "genreKey": "",
+      "streamUrls": [],
+      "description": ""
+    },
+    {
+      "key": "3UcoErFMnawA",
+      "title": "Snow On The Beach",
+      "thumbnail": "https://avatar-ex-swe.nixcdn.com/song/2022/10/31/8/3/d/0/1667214903743_300.jpg",
+      "duration": "04:16",
+      "artists": [
+        {
+          "artistId": 10114,
+          "name": "Taylor Swift",
+          "shortLink": "taylor-swift",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2022/10/31/1/c/7/2/1667214346412_300.jpg"
+        },
+        {
+          "artistId": 100710,
+          "name": "Lana Del Rey",
+          "shortLink": "lana-del-rey",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2021/03/18/7/5/f/f/1616035929284_300.jpg"
+        }
+      ],
+      "type": "SONG",
+      "dateRelease": 0,
+      "dateCreate": 0,
+      "uploadBy": null,
+      "provider": null,
+      "isMyPlaylist": false,
+      "statusViewValue": 1,
+      "statusPlayValue": 1,
+      "statusDownloadValue": 2,
+      "statusAddPlaylistValue": 0,
+      "refMapping": [],
+      "genreKey": "",
+      "streamUrls": [],
+      "description": ""
+    },
+    {
+      "key": "OVnFZAHj6dPQ",
+      "title": "I Hate You When You're Drunk",
+      "thumbnail": "https://avatar-ex-swe.nixcdn.com/song/2022/11/26/6/d/8/c/1669428917102_300.jpg",
+      "duration": "03:37",
+      "artists": [
+        {
+          "artistId": 69000,
+          "name": "Olly Murs",
+          "shortLink": "olly-murs",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2018/06/22/3/a/b/a/1529634352391_300.jpg"
+        }
+      ],
+      "type": "SONG",
+      "dateRelease": 0,
+      "dateCreate": 0,
+      "uploadBy": null,
+      "provider": null,
+      "isMyPlaylist": false,
+      "statusViewValue": 1,
+      "statusPlayValue": 1,
+      "statusDownloadValue": 2,
+      "statusAddPlaylistValue": 0,
+      "refMapping": [],
+      "genreKey": "",
+      "streamUrls": [],
+      "description": ""
+    },
+    {
+      "key": "UBT2QuRAwCmw",
+      "title": "Past Lives",
+      "thumbnail": "https://avatar-ex-swe.nixcdn.com/song/2022/12/14/5/b/1/b/1670989325635_300.jpg",
+      "duration": "02:14",
+      "artists": [
+        {
+          "artistId": 495389,
+          "name": "Martin Arteta",
+          "shortLink": null,
+          "imageUrl": null
+        },
+        {
+          "artistId": 41818,
+          "name": "Creamy",
+          "shortLink": null,
+          "imageUrl": null
+        }
+      ],
+      "type": "SONG",
+      "dateRelease": 0,
+      "dateCreate": 0,
+      "uploadBy": null,
+      "provider": null,
+      "isMyPlaylist": false,
+      "statusViewValue": 1,
+      "statusPlayValue": 1,
+      "statusDownloadValue": 2,
+      "statusAddPlaylistValue": 0,
+      "refMapping": [],
+      "genreKey": "",
+      "streamUrls": [],
+      "description": ""
+    },
+    {
+      "key": "4Nyk6Zau90XO",
+      "title": "Glimpse Of Us",
+      "thumbnail": "https://avatar-ex-swe.nixcdn.com/song/2022/06/14/9/6/4/c/1655194263425_300.jpg",
+      "duration": "03:53",
+      "artists": [
+        {
+          "artistId": 224963,
+          "name": "Joji",
+          "shortLink": "joji",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2020/09/30/c/3/8/9/1601434357311_300.jpg"
+        }
+      ],
+      "type": "SONG",
+      "dateRelease": 1654794000000,
+      "dateCreate": 1655194245808,
+      "uploadBy": null,
+      "provider": null,
+      "isMyPlaylist": false,
+      "statusViewValue": 1,
+      "statusPlayValue": 1,
+      "statusDownloadValue": 0,
+      "statusAddPlaylistValue": 0,
+      "refMapping": [],
+      "genreKey": "",
+      "streamUrls": [],
+      "description": ""
+    },
+    {
+      "key": "Crhi8jUbopHx",
+      "title": "You’re On Your Own, Kid",
+      "thumbnail": "https://avatar-ex-swe.nixcdn.com/song/2022/10/31/8/3/d/0/1667214887728_300.jpg",
+      "duration": "03:14",
+      "artists": [
+        {
+          "artistId": 10114,
+          "name": "Taylor Swift",
+          "shortLink": "taylor-swift",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2022/10/31/1/c/7/2/1667214346412_300.jpg"
+        }
+      ],
+      "type": "SONG",
+      "dateRelease": 0,
+      "dateCreate": 0,
+      "uploadBy": null,
+      "provider": null,
+      "isMyPlaylist": false,
+      "statusViewValue": 1,
+      "statusPlayValue": 1,
+      "statusDownloadValue": 2,
+      "statusAddPlaylistValue": 0,
+      "refMapping": [],
+      "genreKey": "",
+      "streamUrls": [],
+      "description": ""
+    },
+    {
+      "key": "KCbIFryJxzfc",
+      "title": "Living Hell",
+      "thumbnail": "https://avatar-ex-swe.nixcdn.com/song/2022/08/12/4/2/3/2/1660273623300_300.jpg",
+      "duration": "02:54",
+      "artists": [
+        {
+          "artistId": 357027,
+          "name": "Bella Poarch",
+          "shortLink": "bella-poarch",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2022/07/20/7/b/f/0/1658286457369_300.jpg"
+        }
+      ],
+      "type": "SONG",
+      "dateRelease": 1660237200000,
+      "dateCreate": 1660273619791,
+      "uploadBy": null,
+      "provider": null,
+      "isMyPlaylist": false,
+      "statusViewValue": 1,
+      "statusPlayValue": 1,
+      "statusDownloadValue": 0,
+      "statusAddPlaylistValue": 0,
+      "refMapping": [],
+      "genreKey": "",
+      "streamUrls": [],
+      "description": ""
+    },
+    {
+      "key": "qj7c1nflq8RH",
+      "title": "The Other Side Of Paradise (Speed Up)",
+      "thumbnail": "https://avatar-ex-swe.nixcdn.com/song/2022/11/08/8/a/6/f/1667877712321_300.jpg",
+      "duration": "04:03",
+      "artists": [
+        {
+          "artistId": 141794,
+          "name": "Glass Animals",
+          "shortLink": null,
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2016/01/25/4/1/1/7/1453716160586_300.jpg"
+        }
+      ],
+      "type": "SONG",
+      "dateRelease": 0,
+      "dateCreate": 0,
+      "uploadBy": null,
+      "provider": null,
+      "isMyPlaylist": false,
+      "statusViewValue": 1,
+      "statusPlayValue": 1,
+      "statusDownloadValue": 2,
+      "statusAddPlaylistValue": 0,
+      "refMapping": [],
+      "genreKey": "",
+      "streamUrls": [],
+      "description": ""
+    },
+    {
+      "key": "r7ORQbAw77Kj",
+      "title": "Never Enough (Music Home Mùa 1)",
+      "thumbnail": "https://avatar-ex-swe.nixcdn.com/song/2022/12/07/5/6/5/7/1670402744450_300.jpg",
+      "duration": "03:16",
+      "artists": [
+        {
+          "artistId": 77180,
+          "name": "Uyên Linh",
+          "shortLink": "uyen-linh",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2017/11/21/c/4/8/a/1511239115657_300.jpg"
+        }
+      ],
+      "type": "SONG",
+      "dateRelease": 1550768400000,
+      "dateCreate": 1670402566052,
+      "uploadBy": null,
+      "provider": null,
+      "isMyPlaylist": false,
+      "statusViewValue": 1,
+      "statusPlayValue": 1,
+      "statusDownloadValue": 2,
+      "statusAddPlaylistValue": 0,
+      "refMapping": [],
+      "genreKey": "",
+      "streamUrls": [],
+      "description": ""
+    },
+    {
+      "key": "5Vs2mt1XmBUJ",
+      "title": "Sweet Nothing",
+      "thumbnail": "https://avatar-ex-swe.nixcdn.com/song/2022/10/31/8/3/d/0/1667214739002_300.jpg",
+      "duration": "03:08",
+      "artists": [
+        {
+          "artistId": 10114,
+          "name": "Taylor Swift",
+          "shortLink": "taylor-swift",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2022/10/31/1/c/7/2/1667214346412_300.jpg"
+        }
+      ],
+      "type": "SONG",
+      "dateRelease": 0,
+      "dateCreate": 0,
+      "uploadBy": null,
+      "provider": null,
+      "isMyPlaylist": false,
+      "statusViewValue": 1,
+      "statusPlayValue": 1,
+      "statusDownloadValue": 2,
+      "statusAddPlaylistValue": 0,
+      "refMapping": [],
+      "genreKey": "",
+      "streamUrls": [],
+      "description": ""
+    },
+    {
+      "key": "57onNlIvYML4",
+      "title": "Oh No",
+      "thumbnail": "https://avatar-ex-swe.nixcdn.com/song/2022/12/05/a/d/e/b/1670227737265_300.jpg",
+      "duration": "02:47",
+      "artists": [
+        {
+          "artistId": 495246,
+          "name": "Kreepa",
+          "shortLink": null,
+          "imageUrl": null
+        }
+      ],
+      "type": "SONG",
+      "dateRelease": 0,
+      "dateCreate": 0,
+      "uploadBy": null,
+      "provider": null,
+      "isMyPlaylist": false,
+      "statusViewValue": 1,
+      "statusPlayValue": 1,
+      "statusDownloadValue": 2,
+      "statusAddPlaylistValue": 0,
+      "refMapping": [],
+      "genreKey": "",
+      "streamUrls": [],
+      "description": ""
+    },
+    {
+      "key": "8s2gyGfh9HEM",
+      "title": "Break My Heart Myself",
+      "thumbnail": "https://avatar-ex-swe.nixcdn.com/song/2022/07/29/f/3/a/4/1659092442659_300.jpg",
+      "duration": "02:42",
+      "artists": [
+        {
+          "artistId": 141605,
+          "name": "Bebe Rexha",
+          "shortLink": "bebe-rexha",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2021/04/13/6/f/9/6/1618286006877_300.jpg"
+        },
+        {
+          "artistId": 119533,
+          "name": "ITZY",
+          "shortLink": "itzy",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2019/07/30/6/0/5/f/1564471326786_300.jpg"
+        }
+      ],
+      "type": "SONG",
+      "dateRelease": 1659027600000,
+      "dateCreate": 1659092440446,
+      "uploadBy": null,
+      "provider": null,
+      "isMyPlaylist": false,
+      "statusViewValue": 1,
+      "statusPlayValue": 1,
+      "statusDownloadValue": 0,
+      "statusAddPlaylistValue": 0,
+      "refMapping": [],
+      "genreKey": "",
+      "streamUrls": [],
+      "description": ""
+    },
+    {
+      "key": "oBNDul0SvNF5",
+      "title": "Late Night Talking",
+      "thumbnail": "https://avatar-ex-swe.nixcdn.com/song/2022/05/20/9/8/c/6/1653012073536_300.jpg",
+      "duration": "02:57",
+      "artists": [
+        {
+          "artistId": 154930,
+          "name": "Harry Styles",
+          "shortLink": "harry-styles",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2022/05/20/e/e/5/3/1653039150337_300.jpg"
+        }
+      ],
+      "type": "SONG",
+      "dateRelease": 1652979600000,
+      "dateCreate": 1653012061297,
+      "uploadBy": null,
+      "provider": null,
+      "isMyPlaylist": false,
+      "statusViewValue": 1,
+      "statusPlayValue": 1,
+      "statusDownloadValue": 0,
+      "statusAddPlaylistValue": 0,
+      "refMapping": [],
+      "genreKey": "",
+      "streamUrls": [],
+      "description": ""
+    },
+    {
+      "key": "8USGTrfGTaz2",
+      "title": "Flirt",
+      "thumbnail": "https://avatar-ex-swe.nixcdn.com/song/2022/11/21/4/f/d/3/1669025162725_300.jpg",
+      "duration": "02:10",
+      "artists": [
+        {
+          "artistId": 494935,
+          "name": "Halle Abadi",
+          "shortLink": null,
+          "imageUrl": null
+        }
+      ],
+      "type": "SONG",
+      "dateRelease": 0,
+      "dateCreate": 0,
+      "uploadBy": null,
+      "provider": null,
+      "isMyPlaylist": false,
+      "statusViewValue": 1,
+      "statusPlayValue": 1,
+      "statusDownloadValue": 2,
+      "statusAddPlaylistValue": 0,
+      "refMapping": [],
+      "genreKey": "",
+      "streamUrls": [],
+      "description": ""
+    },
+    {
+      "key": "MXklpDTlnDGV",
+      "title": "Cuff It",
+      "thumbnail": "https://avatar-ex-swe.nixcdn.com/song/2022/07/29/f/3/a/4/1659061519237_300.jpg",
+      "duration": "03:45",
+      "artists": [
+        {
+          "artistId": 5564,
+          "name": "Beyoncé",
+          "shortLink": "beyonce",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2017/02/21/1/e/4/2/1487648031375_300.jpg"
+        }
+      ],
+      "type": "SONG",
+      "dateRelease": 1659027600000,
+      "dateCreate": 1659061511148,
+      "uploadBy": null,
+      "provider": null,
+      "isMyPlaylist": false,
+      "statusViewValue": 1,
+      "statusPlayValue": 1,
+      "statusDownloadValue": 0,
+      "statusAddPlaylistValue": 0,
+      "refMapping": [],
+      "genreKey": "",
+      "streamUrls": [],
+      "description": ""
+    },
+    {
+      "key": "1h7DqZ7K5ocu",
+      "title": "Boys Like You",
+      "thumbnail": "https://avatar-ex-swe.nixcdn.com/song/2022/10/21/b/1/9/5/1666333391973_300.jpg",
+      "duration": "03:43",
+      "artists": [
+        {
+          "artistId": 119533,
+          "name": "ITZY",
+          "shortLink": "itzy",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2019/07/30/6/0/5/f/1564471326786_300.jpg"
+        }
+      ],
+      "type": "SONG",
+      "dateRelease": 0,
+      "dateCreate": 0,
+      "uploadBy": null,
+      "provider": null,
+      "isMyPlaylist": false,
+      "statusViewValue": 1,
+      "statusPlayValue": 1,
+      "statusDownloadValue": 2,
+      "statusAddPlaylistValue": 0,
+      "refMapping": [],
+      "genreKey": "",
+      "streamUrls": [],
+      "description": ""
+    },
+    {
+      "key": "bapNZ8vgbh30",
+      "title": "Unity (The Official Fifa Women’s World Cup 2023™)",
+      "thumbnail": "https://avatar-ex-swe.nixcdn.com/song/2022/11/21/4/f/d/3/1669004358921_300.jpg",
+      "duration": "01:48",
+      "artists": [
+        {
+          "artistId": 494922,
+          "name": "Kelly Lee Owens",
+          "shortLink": null,
+          "imageUrl": null
+        }
+      ],
+      "type": "SONG",
+      "dateRelease": 0,
+      "dateCreate": 0,
+      "uploadBy": null,
+      "provider": null,
+      "isMyPlaylist": false,
+      "statusViewValue": 1,
+      "statusPlayValue": 1,
+      "statusDownloadValue": 2,
+      "statusAddPlaylistValue": 0,
+      "refMapping": [],
+      "genreKey": "",
+      "streamUrls": [],
+      "description": ""
+    },
+    {
+      "key": "QUOrP1QIDWLh",
+      "title": "Smells Like Me",
+      "thumbnail": "https://avatar-ex-swe.nixcdn.com/song/2022/09/05/e/9/8/e/1662360420676_300.jpg",
+      "duration": "03:24",
+      "artists": [
+        {
+          "artistId": 106521,
+          "name": "Charlie Puth",
+          "shortLink": "charlie-puth",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2022/09/28/c/4/9/3/1664351016323_300.jpg"
+        }
+      ],
+      "type": "SONG",
+      "dateRelease": 1662051600000,
+      "dateCreate": 1662360415221,
+      "uploadBy": null,
+      "provider": null,
+      "isMyPlaylist": false,
+      "statusViewValue": 1,
+      "statusPlayValue": 1,
+      "statusDownloadValue": 0,
+      "statusAddPlaylistValue": 0,
+      "refMapping": [],
+      "genreKey": "",
+      "streamUrls": [],
+      "description": ""
+    },
+    {
+      "key": "CdZFvswB5YoN",
+      "title": "Life's Too Short (English Version)",
+      "thumbnail": "https://avatar-ex-swe.nixcdn.com/song/2022/06/24/c/5/b/4/1656049805184_300.jpg",
+      "duration": "02:58",
+      "artists": [
+        {
+          "artistId": 340610,
+          "name": "aespa",
+          "shortLink": null,
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2020/11/17/e/9/4/5/1605606031249_300.jpg"
+        }
+      ],
+      "type": "SONG",
+      "dateRelease": 1656043200000,
+      "dateCreate": 1656049796128,
+      "uploadBy": null,
+      "provider": null,
+      "isMyPlaylist": false,
+      "statusViewValue": 1,
+      "statusPlayValue": 1,
+      "statusDownloadValue": 0,
+      "statusAddPlaylistValue": 0,
+      "refMapping": [],
+      "genreKey": "",
+      "streamUrls": [],
+      "description": ""
+    },
+    {
+      "key": "O2cu1k1l0DTk",
+      "title": "Love Somebody (Lofi Remix)",
+      "thumbnail": "",
+      "duration": "02:26",
+      "artists": [
+        {
+          "artistId": 314061,
+          "name": "Shalom Margaret",
+          "shortLink": null,
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2022/05/27/5/5/3/3/1653620036110_300.jpg"
+        }
+      ],
+      "type": "SONG",
+      "dateRelease": 0,
+      "dateCreate": 0,
+      "uploadBy": null,
+      "provider": null,
+      "isMyPlaylist": false,
+      "statusViewValue": 1,
+      "statusPlayValue": 1,
+      "statusDownloadValue": 2,
+      "statusAddPlaylistValue": 0,
+      "refMapping": [],
+      "genreKey": "",
+      "streamUrls": [],
+      "description": ""
+    },
+    {
+      "key": "kEjuEPUlGVGb",
+      "title": "Faded Love",
+      "thumbnail": "",
+      "duration": "02:38",
+      "artists": [
+        {
+          "artistId": 314959,
+          "name": "Leony",
+          "shortLink": null,
+          "imageUrl": null
+        }
+      ],
+      "type": "SONG",
+      "dateRelease": 0,
+      "dateCreate": 0,
+      "uploadBy": null,
+      "provider": null,
+      "isMyPlaylist": false,
+      "statusViewValue": 1,
+      "statusPlayValue": 1,
+      "statusDownloadValue": 2,
+      "statusAddPlaylistValue": 0,
+      "refMapping": [],
+      "genreKey": "",
+      "streamUrls": [],
+      "description": ""
+    },
+    {
+      "key": "tNa5Hx21B7Hx",
+      "title": "On",
+      "thumbnail": "https://avatar-ex-swe.nixcdn.com/song/2022/09/30/e/9/8/c/1664509181590_300.jpg",
+      "duration": "04:06",
+      "artists": [
+        {
+          "artistId": 105898,
+          "name": "BTS (Bangtan Boys)",
+          "shortLink": "bangtan-boys",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2019/07/02/8/a/7/0/1562040135194_300.jpg"
+        },
+        {
+          "artistId": 33153,
+          "name": "Sia",
+          "shortLink": "sia",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2017/02/21/1/e/4/2/1487651633819_300.jpg"
+        }
+      ],
+      "type": "SONG",
+      "dateRelease": 0,
+      "dateCreate": 0,
+      "uploadBy": null,
+      "provider": null,
+      "isMyPlaylist": false,
+      "statusViewValue": 1,
+      "statusPlayValue": 1,
+      "statusDownloadValue": 2,
+      "statusAddPlaylistValue": 0,
+      "refMapping": [],
+      "genreKey": "",
+      "streamUrls": [],
+      "description": ""
+    },
+    {
+      "key": "meNHQ9OtCkf0",
+      "title": "There's No One At All (Another Version)",
+      "thumbnail": "https://avatar-ex-swe.nixcdn.com/song/2022/07/06/5/e/b/8/1657093888335_300.jpg",
+      "duration": "03:18",
+      "artists": [
+        {
+          "artistId": 63207,
+          "name": "Sơn Tùng M-TP",
+          "shortLink": "son-tung-mtp",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2021/05/12/7/d/c/b/1620802736418_300.jpg"
+        }
+      ],
+      "type": "SONG",
+      "dateRelease": 0,
+      "dateCreate": 0,
+      "uploadBy": null,
+      "provider": null,
+      "isMyPlaylist": false,
+      "statusViewValue": 1,
+      "statusPlayValue": 1,
+      "statusDownloadValue": 2,
+      "statusAddPlaylistValue": 0,
+      "refMapping": [],
+      "genreKey": "",
+      "streamUrls": [],
+      "description": ""
+    },
+    {
+      "key": "6VIk4ZqgGi2U",
+      "title": "Million Dollar Baby",
+      "thumbnail": "https://avatar-ex-swe.nixcdn.com/song/2022/09/05/e/9/8/e/1662360303659_300.jpg",
+      "duration": "03:04",
+      "artists": [
+        {
+          "artistId": 250256,
+          "name": "Ava Max",
+          "shortLink": "ava-max",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2022/04/29/5/2/2/e/1651201734713_300.jpg"
+        }
+      ],
+      "type": "SONG",
+      "dateRelease": 1662051600000,
+      "dateCreate": 1662360298245,
+      "uploadBy": null,
+      "provider": null,
+      "isMyPlaylist": false,
+      "statusViewValue": 1,
+      "statusPlayValue": 1,
+      "statusDownloadValue": 0,
+      "statusAddPlaylistValue": 0,
+      "refMapping": [],
+      "genreKey": "",
+      "streamUrls": [],
+      "description": ""
+    },
+    {
+      "key": "kRvDgpGKcUWF",
+      "title": "Diamonds",
+      "thumbnail": "https://avatar-ex-swe.nixcdn.com/song/2018/12/05/1/9/1/9/1543984784216_300.jpg",
+      "duration": "03:45",
+      "artists": [
+        {
+          "artistId": 7241,
+          "name": "Rihanna",
+          "shortLink": "rihanna",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2016/12/22/5/a/d/7/1482395694635_300.jpg"
+        }
+      ],
+      "type": "SONG",
+      "dateRelease": 0,
+      "dateCreate": 0,
+      "uploadBy": null,
+      "provider": null,
+      "isMyPlaylist": false,
+      "statusViewValue": 1,
+      "statusPlayValue": 1,
+      "statusDownloadValue": 2,
+      "statusAddPlaylistValue": 0,
+      "refMapping": [],
+      "genreKey": "",
+      "streamUrls": [],
+      "description": ""
+    }
+  ],
+  "total": 1000,
+  "type": "song",
+  "clientIp": "183.80.235.131",
+  "time": 1671339189361
+}

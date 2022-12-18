@@ -28,13 +28,13 @@ const Header = () => {
         {
             id: 1,
             name: 'Bài hát',
-            link: '/music',
+            link: '/musics/bai-hat-moi',
             color: 'rgba(244,246,248,0.9)',
         },
         {
             id: 2,
             name: 'Playlist',
-            link: '/playlist',
+            link: '/playlists/playlist-moi',
             color: 'rgba(244,246,248,0.9)',
         },
         {
@@ -96,6 +96,7 @@ const Header = () => {
     ]
     const [color, setColor] = useState('rgba(244,246,248,0.9)');
     const router = useRouter();
+    console.log(router.query)
     return(
         <Box
             sx={{
@@ -104,6 +105,7 @@ const Header = () => {
                 borderRight: '1px solid #28313b',
                 position: 'fixed',
                 left: '0',
+                top: '0',
             }}
         >
             <Flex>
@@ -175,9 +177,13 @@ const Header = () => {
                         </Box>}
                     {clickDiscover && <Flex sx={{ position: 'absolute', flexDirection: 'column', marginTop: '20px'}}>
                         {categoriesDiscover.map(item => {
+                            // console.log(`${router.query.slugPlaylists}`)
+                            // if(item.link == `/${router.query.slugPlaylists}`){
+                            //     item.color = '#28b1f4';
+                            // }
                             return(
-                                <Flex key={item.id}>
-                                    <Box as='h6' sx={{ color: 'rgba(244,246,248,0.88)', fontSize: '13px',cursor: 'pointer', marginTop: '20px', marginLeft: '40px', ":hover":{ color: '#c2c6ca'}}}>{item.name}</Box>
+                                <Flex key={item.id} onClick={() => router.push(item?.link)}>
+                                    <Box as='h6' sx={{ color: item.color , fontSize: '13px',cursor: 'pointer', marginTop: '20px', marginLeft: '40px', ":hover":{ color: '#c2c6ca'}}}>{item.name}</Box>
                                 </Flex>
                             );
                         })}

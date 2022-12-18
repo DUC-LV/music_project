@@ -91,7 +91,7 @@ export const ListSonginPlayList = ({ song }: DataListSong) => {
                         >
                         <Grid
                             sx={{
-                                gridTemplateColumns: ['3','3.5fr 2fr 1.2fr'],
+                                gridTemplateColumns: ['3','3.5fr 2fr 1.3fr'],
                                 mt: '5px',
                                 backgroundColor: '',
                             }}

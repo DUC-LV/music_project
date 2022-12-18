@@ -15,7 +15,7 @@ interface DataSlide {
 const SlideShow = ({ dataSlide, groupName, pathnameUrl, pathnameSlug }:DataSlide) => {
     const settings = {
 		infinite: true,
-		slidesToShow: 6,
+		slidesToShow: 4,
 		slidesToScroll: 2,
         responsive: [
             {

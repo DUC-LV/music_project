@@ -1,0 +1,999 @@
+{
+  "status": "success",
+  "data": [
+    {
+      "key": "sgziYJuwRL4O",
+      "title": "Pop Hay Nhất",
+      "thumbnail": "https://avatar-ex-swe.nixcdn.com/playlist/2022/12/13/f/b/6/5/1670912545520_300.jpg",
+      "duration": "00:00",
+      "artists": [
+        {
+          "artistId": 8248,
+          "name": "V.A",
+          "shortLink": "va",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2020/08/18/e/4/e/c/1597723219000_300.jpg"
+        }
+      ],
+      "type": "PLAYLIST",
+      "dateRelease": 0,
+      "dateCreate": 1670901387503,
+      "uploadBy": null,
+      "provider": null,
+      "refMapping": [],
+      "genreKey": "",
+      "songs": null,
+      "videos": null,
+      "description": "",
+      "dateModify": "13/12/2022",
+      "listTag": [],
+      "numOfItems": 68
+    },
+    {
+      "key": "vIzKSL9kOeyH",
+      "title": "There’s Nothing But Space, Man! (Deluxe)",
+      "thumbnail": "https://avatar-ex-swe.nixcdn.com/playlist/2022/12/12/8/1/0/e/1670822429930_300.jpg",
+      "duration": "00:00",
+      "artists": [
+        {
+          "artistId": 300575,
+          "name": "Sam Ryder",
+          "shortLink": null,
+          "imageUrl": null
+        }
+      ],
+      "type": "PLAYLIST",
+      "dateRelease": 1670778000000,
+      "dateCreate": 1670822362113,
+      "uploadBy": null,
+      "provider": null,
+      "refMapping": [],
+      "genreKey": "",
+      "songs": null,
+      "videos": null,
+      "description": "",
+      "dateModify": "15/12/2022",
+      "listTag": [],
+      "numOfItems": 21
+    },
+    {
+      "key": "a1kORy1RVmuy",
+      "title": "This Is Me...Then (20th Anniversary Edition)",
+      "thumbnail": "https://avatar-ex-swe.nixcdn.com/playlist/2022/11/24/c/7/d/7/1669287646633_300.jpg",
+      "duration": "00:00",
+      "artists": [
+        {
+          "artistId": 6210,
+          "name": "Jennifer Lopez",
+          "shortLink": "jennifer-lopez",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2018/02/02/c/3/a/d/1517562265802_300.jpg"
+        }
+      ],
+      "type": "PLAYLIST",
+      "dateRelease": 1669309200000,
+      "dateCreate": 1669287599852,
+      "uploadBy": null,
+      "provider": null,
+      "refMapping": [],
+      "genreKey": "",
+      "songs": null,
+      "videos": null,
+      "description": "",
+      "dateModify": "25/11/2022",
+      "listTag": [],
+      "numOfItems": 16
+    },
+    {
+      "key": "Re96VPwsoWfJ",
+      "title": "Midnights",
+      "thumbnail": "https://avatar-ex-swe.nixcdn.com/playlist/2022/10/31/f/6/6/f/1667215012004_300.jpg",
+      "duration": "00:00",
+      "artists": [
+        {
+          "artistId": 10114,
+          "name": "Taylor Swift",
+          "shortLink": "taylor-swift",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2022/10/31/1/c/7/2/1667214346412_300.jpg"
+        }
+      ],
+      "type": "PLAYLIST",
+      "dateRelease": 0,
+      "dateCreate": 1666584314542,
+      "uploadBy": null,
+      "provider": null,
+      "refMapping": [],
+      "genreKey": "",
+      "songs": null,
+      "videos": null,
+      "description": "",
+      "dateModify": "31/10/2022",
+      "listTag": [],
+      "numOfItems": 13
+    },
+    {
+      "key": "8SgEh6PQzxwk",
+      "title": "NOW That's What I Call 90s: Dancefloor",
+      "thumbnail": "https://avatar-ex-swe.nixcdn.com/playlist/2022/10/31/f/6/6/f/1667190686362_300.jpg",
+      "duration": "00:00",
+      "artists": [
+        {
+          "artistId": 8248,
+          "name": "V.A",
+          "shortLink": "va",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2020/08/18/e/4/e/c/1597723219000_300.jpg"
+        }
+      ],
+      "type": "PLAYLIST",
+      "dateRelease": 0,
+      "dateCreate": 1667190684713,
+      "uploadBy": null,
+      "provider": null,
+      "refMapping": [],
+      "genreKey": "",
+      "songs": null,
+      "videos": null,
+      "description": "",
+      "dateModify": "31/10/2022",
+      "listTag": [],
+      "numOfItems": 30
+    },
+    {
+      "key": "xKJ5WcudIY6w",
+      "title": "US-UK Nhạc Mới Nổi Bật",
+      "thumbnail": "https://avatar-ex-swe.nixcdn.com/playlist/2022/11/30/1/a/9/b/1669778154622_300.jpg",
+      "duration": "00:00",
+      "artists": [
+        {
+          "artistId": 8248,
+          "name": "V.A",
+          "shortLink": "va",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2020/08/18/e/4/e/c/1597723219000_300.jpg"
+        }
+      ],
+      "type": "PLAYLIST",
+      "dateRelease": 0,
+      "dateCreate": 1661339035748,
+      "uploadBy": null,
+      "provider": null,
+      "refMapping": [],
+      "genreKey": "",
+      "songs": null,
+      "videos": null,
+      "description": "",
+      "dateModify": "13/12/2022",
+      "listTag": [],
+      "numOfItems": 61
+    },
+    {
+      "key": "7YgNHVitN3C3",
+      "title": "Best 00s Pop Ever",
+      "thumbnail": "https://avatar-ex-swe.nixcdn.com/playlist/2022/11/17/c/0/8/a/1668663310467_300.jpg",
+      "duration": "00:00",
+      "artists": [
+        {
+          "artistId": 8248,
+          "name": "V.A",
+          "shortLink": "va",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2020/08/18/e/4/e/c/1597723219000_300.jpg"
+        }
+      ],
+      "type": "PLAYLIST",
+      "dateRelease": 1610038800000,
+      "dateCreate": 1668663260776,
+      "uploadBy": null,
+      "provider": null,
+      "refMapping": [],
+      "genreKey": "",
+      "songs": null,
+      "videos": null,
+      "description": "",
+      "dateModify": "01/12/2022",
+      "listTag": [],
+      "numOfItems": 22
+    },
+    {
+      "key": "9o6itxiNBvh6",
+      "title": "Hits of the 00s",
+      "thumbnail": "https://avatar-ex-swe.nixcdn.com/playlist/2022/11/17/c/0/8/a/1668661687538_300.jpg",
+      "duration": "00:00",
+      "artists": [
+        {
+          "artistId": 8248,
+          "name": "V.A",
+          "shortLink": "va",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2020/08/18/e/4/e/c/1597723219000_300.jpg"
+        }
+      ],
+      "type": "PLAYLIST",
+      "dateRelease": 1457024400000,
+      "dateCreate": 1668661615277,
+      "uploadBy": null,
+      "provider": null,
+      "refMapping": [],
+      "genreKey": "",
+      "songs": null,
+      "videos": null,
+      "description": "",
+      "dateModify": "01/12/2022",
+      "listTag": [],
+      "numOfItems": 20
+    },
+    {
+      "key": "4GKnSdhISdR3",
+      "title": "CHARLIE (Explicit)",
+      "thumbnail": "https://avatar-ex-swe.nixcdn.com/playlist/2022/10/06/4/8/c/9/1665044889697_300.jpg",
+      "duration": "00:00",
+      "artists": [
+        {
+          "artistId": 106521,
+          "name": "Charlie Puth",
+          "shortLink": "charlie-puth",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2022/09/28/c/4/9/3/1664351016323_300.jpg"
+        }
+      ],
+      "type": "PLAYLIST",
+      "dateRelease": 1665075600000,
+      "dateCreate": 1665044879946,
+      "uploadBy": null,
+      "provider": null,
+      "refMapping": [],
+      "genreKey": "",
+      "songs": null,
+      "videos": null,
+      "description": "",
+      "dateModify": "09/11/2022",
+      "listTag": [],
+      "numOfItems": 12
+    },
+    {
+      "key": "xS2h6nOn7sF9",
+      "title": "Nhạc Mới Phát Hành 2022",
+      "thumbnail": "https://avatar-ex-swe.nixcdn.com/playlist/2022/12/06/4/9/a/b/1670294789828_300.jpg",
+      "duration": "00:00",
+      "artists": [
+        {
+          "artistId": 8248,
+          "name": "V.A",
+          "shortLink": "va",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2020/08/18/e/4/e/c/1597723219000_300.jpg"
+        }
+      ],
+      "type": "PLAYLIST",
+      "dateRelease": 0,
+      "dateCreate": 1640939116853,
+      "uploadBy": null,
+      "provider": null,
+      "refMapping": [],
+      "genreKey": "",
+      "songs": null,
+      "videos": null,
+      "description": "",
+      "dateModify": "13/12/2022",
+      "listTag": [],
+      "numOfItems": 101
+    },
+    {
+      "key": "UQ1AlnN7KoLT",
+      "title": "Thrill Of The Chase",
+      "thumbnail": "https://avatar-ex-swe.nixcdn.com/playlist/2022/11/08/4/3/e/6/1667884162163_300.jpg",
+      "duration": "00:00",
+      "artists": [
+        {
+          "artistId": 177177,
+          "name": "Kygo",
+          "shortLink": "kygo",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2017/02/13/e/3/b/8/1486957852820_300.jpg"
+        }
+      ],
+      "type": "PLAYLIST",
+      "dateRelease": 1668099600000,
+      "dateCreate": 1667884123625,
+      "uploadBy": null,
+      "provider": null,
+      "refMapping": [],
+      "genreKey": "",
+      "songs": null,
+      "videos": null,
+      "description": "",
+      "dateModify": "18/11/2022",
+      "listTag": [],
+      "numOfItems": 14
+    },
+    {
+      "key": "g5HlkVrIgxsv",
+      "title": "New Years Eve Party At Home",
+      "thumbnail": "https://avatar-ex-swe.nixcdn.com/playlist/2022/11/17/c/0/8/a/1668663256916_300.jpg",
+      "duration": "00:00",
+      "artists": [
+        {
+          "artistId": 8248,
+          "name": "V.A",
+          "shortLink": "va",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2020/08/18/e/4/e/c/1597723219000_300.jpg"
+        }
+      ],
+      "type": "PLAYLIST",
+      "dateRelease": 1608829200000,
+      "dateCreate": 1668663172566,
+      "uploadBy": null,
+      "provider": null,
+      "refMapping": [],
+      "genreKey": "",
+      "songs": null,
+      "videos": null,
+      "description": "",
+      "dateModify": "05/12/2022",
+      "listTag": [],
+      "numOfItems": 77
+    },
+    {
+      "key": "VAhvU8Jihkcq",
+      "title": "WTF?!",
+      "thumbnail": "https://avatar-ex-swe.nixcdn.com/playlist/2022/11/17/c/0/8/a/1668663066253_300.jpg",
+      "duration": "00:00",
+      "artists": [
+        {
+          "artistId": 8248,
+          "name": "V.A",
+          "shortLink": "va",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2020/08/18/e/4/e/c/1597723219000_300.jpg"
+        }
+      ],
+      "type": "PLAYLIST",
+      "dateRelease": 1559235600000,
+      "dateCreate": 1668662999349,
+      "uploadBy": null,
+      "provider": null,
+      "refMapping": [],
+      "genreKey": "",
+      "songs": null,
+      "videos": null,
+      "description": "",
+      "dateModify": "01/12/2022",
+      "listTag": [],
+      "numOfItems": 28
+    },
+    {
+      "key": "Jt5yCkfHu2iz",
+      "title": "A Legendary Christmas",
+      "thumbnail": "https://avatar-ex-swe.nixcdn.com/playlist/2022/10/31/6/d/7/d/1667187032425_300.jpg",
+      "duration": "00:00",
+      "artists": [
+        {
+          "artistId": 12518,
+          "name": "John Legend",
+          "shortLink": "john-legend",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2016/01/25/4/1/1/7/1453715989353_300.jpg"
+        }
+      ],
+      "type": "PLAYLIST",
+      "dateRelease": 1540486800000,
+      "dateCreate": 1667186986708,
+      "uploadBy": null,
+      "provider": null,
+      "refMapping": [],
+      "genreKey": "",
+      "songs": null,
+      "videos": null,
+      "description": "",
+      "dateModify": "04/11/2022",
+      "listTag": [],
+      "numOfItems": 21
+    },
+    {
+      "key": "8PSNycvamuUG",
+      "title": "Thriller 40",
+      "thumbnail": "https://avatar-ex-swe.nixcdn.com/playlist/2022/11/24/c/7/d/7/1669288534714_300.jpg",
+      "duration": "00:00",
+      "artists": [
+        {
+          "artistId": 8478,
+          "name": "Michael Jackson",
+          "shortLink": "michael-jackson",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2016/12/22/5/a/d/7/1482395733194_300.jpg"
+        }
+      ],
+      "type": "PLAYLIST",
+      "dateRelease": 1668704400000,
+      "dateCreate": 1669288436350,
+      "uploadBy": null,
+      "provider": null,
+      "refMapping": [],
+      "genreKey": "",
+      "songs": null,
+      "videos": null,
+      "description": "",
+      "dateModify": "25/11/2022",
+      "listTag": [],
+      "numOfItems": 34
+    },
+    {
+      "key": "EXfZntk32lEd",
+      "title": "Takin' It Back (Explicit)",
+      "thumbnail": "https://avatar-ex-swe.nixcdn.com/playlist/2022/10/17/5/1/8/b/1665996302881_300.jpg",
+      "duration": "00:00",
+      "artists": [
+        {
+          "artistId": 154937,
+          "name": "Meghan Trainor",
+          "shortLink": "meghan-trainor",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2018/03/02/9/d/f/c/1519959464697_300.jpg"
+        }
+      ],
+      "type": "PLAYLIST",
+      "dateRelease": 1666324800000,
+      "dateCreate": 1665996282407,
+      "uploadBy": null,
+      "provider": null,
+      "refMapping": [],
+      "genreKey": "",
+      "songs": null,
+      "videos": null,
+      "description": "",
+      "dateModify": "21/11/2022",
+      "listTag": [],
+      "numOfItems": 16
+    },
+    {
+      "key": "erAPjKJeFP8K",
+      "title": "Waka Waka (Esto es Africa)",
+      "thumbnail": "https://avatar-ex-swe.nixcdn.com/playlist/2022/12/12/8/1/0/e/1670812703931_300.jpg",
+      "duration": "00:00",
+      "artists": [
+        {
+          "artistId": 7302,
+          "name": "Shakira",
+          "shortLink": "shakira",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2016/01/25/4/1/1/7/1453717513341_300.jpg"
+        },
+        {
+          "artistId": 65409,
+          "name": "Freshlyground",
+          "shortLink": null,
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2017/01/24/2/f/7/5/1485224548896_300.jpg"
+        }
+      ],
+      "type": "PLAYLIST",
+      "dateRelease": 1272474000000,
+      "dateCreate": 1670812695957,
+      "uploadBy": null,
+      "provider": null,
+      "refMapping": [],
+      "genreKey": "",
+      "songs": null,
+      "videos": null,
+      "description": "",
+      "dateModify": "14/12/2022",
+      "listTag": [],
+      "numOfItems": 1
+    },
+    {
+      "key": "57XZgSL2wvie",
+      "title": "Christmas Instrumentals 2022",
+      "thumbnail": "https://avatar-ex-swe.nixcdn.com/playlist/2022/11/08/4/3/e/6/1667885436888_300.jpg",
+      "duration": "00:00",
+      "artists": [
+        {
+          "artistId": 8248,
+          "name": "V.A",
+          "shortLink": "va",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2020/08/18/e/4/e/c/1597723219000_300.jpg"
+        }
+      ],
+      "type": "PLAYLIST",
+      "dateRelease": 1667494800000,
+      "dateCreate": 1667885332638,
+      "uploadBy": null,
+      "provider": null,
+      "refMapping": [],
+      "genreKey": "",
+      "songs": null,
+      "videos": null,
+      "description": "",
+      "dateModify": "25/11/2022",
+      "listTag": [],
+      "numOfItems": 56
+    },
+    {
+      "key": "Ne7Upc24WuKz",
+      "title": "TikTok Viral Throwbacks",
+      "thumbnail": "https://avatar-ex-swe.nixcdn.com/playlist/2022/12/05/a/3/f/8/1670221665361_300.jpg",
+      "duration": "00:00",
+      "artists": [
+        {
+          "artistId": 8248,
+          "name": "V.A",
+          "shortLink": "va",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2020/08/18/e/4/e/c/1597723219000_300.jpg"
+        }
+      ],
+      "type": "PLAYLIST",
+      "dateRelease": 1670518800000,
+      "dateCreate": 1670221618386,
+      "uploadBy": null,
+      "provider": null,
+      "refMapping": [],
+      "genreKey": "",
+      "songs": null,
+      "videos": null,
+      "description": "",
+      "dateModify": "07/12/2022",
+      "listTag": [],
+      "numOfItems": 55
+    },
+    {
+      "key": "D8UjMy7g97tf",
+      "title": "Viral Throwback Songs",
+      "thumbnail": "https://avatar-ex-swe.nixcdn.com/playlist/2022/12/05/a/3/f/8/1670215763587_300.jpg",
+      "duration": "00:00",
+      "artists": [
+        {
+          "artistId": 8248,
+          "name": "V.A",
+          "shortLink": "va",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2020/08/18/e/4/e/c/1597723219000_300.jpg"
+        }
+      ],
+      "type": "PLAYLIST",
+      "dateRelease": 1670518800000,
+      "dateCreate": 1670215562329,
+      "uploadBy": null,
+      "provider": null,
+      "refMapping": [],
+      "genreKey": "",
+      "songs": null,
+      "videos": null,
+      "description": "",
+      "dateModify": "07/12/2022",
+      "listTag": [],
+      "numOfItems": 55
+    },
+    {
+      "key": "U3sx2Z8zNdks",
+      "title": "Top 100 Christmas Songs",
+      "thumbnail": "https://avatar-ex-swe.nixcdn.com/playlist/2022/11/07/1/6/7/b/1667812739126_300.jpg",
+      "duration": "00:00",
+      "artists": [
+        {
+          "artistId": 8248,
+          "name": "V.A",
+          "shortLink": "va",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2020/08/18/e/4/e/c/1597723219000_300.jpg"
+        }
+      ],
+      "type": "PLAYLIST",
+      "dateRelease": 1637254800000,
+      "dateCreate": 1667812643038,
+      "uploadBy": null,
+      "provider": null,
+      "refMapping": [],
+      "genreKey": "",
+      "songs": null,
+      "videos": null,
+      "description": "",
+      "dateModify": "17/11/2022",
+      "listTag": [],
+      "numOfItems": 100
+    },
+    {
+      "key": "Oe4Ew8HbFU52",
+      "title": "A Song for You",
+      "thumbnail": "https://avatar-ex-swe.nixcdn.com/playlist/2022/11/03/5/7/d/b/1667461652726_300.jpg",
+      "duration": "00:00",
+      "artists": [
+        {
+          "artistId": 226397,
+          "name": "Luke Evans",
+          "shortLink": null,
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2017/03/13/3/e/f/1/1489379483114_300.jpg"
+        }
+      ],
+      "type": "PLAYLIST",
+      "dateRelease": 1667494800000,
+      "dateCreate": 1667461615764,
+      "uploadBy": null,
+      "provider": null,
+      "refMapping": [],
+      "genreKey": "",
+      "songs": null,
+      "videos": null,
+      "description": "",
+      "dateModify": "08/11/2022",
+      "listTag": [],
+      "numOfItems": 14
+    },
+    {
+      "key": "Go22jOSGt9RH",
+      "title": "Erotica",
+      "thumbnail": "https://avatar-ex-swe.nixcdn.com/playlist/2022/11/07/1/6/7/b/1667803425740_300.jpg",
+      "duration": "00:00",
+      "artists": [
+        {
+          "artistId": 6616,
+          "name": "Madonna",
+          "shortLink": "madonna",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2016/01/25/4/1/1/7/1453717316984_300.jpg"
+        }
+      ],
+      "type": "PLAYLIST",
+      "dateRelease": 719168400000,
+      "dateCreate": 1667803395435,
+      "uploadBy": null,
+      "provider": null,
+      "refMapping": [],
+      "genreKey": "",
+      "songs": null,
+      "videos": null,
+      "description": "",
+      "dateModify": "08/11/2022",
+      "listTag": [],
+      "numOfItems": 13
+    },
+    {
+      "key": "KTMV9U6awdbx",
+      "title": "Ultimate Halloween 2022",
+      "thumbnail": "https://avatar-ex-swe.nixcdn.com/playlist/2022/10/25/f/0/1/5/1666690321138_300.jpg",
+      "duration": "00:00",
+      "artists": [
+        {
+          "artistId": 8248,
+          "name": "V.A",
+          "shortLink": "va",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2020/08/18/e/4/e/c/1597723219000_300.jpg"
+        }
+      ],
+      "type": "PLAYLIST",
+      "dateRelease": 0,
+      "dateCreate": 1666690319453,
+      "uploadBy": null,
+      "provider": null,
+      "refMapping": [],
+      "genreKey": "",
+      "songs": null,
+      "videos": null,
+      "description": "",
+      "dateModify": "28/10/2022",
+      "listTag": [],
+      "numOfItems": 19
+    },
+    {
+      "key": "iEd2sDf1Y6mr",
+      "title": "Christmas Worship 2022",
+      "thumbnail": "https://avatar-ex-swe.nixcdn.com/playlist/2022/10/13/8/2/c/f/1665670975933_300.jpg",
+      "duration": "00:00",
+      "artists": [
+        {
+          "artistId": 8248,
+          "name": "V.A",
+          "shortLink": "va",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2020/08/18/e/4/e/c/1597723219000_300.jpg"
+        }
+      ],
+      "type": "PLAYLIST",
+      "dateRelease": 1664470800000,
+      "dateCreate": 1665670915827,
+      "uploadBy": null,
+      "provider": null,
+      "refMapping": [],
+      "genreKey": "",
+      "songs": null,
+      "videos": null,
+      "description": "",
+      "dateModify": "25/11/2022",
+      "listTag": [],
+      "numOfItems": 27
+    },
+    {
+      "key": "eE8AJclzKfg2",
+      "title": "Stripped - 20th Anniversary Edition",
+      "thumbnail": "https://avatar-ex-swe.nixcdn.com/playlist/2022/10/27/6/2/6/6/1666848917213_300.jpg",
+      "duration": "00:00",
+      "artists": [
+        {
+          "artistId": 5694,
+          "name": "Christina Aguilera",
+          "shortLink": "christina-aguilera",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2022/01/25/3/1/c/e/1643089672018_300.jpg"
+        }
+      ],
+      "type": "PLAYLIST",
+      "dateRelease": 1666285200000,
+      "dateCreate": 1666848886439,
+      "uploadBy": null,
+      "provider": null,
+      "refMapping": [],
+      "genreKey": "",
+      "songs": null,
+      "videos": null,
+      "description": "",
+      "dateModify": "22/11/2022",
+      "listTag": [],
+      "numOfItems": 22
+    },
+    {
+      "key": "pTV9h66Ewo3p",
+      "title": "young forever (extended)",
+      "thumbnail": "https://avatar-ex-swe.nixcdn.com/playlist/2022/11/17/c/0/8/a/1668669888172_300.jpg",
+      "duration": "00:00",
+      "artists": [
+        {
+          "artistId": 329199,
+          "name": "Nessa Barrett",
+          "shortLink": null,
+          "imageUrl": null
+        }
+      ],
+      "type": "PLAYLIST",
+      "dateRelease": 1668704400000,
+      "dateCreate": 1668669841474,
+      "uploadBy": null,
+      "provider": null,
+      "refMapping": [],
+      "genreKey": "",
+      "songs": null,
+      "videos": null,
+      "description": "",
+      "dateModify": "23/11/2022",
+      "listTag": [],
+      "numOfItems": 18
+    },
+    {
+      "key": "yLUUaNztd5Hk",
+      "title": "Faith In The Future (Deluxe)",
+      "thumbnail": "https://avatar-ex-swe.nixcdn.com/playlist/2022/11/13/d/b/0/d/1668355656648_300.jpg",
+      "duration": "00:00",
+      "artists": [
+        {
+          "artistId": 158408,
+          "name": "Louis Tomlinson",
+          "shortLink": "louis-tomlinson",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2017/12/10/b/7/d/6/1512922589583_300.jpg"
+        }
+      ],
+      "type": "PLAYLIST",
+      "dateRelease": 1668099600000,
+      "dateCreate": 1668355622895,
+      "uploadBy": null,
+      "provider": null,
+      "refMapping": [],
+      "genreKey": "",
+      "songs": null,
+      "videos": null,
+      "description": "",
+      "dateModify": "14/11/2022",
+      "listTag": [],
+      "numOfItems": 16
+    },
+    {
+      "key": "4e6IbotE82cK",
+      "title": "Last Christmas (Single)",
+      "thumbnail": "https://avatar-ex-swe.nixcdn.com/playlist/2022/10/20/6/1/e/a/1666251052861_300.jpg",
+      "duration": "00:00",
+      "artists": [
+        {
+          "artistId": 112921,
+          "name": "Lukas Graham",
+          "shortLink": "lukas-graham",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2016/05/05/d/f/a/f/1462437603575_300.jpg"
+        }
+      ],
+      "type": "PLAYLIST",
+      "dateRelease": 1666285200000,
+      "dateCreate": 1666251048161,
+      "uploadBy": null,
+      "provider": null,
+      "refMapping": [],
+      "genreKey": "",
+      "songs": null,
+      "videos": null,
+      "description": "",
+      "dateModify": "04/11/2022",
+      "listTag": [],
+      "numOfItems": 1
+    },
+    {
+      "key": "8yPUJLM8jCo0",
+      "title": "Pop Hay Nhất 2022",
+      "thumbnail": "https://avatar-ex-swe.nixcdn.com/playlist/2022/12/01/2/4/c/4/1669882251227_300.jpg",
+      "duration": "00:00",
+      "artists": [
+        {
+          "artistId": 8248,
+          "name": "V.A",
+          "shortLink": "va",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2020/08/18/e/4/e/c/1597723219000_300.jpg"
+        }
+      ],
+      "type": "PLAYLIST",
+      "dateRelease": 0,
+      "dateCreate": 1640941154340,
+      "uploadBy": null,
+      "provider": null,
+      "refMapping": [],
+      "genreKey": "",
+      "songs": null,
+      "videos": null,
+      "description": "",
+      "dateModify": "01/12/2022",
+      "listTag": [],
+      "numOfItems": 67
+    },
+    {
+      "key": "Z9YOy2ad7rjJ",
+      "title": "Taking Chances (Deluxe Edition)",
+      "thumbnail": "https://avatar-ex-swe.nixcdn.com/playlist/2022/11/08/4/3/e/6/1667885544967_300.jpg",
+      "duration": "00:00",
+      "artists": [
+        {
+          "artistId": 5661,
+          "name": "Céline Dion",
+          "shortLink": "celine-dion",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2017/03/13/3/e/f/1/1489340068126_300.jpg"
+        }
+      ],
+      "type": "PLAYLIST",
+      "dateRelease": 1194368400000,
+      "dateCreate": 1667885504601,
+      "uploadBy": null,
+      "provider": null,
+      "refMapping": [],
+      "genreKey": "",
+      "songs": null,
+      "videos": null,
+      "description": "",
+      "dateModify": "17/11/2022",
+      "listTag": [],
+      "numOfItems": 18
+    },
+    {
+      "key": "rou3fRggSaw7",
+      "title": "POP",
+      "thumbnail": "https://avatar-ex-swe.nixcdn.com/playlist/2022/08/01/b/7/f/c/1659348135947_300.jpg",
+      "duration": "00:00",
+      "artists": [
+        {
+          "artistId": 8248,
+          "name": "V.A",
+          "shortLink": "va",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2020/08/18/e/4/e/c/1597723219000_300.jpg"
+        }
+      ],
+      "type": "PLAYLIST",
+      "dateRelease": 0,
+      "dateCreate": 1659340070201,
+      "uploadBy": null,
+      "provider": null,
+      "refMapping": [],
+      "genreKey": "",
+      "songs": null,
+      "videos": null,
+      "description": "",
+      "dateModify": "14/10/2022",
+      "listTag": [],
+      "numOfItems": 30
+    },
+    {
+      "key": "Lwrc0hQy24PD",
+      "title": "PSYCHO (Sped Up Version)",
+      "thumbnail": "https://avatar-ex-swe.nixcdn.com/playlist/2022/10/31/6/d/7/d/1667192601365_300.jpg",
+      "duration": "00:00",
+      "artists": [
+        {
+          "artistId": 470102,
+          "name": "sped up nightcore",
+          "shortLink": null,
+          "imageUrl": null
+        },
+        {
+          "artistId": 171905,
+          "name": "Anne-Marie",
+          "shortLink": "anne-marie",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2021/08/25/b/9/8/3/1629869138687_300.jpg"
+        },
+        {
+          "artistId": 276484,
+          "name": "Aitch",
+          "shortLink": null,
+          "imageUrl": null
+        }
+      ],
+      "type": "PLAYLIST",
+      "dateRelease": 1666890000000,
+      "dateCreate": 1667192596021,
+      "uploadBy": null,
+      "provider": null,
+      "refMapping": [],
+      "genreKey": "",
+      "songs": null,
+      "videos": null,
+      "description": "",
+      "dateModify": "08/11/2022",
+      "listTag": [],
+      "numOfItems": 1
+    },
+    {
+      "key": "MQbK3YcMb6Nz",
+      "title": "Can You See (Single)",
+      "thumbnail": "https://avatar-ex-swe.nixcdn.com/playlist/2022/10/31/6/d/7/d/1667183756975_300.jpg",
+      "duration": "00:00",
+      "artists": [
+        {
+          "artistId": 126328,
+          "name": "Fifth Harmony",
+          "shortLink": "fifth-harmony",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2017/06/04/9/6/2/7/1496590306934_300.jpg"
+        }
+      ],
+      "type": "PLAYLIST",
+      "dateRelease": 1511888400000,
+      "dateCreate": 1667183753636,
+      "uploadBy": null,
+      "provider": null,
+      "refMapping": [],
+      "genreKey": "",
+      "songs": null,
+      "videos": null,
+      "description": "",
+      "dateModify": "08/11/2022",
+      "listTag": [],
+      "numOfItems": 1
+    },
+    {
+      "key": "4BJfcCnR2wFa",
+      "title": "Sleep is Exhausting",
+      "thumbnail": "https://avatar-ex-swe.nixcdn.com/playlist/2022/11/07/1/5/4/d/1667791784067_300.jpg",
+      "duration": "00:00",
+      "artists": [
+        {
+          "artistId": 311050,
+          "name": "Teddy Swims",
+          "shortLink": null,
+          "imageUrl": null
+        }
+      ],
+      "type": "PLAYLIST",
+      "dateRelease": 1667494800000,
+      "dateCreate": 1667459959515,
+      "uploadBy": null,
+      "provider": null,
+      "refMapping": [],
+      "genreKey": "",
+      "songs": null,
+      "videos": null,
+      "description": "",
+      "dateModify": "07/11/2022",
+      "listTag": [],
+      "numOfItems": 6
+    },
+    {
+      "key": "GM3Tvwp8ik6z",
+      "title": "Step Back In Time: The Definitive Collection (Expanded)",
+      "thumbnail": "https://avatar-ex-swe.nixcdn.com/playlist/2022/11/02/b/c/6/3/1667364654170_300.jpg",
+      "duration": "00:00",
+      "artists": [
+        {
+          "artistId": 6370,
+          "name": "Kylie Minogue",
+          "shortLink": "kylie-minogue",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2020/09/30/c/3/8/9/1601433647234_300.jpg"
+        }
+      ],
+      "type": "PLAYLIST",
+      "dateRelease": 1574355600000,
+      "dateCreate": 1667364524327,
+      "uploadBy": null,
+      "provider": null,
+      "refMapping": [],
+      "genreKey": "",
+      "songs": null,
+      "videos": null,
+      "description": "",
+      "dateModify": "08/11/2022",
+      "listTag": [],
+      "numOfItems": 66
+    }
+  ],
+  "total": 1000,
+  "type": "playlist",
+  "clientIp": "183.80.235.131",
+  "time": 1671256649023
+}

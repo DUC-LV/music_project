@@ -70,7 +70,7 @@ const Home = () => {
                     }
                 })} 
             />
-            {dataTopicEvent?.map((item:any, index:any) => {
+            {dataTopicEvent?.slice(0,3)?.map((item:any, index:any) => {
                 return(
                     <Box key={index}>
                         <SlideShow

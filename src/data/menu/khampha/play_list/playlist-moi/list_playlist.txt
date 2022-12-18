@@ -1,0 +1,987 @@
+{
+  "status": "success",
+  "data": [
+    {
+      "key": "aFMKzr64eWA6",
+      "title": "Vọng (EP)",
+      "thumbnail": "https://avatar-ex-swe.nixcdn.com/playlist/2022/12/13/f/b/6/5/1670904738091_300.jpg",
+      "duration": "00:00",
+      "artists": [
+        {
+          "artistId": 312892,
+          "name": "buitruonglinh",
+          "shortLink": "buitruonglinh",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2022/12/14/3/f/d/9/1670999886855_300.jpg"
+        }
+      ],
+      "type": "PLAYLIST",
+      "dateRelease": 1671022800000,
+      "dateCreate": 1670904737648,
+      "uploadBy": null,
+      "provider": null,
+      "refMapping": [],
+      "genreKey": "",
+      "songs": null,
+      "videos": null,
+      "description": "",
+      "dateModify": "15/12/2022",
+      "listTag": [],
+      "numOfItems": 7
+    },
+    {
+      "key": "NhmLjdVfiD1Z",
+      "title": "Đến Đâu Từ Đây (EP)",
+      "thumbnail": "https://avatar-ex-swe.nixcdn.com/playlist/2022/10/25/3/7/e/1/1666708093632_300.jpg",
+      "duration": "00:00",
+      "artists": [
+        {
+          "artistId": 72977,
+          "name": "Thành Đồng",
+          "shortLink": null,
+          "imageUrl": null
+        }
+      ],
+      "type": "PLAYLIST",
+      "dateRelease": 1666717200000,
+      "dateCreate": 1666708084141,
+      "uploadBy": null,
+      "provider": null,
+      "refMapping": [],
+      "genreKey": "",
+      "songs": null,
+      "videos": null,
+      "description": "",
+      "dateModify": "27/10/2022",
+      "listTag": [],
+      "numOfItems": 4
+    },
+    {
+      "key": "Z6N2iPyvjNBF",
+      "title": "Uka",
+      "thumbnail": "https://avatar-ex-swe.nixcdn.com/playlist/2022/12/12/8/1/0/e/1670823189535_300.jpg",
+      "duration": "00:00",
+      "artists": [
+        {
+          "artistId": 13940,
+          "name": "Tei",
+          "shortLink": "",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2017/01/24/2/f/7/5/1485225269599_300.jpg"
+        }
+      ],
+      "type": "PLAYLIST",
+      "dateRelease": 1670778000000,
+      "dateCreate": 1670823165793,
+      "uploadBy": null,
+      "provider": null,
+      "refMapping": [],
+      "genreKey": "",
+      "songs": null,
+      "videos": null,
+      "description": "",
+      "dateModify": "15/12/2022",
+      "listTag": [],
+      "numOfItems": 6
+    },
+    {
+      "key": "zX0Xy4IhqgIq",
+      "title": "Tập 9 - Trạm 5: Xuân Hạ Thu Đông, rồi lại Xuân 2",
+      "thumbnail": "https://avatar-ex-swe.nixcdn.com/playlist/2022/12/05/a/3/f/8/1670217931988_300.jpg",
+      "duration": "00:00",
+      "artists": [
+        {
+          "artistId": 489903,
+          "name": "Forest Studio",
+          "shortLink": "Forest-Studio",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2022/11/24/3/4/e/f/1669278840829_300.jpg"
+        }
+      ],
+      "type": "PLAYLIST",
+      "dateRelease": 1670000400000,
+      "dateCreate": 1670217915543,
+      "uploadBy": null,
+      "provider": null,
+      "refMapping": [],
+      "genreKey": "",
+      "songs": null,
+      "videos": null,
+      "description": "",
+      "dateModify": "06/12/2022",
+      "listTag": [],
+      "numOfItems": 4
+    },
+    {
+      "key": "l7O21wTftRmc",
+      "title": "Bài Hát Hay Nhất - Big Song Big Deal (Tập 10)",
+      "thumbnail": "https://avatar-ex-swe.nixcdn.com/playlist/2022/12/05/a/3/f/8/1670217599289_300.jpg",
+      "duration": "00:00",
+      "artists": [
+        {
+          "artistId": 8248,
+          "name": "V.A",
+          "shortLink": "va",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2020/08/18/e/4/e/c/1597723219000_300.jpg"
+        }
+      ],
+      "type": "PLAYLIST",
+      "dateRelease": 1670086800000,
+      "dateCreate": 1670217579823,
+      "uploadBy": null,
+      "provider": null,
+      "refMapping": [],
+      "genreKey": "",
+      "songs": null,
+      "videos": null,
+      "description": "",
+      "dateModify": "06/12/2022",
+      "listTag": [],
+      "numOfItems": 5
+    },
+    {
+      "key": "0H09nwCmIqUk",
+      "title": "BORN PINK",
+      "thumbnail": "https://avatar-ex-swe.nixcdn.com/playlist/2022/09/16/6/7/c/8/1663300848864_300.jpg",
+      "duration": "00:00",
+      "artists": [
+        {
+          "artistId": 215682,
+          "name": "BLACKPINK",
+          "shortLink": "blackpink",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2022/09/16/2/e/3/c/1663304243525_300.jpg"
+        }
+      ],
+      "type": "PLAYLIST",
+      "dateRelease": 1663261200000,
+      "dateCreate": 1663300838353,
+      "uploadBy": null,
+      "provider": null,
+      "refMapping": [],
+      "genreKey": "",
+      "songs": null,
+      "videos": null,
+      "description": "",
+      "dateModify": "16/09/2022",
+      "listTag": [],
+      "numOfItems": 8
+    },
+    {
+      "key": "b5aDgBlof8kH",
+      "title": "SKY DECADE (EP)",
+      "thumbnail": "https://avatar-ex-swe.nixcdn.com/playlist/2022/10/06/4/8/c/9/1665059432710_300.jpg",
+      "duration": "00:00",
+      "artists": [
+        {
+          "artistId": 63207,
+          "name": "Sơn Tùng M-TP",
+          "shortLink": "son-tung-mtp",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2021/05/12/7/d/c/b/1620802736418_300.jpg"
+        }
+      ],
+      "type": "PLAYLIST",
+      "dateRelease": 1665069000000,
+      "dateCreate": 1665059425644,
+      "uploadBy": null,
+      "provider": null,
+      "refMapping": [],
+      "genreKey": "",
+      "songs": null,
+      "videos": null,
+      "description": "",
+      "dateModify": "07/10/2022",
+      "listTag": [],
+      "numOfItems": 4
+    },
+    {
+      "key": "elqIlnqQn5if",
+      "title": "22",
+      "thumbnail": "https://avatar-ex-swe.nixcdn.com/playlist/2022/08/10/8/a/1/e/1660123504328_300.jpg",
+      "duration": "00:00",
+      "artists": [
+        {
+          "artistId": 432378,
+          "name": "MONO",
+          "shortLink": "mono",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2022/08/08/c/6/c/1/1659932203225_300.jpg"
+        }
+      ],
+      "type": "PLAYLIST",
+      "dateRelease": 1660827600000,
+      "dateCreate": 1660123504122,
+      "uploadBy": null,
+      "provider": null,
+      "refMapping": [],
+      "genreKey": "",
+      "songs": null,
+      "videos": null,
+      "description": "",
+      "dateModify": "17/08/2022",
+      "listTag": [],
+      "numOfItems": 11
+    },
+    {
+      "key": "4GKnSdhISdR3",
+      "title": "CHARLIE (Explicit)",
+      "thumbnail": "https://avatar-ex-swe.nixcdn.com/playlist/2022/10/06/4/8/c/9/1665044889697_300.jpg",
+      "duration": "00:00",
+      "artists": [
+        {
+          "artistId": 106521,
+          "name": "Charlie Puth",
+          "shortLink": "charlie-puth",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2022/09/28/c/4/9/3/1664351016323_300.jpg"
+        }
+      ],
+      "type": "PLAYLIST",
+      "dateRelease": 1665075600000,
+      "dateCreate": 1665044879946,
+      "uploadBy": null,
+      "provider": null,
+      "refMapping": [],
+      "genreKey": "",
+      "songs": null,
+      "videos": null,
+      "description": "",
+      "dateModify": "09/11/2022",
+      "listTag": [],
+      "numOfItems": 12
+    },
+    {
+      "key": "lt2DNzTIjKR3",
+      "title": "after YOU (winter version - live session)",
+      "thumbnail": "https://avatar-ex-swe.nixcdn.com/playlist/2022/12/07/3/7/f/f/1670382384907_300.jpg",
+      "duration": "00:00",
+      "artists": [
+        {
+          "artistId": 128709,
+          "name": "Thiều Bảo Trâm",
+          "shortLink": "thieu-bao-tram",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2020/10/26/2/3/a/b/1603699957431_300.jpg"
+        }
+      ],
+      "type": "PLAYLIST",
+      "dateRelease": 1670328000000,
+      "dateCreate": 1670382383805,
+      "uploadBy": null,
+      "provider": null,
+      "refMapping": [],
+      "genreKey": "",
+      "songs": null,
+      "videos": null,
+      "description": "",
+      "dateModify": "16/12/2022",
+      "listTag": [],
+      "numOfItems": 6
+    },
+    {
+      "key": "RnA7K2YQx7EI",
+      "title": "Divine Symmetry",
+      "thumbnail": "https://avatar-ex-swe.nixcdn.com/playlist/2022/12/01/2/4/c/4/1669888493538_300.jpg",
+      "duration": "00:00",
+      "artists": [
+        {
+          "artistId": 5793,
+          "name": "David Bowie",
+          "shortLink": "",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2016/01/25/4/1/1/7/1453717060195_300.jpg"
+        }
+      ],
+      "type": "PLAYLIST",
+      "dateRelease": 1669309200000,
+      "dateCreate": 1669366558915,
+      "uploadBy": null,
+      "provider": null,
+      "refMapping": [],
+      "genreKey": "",
+      "songs": null,
+      "videos": null,
+      "description": "",
+      "dateModify": "01/12/2022",
+      "listTag": [],
+      "numOfItems": 72
+    },
+    {
+      "key": "EXfZntk32lEd",
+      "title": "Takin' It Back (Explicit)",
+      "thumbnail": "https://avatar-ex-swe.nixcdn.com/playlist/2022/10/17/5/1/8/b/1665996302881_300.jpg",
+      "duration": "00:00",
+      "artists": [
+        {
+          "artistId": 154937,
+          "name": "Meghan Trainor",
+          "shortLink": "meghan-trainor",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2018/03/02/9/d/f/c/1519959464697_300.jpg"
+        }
+      ],
+      "type": "PLAYLIST",
+      "dateRelease": 1666324800000,
+      "dateCreate": 1665996282407,
+      "uploadBy": null,
+      "provider": null,
+      "refMapping": [],
+      "genreKey": "",
+      "songs": null,
+      "videos": null,
+      "description": "",
+      "dateModify": "21/11/2022",
+      "listTag": [],
+      "numOfItems": 16
+    },
+    {
+      "key": "NRg3Z4Uz5vDG",
+      "title": "Acoustic (EP)",
+      "thumbnail": "https://avatar-ex-swe.nixcdn.com/playlist/2020/08/21/7/5/8/a/1598003358807_300.jpg",
+      "duration": "00:00",
+      "artists": [
+        {
+          "artistId": 80513,
+          "name": "One Direction",
+          "shortLink": "one-direction",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2016/01/25/4/1/1/7/1453717758005_300.jpg"
+        }
+      ],
+      "type": "PLAYLIST",
+      "dateRelease": 1290963600000,
+      "dateCreate": 1598003352893,
+      "uploadBy": null,
+      "provider": null,
+      "refMapping": [],
+      "genreKey": "",
+      "songs": null,
+      "videos": null,
+      "description": "",
+      "dateModify": "01/09/2020",
+      "listTag": [],
+      "numOfItems": 5
+    },
+    {
+      "key": "iqt3YmSmLOAn",
+      "title": "The Ballad (EP)",
+      "thumbnail": "https://avatar-ex-swe.nixcdn.com/playlist/2022/12/09/a/f/8/0/1670573956206_300.jpg",
+      "duration": "00:00",
+      "artists": [
+        {
+          "artistId": 495009,
+          "name": "Mars Anh Tú",
+          "shortLink": null,
+          "imageUrl": null
+        }
+      ],
+      "type": "PLAYLIST",
+      "dateRelease": 1670518800000,
+      "dateCreate": 1670573955007,
+      "uploadBy": null,
+      "provider": null,
+      "refMapping": [],
+      "genreKey": "",
+      "songs": null,
+      "videos": null,
+      "description": "",
+      "dateModify": "",
+      "listTag": [],
+      "numOfItems": 6
+    },
+    {
+      "key": "UQ1AlnN7KoLT",
+      "title": "Thrill Of The Chase",
+      "thumbnail": "https://avatar-ex-swe.nixcdn.com/playlist/2022/11/08/4/3/e/6/1667884162163_300.jpg",
+      "duration": "00:00",
+      "artists": [
+        {
+          "artistId": 177177,
+          "name": "Kygo",
+          "shortLink": "kygo",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2017/02/13/e/3/b/8/1486957852820_300.jpg"
+        }
+      ],
+      "type": "PLAYLIST",
+      "dateRelease": 1668099600000,
+      "dateCreate": 1667884123625,
+      "uploadBy": null,
+      "provider": null,
+      "refMapping": [],
+      "genreKey": "",
+      "songs": null,
+      "videos": null,
+      "description": "",
+      "dateModify": "18/11/2022",
+      "listTag": [],
+      "numOfItems": 14
+    },
+    {
+      "key": "mIMqtwphV59J",
+      "title": "Impossible Princess (Deluxe Edition)",
+      "thumbnail": "https://avatar-ex-swe.nixcdn.com/playlist/2022/10/31/6/d/7/d/1667186207621_300.jpg",
+      "duration": "00:00",
+      "artists": [
+        {
+          "artistId": 6370,
+          "name": "Kylie Minogue",
+          "shortLink": "kylie-minogue",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2020/09/30/c/3/8/9/1601433647234_300.jpg"
+        }
+      ],
+      "type": "PLAYLIST",
+      "dateRelease": 1053277200000,
+      "dateCreate": 1667186156773,
+      "uploadBy": null,
+      "provider": null,
+      "refMapping": [],
+      "genreKey": "",
+      "songs": null,
+      "videos": null,
+      "description": "",
+      "dateModify": "08/11/2022",
+      "listTag": [],
+      "numOfItems": 24
+    },
+    {
+      "key": "vIzKSL9kOeyH",
+      "title": "There’s Nothing But Space, Man! (Deluxe)",
+      "thumbnail": "https://avatar-ex-swe.nixcdn.com/playlist/2022/12/12/8/1/0/e/1670822429930_300.jpg",
+      "duration": "00:00",
+      "artists": [
+        {
+          "artistId": 300575,
+          "name": "Sam Ryder",
+          "shortLink": null,
+          "imageUrl": null
+        }
+      ],
+      "type": "PLAYLIST",
+      "dateRelease": 1670778000000,
+      "dateCreate": 1670822362113,
+      "uploadBy": null,
+      "provider": null,
+      "refMapping": [],
+      "genreKey": "",
+      "songs": null,
+      "videos": null,
+      "description": "",
+      "dateModify": "15/12/2022",
+      "listTag": [],
+      "numOfItems": 21
+    },
+    {
+      "key": "500WiEXxMPGK",
+      "title": "CITOPIA",
+      "thumbnail": "https://avatar-ex-swe.nixcdn.com/playlist/2022/11/11/7/7/5/8/1668139792382_300.jpg",
+      "duration": "00:00",
+      "artists": [
+        {
+          "artistId": 187030,
+          "name": "Phùng Khánh Linh",
+          "shortLink": "phung-khanh-linh",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2020/07/28/a/7/b/7/1595920032430_300.jpg"
+        }
+      ],
+      "type": "PLAYLIST",
+      "dateRelease": 1668139860000,
+      "dateCreate": 1668139792315,
+      "uploadBy": null,
+      "provider": null,
+      "refMapping": [],
+      "genreKey": "",
+      "songs": null,
+      "videos": null,
+      "description": "",
+      "dateModify": "",
+      "listTag": [],
+      "numOfItems": 10
+    },
+    {
+      "key": "bEoCKLNxFh2H",
+      "title": "Christmas (Deluxe 10th Anniversary Edition)",
+      "thumbnail": "https://avatar-ex-swe.nixcdn.com/playlist/2021/12/01/3/a/0/1/1638330162448_300.jpg",
+      "duration": "00:00",
+      "artists": [
+        {
+          "artistId": 9497,
+          "name": "Michael Buble",
+          "shortLink": "michael-bubble",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2022/03/29/9/a/f/3/1648523822014_300.jpg"
+        }
+      ],
+      "type": "PLAYLIST",
+      "dateRelease": -61200000,
+      "dateCreate": 1638330162317,
+      "uploadBy": null,
+      "provider": null,
+      "refMapping": [],
+      "genreKey": "",
+      "songs": null,
+      "videos": null,
+      "description": "",
+      "dateModify": "01/12/2021",
+      "listTag": [],
+      "numOfItems": 17
+    },
+    {
+      "key": "karsFiIMs6Fg",
+      "title": "Có",
+      "thumbnail": "https://avatar-ex-swe.nixcdn.com/playlist/2022/10/20/6/1/e/a/1666249745834_300.jpg",
+      "duration": "00:00",
+      "artists": [
+        {
+          "artistId": 223731,
+          "name": "Madihu",
+          "shortLink": null,
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2017/04/26/f/5/1/5/1493176501612_300.jpg"
+        }
+      ],
+      "type": "PLAYLIST",
+      "dateRelease": 1666198800000,
+      "dateCreate": 1666249734904,
+      "uploadBy": null,
+      "provider": null,
+      "refMapping": [],
+      "genreKey": "",
+      "songs": null,
+      "videos": null,
+      "description": "",
+      "dateModify": "20/10/2022",
+      "listTag": [],
+      "numOfItems": 6
+    },
+    {
+      "key": "dVDjN9KPxfVE",
+      "title": "SMITHEREENS (Explicit)",
+      "thumbnail": "https://avatar-ex-swe.nixcdn.com/playlist/2022/11/03/5/7/d/b/1667463644770_300.jpg",
+      "duration": "00:00",
+      "artists": [
+        {
+          "artistId": 224963,
+          "name": "Joji",
+          "shortLink": "joji",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2020/09/30/c/3/8/9/1601434357311_300.jpg"
+        }
+      ],
+      "type": "PLAYLIST",
+      "dateRelease": 1667494800000,
+      "dateCreate": 1667463632990,
+      "uploadBy": null,
+      "provider": null,
+      "refMapping": [],
+      "genreKey": "",
+      "songs": null,
+      "videos": null,
+      "description": "",
+      "dateModify": "04/11/2022",
+      "listTag": [],
+      "numOfItems": 9
+    },
+    {
+      "key": "15awFSH46UA9",
+      "title": "SOS (Explicit)",
+      "thumbnail": "https://avatar-ex-swe.nixcdn.com/playlist/2022/12/12/8/1/0/e/1670814953325_300.jpg",
+      "duration": "00:00",
+      "artists": [
+        {
+          "artistId": 143913,
+          "name": "SZA",
+          "shortLink": null,
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2016/12/22/5/a/d/7/1482395161292_300.jpg"
+        }
+      ],
+      "type": "PLAYLIST",
+      "dateRelease": 1670432400000,
+      "dateCreate": 1670814823856,
+      "uploadBy": null,
+      "provider": null,
+      "refMapping": [],
+      "genreKey": "",
+      "songs": null,
+      "videos": null,
+      "description": "",
+      "dateModify": "12/12/2022",
+      "listTag": [],
+      "numOfItems": 23
+    },
+    {
+      "key": "EUQS7y2plC9U",
+      "title": "'dự báo thời tiết hôm nay mưa' Maxi Single",
+      "thumbnail": "https://avatar-ex-swe.nixcdn.com/playlist/2022/11/14/2/0/5/1/1668412721460_300.jpg",
+      "duration": "00:00",
+      "artists": [
+        {
+          "artistId": 154648,
+          "name": "GREY D",
+          "shortLink": "grey-d",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2022/08/01/b/e/a/1/1659321743301_300.jpg"
+        }
+      ],
+      "type": "PLAYLIST",
+      "dateRelease": 1669122000000,
+      "dateCreate": 1668412721280,
+      "uploadBy": null,
+      "provider": null,
+      "refMapping": [],
+      "genreKey": "",
+      "songs": null,
+      "videos": null,
+      "description": "",
+      "dateModify": "14/11/2022",
+      "listTag": [],
+      "numOfItems": 3
+    },
+    {
+      "key": "eE8AJclzKfg2",
+      "title": "Stripped - 20th Anniversary Edition",
+      "thumbnail": "https://avatar-ex-swe.nixcdn.com/playlist/2022/10/27/6/2/6/6/1666848917213_300.jpg",
+      "duration": "00:00",
+      "artists": [
+        {
+          "artistId": 5694,
+          "name": "Christina Aguilera",
+          "shortLink": "christina-aguilera",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2022/01/25/3/1/c/e/1643089672018_300.jpg"
+        }
+      ],
+      "type": "PLAYLIST",
+      "dateRelease": 1666285200000,
+      "dateCreate": 1666848886439,
+      "uploadBy": null,
+      "provider": null,
+      "refMapping": [],
+      "genreKey": "",
+      "songs": null,
+      "videos": null,
+      "description": "",
+      "dateModify": "22/11/2022",
+      "listTag": [],
+      "numOfItems": 22
+    },
+    {
+      "key": "TATolZXzBus9",
+      "title": "To whom it may concern",
+      "thumbnail": "https://avatar-ex-swe.nixcdn.com/playlist/2022/09/06/a/1/2/9/1662448413911_300.jpg",
+      "duration": "00:00",
+      "artists": [
+        {
+          "artistId": 150387,
+          "name": "Bernard Park",
+          "shortLink": "bernard-park",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2022/09/06/8/9/f/3/1662436678164_300.jpg"
+        }
+      ],
+      "type": "PLAYLIST",
+      "dateRelease": 1662397200000,
+      "dateCreate": 1662448413788,
+      "uploadBy": null,
+      "provider": null,
+      "refMapping": [],
+      "genreKey": "",
+      "songs": null,
+      "videos": null,
+      "description": "",
+      "dateModify": "",
+      "listTag": [],
+      "numOfItems": 5
+    },
+    {
+      "key": "J0ZdWdsY1lF9",
+      "title": "Under The Queen’s Umbrella OST",
+      "thumbnail": "https://avatar-ex-swe.nixcdn.com/playlist/2022/12/05/5/7/c/6/1670227104500_300.jpg",
+      "duration": "00:00",
+      "artists": [
+        {
+          "artistId": 8248,
+          "name": "V.A",
+          "shortLink": "va",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2020/08/18/e/4/e/c/1597723219000_300.jpg"
+        }
+      ],
+      "type": "PLAYLIST",
+      "dateRelease": 1670173200000,
+      "dateCreate": 1668526905338,
+      "uploadBy": null,
+      "provider": null,
+      "refMapping": [],
+      "genreKey": "",
+      "songs": null,
+      "videos": null,
+      "description": "",
+      "dateModify": "05/12/2022",
+      "listTag": [],
+      "numOfItems": 4
+    },
+    {
+      "key": "hdAdzv9oOTxj",
+      "title": "FIFAe (Official Soundtrack)",
+      "thumbnail": "https://avatar-ex-swe.nixcdn.com/playlist/2022/12/13/9/b/1/1/1670910221949_300.jpg",
+      "duration": "00:00",
+      "artists": [
+        {
+          "artistId": 494917,
+          "name": "FIFA Sound",
+          "shortLink": null,
+          "imageUrl": null
+        }
+      ],
+      "type": "PLAYLIST",
+      "dateRelease": 1670950800000,
+      "dateCreate": 1670910199744,
+      "uploadBy": null,
+      "provider": null,
+      "refMapping": [],
+      "genreKey": "",
+      "songs": null,
+      "videos": null,
+      "description": "",
+      "dateModify": "14/12/2022",
+      "listTag": [],
+      "numOfItems": 5
+    },
+    {
+      "key": "qtpYSuJCvPYh",
+      "title": "The Way You Make Love (The 2nd EP)",
+      "thumbnail": "https://avatar-ex-swe.nixcdn.com/playlist/2022/11/30/1/a/9/b/1669781838044_300.jpg",
+      "duration": "00:00",
+      "artists": [
+        {
+          "artistId": 282036,
+          "name": "Machiot",
+          "shortLink": "machiot",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2020/06/12/c/1/7/7/1591955040345_300.jpg"
+        }
+      ],
+      "type": "PLAYLIST",
+      "dateRelease": 1669899600000,
+      "dateCreate": 1669781837677,
+      "uploadBy": null,
+      "provider": null,
+      "refMapping": [],
+      "genreKey": "",
+      "songs": null,
+      "videos": null,
+      "description": "",
+      "dateModify": "30/11/2022",
+      "listTag": [],
+      "numOfItems": 4
+    },
+    {
+      "key": "zwERUlyjtWUc",
+      "title": "Trạm 1 - Xuân Hạ Thu Đông, rồi lại Xuân 2",
+      "thumbnail": "https://avatar-ex-swe.nixcdn.com/playlist/2022/11/08/e/f/b/4/1667893228469_300.jpg",
+      "duration": "00:00",
+      "artists": [
+        {
+          "artistId": 489903,
+          "name": "Forest Studio",
+          "shortLink": "Forest-Studio",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2022/11/24/3/4/e/f/1669278840829_300.jpg"
+        }
+      ],
+      "type": "PLAYLIST",
+      "dateRelease": 1668085200000,
+      "dateCreate": 1667893228300,
+      "uploadBy": null,
+      "provider": null,
+      "refMapping": [],
+      "genreKey": "",
+      "songs": null,
+      "videos": null,
+      "description": "",
+      "dateModify": "25/11/2022",
+      "listTag": [],
+      "numOfItems": 11
+    },
+    {
+      "key": "zCQ8qLwuyypu",
+      "title": "Door To Nowhere",
+      "thumbnail": "https://avatar-ex-swe.nixcdn.com/playlist/2022/11/14/2/9/5/9/1668424809261_300.jpg",
+      "duration": "00:00",
+      "artists": [
+        {
+          "artistId": 282892,
+          "name": "Thịnh Suy",
+          "shortLink": "thinh-suy",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2021/12/08/e/3/1/c/1638943600839_300.jpg"
+        }
+      ],
+      "type": "PLAYLIST",
+      "dateRelease": 1668690000000,
+      "dateCreate": 1668424785212,
+      "uploadBy": null,
+      "provider": null,
+      "refMapping": [],
+      "genreKey": "",
+      "songs": null,
+      "videos": null,
+      "description": "",
+      "dateModify": "17/11/2022",
+      "listTag": [],
+      "numOfItems": 9
+    },
+    {
+      "key": "Oe4Ew8HbFU52",
+      "title": "A Song for You",
+      "thumbnail": "https://avatar-ex-swe.nixcdn.com/playlist/2022/11/03/5/7/d/b/1667461652726_300.jpg",
+      "duration": "00:00",
+      "artists": [
+        {
+          "artistId": 226397,
+          "name": "Luke Evans",
+          "shortLink": null,
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2017/03/13/3/e/f/1/1489379483114_300.jpg"
+        }
+      ],
+      "type": "PLAYLIST",
+      "dateRelease": 1667494800000,
+      "dateCreate": 1667461615764,
+      "uploadBy": null,
+      "provider": null,
+      "refMapping": [],
+      "genreKey": "",
+      "songs": null,
+      "videos": null,
+      "description": "",
+      "dateModify": "08/11/2022",
+      "listTag": [],
+      "numOfItems": 14
+    },
+    {
+      "key": "tpC4yQaK2svd",
+      "title": "The ReVe Festival 2022 – Birthday (EP)",
+      "thumbnail": "https://avatar-ex-swe.nixcdn.com/playlist/2022/11/30/1/a/9/b/1669813781872_300.jpg",
+      "duration": "00:00",
+      "artists": [
+        {
+          "artistId": 162551,
+          "name": "Red Velvet",
+          "shortLink": "red-velvet",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2018/08/06/4/5/5/2/1533543542175_300.jpg"
+        }
+      ],
+      "type": "PLAYLIST",
+      "dateRelease": 1669568400000,
+      "dateCreate": 1669813781764,
+      "uploadBy": null,
+      "provider": null,
+      "refMapping": [],
+      "genreKey": "",
+      "songs": null,
+      "videos": null,
+      "description": "",
+      "dateModify": "",
+      "listTag": [],
+      "numOfItems": 5
+    },
+    {
+      "key": "XcOfNqSyFndH",
+      "title": "Anh Tự Do Nhưng Cô Đơn (EP)",
+      "thumbnail": "https://avatar-ex-swe.nixcdn.com/playlist/2022/12/12/5/4/7/8/1670839691711_300.jpg",
+      "duration": "00:00",
+      "artists": [
+        {
+          "artistId": 56672,
+          "name": "Trung Quân",
+          "shortLink": "trung-quan",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2022/09/15/d/c/b/c/1663237004941_300.jpg"
+        }
+      ],
+      "type": "PLAYLIST",
+      "dateRelease": 1670778000000,
+      "dateCreate": 1670839691262,
+      "uploadBy": null,
+      "provider": null,
+      "refMapping": [],
+      "genreKey": "",
+      "songs": null,
+      "videos": null,
+      "description": "",
+      "dateModify": "",
+      "listTag": [],
+      "numOfItems": 3
+    },
+    {
+      "key": "v3Jtc2ENItN7",
+      "title": "Return of the Dream Canteen",
+      "thumbnail": "https://avatar-ex-swe.nixcdn.com/playlist/2022/10/13/8/2/c/f/1665660908106_300.jpg",
+      "duration": "00:00",
+      "artists": [
+        {
+          "artistId": 18303,
+          "name": "Red Hot Chili Peppers",
+          "shortLink": "red-hot-chili-peppers",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2016/04/28/9/a/5/b/1461817676098_300.jpg"
+        }
+      ],
+      "type": "PLAYLIST",
+      "dateRelease": 1665680400000,
+      "dateCreate": 1665660866297,
+      "uploadBy": null,
+      "provider": null,
+      "refMapping": [],
+      "genreKey": "",
+      "songs": null,
+      "videos": null,
+      "description": "",
+      "dateModify": "14/10/2022",
+      "listTag": [],
+      "numOfItems": 17
+    },
+    {
+      "key": "2KmopY60NulI",
+      "title": "MOTOMAMI +",
+      "thumbnail": "https://avatar-ex-swe.nixcdn.com/playlist/2022/09/09/5/3/a/0/1662707556033_300.jpg",
+      "duration": "00:00",
+      "artists": [
+        {
+          "artistId": 230490,
+          "name": "Rosalia",
+          "shortLink": null,
+          "imageUrl": null
+        }
+      ],
+      "type": "PLAYLIST",
+      "dateRelease": 1662656400000,
+      "dateCreate": 1662707511147,
+      "uploadBy": null,
+      "provider": null,
+      "refMapping": [],
+      "genreKey": "",
+      "songs": null,
+      "videos": null,
+      "description": "",
+      "dateModify": "09/09/2022",
+      "listTag": [],
+      "numOfItems": 24
+    },
+    {
+      "key": "X0TaLSTIfROx",
+      "title": "Wednesday (Original Series Soundtrack)",
+      "thumbnail": "https://avatar-ex-swe.nixcdn.com/playlist/2022/11/30/1/a/9/b/1669815362078_300.jpg",
+      "duration": "00:00",
+      "artists": [
+        {
+          "artistId": 17021,
+          "name": "Danny Elfman",
+          "shortLink": "danny-elfman",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2016/01/25/4/1/1/7/1453716356286_300.jpg"
+        },
+        {
+          "artistId": 89403,
+          "name": "Chris Bacon",
+          "shortLink": null,
+          "imageUrl": null
+        }
+      ],
+      "type": "PLAYLIST",
+      "dateRelease": 1669136400000,
+      "dateCreate": 1669815360871,
+      "uploadBy": null,
+      "provider": null,
+      "refMapping": [],
+      "genreKey": "",
+      "songs": null,
+      "videos": null,
+      "description": "",
+      "dateModify": "",
+      "listTag": [],
+      "numOfItems": 48
+    }
+  ],
+  "total": 267,
+  "type": "playlist",
+  "clientIp": "183.80.235.131",
+  "time": 1671205763687
+}
