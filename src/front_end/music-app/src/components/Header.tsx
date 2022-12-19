@@ -1,4 +1,4 @@
-import React, { useCallback, useState } from "react";
+import React, { useCallback, useEffect, useState } from "react";
 import { Box, Flex, Image } from "theme-ui";
 import { linkLogo } from "../untils";
 import { BsSearch, BsHouseFill, BsArrowDownShort, BsArrowUpShort, BsHeadset } from "react-icons/bs";
@@ -28,13 +28,13 @@ const Header = () => {
         {
             id: 1,
             name: 'Bài hát',
-            link: '/musics/bai-hat-moi',
+            link: '/musics/moi-hot',
             color: 'rgba(244,246,248,0.9)',
         },
         {
             id: 2,
             name: 'Playlist',
-            link: '/playlists/playlist-moi',
+            link: '/playlists/moi-hot',
             color: 'rgba(244,246,248,0.9)',
         },
         {
@@ -52,8 +52,8 @@ const Header = () => {
     ]
     const [clickDiscover, setClickDiscover] = useState(true);
     const handleClickDiscover = useCallback(() => {
-        setClickDiscover(true)
-    }, [])
+        setClickDiscover(!clickDiscover)
+    }, [clickDiscover])
     const categoriesListenToday = [
         {
             id: 1,
@@ -177,6 +177,19 @@ const Header = () => {
                         </Box>}
                     {clickDiscover && <Flex sx={{ position: 'absolute', flexDirection: 'column', marginTop: '20px'}}>
                         {categoriesDiscover.map(item => {
+                            // eslint-disable-next-line react-hooks/rules-of-hooks
+                                if(router.query.slugPlaylists == 'moi-hot' || router.query.slugMusics == 'moi-hot'){
+                                    item.color = '#28b1f4';
+                                }
+                                if(router.query.slugPlaylists == 'viet-nam' || router.query.slugMusics == 'viet-nam'){
+                                    item.color = '#28b1f4';
+                                }
+                                if(router.query.slugPlaylists == 'au-my' || router.query.slugMusics == 'au-my'){
+                                    item.color = '#28b1f4';
+                                }
+                                if(router.query.slugPlaylists == 'chau-a' || router.query.slugMusics == 'chau-a'){
+                                    item.color = '#28b1f4';
+                                }
                             // console.log(`${router.query.slugPlaylists}`)
                             // if(item.link == `/${router.query.slugPlaylists}`){
                             //     item.color = '#28b1f4';

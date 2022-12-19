@@ -1,9 +1,4 @@
-from django.shortcuts import render
-from django.http import HttpResponse, JsonResponse
-# from django.views.decorators.csrf import csrf_exempt
-# from rest_framework.parsers import JSONParser
-# from .serializers import TopicEventsSerializers, ListPlaylistsSerializers, ArtistsSerializers
-# from django.http import HttpResponse
+from django.http import JsonResponse
 from django.views import View
 from .models import TopicEvents, ListPlaylists, Artists
 
@@ -13,7 +8,8 @@ from .models import TopicEvents, ListPlaylists, Artists
 class GetListTopic(View):
     @staticmethod
     def get(request):
-        all_topics = TopicEvents.objects.all()
+        all_topics = TopicEvents.objects.filter(group_name__in=(
+        'World Cup 2022_World Cup 2022', 'Top Thịnh Hành_Top Viral Playlists', 'Cà Phê Đầu Tuần_Coffee For New Week'))
         topic_ids = [tp.id for tp in all_topics]
         list_playlists = ListPlaylists.objects.filter(topic_event_id__in=topic_ids).all()
         topic_playlists_map = {}
@@ -55,9 +51,8 @@ class GetListTopic(View):
 
 
 class GetPlayListMoi(View):
-    @staticmethod
-    def get(request):
-        all_topics = TopicEvents.objects.all()
+    def get(self, request):
+        all_topics = TopicEvents.objects.filter(group_name='playlist-moi')
         topic_ids = [tp.id for tp in all_topics]
         list_playlists = ListPlaylists.objects.filter(topic_event_id__in=topic_ids).all()
         topic_playlists_map = {}
@@ -89,19 +84,16 @@ class GetPlayListMoi(View):
 
         data_res = {}
         for tp in all_topics:
-            if tp.group_name == "playlist-moi":
-                data_res = {
-                    "groupName": tp.group_name,
-                    "data": topic_playlists_map[tp.id]
-                }
-
+            data_res = {
+                "groupName": tp.group_name,
+                "data": topic_playlists_map[tp.id]
+            }
         return JsonResponse(data_res, safe=False)
 
 
 class GetNhacTreMoi(View):
-    @staticmethod
     def get(self, request):
-        all_topics = TopicEvents.objects.all()
+        all_topics = TopicEvents.objects.filter(group_name='nhac-tre-moi')
         topic_ids = [tp.id for tp in all_topics]
         list_playlists = ListPlaylists.objects.filter(topic_event_id__in=topic_ids).all()
         topic_playlists_map = {}
@@ -133,19 +125,17 @@ class GetNhacTreMoi(View):
 
         data_res = {}
         for tp in all_topics:
-            if tp.group_name == "nhac-tre-moi":
-                data_res = {
-                    "groupName": tp.group_name,
-                    "data": topic_playlists_map[tp.id]
-                }
+            data_res = {
+                "groupName": tp.group_name,
+                "data": topic_playlists_map[tp.id]
+            }
 
         return JsonResponse(data_res, safe=False)
 
 
 class GetPopMoi(View):
-    @staticmethod
     def get(self, request):
-        all_topics = TopicEvents.objects.all()
+        all_topics = TopicEvents.objects.filter(group_name='pop-moi')
         topic_ids = [tp.id for tp in all_topics]
         list_playlists = ListPlaylists.objects.filter(topic_event_id__in=topic_ids).all()
         topic_playlists_map = {}
@@ -177,19 +167,17 @@ class GetPopMoi(View):
 
         data_res = {}
         for tp in all_topics:
-            if tp.group_name == "pop-moi":
-                data_res = {
-                    "groupName": tp.group_name,
-                    "data": topic_playlists_map[tp.id]
-                }
+            data_res = {
+                "groupName": tp.group_name,
+                "data": topic_playlists_map[tp.id]
+            }
 
         return JsonResponse(data_res, safe=False)
 
 
 class GetNhacHanMoi(View):
-    @staticmethod
     def get(self, request):
-        all_topics = TopicEvents.objects.all()
+        all_topics = TopicEvents.objects.filter(group_name='nhac-han-moi')
         topic_ids = [tp.id for tp in all_topics]
         list_playlists = ListPlaylists.objects.filter(topic_event_id__in=topic_ids).all()
         topic_playlists_map = {}
@@ -221,10 +209,9 @@ class GetNhacHanMoi(View):
 
         data_res = {}
         for tp in all_topics:
-            if tp.group_name == "nhac-han-moi":
-                data_res = {
-                    "groupName": tp.group_name,
-                    "data": topic_playlists_map[tp.id]
-                }
+            data_res = {
+                "groupName": tp.group_name,
+                "data": topic_playlists_map[tp.id]
+            }
 
         return JsonResponse(data_res, safe=False)
