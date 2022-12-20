@@ -42,11 +42,11 @@ const CategoryPlayList = () => {
                     return {
                         image: item?.thumbnail,
                         title: item?.title,
-                        nameArtist: item?.artists?.[0].name,
+                        nameArtist: item?.artists?.[0]?.name,
                         key: item?.key,
-                        dateModify: item?.dateModify,
                     }
                 })}
+                url="playlist/[slugPlaylist]"
             />
         </Box>
     );

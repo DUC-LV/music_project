@@ -94,9 +94,7 @@ const Header = () => {
             color: 'rgba(244,246,248,0.9)',
         },
     ]
-    const [color, setColor] = useState('rgba(244,246,248,0.9)');
     const router = useRouter();
-    console.log(router.query)
     return(
         <Box
             sx={{
@@ -178,22 +176,9 @@ const Header = () => {
                     {clickDiscover && <Flex sx={{ position: 'absolute', flexDirection: 'column', marginTop: '20px'}}>
                         {categoriesDiscover.map(item => {
                             // eslint-disable-next-line react-hooks/rules-of-hooks
-                                if(router.query.slugPlaylists == 'moi-hot' || router.query.slugMusics == 'moi-hot'){
-                                    item.color = '#28b1f4';
-                                }
-                                if(router.query.slugPlaylists == 'viet-nam' || router.query.slugMusics == 'viet-nam'){
-                                    item.color = '#28b1f4';
-                                }
-                                if(router.query.slugPlaylists == 'au-my' || router.query.slugMusics == 'au-my'){
-                                    item.color = '#28b1f4';
-                                }
-                                if(router.query.slugPlaylists == 'chau-a' || router.query.slugMusics == 'chau-a'){
-                                    item.color = '#28b1f4';
-                                }
-                            // console.log(`${router.query.slugPlaylists}`)
-                            // if(item.link == `/${router.query.slugPlaylists}`){
-                            //     item.color = '#28b1f4';
-                            // }
+                            if(router.asPath == item.link){
+                                item.color = '#28b1f4';
+                            }
                             return(
                                 <Flex key={item.id} onClick={() => router.push(item?.link)}>
                                     <Box as='h6' sx={{ color: item.color , fontSize: '13px',cursor: 'pointer', marginTop: '20px', marginLeft: '40px', ":hover":{ color: '#c2c6ca'}}}>{item.name}</Box>

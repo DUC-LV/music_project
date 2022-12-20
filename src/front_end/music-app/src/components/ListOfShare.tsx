@@ -7,12 +7,12 @@ export interface Data {
 	title?: string;
 	nameArtist?: string;
 	key?: string,
-	dateModify?: string,
 }
 export interface DataList {
 	dataListOfShare?: Data [];
+	url?: string;
 }
-const ListOfShare = ({dataListOfShare}: DataList) => {
+const ListOfShare = ({dataListOfShare, url}: DataList) => {
 	const router = useRouter();
     return(
         <Grid
@@ -49,7 +49,7 @@ const ListOfShare = ({dataListOfShare}: DataList) => {
 						<Image
 							onClick={() => {
 								router.push({
-									pathname: '../playlist/[slugPlaylist]',
+									pathname: `../${url}`,
 									query:{
 										slugPlaylist: convertSlug(item.title),
 										"key": item.key,
@@ -96,21 +96,6 @@ const ListOfShare = ({dataListOfShare}: DataList) => {
 								},
 							}}
 						>{item?.nameArtist}</Text>
-						<Text
-							as="h6"
-							sx={{
-								whiteSpace: 'nowrap',
-								overflow: 'hidden',
-								textOverflow: 'ellipsis',
-								fontSize: '12px',
-								color: 'rgba(244,246,248,0.5)',
-								cursor: 'pointer',
-								mt: '5px',
-								":hover": {
-									color: '#2DAAED',
-								},
-							}}
-						>{item?.dateModify}</Text>
 					</Box>
 				);
 			})}
