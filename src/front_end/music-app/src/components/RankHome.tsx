@@ -69,13 +69,16 @@ const RankingHome = ({ dataSlide, title }: DataSlide) => {
                 <Flex sx={{ justifyContent: 'center', mt: '11px'}}>
                     <Button 
                         sx={{
-                            background: '#202a35',
-                            border: '1px solid white', 
+                            background: '#F23D97',
+                            border: 'none', 
                             borderRadius: '5px', 
                             fontSize: '12px', 
                             cursor: 'pointer',
-                            ":hover": {
-                                background: '#2d2016'
+                            boxShadow: '0 3px 0 #8C2E6E',
+                            transition: '.5s',
+                            ":active": {
+                                boxShadow: 'none',
+                                transform: 'translateY(3px)'
                             }
                         }}
                         >

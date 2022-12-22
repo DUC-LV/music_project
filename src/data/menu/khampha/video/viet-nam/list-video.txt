@@ -1,0 +1,1059 @@
+{
+  "status": "success",
+  "data": [
+    {
+      "key": "qZINqpUTxzaZ2",
+      "title": "Nếu Em Còn Đợi Anh",
+      "thumbnail": "https://avatar-ex-swe.nixcdn.com/mv/2022/12/16/a/9/d/a/1671162279496_640.jpg",
+      "duration": "03:59",
+      "artists": [
+        {
+          "artistId": 312892,
+          "name": "buitruonglinh",
+          "shortLink": "buitruonglinh",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2022/12/14/3/f/d/9/1670999886855_300.jpg"
+        }
+      ],
+      "type": "VIDEO",
+      "dateRelease": 1671160200000,
+      "dateCreate": 1671162278510,
+      "uploadBy": null,
+      "provider": null,
+      "isMyPlaylist": false,
+      "statusViewValue": 1,
+      "statusPlayValue": 1,
+      "statusDownloadValue": 2,
+      "statusAddPlaylistValue": 0,
+      "refMapping": [],
+      "genreKey": "",
+      "streamUrls": []
+    },
+    {
+      "key": "hhVL4gJiItcNH",
+      "title": "Ma Sói (Original Soundtrack From \"Đảo Độc Đắc - Tử Mẫu Thiên Linh Cái\")",
+      "thumbnail": "https://avatar-ex-swe.nixcdn.com/mv/2022/12/14/e/1/9/4/1671007079660_640.jpg",
+      "duration": "03:24",
+      "artists": [
+        {
+          "artistId": 143491,
+          "name": "CARA",
+          "shortLink": "cara",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2020/09/08/4/9/c/3/1599539664977_300.jpg"
+        },
+        {
+          "artistId": 294966,
+          "name": "Ngắn",
+          "shortLink": "ngan",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2022/07/28/a/a/6/2/1659002317129_300.jpg"
+        }
+      ],
+      "type": "VIDEO",
+      "dateRelease": 1671019200000,
+      "dateCreate": 1671007079378,
+      "uploadBy": null,
+      "provider": null,
+      "isMyPlaylist": false,
+      "statusViewValue": 1,
+      "statusPlayValue": 1,
+      "statusDownloadValue": 2,
+      "statusAddPlaylistValue": 0,
+      "refMapping": [],
+      "genreKey": "",
+      "streamUrls": []
+    },
+    {
+      "key": "2KYajIQdIcrxF",
+      "title": "Mèo Say Nắng",
+      "thumbnail": "https://avatar-ex-swe.nixcdn.com/mv/2022/12/13/1/b/a/2/1670906954846_640.jpg",
+      "duration": "03:25",
+      "artists": [
+        {
+          "artistId": 178631,
+          "name": "Võ Ê Vo",
+          "shortLink": "vo-e-vo",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2018/12/11/e/a/9/f/1544515481742_300.jpg"
+        }
+      ],
+      "type": "VIDEO",
+      "dateRelease": 1671015600000,
+      "dateCreate": 1670906953061,
+      "uploadBy": null,
+      "provider": null,
+      "isMyPlaylist": false,
+      "statusViewValue": 1,
+      "statusPlayValue": 1,
+      "statusDownloadValue": 2,
+      "statusAddPlaylistValue": 0,
+      "refMapping": [],
+      "genreKey": "",
+      "streamUrls": []
+    },
+    {
+      "key": "7RtDELiJ3uzPo",
+      "title": "Khi Một Người Bước Ra Khỏi Cuộc Đời Một Người",
+      "thumbnail": "https://avatar-ex-swe.nixcdn.com/mv/2022/12/09/0/c/a/a/1670580274522_640.jpg",
+      "duration": "03:39",
+      "artists": [
+        {
+          "artistId": 139454,
+          "name": "Trương Thảo Nhi",
+          "shortLink": "Truong-Thao-Nhi",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2022/07/11/1/6/0/5/1657535383616_300.jpg"
+        }
+      ],
+      "type": "VIDEO",
+      "dateRelease": 1670506200000,
+      "dateCreate": 1670580274122,
+      "uploadBy": null,
+      "provider": null,
+      "isMyPlaylist": false,
+      "statusViewValue": 1,
+      "statusPlayValue": 1,
+      "statusDownloadValue": 2,
+      "statusAddPlaylistValue": 0,
+      "refMapping": [],
+      "genreKey": "",
+      "streamUrls": []
+    },
+    {
+      "key": "hFqMzFEWb55gi",
+      "title": "Trao Em Tình Yêu Vì Anh Thấy Anh Nghèo Trong Một Buổi Chiều Màu Đỏ",
+      "thumbnail": "https://avatar-ex-swe.nixcdn.com/mv/2022/12/15/0/a/b/7/1671104537755_640.jpg",
+      "duration": "05:16",
+      "artists": [
+        {
+          "artistId": 312991,
+          "name": "Wren Evans",
+          "shortLink": "wren-evans",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2022/06/30/d/e/1/7/1656582658102_300.jpg"
+        }
+      ],
+      "type": "VIDEO",
+      "dateRelease": 0,
+      "dateCreate": 0,
+      "uploadBy": null,
+      "provider": null,
+      "isMyPlaylist": false,
+      "statusViewValue": 1,
+      "statusPlayValue": 1,
+      "statusDownloadValue": 2,
+      "statusAddPlaylistValue": 0,
+      "refMapping": [],
+      "genreKey": "",
+      "streamUrls": []
+    },
+    {
+      "key": "Id2TUCSGkN53K",
+      "title": "Kiềng Ba Chân",
+      "thumbnail": "https://avatar-ex-swe.nixcdn.com/mv/2022/12/13/1/b/a/2/1670902048191_640.jpg",
+      "duration": "03:58",
+      "artists": [
+        {
+          "artistId": 12574,
+          "name": "Hoàng Thùy Linh",
+          "shortLink": "hoang-thuy-linh",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2022/08/11/f/1/0/8/1660208910488_300.jpg"
+        },
+        {
+          "artistId": 30830,
+          "name": "Karik",
+          "shortLink": "karik",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2020/06/29/0/9/e/a/1593412376912_300.jpg"
+        }
+      ],
+      "type": "VIDEO",
+      "dateRelease": 0,
+      "dateCreate": 0,
+      "uploadBy": null,
+      "provider": null,
+      "isMyPlaylist": false,
+      "statusViewValue": 1,
+      "statusPlayValue": 1,
+      "statusDownloadValue": 2,
+      "statusAddPlaylistValue": 0,
+      "refMapping": [],
+      "genreKey": "",
+      "streamUrls": []
+    },
+    {
+      "key": "PwyJw707fI7TM",
+      "title": "Em Có Muốn Yêu Anh Không (Lyric Video)",
+      "thumbnail": "https://avatar-ex-swe.nixcdn.com/mv/2022/11/24/a/a/9/2/1669272395275_640.jpg",
+      "duration": "03:58",
+      "artists": [
+        {
+          "artistId": 495011,
+          "name": "MarDa",
+          "shortLink": null,
+          "imageUrl": null
+        },
+        {
+          "artistId": 495012,
+          "name": "VanD",
+          "shortLink": null,
+          "imageUrl": null
+        }
+      ],
+      "type": "VIDEO",
+      "dateRelease": 1669222800000,
+      "dateCreate": 1669272394277,
+      "uploadBy": null,
+      "provider": null,
+      "isMyPlaylist": false,
+      "statusViewValue": 1,
+      "statusPlayValue": 1,
+      "statusDownloadValue": 2,
+      "statusAddPlaylistValue": 0,
+      "refMapping": [],
+      "genreKey": "",
+      "streamUrls": []
+    },
+    {
+      "key": "rs4zl7NCOlpls",
+      "title": "Thay Tâm Đổi Lòng",
+      "thumbnail": "https://avatar-ex-swe.nixcdn.com/mv/2022/11/25/6/c/a/f/1669318818297_640.jpg",
+      "duration": "05:28",
+      "artists": [
+        {
+          "artistId": 143987,
+          "name": "Vương Anh Tú",
+          "shortLink": "vuong-anh-tu",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2018/09/28/1/e/7/5/1538105788032_300.jpg"
+        }
+      ],
+      "type": "VIDEO",
+      "dateRelease": 1669381200000,
+      "dateCreate": 1669318817702,
+      "uploadBy": null,
+      "provider": null,
+      "isMyPlaylist": false,
+      "statusViewValue": 1,
+      "statusPlayValue": 1,
+      "statusDownloadValue": 2,
+      "statusAddPlaylistValue": 0,
+      "refMapping": [],
+      "genreKey": "",
+      "streamUrls": []
+    },
+    {
+      "key": "Qm62Te3j8AbXR",
+      "title": "Tất Cả Đứng Im",
+      "thumbnail": "https://avatar-ex-swe.nixcdn.com/mv/2022/12/01/5/5/9/0/1669870618696_640.jpg",
+      "duration": "03:24",
+      "artists": [
+        {
+          "artistId": 15963,
+          "name": "Ngô Kiến Huy",
+          "shortLink": "ngo-kien-huy",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2020/12/15/e/f/5/9/1608025280378_300.jpg"
+        },
+        {
+          "artistId": 293180,
+          "name": "HIEUTHUHAI",
+          "shortLink": "hieuthuhai",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2022/08/12/3/a/7/f/1660300989335_300.jpg"
+        }
+      ],
+      "type": "VIDEO",
+      "dateRelease": 0,
+      "dateCreate": 0,
+      "uploadBy": null,
+      "provider": null,
+      "isMyPlaylist": false,
+      "statusViewValue": 1,
+      "statusPlayValue": 1,
+      "statusDownloadValue": 2,
+      "statusAddPlaylistValue": 0,
+      "refMapping": [],
+      "genreKey": "",
+      "streamUrls": []
+    },
+    {
+      "key": "bGObeIcSZUIUf",
+      "title": "Tình Yêu Đến Sau",
+      "thumbnail": "https://avatar-ex-swe.nixcdn.com/mv/2022/11/21/6/8/a/4/1669011788727_640.jpg",
+      "duration": "05:03",
+      "artists": [
+        {
+          "artistId": 494921,
+          "name": "Myra Trần",
+          "shortLink": null,
+          "imageUrl": null
+        }
+      ],
+      "type": "VIDEO",
+      "dateRelease": 1669035600000,
+      "dateCreate": 1669011788377,
+      "uploadBy": null,
+      "provider": null,
+      "isMyPlaylist": false,
+      "statusViewValue": 1,
+      "statusPlayValue": 1,
+      "statusDownloadValue": 2,
+      "statusAddPlaylistValue": 0,
+      "refMapping": [],
+      "genreKey": "",
+      "streamUrls": []
+    },
+    {
+      "key": "LKbrJsFgqnm6Y",
+      "title": "Mẹ Em Là Cô Giáo Vùng Cao",
+      "thumbnail": "https://avatar-ex-swe.nixcdn.com/mv/2022/11/28/0/d/0/b/1669620774334_640.jpg",
+      "duration": "04:16",
+      "artists": [
+        {
+          "artistId": 295025,
+          "name": "Sèn Hoàng Mỹ Lam",
+          "shortLink": "sen-hoang-my-lam",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2020/06/13/2/d/4/e/1592044533284_300.jpg"
+        }
+      ],
+      "type": "VIDEO",
+      "dateRelease": 1669568400000,
+      "dateCreate": 1669620774253,
+      "uploadBy": null,
+      "provider": null,
+      "isMyPlaylist": false,
+      "statusViewValue": 1,
+      "statusPlayValue": 1,
+      "statusDownloadValue": 2,
+      "statusAddPlaylistValue": 0,
+      "refMapping": [],
+      "genreKey": "",
+      "streamUrls": []
+    },
+    {
+      "key": "83yZE5ouDH3Pc",
+      "title": "Riêng Ta Một Lối (Karaoke Version)",
+      "thumbnail": "https://avatar-ex-swe.nixcdn.com/mv/2022/12/05/9/5/7/c/1670246717459_640.jpg",
+      "duration": "04:15",
+      "artists": [
+        {
+          "artistId": 495257,
+          "name": "Công Truyền",
+          "shortLink": null,
+          "imageUrl": null
+        }
+      ],
+      "type": "VIDEO",
+      "dateRelease": 1670173200000,
+      "dateCreate": 1670246717116,
+      "uploadBy": null,
+      "provider": null,
+      "isMyPlaylist": false,
+      "statusViewValue": 1,
+      "statusPlayValue": 1,
+      "statusDownloadValue": 2,
+      "statusAddPlaylistValue": 0,
+      "refMapping": [],
+      "genreKey": "",
+      "streamUrls": []
+    },
+    {
+      "key": "BEGRaZF8Fm47w",
+      "title": "Riêng Ta Một Lối",
+      "thumbnail": "https://avatar-ex-swe.nixcdn.com/mv/2022/12/05/9/5/7/c/1670246351477_640.jpg",
+      "duration": "04:15",
+      "artists": [
+        {
+          "artistId": 495257,
+          "name": "Công Truyền",
+          "shortLink": null,
+          "imageUrl": null
+        }
+      ],
+      "type": "VIDEO",
+      "dateRelease": 1670173200000,
+      "dateCreate": 1670246348440,
+      "uploadBy": null,
+      "provider": null,
+      "isMyPlaylist": false,
+      "statusViewValue": 1,
+      "statusPlayValue": 1,
+      "statusDownloadValue": 2,
+      "statusAddPlaylistValue": 0,
+      "refMapping": [],
+      "genreKey": "",
+      "streamUrls": []
+    },
+    {
+      "key": "OVhTKbNK79FDm",
+      "title": "Anh Có Muốn Chúng Mình Bỏ Nhau?",
+      "thumbnail": "https://avatar-ex-swe.nixcdn.com/mv/2022/12/02/1/4/d/d/1669976704681_640.jpg",
+      "duration": "04:06",
+      "artists": [
+        {
+          "artistId": 22734,
+          "name": "Phạm Hồng Phước",
+          "shortLink": "pham-hong-phuoc",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2022/12/06/5/4/7/3/1670307703665_300.jpg"
+        }
+      ],
+      "type": "VIDEO",
+      "dateRelease": 1670590800000,
+      "dateCreate": 1669976704489,
+      "uploadBy": null,
+      "provider": null,
+      "isMyPlaylist": false,
+      "statusViewValue": 1,
+      "statusPlayValue": 1,
+      "statusDownloadValue": 2,
+      "statusAddPlaylistValue": 0,
+      "refMapping": [],
+      "genreKey": "",
+      "streamUrls": []
+    },
+    {
+      "key": "TDETLI2b0XMHN",
+      "title": "Chưa Đủ Để Giữ Em",
+      "thumbnail": "https://avatar-ex-swe.nixcdn.com/mv/2022/11/29/b/1/6/b/1669718290808_640.jpg",
+      "duration": "05:32",
+      "artists": [
+        {
+          "artistId": 143987,
+          "name": "Vương Anh Tú",
+          "shortLink": "vuong-anh-tu",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2018/09/28/1/e/7/5/1538105788032_300.jpg"
+        }
+      ],
+      "type": "VIDEO",
+      "dateRelease": 1669899600000,
+      "dateCreate": 1669718289959,
+      "uploadBy": null,
+      "provider": null,
+      "isMyPlaylist": false,
+      "statusViewValue": 1,
+      "statusPlayValue": 1,
+      "statusDownloadValue": 2,
+      "statusAddPlaylistValue": 0,
+      "refMapping": [],
+      "genreKey": "",
+      "streamUrls": []
+    },
+    {
+      "key": "68sU3HykfHzaM",
+      "title": "10k năm (Visualizer video)",
+      "thumbnail": "https://avatar-ex-swe.nixcdn.com/mv/2022/12/06/1/b/c/6/1670300787303_640.jpg",
+      "duration": "03:51",
+      "artists": [
+        {
+          "artistId": 284406,
+          "name": "Lemese",
+          "shortLink": null,
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2019/11/08/2/2/a/0/1573196340329_300.jpg"
+        },
+        {
+          "artistId": 344613,
+          "name": "Changg",
+          "shortLink": null,
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2021/07/26/9/b/a/a/1627272571398_300.jpg"
+        },
+        {
+          "artistId": 302164,
+          "name": "fueled by boba",
+          "shortLink": "fueled-by-boba",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2020/02/18/1/2/b/5/1582011607149_300.jpg"
+        }
+      ],
+      "type": "VIDEO",
+      "dateRelease": 1670414400000,
+      "dateCreate": 1670300786880,
+      "uploadBy": null,
+      "provider": null,
+      "isMyPlaylist": false,
+      "statusViewValue": 1,
+      "statusPlayValue": 1,
+      "statusDownloadValue": 2,
+      "statusAddPlaylistValue": 0,
+      "refMapping": [],
+      "genreKey": "",
+      "streamUrls": []
+    },
+    {
+      "key": "FtOcKv2v7hmRg",
+      "title": "Lời Thầy",
+      "thumbnail": "https://avatar-ex-swe.nixcdn.com/mv/2022/11/15/0/d/2/2/1668510370258_640.jpg",
+      "duration": "04:52",
+      "artists": [
+        {
+          "artistId": 365890,
+          "name": "Đào Ngọc Sang",
+          "shortLink": null,
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2022/04/12/b/e/7/c/1649735066221_300.jpg"
+        }
+      ],
+      "type": "VIDEO",
+      "dateRelease": 1668445200000,
+      "dateCreate": 1668510370051,
+      "uploadBy": null,
+      "provider": null,
+      "isMyPlaylist": false,
+      "statusViewValue": 1,
+      "statusPlayValue": 1,
+      "statusDownloadValue": 2,
+      "statusAddPlaylistValue": 0,
+      "refMapping": [],
+      "genreKey": "",
+      "streamUrls": []
+    },
+    {
+      "key": "w7HY890tGf0VN",
+      "title": "Thà cô đơn còn hơn yêu ai nhưng vẫn cô đơn",
+      "thumbnail": "https://avatar-ex-swe.nixcdn.com/mv/2022/11/19/6/b/e/f/1668843675791_640.jpg",
+      "duration": "04:43",
+      "artists": [
+        {
+          "artistId": 53017,
+          "name": "Tố Tố",
+          "shortLink": null,
+          "imageUrl": null
+        },
+        {
+          "artistId": 276137,
+          "name": "La Hồng Đức",
+          "shortLink": "la-hong-duc",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2019/12/25/8/7/0/e/1577260296700_300.jpg"
+        }
+      ],
+      "type": "VIDEO",
+      "dateRelease": 1669222800000,
+      "dateCreate": 1668843675516,
+      "uploadBy": null,
+      "provider": null,
+      "isMyPlaylist": false,
+      "statusViewValue": 1,
+      "statusPlayValue": 1,
+      "statusDownloadValue": 2,
+      "statusAddPlaylistValue": 0,
+      "refMapping": [],
+      "genreKey": "",
+      "streamUrls": []
+    },
+    {
+      "key": "KPqsWD8sTQWD5",
+      "title": "Thêm 1 Lần Yêu (Karaoke Version)",
+      "thumbnail": "https://avatar-ex-swe.nixcdn.com/mv/2022/11/28/0/d/0/b/1669621716951_640.jpg",
+      "duration": "03:25",
+      "artists": [
+        {
+          "artistId": 263364,
+          "name": "DLBlack",
+          "shortLink": "dlblack",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2021/05/08/7/6/4/4/1620471804948_300.jpg"
+        },
+        {
+          "artistId": 324550,
+          "name": "ThanhThanh",
+          "shortLink": null,
+          "imageUrl": null
+        }
+      ],
+      "type": "VIDEO",
+      "dateRelease": 1669568400000,
+      "dateCreate": 1669621716172,
+      "uploadBy": null,
+      "provider": null,
+      "isMyPlaylist": false,
+      "statusViewValue": 1,
+      "statusPlayValue": 1,
+      "statusDownloadValue": 2,
+      "statusAddPlaylistValue": 0,
+      "refMapping": [],
+      "genreKey": "",
+      "streamUrls": []
+    },
+    {
+      "key": "TxEhn62aeLTkg",
+      "title": "Tối Đen (Lyric Video)",
+      "thumbnail": "https://avatar-ex-swe.nixcdn.com/mv/2022/11/28/0/d/0/b/1669623630419_640.jpg",
+      "duration": "03:49",
+      "artists": [
+        {
+          "artistId": 296492,
+          "name": "Tô Khương",
+          "shortLink": null,
+          "imageUrl": null
+        }
+      ],
+      "type": "VIDEO",
+      "dateRelease": 1669291200000,
+      "dateCreate": 1669623629633,
+      "uploadBy": null,
+      "provider": null,
+      "isMyPlaylist": false,
+      "statusViewValue": 1,
+      "statusPlayValue": 1,
+      "statusDownloadValue": 2,
+      "statusAddPlaylistValue": 0,
+      "refMapping": [],
+      "genreKey": "",
+      "streamUrls": []
+    },
+    {
+      "key": "ORvKCrvoGmWAE",
+      "title": "Ở Sân Bay, Nobody Knows",
+      "thumbnail": "https://avatar-ex-swe.nixcdn.com/mv/2022/11/23/8/8/0/0/1669187137672_640.jpg",
+      "duration": "03:52",
+      "artists": [
+        {
+          "artistId": 283150,
+          "name": "Haisam",
+          "shortLink": null,
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2022/03/21/a/c/c/3/1647846517896_300.jpg"
+        }
+      ],
+      "type": "VIDEO",
+      "dateRelease": 1669136400000,
+      "dateCreate": 1669186934613,
+      "uploadBy": null,
+      "provider": null,
+      "isMyPlaylist": false,
+      "statusViewValue": 1,
+      "statusPlayValue": 1,
+      "statusDownloadValue": 2,
+      "statusAddPlaylistValue": 0,
+      "refMapping": [],
+      "genreKey": "",
+      "streamUrls": []
+    },
+    {
+      "key": "vy8mA7ghiDvkG",
+      "title": "dỗi ít thôi ôm đê (Visualizer Version)",
+      "thumbnail": "https://avatar-ex-swe.nixcdn.com/mv/2022/12/08/d/f/6/8/1670504116502_640.jpg",
+      "duration": "03:07",
+      "artists": [
+        {
+          "artistId": 283804,
+          "name": "Phúc Du",
+          "shortLink": "phuc-du",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2022/08/06/e/d/e/4/1659718913983_300.jpg"
+        },
+        {
+          "artistId": 283358,
+          "name": "AMEE",
+          "shortLink": "emee",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2019/02/20/b/f/b/d/1550638514193_300.jpg"
+        }
+      ],
+      "type": "VIDEO",
+      "dateRelease": 1670504400000,
+      "dateCreate": 1670504116092,
+      "uploadBy": null,
+      "provider": null,
+      "isMyPlaylist": false,
+      "statusViewValue": 1,
+      "statusPlayValue": 1,
+      "statusDownloadValue": 2,
+      "statusAddPlaylistValue": 0,
+      "refMapping": [],
+      "genreKey": "",
+      "streamUrls": []
+    },
+    {
+      "key": "vJaQTdv4EEhfS",
+      "title": "Đến Bên Tôi (Lyric Video)",
+      "thumbnail": "https://avatar-ex-swe.nixcdn.com/mv/2022/11/20/f/5/b/f/1668948007492_640.jpg",
+      "duration": "04:20",
+      "artists": [
+        {
+          "artistId": 382270,
+          "name": "Viet Anh Tran",
+          "shortLink": null,
+          "imageUrl": null
+        },
+        {
+          "artistId": 489348,
+          "name": "Pinkdot",
+          "shortLink": null,
+          "imageUrl": null
+        }
+      ],
+      "type": "VIDEO",
+      "dateRelease": 1669032000000,
+      "dateCreate": 1668947912279,
+      "uploadBy": null,
+      "provider": null,
+      "isMyPlaylist": false,
+      "statusViewValue": 1,
+      "statusPlayValue": 1,
+      "statusDownloadValue": 2,
+      "statusAddPlaylistValue": 0,
+      "refMapping": [],
+      "genreKey": "",
+      "streamUrls": []
+    },
+    {
+      "key": "nFCl8fLcTV3yV",
+      "title": "dỗi ít thôi ôm đê (Dance Performance Video)",
+      "thumbnail": "https://avatar-ex-swe.nixcdn.com/mv/2022/12/05/9/5/7/c/1670211509765_640.jpg",
+      "duration": "03:24",
+      "artists": [
+        {
+          "artistId": 283804,
+          "name": "Phúc Du",
+          "shortLink": "phuc-du",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2022/08/06/e/d/e/4/1659718913983_300.jpg"
+        },
+        {
+          "artistId": 283358,
+          "name": "AMEE",
+          "shortLink": "emee",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2019/02/20/b/f/b/d/1550638514193_300.jpg"
+        }
+      ],
+      "type": "VIDEO",
+      "dateRelease": 1669982400000,
+      "dateCreate": 1669972670521,
+      "uploadBy": null,
+      "provider": null,
+      "isMyPlaylist": false,
+      "statusViewValue": 1,
+      "statusPlayValue": 1,
+      "statusDownloadValue": 2,
+      "statusAddPlaylistValue": 0,
+      "refMapping": [],
+      "genreKey": "",
+      "streamUrls": []
+    },
+    {
+      "key": "F8tbiTnaeHZlr",
+      "title": "Những vì tinh tú trong đôi mắt em",
+      "thumbnail": "https://avatar-ex-swe.nixcdn.com/mv/2022/11/29/b/1/6/b/1669704398558_640.jpg",
+      "duration": "03:07",
+      "artists": [
+        {
+          "artistId": 283150,
+          "name": "Haisam",
+          "shortLink": null,
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2022/03/21/a/c/c/3/1647846517896_300.jpg"
+        }
+      ],
+      "type": "VIDEO",
+      "dateRelease": 1669654800000,
+      "dateCreate": 1669704398161,
+      "uploadBy": null,
+      "provider": null,
+      "isMyPlaylist": false,
+      "statusViewValue": 1,
+      "statusPlayValue": 1,
+      "statusDownloadValue": 2,
+      "statusAddPlaylistValue": 0,
+      "refMapping": [],
+      "genreKey": "",
+      "streamUrls": []
+    },
+    {
+      "key": "jOKvYA03A4liF",
+      "title": "sau hôm chia tay",
+      "thumbnail": "https://avatar-ex-swe.nixcdn.com/mv/2022/11/17/8/5/e/2/1668674648929_640.jpg",
+      "duration": "03:33",
+      "artists": [
+        {
+          "artistId": 278055,
+          "name": "NAMNAM",
+          "shortLink": "namnam",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2018/11/22/1/c/e/9/1542859117811_300.jpg"
+        }
+      ],
+      "type": "VIDEO",
+      "dateRelease": 1669122000000,
+      "dateCreate": 1668674648699,
+      "uploadBy": null,
+      "provider": null,
+      "isMyPlaylist": false,
+      "statusViewValue": 1,
+      "statusPlayValue": 1,
+      "statusDownloadValue": 2,
+      "statusAddPlaylistValue": 0,
+      "refMapping": [],
+      "genreKey": "",
+      "streamUrls": []
+    },
+    {
+      "key": "cIlMr3U4Q1u0S",
+      "title": "Tình Yêu Là (Live Performance)",
+      "thumbnail": "https://avatar-ex-swe.nixcdn.com/mv/2022/10/18/7/a/1/b/1666065382138_640.jpg",
+      "duration": "04:46",
+      "artists": [
+        {
+          "artistId": 230534,
+          "name": "Hiền Hồ",
+          "shortLink": "hien-ho",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2017/06/19/8/e/5/e/1497839721553_300.jpg"
+        }
+      ],
+      "type": "VIDEO",
+      "dateRelease": 1665147600000,
+      "dateCreate": 1666065381411,
+      "uploadBy": null,
+      "provider": null,
+      "isMyPlaylist": false,
+      "statusViewValue": 1,
+      "statusPlayValue": 1,
+      "statusDownloadValue": 2,
+      "statusAddPlaylistValue": 0,
+      "refMapping": [],
+      "genreKey": "",
+      "streamUrls": []
+    },
+    {
+      "key": "imValdukkD6sd",
+      "title": "Lỡ Một Lời Thương",
+      "thumbnail": "https://avatar-ex-swe.nixcdn.com/mv/2022/11/03/1/1/e/8/1667492833636_640.jpg",
+      "duration": "04:51",
+      "artists": [
+        {
+          "artistId": 7874,
+          "name": "Vy Oanh",
+          "shortLink": "vy-oanh",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2019/08/13/7/d/5/0/1565690655124_300.jpg"
+        }
+      ],
+      "type": "VIDEO",
+      "dateRelease": 1667739600000,
+      "dateCreate": 1667492833399,
+      "uploadBy": null,
+      "provider": null,
+      "isMyPlaylist": false,
+      "statusViewValue": 1,
+      "statusPlayValue": 1,
+      "statusDownloadValue": 2,
+      "statusAddPlaylistValue": 0,
+      "refMapping": [],
+      "genreKey": "",
+      "streamUrls": []
+    },
+    {
+      "key": "pwYcdK7uEaRSC",
+      "title": "Tình Dang Dở",
+      "thumbnail": "https://avatar-ex-swe.nixcdn.com/mv/2022/09/30/a/1/7/a/1664512423340_640.jpg",
+      "duration": "05:18",
+      "artists": [
+        {
+          "artistId": 32953,
+          "name": "Đình Dũng",
+          "shortLink": "dinh-dung",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2022/09/30/7/3/1/4/1664527571153_300.jpg"
+        },
+        {
+          "artistId": 291286,
+          "name": "ACV",
+          "shortLink": null,
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2020/08/17/0/6/7/1/1597629837858_300.jpg"
+        }
+      ],
+      "type": "VIDEO",
+      "dateRelease": 1664542500000,
+      "dateCreate": 1664512422416,
+      "uploadBy": null,
+      "provider": null,
+      "isMyPlaylist": false,
+      "statusViewValue": 1,
+      "statusPlayValue": 1,
+      "statusDownloadValue": 2,
+      "statusAddPlaylistValue": 0,
+      "refMapping": [],
+      "genreKey": "",
+      "streamUrls": []
+    },
+    {
+      "key": "LBdR2zjQwmn1l",
+      "title": "Beautiful Monster",
+      "thumbnail": "https://avatar-ex-swe.nixcdn.com/mv/2022/11/04/9/b/5/f/1667547479531_640.jpg",
+      "duration": "04:16",
+      "artists": [
+        {
+          "artistId": 100557,
+          "name": "SOOBIN",
+          "shortLink": "soobin",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2019/09/05/d/9/5/e/1567670108816_300.jpg"
+        },
+        {
+          "artistId": 20050,
+          "name": "Binz",
+          "shortLink": "binz",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2019/09/12/c/3/c/7/1568253936065_300.jpg"
+        }
+      ],
+      "type": "VIDEO",
+      "dateRelease": 0,
+      "dateCreate": 0,
+      "uploadBy": null,
+      "provider": null,
+      "isMyPlaylist": false,
+      "statusViewValue": 1,
+      "statusPlayValue": 1,
+      "statusDownloadValue": 2,
+      "statusAddPlaylistValue": 0,
+      "refMapping": [],
+      "genreKey": "",
+      "streamUrls": []
+    },
+    {
+      "key": "33zKLmqs2kvDo",
+      "title": "Trăng Treo (Lyric Video)",
+      "thumbnail": "https://avatar-ex-swe.nixcdn.com/mv/2022/11/08/0/a/b/b/1667876942895_640.jpg",
+      "duration": "03:38",
+      "artists": [
+        {
+          "artistId": 315436,
+          "name": "Haro",
+          "shortLink": "haro-ha-tran",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2021/02/19/3/4/4/f/1613708343946_300.jpg"
+        }
+      ],
+      "type": "VIDEO",
+      "dateRelease": 1667840400000,
+      "dateCreate": 1667876942471,
+      "uploadBy": null,
+      "provider": null,
+      "isMyPlaylist": false,
+      "statusViewValue": 1,
+      "statusPlayValue": 1,
+      "statusDownloadValue": 2,
+      "statusAddPlaylistValue": 0,
+      "refMapping": [],
+      "genreKey": "",
+      "streamUrls": []
+    },
+    {
+      "key": "TRobceaAPMn5q",
+      "title": "A Veil Of Mist",
+      "thumbnail": "https://avatar-ex-swe.nixcdn.com/mv/2022/11/04/9/b/5/f/1667544327421_640.jpg",
+      "duration": "05:53",
+      "artists": [
+        {
+          "artistId": 264438,
+          "name": "SpaceSpeakers",
+          "shortLink": "space-speakers",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2018/05/10/a/1/a/2/1525916105454_300.jpg"
+        }
+      ],
+      "type": "VIDEO",
+      "dateRelease": 0,
+      "dateCreate": 0,
+      "uploadBy": null,
+      "provider": null,
+      "isMyPlaylist": false,
+      "statusViewValue": 1,
+      "statusPlayValue": 1,
+      "statusDownloadValue": 2,
+      "statusAddPlaylistValue": 0,
+      "refMapping": [],
+      "genreKey": "",
+      "streamUrls": []
+    },
+    {
+      "key": "smUMdoiXdWswF",
+      "title": "Chiều Anh Ngồi Anh Nhớ",
+      "thumbnail": "https://avatar-ex-swe.nixcdn.com/mv/2022/10/27/0/d/7/d/1666862180178_640.jpg",
+      "duration": "05:27",
+      "artists": [
+        {
+          "artistId": 214698,
+          "name": "Trung Quang",
+          "shortLink": "trung-quang",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2019/10/14/1/e/d/e/1571022940352_300.jpg"
+        }
+      ],
+      "type": "VIDEO",
+      "dateRelease": 1666872000000,
+      "dateCreate": 1666862019187,
+      "uploadBy": null,
+      "provider": null,
+      "isMyPlaylist": false,
+      "statusViewValue": 1,
+      "statusPlayValue": 1,
+      "statusDownloadValue": 2,
+      "statusAddPlaylistValue": 0,
+      "refMapping": [],
+      "genreKey": "",
+      "streamUrls": []
+    },
+    {
+      "key": "DuVgcTBrrx0hD",
+      "title": "Tình Yêu Là (Lyric Video)",
+      "thumbnail": "https://avatar-ex-swe.nixcdn.com/mv/2022/10/21/c/c/8/f/1666340254336_640.jpg",
+      "duration": "04:37",
+      "artists": [
+        {
+          "artistId": 230534,
+          "name": "Hiền Hồ",
+          "shortLink": "hien-ho",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2017/06/19/8/e/5/e/1497839721553_300.jpg"
+        }
+      ],
+      "type": "VIDEO",
+      "dateRelease": 1666353600000,
+      "dateCreate": 1666340253942,
+      "uploadBy": null,
+      "provider": null,
+      "isMyPlaylist": false,
+      "statusViewValue": 1,
+      "statusPlayValue": 1,
+      "statusDownloadValue": 2,
+      "statusAddPlaylistValue": 0,
+      "refMapping": [],
+      "genreKey": "",
+      "streamUrls": []
+    },
+    {
+      "key": "4voHmDegBhJqM",
+      "title": "Chấp Niệm",
+      "thumbnail": "https://avatar-ex-swe.nixcdn.com/mv/2022/10/27/9/e/1/6/1666866828721_640.jpg",
+      "duration": "05:03",
+      "artists": [
+        {
+          "artistId": 139454,
+          "name": "Trương Thảo Nhi",
+          "shortLink": "Truong-Thao-Nhi",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2022/07/11/1/6/0/5/1657535383616_300.jpg"
+        }
+      ],
+      "type": "VIDEO",
+      "dateRelease": 1666877400000,
+      "dateCreate": 1666866828007,
+      "uploadBy": null,
+      "provider": null,
+      "isMyPlaylist": false,
+      "statusViewValue": 1,
+      "statusPlayValue": 1,
+      "statusDownloadValue": 2,
+      "statusAddPlaylistValue": 0,
+      "refMapping": [],
+      "genreKey": "",
+      "streamUrls": []
+    },
+    {
+      "key": "OSRMr9IFPw4vo",
+      "title": "Người Như Anh",
+      "thumbnail": "https://avatar-ex-swe.nixcdn.com/mv/2022/10/21/c/c/8/f/1666335991892_640.jpg",
+      "duration": "05:01",
+      "artists": [
+        {
+          "artistId": 12044,
+          "name": "Mai Tiến Dũng",
+          "shortLink": "mai-tien-dung",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2020/07/28/a/7/b/7/1595931704066_300.jpg"
+        }
+      ],
+      "type": "VIDEO",
+      "dateRelease": 1666357200000,
+      "dateCreate": 1666335991447,
+      "uploadBy": null,
+      "provider": null,
+      "isMyPlaylist": false,
+      "statusViewValue": 1,
+      "statusPlayValue": 1,
+      "statusDownloadValue": 2,
+      "statusAddPlaylistValue": 0,
+      "refMapping": [],
+      "genreKey": "",
+      "streamUrls": []
+    }
+  ],
+  "total": 1000,
+  "type": "mv",
+  "clientIp": "183.80.235.131",
+  "time": 1671632698241
+}

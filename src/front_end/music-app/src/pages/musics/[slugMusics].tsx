@@ -3,7 +3,8 @@ import React, { useEffect, useState } from "react";
 import { Box } from "theme-ui";
 import ListOfShare from "../../components/ListOfShare";
 import Menu from "../../components/Menu";
-import getTypeMusic from "../../service/getTypeMusic";
+import { LoadingCSS } from "../../components/SkeletonLoading";
+import getCategoryMusic from "../../service/getCategoryMusic";
 interface  DataMusic{
     thumbnail: string | undefined;
     title: string | undefined;
@@ -17,11 +18,15 @@ interface  DataMusic{
 const CategoryMusic = () => {
     const router = useRouter();
     const [dataMusic, setDataMusic] = useState<Array<DataMusic>>();
+    const [isLoading, setIsLoading] = useState(true);
     useEffect(() => {
         if(router.query.slugMusics){
-            getTypeMusic.getAll(String(router.query.slugMusics)).then(res => {
-                setDataMusic(res.data.song)
-            })
+            setTimeout(() => {
+                getCategoryMusic.getAll(String(router.query.slugMusics)).then(res => {
+                    setDataMusic(res.data.song)
+                    setIsLoading(false)
+                })
+            }, 300)
         }
     }, [router.query.slugMusics])
     return(
@@ -37,6 +42,7 @@ const CategoryMusic = () => {
             }}
         >
             <Menu />
+            { isLoading ? <LoadingCSS /> : <>
             <ListOfShare
                 dataListOfShare={dataMusic?.map(item => {
                     return {
@@ -49,6 +55,7 @@ const CategoryMusic = () => {
                 })}
                 url="music/[slugMusic]"
             />
+            </>}
         </Box>
     );
 }

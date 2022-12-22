@@ -45,7 +45,8 @@ INSTALLED_APPS = [
     'topic',
     'top_100',
     'playlist_detail',
-    'mptt'
+    'mptt',
+    'video'
 ]
 
 MIDDLEWARE = [

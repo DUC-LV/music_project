@@ -40,7 +40,7 @@ const Header = () => {
         {
             id: 3,
             name: 'Video',
-            link: '/video',
+            link: '/videos/moi-hot',
             color: 'rgba(244,246,248,0.9)',
         },
         {
@@ -151,7 +151,7 @@ const Header = () => {
                                     color: item.color,
                                 }}
                             >{item.icon}</Box>
-                            <Box as='h5' sx={{ color: item.color, fontSize: '15px',cursor: 'pointer', marginLeft: '15px', ":hover":{ color: '#c2c6ca'}}}>{item.name}</Box>
+                            <Box as='h5' sx={{ color: item.color, fontSize: '15px',cursor: 'pointer', marginLeft: '15px'}}>{item.name}</Box>
                         </Flex>
                     );
                 })}
@@ -165,7 +165,7 @@ const Header = () => {
                     >
                         <AiOutlineCompass />
                     </Box>
-                    <Box as='h5' sx={{ color: 'rgba(244,246,248,0.88)', fontSize: '15px',cursor: 'pointer', marginLeft: '15px', ":hover":{ color: '#c2c6ca'}}} onClick={handleClickDiscover}>Khám phá</Box>
+                    <Box as='h5' sx={{ color: 'rgba(244,246,248,0.88)', fontSize: '15px',cursor: 'pointer', marginLeft: '15px'}} onClick={handleClickDiscover}>Khám phá</Box>
                     {clickDiscover ? 
                         <Box>
                             <BsArrowUpShort style= {{ position: "relative", top: "2px", color: 'rgba(244,246,248,0.9)', marginLeft: '37px'}}/>
@@ -181,7 +181,7 @@ const Header = () => {
                             }
                             return(
                                 <Flex key={item.id} onClick={() => router.push(item?.link)}>
-                                    <Box as='h6' sx={{ color: item.color , fontSize: '13px',cursor: 'pointer', marginTop: '20px', marginLeft: '40px', ":hover":{ color: '#c2c6ca'}}}>{item.name}</Box>
+                                    <Box as='h6' sx={{ color: item.color , fontSize: '13px',cursor: 'pointer', marginTop: '20px', marginLeft: '40px'}}>{item.name}</Box>
                                 </Flex>
                             );
                         })}
@@ -197,7 +197,7 @@ const Header = () => {
                     >
                         <BsHeadset />
                     </Box>
-                    <Box as='h5' sx={{ color: 'rgba(244,246,248,0.88)', fontSize: '15px',cursor: 'pointer', marginLeft: '15px', ":hover":{ color: '#c2c6ca'}}} onClick={handleClickListenToday}>Topic hôm nay</Box>
+                    <Box as='h5' sx={{ color: 'rgba(244,246,248,0.88)', fontSize: '15px',cursor: 'pointer', marginLeft: '15px'}} onClick={handleClickListenToday}>Topic hôm nay</Box>
                     {clickListenToday ? 
                         <Box>
                             <BsArrowDownShort style= {{ position: "relative", top: "2px", color: 'rgba(244,246,248,0.9)', marginLeft: '5px'}}/>

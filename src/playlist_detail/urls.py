@@ -6,5 +6,5 @@ urlpatterns = [
     path('music/moi-hot/', views.GetSongMoiHot.as_view()),
     path('music/viet-nam/', views.GetSongVietNam.as_view()),
     path('music/au-my/', views.GetSongAuMy.as_view()),
-    path('music/han-quoc/', views.GetSongHanQuoc.as_view()),
+    path('music/chau-a/', views.GetSongHanQuoc.as_view()),
 ]

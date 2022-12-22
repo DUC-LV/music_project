@@ -1,9 +1,9 @@
 import axiosInstance from "./axiosInstance";
 
-const getTypeMusic = {
+const getCategoryMusic = {
     getAll(typeMusic:string){
         const url = `/music/${typeMusic}/`;
         return axiosInstance.get(url);
     }
 }
-export default getTypeMusic;
+export default getCategoryMusic;

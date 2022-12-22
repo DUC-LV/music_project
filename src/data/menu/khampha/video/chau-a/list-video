@@ -1,0 +1,999 @@
+{
+  "status": "success",
+  "data": [
+    {
+      "key": "1oDocimtPTkOh",
+      "title": "Beautiful Christmas",
+      "thumbnail": "https://avatar-ex-swe.nixcdn.com/mv/2022/12/15/0/a/b/7/1671104764357_640.jpg",
+      "duration": "03:38",
+      "artists": [
+        {
+          "artistId": 162551,
+          "name": "Red Velvet",
+          "shortLink": "red-velvet",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2018/08/06/4/5/5/2/1533543542175_300.jpg"
+        },
+        {
+          "artistId": 340610,
+          "name": "aespa",
+          "shortLink": null,
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2020/11/17/e/9/4/5/1605606031249_300.jpg"
+        }
+      ],
+      "type": "VIDEO",
+      "dateRelease": 0,
+      "dateCreate": 0,
+      "uploadBy": null,
+      "provider": null,
+      "isMyPlaylist": false,
+      "statusViewValue": 1,
+      "statusPlayValue": 1,
+      "statusDownloadValue": 2,
+      "statusAddPlaylistValue": 0,
+      "refMapping": [],
+      "genreKey": "",
+      "streamUrls": []
+    },
+    {
+      "key": "3I098ObLefLRC",
+      "title": "When I Move",
+      "thumbnail": "https://avatar-ex-swe.nixcdn.com/mv/2022/11/30/c/7/1/e/1669814040225_640.jpg",
+      "duration": "03:13",
+      "artists": [
+        {
+          "artistId": 8688,
+          "name": "KARA",
+          "shortLink": "kara",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2016/12/22/5/a/d/7/1482395742991_300.jpg"
+        }
+      ],
+      "type": "VIDEO",
+      "dateRelease": 0,
+      "dateCreate": 0,
+      "uploadBy": null,
+      "provider": null,
+      "isMyPlaylist": false,
+      "statusViewValue": 1,
+      "statusPlayValue": 1,
+      "statusDownloadValue": 2,
+      "statusAddPlaylistValue": 0,
+      "refMapping": [],
+      "genreKey": "",
+      "streamUrls": []
+    },
+    {
+      "key": "rfNupFADVCfrL",
+      "title": "When I Get Old",
+      "thumbnail": "https://avatar-ex-swe.nixcdn.com/mv/2022/12/09/0/c/a/a/1670567351867_640.jpg",
+      "duration": "03:15",
+      "artists": [
+        {
+          "artistId": 40848,
+          "name": "Christopher",
+          "shortLink": "christopher",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2016/12/21/5/3/c/0/1482285385953_300.jpg"
+        },
+        {
+          "artistId": 226538,
+          "name": "Chung Ha",
+          "shortLink": "kim-chung-ha",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2018/07/18/3/b/7/f/1531907030847_300.jpg"
+        }
+      ],
+      "type": "VIDEO",
+      "dateRelease": 0,
+      "dateCreate": 0,
+      "uploadBy": null,
+      "provider": null,
+      "isMyPlaylist": false,
+      "statusViewValue": 1,
+      "statusPlayValue": 1,
+      "statusDownloadValue": 2,
+      "statusAddPlaylistValue": 0,
+      "refMapping": [],
+      "genreKey": "",
+      "streamUrls": []
+    },
+    {
+      "key": "3SubcOYfBv187",
+      "title": "Shut Down",
+      "thumbnail": "https://avatar-ex-swe.nixcdn.com/mv/2022/09/16/4/b/b/a/1663303817103_640.jpg",
+      "duration": "03:00",
+      "artists": [
+        {
+          "artistId": 215682,
+          "name": "BLACKPINK",
+          "shortLink": "blackpink",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2022/09/16/2/e/3/c/1663304243525_300.jpg"
+        }
+      ],
+      "type": "VIDEO",
+      "dateRelease": 0,
+      "dateCreate": 0,
+      "uploadBy": null,
+      "provider": null,
+      "isMyPlaylist": false,
+      "statusViewValue": 1,
+      "statusPlayValue": 1,
+      "statusDownloadValue": 2,
+      "statusAddPlaylistValue": 0,
+      "refMapping": [],
+      "genreKey": "",
+      "streamUrls": []
+    },
+    {
+      "key": "1koctPklB831v",
+      "title": "Antifragile",
+      "thumbnail": "https://avatar-ex-swe.nixcdn.com/mv/2022/10/17/7/f/4/1/1666000935818_640.jpg",
+      "duration": "03:51",
+      "artists": [
+        {
+          "artistId": 382066,
+          "name": "LE SSERAFIM",
+          "shortLink": null,
+          "imageUrl": null
+        }
+      ],
+      "type": "VIDEO",
+      "dateRelease": 0,
+      "dateCreate": 0,
+      "uploadBy": null,
+      "provider": null,
+      "isMyPlaylist": false,
+      "statusViewValue": 1,
+      "statusPlayValue": 1,
+      "statusDownloadValue": 2,
+      "statusAddPlaylistValue": 0,
+      "refMapping": [],
+      "genreKey": "",
+      "streamUrls": []
+    },
+    {
+      "key": "iOvUcFh233BJA",
+      "title": "Illella",
+      "thumbnail": "https://avatar-ex-swe.nixcdn.com/mv/2022/10/17/b/f/f/0/1666006013446_640.jpg",
+      "duration": "03:28",
+      "artists": [
+        {
+          "artistId": 147333,
+          "name": "MAMAMOO",
+          "shortLink": "mamamoo",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2017/06/22/a/3/b/2/1498125990392_300.jpg"
+        }
+      ],
+      "type": "VIDEO",
+      "dateRelease": 0,
+      "dateCreate": 0,
+      "uploadBy": null,
+      "provider": null,
+      "isMyPlaylist": false,
+      "statusViewValue": 1,
+      "statusPlayValue": 1,
+      "statusDownloadValue": 2,
+      "statusAddPlaylistValue": 0,
+      "refMapping": [],
+      "genreKey": "",
+      "streamUrls": []
+    },
+    {
+      "key": "nnIR2ct8kpyDk",
+      "title": "Case 143",
+      "thumbnail": "https://avatar-ex-swe.nixcdn.com/mv/2022/10/17/b/f/f/0/1666006075038_640.jpg",
+      "duration": "03:40",
+      "artists": [
+        {
+          "artistId": 252365,
+          "name": "Stray Kids",
+          "shortLink": "stray-kids",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2021/08/23/b/c/0/0/1629706934553_300.jpg"
+        }
+      ],
+      "type": "VIDEO",
+      "dateRelease": 0,
+      "dateCreate": 0,
+      "uploadBy": null,
+      "provider": null,
+      "isMyPlaylist": false,
+      "statusViewValue": 1,
+      "statusPlayValue": 1,
+      "statusDownloadValue": 2,
+      "statusAddPlaylistValue": 0,
+      "refMapping": [],
+      "genreKey": "",
+      "streamUrls": []
+    },
+    {
+      "key": "drddhYRq6BPCG",
+      "title": "Pink Venom",
+      "thumbnail": "https://avatar-ex-swe.nixcdn.com/mv/2022/08/23/f/1/7/8/1661227983709_640.jpg",
+      "duration": "03:13",
+      "artists": [
+        {
+          "artistId": 215682,
+          "name": "BLACKPINK",
+          "shortLink": "blackpink",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2022/09/16/2/e/3/c/1663304243525_300.jpg"
+        }
+      ],
+      "type": "VIDEO",
+      "dateRelease": 0,
+      "dateCreate": 0,
+      "uploadBy": null,
+      "provider": null,
+      "isMyPlaylist": false,
+      "statusViewValue": 1,
+      "statusPlayValue": 1,
+      "statusDownloadValue": 2,
+      "statusAddPlaylistValue": 0,
+      "refMapping": [],
+      "genreKey": "",
+      "streamUrls": []
+    },
+    {
+      "key": "fQ3qgUpW9kHc8",
+      "title": "Pink Venom (2022 VMAs)",
+      "thumbnail": "https://avatar-ex-swe.nixcdn.com/mv/2022/08/29/a/b/0/7/1661746522020_640.jpg",
+      "duration": "03:45",
+      "artists": [
+        {
+          "artistId": 215682,
+          "name": "BLACKPINK",
+          "shortLink": "blackpink",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2022/09/16/2/e/3/c/1663304243525_300.jpg"
+        }
+      ],
+      "type": "VIDEO",
+      "dateRelease": 0,
+      "dateCreate": 0,
+      "uploadBy": null,
+      "provider": null,
+      "isMyPlaylist": false,
+      "statusViewValue": 1,
+      "statusPlayValue": 1,
+      "statusDownloadValue": 2,
+      "statusAddPlaylistValue": 0,
+      "refMapping": [],
+      "genreKey": "",
+      "streamUrls": []
+    },
+    {
+      "key": "V5nWnC6Yp1Rhk",
+      "title": "Shut Down (Dance Performance Video)",
+      "thumbnail": "https://avatar-ex-swe.nixcdn.com/mv/2022/09/20/d/8/4/c/1663642520501_640.jpg",
+      "duration": "03:00",
+      "artists": [
+        {
+          "artistId": 215682,
+          "name": "BLACKPINK",
+          "shortLink": "blackpink",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2022/09/16/2/e/3/c/1663304243525_300.jpg"
+        }
+      ],
+      "type": "VIDEO",
+      "dateRelease": 0,
+      "dateCreate": 0,
+      "uploadBy": null,
+      "provider": null,
+      "isMyPlaylist": false,
+      "statusViewValue": 1,
+      "statusPlayValue": 1,
+      "statusDownloadValue": 2,
+      "statusAddPlaylistValue": 0,
+      "refMapping": [],
+      "genreKey": "",
+      "streamUrls": []
+    },
+    {
+      "key": "BZhZSs7doGRZG",
+      "title": "Hello",
+      "thumbnail": "https://avatar-ex-swe.nixcdn.com/mv/2022/10/05/8/b/f/e/1664942176953_640.jpg",
+      "duration": "03:05",
+      "artists": [
+        {
+          "artistId": 314802,
+          "name": "TREASURE",
+          "shortLink": "treasure",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2022/10/05/7/0/6/2/1664967663125_300.jpg"
+        }
+      ],
+      "type": "VIDEO",
+      "dateRelease": 0,
+      "dateCreate": 0,
+      "uploadBy": null,
+      "provider": null,
+      "isMyPlaylist": false,
+      "statusViewValue": 1,
+      "statusPlayValue": 1,
+      "statusDownloadValue": 2,
+      "statusAddPlaylistValue": 0,
+      "refMapping": [],
+      "genreKey": "",
+      "streamUrls": []
+    },
+    {
+      "key": "BVMhPQb7XwPR6",
+      "title": "Animal Farm",
+      "thumbnail": "https://avatar-ex-swe.nixcdn.com/mv/2022/10/10/2/2/8/1/1665408420206_640.jpg",
+      "duration": "06:37",
+      "artists": [
+        {
+          "artistId": 381268,
+          "name": "BIBI",
+          "shortLink": null,
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2022/06/01/0/6/9/d/1654020512721_300.jpg"
+        }
+      ],
+      "type": "VIDEO",
+      "dateRelease": 0,
+      "dateCreate": 0,
+      "uploadBy": null,
+      "provider": null,
+      "isMyPlaylist": false,
+      "statusViewValue": 1,
+      "statusPlayValue": 1,
+      "statusDownloadValue": 2,
+      "statusAddPlaylistValue": 0,
+      "refMapping": [],
+      "genreKey": "",
+      "streamUrls": []
+    },
+    {
+      "key": "jocKDyRly5uGX",
+      "title": "Fire",
+      "thumbnail": "https://avatar-ex-swe.nixcdn.com/mv/2022/10/10/2/2/8/1/1665408357478_640.jpg",
+      "duration": "03:33",
+      "artists": [
+        {
+          "artistId": 107525,
+          "name": "EXID",
+          "shortLink": "exid",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2018/07/29/d/4/9/0/1532859709255_300.jpg"
+        }
+      ],
+      "type": "VIDEO",
+      "dateRelease": 0,
+      "dateCreate": 0,
+      "uploadBy": null,
+      "provider": null,
+      "isMyPlaylist": false,
+      "statusViewValue": 1,
+      "statusPlayValue": 1,
+      "statusDownloadValue": 2,
+      "statusAddPlaylistValue": 0,
+      "refMapping": [],
+      "genreKey": "",
+      "streamUrls": []
+    },
+    {
+      "key": "6snljY70Zjtth",
+      "title": "28 Reasons (Performance Video)",
+      "thumbnail": "https://avatar-ex-swe.nixcdn.com/mv/2022/10/17/b/f/f/0/1666006054357_640.jpg",
+      "duration": "03:20",
+      "artists": [
+        {
+          "artistId": 280843,
+          "name": "Seulgi",
+          "shortLink": null,
+          "imageUrl": null
+        }
+      ],
+      "type": "VIDEO",
+      "dateRelease": 0,
+      "dateCreate": 0,
+      "uploadBy": null,
+      "provider": null,
+      "isMyPlaylist": false,
+      "statusViewValue": 1,
+      "statusPlayValue": 1,
+      "statusDownloadValue": 2,
+      "statusAddPlaylistValue": 0,
+      "refMapping": [],
+      "genreKey": "",
+      "streamUrls": []
+    },
+    {
+      "key": "4nVhbrZekZij6",
+      "title": "DICE",
+      "thumbnail": "https://avatar-ex-swe.nixcdn.com/mv/2022/09/19/7/2/a/b/1663583012649_640.jpg",
+      "duration": "03:18",
+      "artists": [
+        {
+          "artistId": 364911,
+          "name": "NMIXX",
+          "shortLink": "nmixx",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2022/12/12/8/e/5/6/1670813378930_300.jpg"
+        }
+      ],
+      "type": "VIDEO",
+      "dateRelease": 0,
+      "dateCreate": 1663579224170,
+      "uploadBy": null,
+      "provider": null,
+      "isMyPlaylist": false,
+      "statusViewValue": 1,
+      "statusPlayValue": 1,
+      "statusDownloadValue": 2,
+      "statusAddPlaylistValue": 0,
+      "refMapping": [],
+      "genreKey": "",
+      "streamUrls": []
+    },
+    {
+      "key": "DLcsoVLXZBVnQ",
+      "title": "After Like",
+      "thumbnail": "https://avatar-ex-swe.nixcdn.com/mv/2022/08/23/f/1/7/8/1661228093966_640.jpg",
+      "duration": "03:00",
+      "artists": [
+        {
+          "artistId": 364765,
+          "name": "IVE",
+          "shortLink": null,
+          "imageUrl": null
+        }
+      ],
+      "type": "VIDEO",
+      "dateRelease": 0,
+      "dateCreate": 0,
+      "uploadBy": null,
+      "provider": null,
+      "isMyPlaylist": false,
+      "statusViewValue": 1,
+      "statusPlayValue": 1,
+      "statusDownloadValue": 2,
+      "statusAddPlaylistValue": 0,
+      "refMapping": [],
+      "genreKey": "",
+      "streamUrls": []
+    },
+    {
+      "key": "BLBwg23VFxCmx",
+      "title": "Talk That Talk (Performance Video)",
+      "thumbnail": "https://avatar-ex-swe.nixcdn.com/mv/2022/09/16/4/b/b/a/1663314858021_640.jpg",
+      "duration": "03:01",
+      "artists": [
+        {
+          "artistId": 16907,
+          "name": "TWICE",
+          "shortLink": "Twice",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2019/09/23/5/0/5/1/1569229552362_300.jpg"
+        }
+      ],
+      "type": "VIDEO",
+      "dateRelease": 0,
+      "dateCreate": 0,
+      "uploadBy": null,
+      "provider": null,
+      "isMyPlaylist": false,
+      "statusViewValue": 1,
+      "statusPlayValue": 1,
+      "statusDownloadValue": 2,
+      "statusAddPlaylistValue": 0,
+      "refMapping": [],
+      "genreKey": "",
+      "streamUrls": []
+    },
+    {
+      "key": "0kPkOvPxt7uto",
+      "title": "Panorama",
+      "thumbnail": "https://avatar-ex-swe.nixcdn.com/mv/2022/10/24/c/6/a/1/1666581750257_640.jpg",
+      "duration": "03:26",
+      "artists": [
+        {
+          "artistId": 199702,
+          "name": "Lee Chanhyuk",
+          "shortLink": null,
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2022/10/17/5/d/1/8/1666004048955_300.jpg"
+        }
+      ],
+      "type": "VIDEO",
+      "dateRelease": 0,
+      "dateCreate": 0,
+      "uploadBy": null,
+      "provider": null,
+      "isMyPlaylist": false,
+      "statusViewValue": 1,
+      "statusPlayValue": 1,
+      "statusDownloadValue": 2,
+      "statusAddPlaylistValue": 0,
+      "refMapping": [],
+      "genreKey": "",
+      "streamUrls": []
+    },
+    {
+      "key": "JoSoQJdiBaz6H",
+      "title": "Rush Hour (Dance Practice)",
+      "thumbnail": "https://avatar-ex-swe.nixcdn.com/mv/2022/10/10/2/2/8/1/1665408432815_640.jpg",
+      "duration": "03:06",
+      "artists": [
+        {
+          "artistId": 126357,
+          "name": "Crush",
+          "shortLink": "crush",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2017/06/30/3/a/2/6/1498841613354_300.jpg"
+        },
+        {
+          "artistId": 187940,
+          "name": "J-Hope (BTS)",
+          "shortLink": "j-hope",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2018/03/03/3/0/f/e/1520078969864_300.jpg"
+        }
+      ],
+      "type": "VIDEO",
+      "dateRelease": 0,
+      "dateCreate": 0,
+      "uploadBy": null,
+      "provider": null,
+      "isMyPlaylist": false,
+      "statusViewValue": 1,
+      "statusPlayValue": 1,
+      "statusDownloadValue": 2,
+      "statusAddPlaylistValue": 0,
+      "refMapping": [],
+      "genreKey": "",
+      "streamUrls": []
+    },
+    {
+      "key": "XCBIHMNyAz5xy",
+      "title": "Hurt",
+      "thumbnail": "https://avatar-ex-swe.nixcdn.com/mv/2022/08/03/2/e/d/2/1659495535093_640.jpg",
+      "duration": "03:01",
+      "artists": [
+        {
+          "artistId": 432042,
+          "name": "NewJeans",
+          "shortLink": "newjeans",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2022/12/21/5/7/e/0/1671619239618_300.jpg"
+        }
+      ],
+      "type": "VIDEO",
+      "dateRelease": 0,
+      "dateCreate": 0,
+      "uploadBy": null,
+      "provider": null,
+      "isMyPlaylist": false,
+      "statusViewValue": 1,
+      "statusPlayValue": 1,
+      "statusDownloadValue": 2,
+      "statusAddPlaylistValue": 0,
+      "refMapping": [],
+      "genreKey": "",
+      "streamUrls": []
+    },
+    {
+      "key": "2hS53CfiGsWdv",
+      "title": "Pink Venom (Dance Practice Video)",
+      "thumbnail": "https://avatar-ex-swe.nixcdn.com/mv/2022/08/29/a/b/0/7/1661746276490_640.jpg",
+      "duration": "03:15",
+      "artists": [
+        {
+          "artistId": 215682,
+          "name": "BLACKPINK",
+          "shortLink": "blackpink",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2022/09/16/2/e/3/c/1663304243525_300.jpg"
+        }
+      ],
+      "type": "VIDEO",
+      "dateRelease": 0,
+      "dateCreate": 0,
+      "uploadBy": null,
+      "provider": null,
+      "isMyPlaylist": false,
+      "statusViewValue": 1,
+      "statusPlayValue": 1,
+      "statusDownloadValue": 2,
+      "statusAddPlaylistValue": 0,
+      "refMapping": [],
+      "genreKey": "",
+      "streamUrls": []
+    },
+    {
+      "key": "xqZkwsL6LBDbj",
+      "title": "Ready For Love",
+      "thumbnail": "https://avatar-ex-swe.nixcdn.com/mv/2022/08/01/4/1/b/5/1659321838918_640.jpg",
+      "duration": "03:05",
+      "artists": [
+        {
+          "artistId": 215682,
+          "name": "BLACKPINK",
+          "shortLink": "blackpink",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2022/09/16/2/e/3/c/1663304243525_300.jpg"
+        }
+      ],
+      "type": "VIDEO",
+      "dateRelease": 0,
+      "dateCreate": 0,
+      "uploadBy": null,
+      "provider": null,
+      "isMyPlaylist": false,
+      "statusViewValue": 1,
+      "statusPlayValue": 1,
+      "statusDownloadValue": 2,
+      "statusAddPlaylistValue": 0,
+      "refMapping": [],
+      "genreKey": "",
+      "streamUrls": []
+    },
+    {
+      "key": "nKyxfFlDibARl",
+      "title": "Hype Boy (Performance Ver.1)",
+      "thumbnail": "https://avatar-ex-swe.nixcdn.com/mv/2022/09/23/2/0/e/3/1663906040263_640.jpg",
+      "duration": "02:57",
+      "artists": [
+        {
+          "artistId": 432042,
+          "name": "NewJeans",
+          "shortLink": "newjeans",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2022/12/21/5/7/e/0/1671619239618_300.jpg"
+        }
+      ],
+      "type": "VIDEO",
+      "dateRelease": 0,
+      "dateCreate": 0,
+      "uploadBy": null,
+      "provider": null,
+      "isMyPlaylist": false,
+      "statusViewValue": 1,
+      "statusPlayValue": 1,
+      "statusDownloadValue": 2,
+      "statusAddPlaylistValue": 0,
+      "refMapping": [],
+      "genreKey": "",
+      "streamUrls": []
+    },
+    {
+      "key": "SlEIpc2ExERiC",
+      "title": "Talk That Talk",
+      "thumbnail": "https://avatar-ex-swe.nixcdn.com/mv/2022/08/26/4/5/8/0/1661497899449_640.jpg",
+      "duration": "02:54",
+      "artists": [
+        {
+          "artistId": 16907,
+          "name": "TWICE",
+          "shortLink": "Twice",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2019/09/23/5/0/5/1/1569229552362_300.jpg"
+        }
+      ],
+      "type": "VIDEO",
+      "dateRelease": 0,
+      "dateCreate": 0,
+      "uploadBy": null,
+      "provider": null,
+      "isMyPlaylist": false,
+      "statusViewValue": 1,
+      "statusPlayValue": 1,
+      "statusDownloadValue": 2,
+      "statusAddPlaylistValue": 0,
+      "refMapping": [],
+      "genreKey": "",
+      "streamUrls": []
+    },
+    {
+      "key": "NJxYzZxvMiKZo",
+      "title": "Hype Boy (Minji Ver.)",
+      "thumbnail": "https://avatar-ex-swe.nixcdn.com/mv/2022/09/12/e/5/1/c/1662964716730_640.jpg",
+      "duration": "02:56",
+      "artists": [
+        {
+          "artistId": 432042,
+          "name": "NewJeans",
+          "shortLink": "newjeans",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2022/12/21/5/7/e/0/1671619239618_300.jpg"
+        }
+      ],
+      "type": "VIDEO",
+      "dateRelease": 0,
+      "dateCreate": 0,
+      "uploadBy": null,
+      "provider": null,
+      "isMyPlaylist": false,
+      "statusViewValue": 1,
+      "statusPlayValue": 1,
+      "statusDownloadValue": 2,
+      "statusAddPlaylistValue": 0,
+      "refMapping": [],
+      "genreKey": "",
+      "streamUrls": []
+    },
+    {
+      "key": "nVaFXCPzHALS6",
+      "title": "Hype Boy (Hyein Ver.)",
+      "thumbnail": "https://avatar-ex-swe.nixcdn.com/mv/2022/09/12/e/5/1/c/1662964693716_640.jpg",
+      "duration": "02:56",
+      "artists": [
+        {
+          "artistId": 432042,
+          "name": "NewJeans",
+          "shortLink": "newjeans",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2022/12/21/5/7/e/0/1671619239618_300.jpg"
+        }
+      ],
+      "type": "VIDEO",
+      "dateRelease": 0,
+      "dateCreate": 0,
+      "uploadBy": null,
+      "provider": null,
+      "isMyPlaylist": false,
+      "statusViewValue": 1,
+      "statusPlayValue": 1,
+      "statusDownloadValue": 2,
+      "statusAddPlaylistValue": 0,
+      "refMapping": [],
+      "genreKey": "",
+      "streamUrls": []
+    },
+    {
+      "key": "zF2XYjurqyG2j",
+      "title": "Hype Boy (Special Performance Video)",
+      "thumbnail": "https://avatar-ex-swe.nixcdn.com/mv/2022/09/23/2/0/e/3/1663906084165_640.jpg",
+      "duration": "03:02",
+      "artists": [
+        {
+          "artistId": 432042,
+          "name": "NewJeans",
+          "shortLink": "newjeans",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2022/12/21/5/7/e/0/1671619239618_300.jpg"
+        }
+      ],
+      "type": "VIDEO",
+      "dateRelease": 0,
+      "dateCreate": 0,
+      "uploadBy": null,
+      "provider": null,
+      "isMyPlaylist": false,
+      "statusViewValue": 1,
+      "statusPlayValue": 1,
+      "statusDownloadValue": 2,
+      "statusAddPlaylistValue": 0,
+      "refMapping": [],
+      "genreKey": "",
+      "streamUrls": []
+    },
+    {
+      "key": "VDyT2DSsEWy2m",
+      "title": "All Day",
+      "thumbnail": "https://avatar-ex-swe.nixcdn.com/mv/2022/09/06/7/b/7/e/1662449554176_640.jpg",
+      "duration": "03:44",
+      "artists": [
+        {
+          "artistId": 150387,
+          "name": "Bernard Park",
+          "shortLink": "bernard-park",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2022/09/06/8/9/f/3/1662436678164_300.jpg"
+        }
+      ],
+      "type": "VIDEO",
+      "dateRelease": 1662397200000,
+      "dateCreate": 1662449423118,
+      "uploadBy": null,
+      "provider": null,
+      "isMyPlaylist": false,
+      "statusViewValue": 1,
+      "statusPlayValue": 1,
+      "statusDownloadValue": 2,
+      "statusAddPlaylistValue": 0,
+      "refMapping": [],
+      "genreKey": "",
+      "streamUrls": []
+    },
+    {
+      "key": "zU7astee6BSNr",
+      "title": "Blackpink (The Virtual-pubg Mobile 2022 In-game Concert)",
+      "thumbnail": "https://avatar-ex-swe.nixcdn.com/mv/2022/08/04/2/7/1/1/1659620523663_640.jpg",
+      "duration": "08:00",
+      "artists": [
+        {
+          "artistId": 215682,
+          "name": "BLACKPINK",
+          "shortLink": "blackpink",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2022/09/16/2/e/3/c/1663304243525_300.jpg"
+        }
+      ],
+      "type": "VIDEO",
+      "dateRelease": 0,
+      "dateCreate": 0,
+      "uploadBy": null,
+      "provider": null,
+      "isMyPlaylist": false,
+      "statusViewValue": 1,
+      "statusPlayValue": 1,
+      "statusDownloadValue": 2,
+      "statusAddPlaylistValue": 0,
+      "refMapping": [],
+      "genreKey": "",
+      "streamUrls": []
+    },
+    {
+      "key": "nZi52wMHZdxHQ",
+      "title": "Cookie",
+      "thumbnail": "https://avatar-ex-swe.nixcdn.com/mv/2022/08/12/f/4/7/3/1660276787628_640.jpg",
+      "duration": "03:58",
+      "artists": [
+        {
+          "artistId": 432042,
+          "name": "NewJeans",
+          "shortLink": "newjeans",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2022/12/21/5/7/e/0/1671619239618_300.jpg"
+        }
+      ],
+      "type": "VIDEO",
+      "dateRelease": 0,
+      "dateCreate": 0,
+      "uploadBy": null,
+      "provider": null,
+      "isMyPlaylist": false,
+      "statusViewValue": 1,
+      "statusPlayValue": 1,
+      "statusDownloadValue": 2,
+      "statusAddPlaylistValue": 0,
+      "refMapping": [],
+      "genreKey": "",
+      "streamUrls": []
+    },
+    {
+      "key": "wMYP8S0Q2Q2t3",
+      "title": "FOREVER 1",
+      "thumbnail": "https://avatar-ex-swe.nixcdn.com/mv/2022/08/05/d/5/2/3/1659692251952_640.jpg",
+      "duration": "03:33",
+      "artists": [
+        {
+          "artistId": 89706,
+          "name": "Girls' Generation",
+          "shortLink": "snsd",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2017/08/04/7/9/5/e/1501840573575_300.jpg"
+        }
+      ],
+      "type": "VIDEO",
+      "dateRelease": 0,
+      "dateCreate": 0,
+      "uploadBy": null,
+      "provider": null,
+      "isMyPlaylist": false,
+      "statusViewValue": 1,
+      "statusPlayValue": 1,
+      "statusDownloadValue": 2,
+      "statusAddPlaylistValue": 0,
+      "refMapping": [],
+      "genreKey": "",
+      "streamUrls": []
+    },
+    {
+      "key": "5Ao0PFws0ilgu",
+      "title": "Hurt (Special Video)",
+      "thumbnail": "https://avatar-ex-swe.nixcdn.com/mv/2022/09/23/2/0/e/3/1663906059843_640.jpg",
+      "duration": "03:10",
+      "artists": [
+        {
+          "artistId": 432042,
+          "name": "NewJeans",
+          "shortLink": "newjeans",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2022/12/21/5/7/e/0/1671619239618_300.jpg"
+        }
+      ],
+      "type": "VIDEO",
+      "dateRelease": 0,
+      "dateCreate": 0,
+      "uploadBy": null,
+      "provider": null,
+      "isMyPlaylist": false,
+      "statusViewValue": 1,
+      "statusPlayValue": 1,
+      "statusDownloadValue": 2,
+      "statusAddPlaylistValue": 0,
+      "refMapping": [],
+      "genreKey": "",
+      "streamUrls": []
+    },
+    {
+      "key": "yRZylmRoMgGPe",
+      "title": "Pop! (Performance Video)",
+      "thumbnail": "https://avatar-ex-swe.nixcdn.com/mv/2022/07/19/7/0/0/a/1658217234353_640.jpg",
+      "duration": "02:51",
+      "artists": [
+        {
+          "artistId": 201620,
+          "name": "Na Yeon (Twice)",
+          "shortLink": null,
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2017/05/10/2/7/6/e/1494383935875_300.jpg"
+        }
+      ],
+      "type": "VIDEO",
+      "dateRelease": 0,
+      "dateCreate": 0,
+      "uploadBy": null,
+      "provider": null,
+      "isMyPlaylist": false,
+      "statusViewValue": 1,
+      "statusPlayValue": 1,
+      "statusDownloadValue": 2,
+      "statusAddPlaylistValue": 0,
+      "refMapping": [],
+      "genreKey": "",
+      "streamUrls": []
+    },
+    {
+      "key": "nwDGNH1N3Ui8V",
+      "title": "Pop!",
+      "thumbnail": "https://avatar-ex-swe.nixcdn.com/mv/2022/06/24/e/b/a/d/1656049669530_640.jpg",
+      "duration": "02:50",
+      "artists": [
+        {
+          "artistId": 201620,
+          "name": "Na Yeon (Twice)",
+          "shortLink": null,
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2017/05/10/2/7/6/e/1494383935875_300.jpg"
+        }
+      ],
+      "type": "VIDEO",
+      "dateRelease": 0,
+      "dateCreate": 0,
+      "uploadBy": null,
+      "provider": null,
+      "isMyPlaylist": false,
+      "statusViewValue": 1,
+      "statusPlayValue": 1,
+      "statusDownloadValue": 2,
+      "statusAddPlaylistValue": 0,
+      "refMapping": [],
+      "genreKey": "",
+      "streamUrls": []
+    },
+    {
+      "key": "onKZU8xiXah3J",
+      "title": "Girls (The Performance Stage #2)",
+      "thumbnail": "https://avatar-ex-swe.nixcdn.com/mv/2022/07/20/8/1/6/f/1658289074764_640.jpg",
+      "duration": "04:07",
+      "artists": [
+        {
+          "artistId": 340610,
+          "name": "aespa",
+          "shortLink": null,
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2020/11/17/e/9/4/5/1605606031249_300.jpg"
+        }
+      ],
+      "type": "VIDEO",
+      "dateRelease": 0,
+      "dateCreate": 0,
+      "uploadBy": null,
+      "provider": null,
+      "isMyPlaylist": false,
+      "statusViewValue": 1,
+      "statusPlayValue": 1,
+      "statusDownloadValue": 2,
+      "statusAddPlaylistValue": 0,
+      "refMapping": [],
+      "genreKey": "",
+      "streamUrls": []
+    },
+    {
+      "key": "OyOfqWcGkkW7H",
+      "title": "Hype Boy (Danielle&Haerin Ver.)",
+      "thumbnail": "https://avatar-ex-swe.nixcdn.com/mv/2022/09/26/8/3/9/b/1664199693100_640.jpg",
+      "duration": "03:06",
+      "artists": [
+        {
+          "artistId": 432042,
+          "name": "NewJeans",
+          "shortLink": "newjeans",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2022/12/21/5/7/e/0/1671619239618_300.jpg"
+        }
+      ],
+      "type": "VIDEO",
+      "dateRelease": 0,
+      "dateCreate": 0,
+      "uploadBy": null,
+      "provider": null,
+      "isMyPlaylist": false,
+      "statusViewValue": 1,
+      "statusPlayValue": 1,
+      "statusDownloadValue": 2,
+      "statusAddPlaylistValue": 0,
+      "refMapping": [],
+      "genreKey": "",
+      "streamUrls": []
+    }
+  ],
+  "total": 1000,
+  "type": "mv",
+  "clientIp": "183.80.235.131",
+  "time": 1671632820020
+}

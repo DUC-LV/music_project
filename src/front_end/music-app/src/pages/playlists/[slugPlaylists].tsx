@@ -1,9 +1,10 @@
 import { useRouter } from "next/router";
 import React, { useEffect, useState } from "react";
-import { Box, Flex, Image, Text } from "theme-ui";
-import getTypePlaylist from "../../service/getTypePlaylist";
+import { Box } from "theme-ui";
+import getCategoryPlaylist from "../../service/getCategoryPlaylist";
 import ListOfShare from "../../components/ListOfShare";
 import Menu from "../../components/Menu";
+import { LoadingCSS } from "../../components/SkeletonLoading";
 interface  DataPlaylist{
     thumbnail: string | undefined;
     title: string | undefined;
@@ -16,11 +17,15 @@ interface  DataPlaylist{
 const CategoryPlayList = () => {
     const router = useRouter();
     const [dataPlaylist, setDataPlaylist] = useState<Array<DataPlaylist>>();
+    const [isLoading, setIsLoading] = useState(true);
     useEffect(() => {
         if(router.query.slugPlaylists){
-            getTypePlaylist.getAll(String(router.query.slugPlaylists)).then(res => {
-                setDataPlaylist(res.data.data)
-            })
+            setTimeout(() => {
+                getCategoryPlaylist.getAll(String(router.query.slugPlaylists)).then(res => {
+                    setDataPlaylist(res.data.data)
+                    setIsLoading(false);
+                })
+            }, 300)
         }
     }, [router.query.slugPlaylists])
     
@@ -37,6 +42,7 @@ const CategoryPlayList = () => {
             }}
         >
             <Menu />
+            { isLoading ? <LoadingCSS /> : <>
             <ListOfShare
                 dataListOfShare={dataPlaylist?.map(item => {
                     return {
@@ -48,6 +54,7 @@ const CategoryPlayList = () => {
                 })}
                 url="playlist/[slugPlaylist]"
             />
+            </>}
         </Box>
     );
 }

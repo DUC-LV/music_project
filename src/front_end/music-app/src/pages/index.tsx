@@ -5,6 +5,7 @@ import NewReleases from "../components/NewReleases";
 import RankingHome from "../components/RankHome";
 import Slide from "../components/Slide";
 import SlideShow from "../components/SlideShow";
+import { SkeletonSlide, SkeletonSlideShow } from "../components/SkeletonLoading";
 import getListTopic from "../service/getListTopic";
 import getNewReleases from "../service/getNewReleases";
 import getRankingHome from "../service/getRankingHome";
@@ -31,14 +32,21 @@ const Home = () => {
     const [dataNewReleases, setDataNewReleases] = useState<Array<DataTopicEvent>>();
     const [dataRanking, setDataRanking] = useState<Array<DataRanking>>();
     const [dataListTopic, setDataListTopic] = useState<Array<DataShowCase>>();
-    const [dataTop100, setDataTop100] = useState<Array<DataShowCase>>()
+    const [dataTop100, setDataTop100] = useState<Array<DataShowCase>>();
+    const [isLoading, setIsLoading] = useState(true);
     useEffect(() => {
-        getShowCaseHome.getAll().then((res:any) => {
-            setDataShowCase(res.data.data)
-        })
-        getTopicEventHome.getAll().then((res:any) => {
-            setDataTopicEvent(res.data);
-        })
+        setTimeout(() => {
+            getShowCaseHome.getAll().then((res:any) => {
+                setDataShowCase(res.data.data)
+                setIsLoading(false);
+            })
+        }, 300)
+        setTimeout(() => {
+            getTopicEventHome.getAll().then((res:any) => {
+                setDataTopicEvent(res.data);
+                setIsLoading(false);
+            })
+        }, 300)
         getNewReleases.getAll().then((res:any) => {
             setDataNewReleases(res.data)
         })
@@ -57,6 +65,7 @@ const Home = () => {
     }, [])
     return(
         <Box sx={{ width: '99%'}}>
+            {isLoading ? <SkeletonSlide /> :
             <Slide
                 dataSlide={dataShowCase?.map(item => {
                     return {
@@ -70,6 +79,8 @@ const Home = () => {
                     }
                 })} 
             />
+            }
+            {isLoading ? <SkeletonSlideShow /> : <>
             {dataTopicEvent?.slice(0,3)?.map((item:any, index:any) => {
                 return(
                     <Box key={index}>
@@ -87,7 +98,7 @@ const Home = () => {
                         />
                     </Box>
                 );
-            })}
+            })}</>}
             <NewReleases
                 title="Mới phát hành"
                 dataSlide = {dataNewReleases?.map((items:any) => {
