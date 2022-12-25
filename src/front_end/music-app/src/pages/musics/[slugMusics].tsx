@@ -26,7 +26,7 @@ const CategoryMusic = () => {
                     setDataMusic(res.data.song)
                     setIsLoading(false)
                 })
-            }, 300)
+            }, 200)
         }
     }, [router.query.slugMusics])
     return(

@@ -40,13 +40,13 @@ const Home = () => {
                 setDataShowCase(res.data.data)
                 setIsLoading(false);
             })
-        }, 300)
+        }, 200)
         setTimeout(() => {
             getTopicEventHome.getAll().then((res:any) => {
                 setDataTopicEvent(res.data);
                 setIsLoading(false);
             })
-        }, 300)
+        }, 200)
         getNewReleases.getAll().then((res:any) => {
             setDataNewReleases(res.data)
         })

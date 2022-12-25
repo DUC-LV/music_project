@@ -25,7 +25,7 @@ const CategoryPlayList = () => {
                     setDataPlaylist(res.data.data)
                     setIsLoading(false);
                 })
-            }, 300)
+            }, 200)
         }
     }, [router.query.slugPlaylists])
     

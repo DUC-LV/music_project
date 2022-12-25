@@ -32,19 +32,19 @@ const Menu = () => {
     const router = useRouter();
     const [title, setTitle] = useState('Mới & Hot');
     useEffect(() => {
-        if(router.query.slugPlaylists == 'moi-hot' || router.query.slugMusics == 'moi-hot'){
+        if(router.query.slugPlaylists == 'moi-hot' || router.query.slugMusics == 'moi-hot' || router.query.slugVideos == 'moi-hot'){
             setTitle('Mới & Hot');
         }
-        if(router.query.slugPlaylists == 'viet-nam' || router.query.slugMusics == 'viet-nam'){
+        if(router.query.slugPlaylists == 'viet-nam' || router.query.slugMusics == 'viet-nam' || router.query.slugVideos == 'viet-nam'){
             setTitle('Việt Nam');
         }
-        if(router.query.slugPlaylists == 'au-my' || router.query.slugMusics == 'au-my'){
+        if(router.query.slugPlaylists == 'au-my' || router.query.slugMusics == 'au-my' || router.query.slugVideos == 'au-my'){
             setTitle('Âu Mỹ');
         }
-        if(router.query.slugPlaylists == 'chau-a' || router.query.slugMusics == 'chau-a'){
+        if(router.query.slugPlaylists == 'chau-a' || router.query.slugMusics == 'chau-a' || router.query.slugVideos == 'chau-a'){
             setTitle('Châu Á');
         }
-    }, [router.query.slugMusics, router.query.slugPlaylists])
+    }, [router.query.slugMusics, router.query.slugPlaylists, router.query.slugVideos])
     return(
         <><Flex
             sx={{
@@ -53,7 +53,7 @@ const Menu = () => {
             }}
         >
             {categories?.map((item: any) => {
-                if (item?.url == `${router.query.slugPlaylists}` || item?.url == `${router.query.slugMusics}`) {
+                if (item?.url == `${router.query.slugPlaylists}` || item?.url == `${router.query.slugMusics}` || item?.url == `${router.query.slugVideos}`) {
                     item.color = '#28b1f4';
                 }
                 return (
