@@ -39,7 +39,7 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     'rest_framework',
     'guardian',
-    'show_case_home',
+    'promotions',
     'topic_event_home',
     'new_releases',
     'topic',

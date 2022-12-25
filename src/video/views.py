@@ -94,7 +94,6 @@ class GetVideoAuMy(View):
         topic_videos_map = {}
         for video in list_videos:
             tp_vd = topic_videos_map.get(video.topic_video_id, None)
-
             artists_data = []
             artists = Artists.objects.filter(artist_event_id=video.id).all()
             for art in artists:

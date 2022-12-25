@@ -9,7 +9,7 @@ class GetListTopic(View):
     @staticmethod
     def get(request):
         all_topics = TopicEvents.objects.filter(group_name__in=(
-        'World Cup 2022_World Cup 2022', 'Top Thịnh Hành_Top Viral Playlists', 'Cà Phê Đầu Tuần_Coffee For New Week'))
+        'Giáng Sinh 2022 ☃️_Merry Christmas 2022 ☃️','World Cup 2022_World Cup 2022','Giáng Sinh Tuần Này 🎄_Christmas Week 🎄'))
         topic_ids = [tp.id for tp in all_topics]
         list_playlists = ListPlaylists.objects.filter(topic_event_id__in=topic_ids).all()
         topic_playlists_map = {}
