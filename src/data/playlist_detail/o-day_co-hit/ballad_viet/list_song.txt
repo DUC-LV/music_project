@@ -1,0 +1,4411 @@
+{
+  "status": "success",
+  "playlist": {
+    "key": "aEINaIMf6iFi",
+    "title": "Ballad Việt",
+    "thumbnail": "https://avatar-ex-swe.nixcdn.com/playlist/2022/12/20/b/1/3/7/1671534201062_300.jpg",
+    "duration": "00:00",
+    "artists": [
+      {
+        "artistId": 8248,
+        "name": "V.A",
+        "shortLink": "va",
+        "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2020/08/18/e/4/e/c/1597723219000_300.jpg"
+      }
+    ],
+    "type": "PLAYLIST",
+    "dateRelease": 0,
+    "dateCreate": 1670900646601,
+    "uploadBy": {
+      "userName": "thiennhat92",
+      "fullName": "Goodmusic4baddays",
+      "avatarUrl": "https://avatar-ex-swe.nixcdn.com/avatar/2020/06/04/d/9/e/e/1591240258899.jpg"
+    },
+    "provider": null,
+    "refMapping": [],
+    "genreKey": "pl-nhac-tre",
+    "songs": [
+      {
+        "key": "edXbzYcbz0s5",
+        "title": "Tình Yêu Đến Sau",
+        "thumbnail": "https://avatar-ex-swe.nixcdn.com/song/2022/11/21/4/f/d/3/1669004664657_300.jpg",
+        "duration": "04:31",
+        "artists": [
+          {
+            "artistId": 218912,
+            "name": "Myra Trần",
+            "shortLink": "myra-tran",
+            "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2022/11/23/7/5/7/7/1669177340721_300.jpg"
+          }
+        ],
+        "type": "SONG",
+        "dateRelease": 1669035600000,
+        "dateCreate": 1669004664310,
+        "uploadBy": {
+          "userName": "yinyangmedia",
+          "fullName": "YIN YANG MEDIA",
+          "avatarUrl": ""
+        },
+        "provider": {
+          "name": "YIN YANG MEDIA",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/provider/2020/02/06/7/c/c/b/1580970715693.jpg"
+        },
+        "isMyPlaylist": false,
+        "statusViewValue": 1,
+        "statusPlayValue": 1,
+        "statusDownloadValue": 2,
+        "statusAddPlaylistValue": 0,
+        "refMapping": [],
+        "genreKey": "s-nhac-tre",
+        "streamUrls": [],
+        "description": "Ca khúc Tình Yêu Đến Sau do ca sĩ Myra Trần thể hiện, thuộc thể loại Nhạc Trẻ. Các bạn có thể nghe, download (tải nhạc) bài hát Tinh Yeu Den Sau   mp3, playlist/album, MV/Video Tình Yêu Đến Sau miễn phí tại NhacCuaTui.com."
+      },
+      {
+        "key": "eqGoScLQp4OM",
+        "title": "Chúng Ta Chỉ Là Đã Từng",
+        "thumbnail": "https://avatar-ex-swe.nixcdn.com/song/2022/12/15/0/3/9/2/1671102017095_300.jpg",
+        "duration": "05:54",
+        "artists": [
+          {
+            "artistId": 221310,
+            "name": "Hứa Kim Tuyền",
+            "shortLink": "hua-kim-tuyen",
+            "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2021/03/30/c/2/0/6/1617079270471_300.jpg"
+          },
+          {
+            "artistId": 66948,
+            "name": "Orange",
+            "shortLink": "orange",
+            "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2021/11/11/b/1/9/7/1636604745202_300.jpg"
+          }
+        ],
+        "type": "SONG",
+        "dateRelease": 1671537600000,
+        "dateCreate": 1671102016807,
+        "uploadBy": {
+          "userName": "yinyangmedia",
+          "fullName": "YIN YANG MEDIA",
+          "avatarUrl": ""
+        },
+        "provider": {
+          "name": "YIN YANG MEDIA",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/provider/2020/02/06/7/c/c/b/1580970715693.jpg"
+        },
+        "isMyPlaylist": false,
+        "statusViewValue": 1,
+        "statusPlayValue": 1,
+        "statusDownloadValue": 2,
+        "statusAddPlaylistValue": 0,
+        "refMapping": [],
+        "genreKey": "s-nhac-tre",
+        "streamUrls": [],
+        "description": "Ca khúc Chúng Ta Chỉ Là Đã Từng do ca sĩ Hứa Kim TuyềnOrange,  thể hiện, thuộc thể loại Nhạc Trẻ. Các bạn có thể nghe, download (tải nhạc) bài hát Chung Ta Chi La Da Tung   mp3, playlist/album, MV/Video Chúng Ta Chỉ Là Đã Từng miễn phí tại NhacCuaTui.com."
+      },
+      {
+        "key": "F9LjXMieJT4M",
+        "title": "Cạn Dòng Nước Mắt",
+        "thumbnail": "https://avatar-ex-swe.nixcdn.com/song/2020/08/20/3/c/7/f/1597907583442_300.jpg",
+        "duration": "04:34",
+        "artists": [
+          {
+            "artistId": 6093,
+            "name": "Hồ Ngọc Hà",
+            "shortLink": "ho-ngoc-ha",
+            "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2020/08/14/5/1/1/9/1597380071736_300.jpg"
+          }
+        ],
+        "type": "SONG",
+        "dateRelease": 1597928400000,
+        "dateCreate": 1597907578805,
+        "uploadBy": {
+          "userName": "nct_official",
+          "fullName": "NCT OFFICIAL",
+          "avatarUrl": ""
+        },
+        "provider": {
+          "name": "NCT MUSIC DISTRIBUTION",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/provider/2020/02/13/8/d/9/4/1581565412825.jpg"
+        },
+        "isMyPlaylist": false,
+        "statusViewValue": 1,
+        "statusPlayValue": 1,
+        "statusDownloadValue": 2,
+        "statusAddPlaylistValue": 0,
+        "refMapping": [],
+        "genreKey": "s-nhac-tre",
+        "streamUrls": [],
+        "description": "Ca khúc Cạn Dòng Nước Mắt do ca sĩ Hồ Ngọc Hà thể hiện, thuộc thể loại Nhạc Trẻ. Các bạn có thể nghe, download (tải nhạc) bài hát Can Dong Nuoc Mat   mp3, playlist/album, MV/Video Cạn Dòng Nước Mắt miễn phí tại NhacCuaTui.com."
+      },
+      {
+        "key": "5WaXO2cz4RkK",
+        "title": "Anh Nhớ Ra",
+        "thumbnail": "https://avatar-ex-swe.nixcdn.com/song/2022/09/07/b/d/f/6/1662533204017_300.jpg",
+        "duration": "04:36",
+        "artists": [
+          {
+            "artistId": 57932,
+            "name": "Vũ",
+            "shortLink": "vu",
+            "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2022/09/06/8/9/f/3/1662436842575_300.jpg"
+          },
+          {
+            "artistId": 60928,
+            "name": "Trang",
+            "shortLink": "trang",
+            "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2019/11/04/4/b/e/1/1572843837617_300.jpg"
+          }
+        ],
+        "type": "SONG",
+        "dateRelease": 1662656400000,
+        "dateCreate": 1662533227141,
+        "uploadBy": {
+          "userName": "warner_music",
+          "fullName": "WARNER MUSIC",
+          "avatarUrl": ""
+        },
+        "provider": null,
+        "isMyPlaylist": false,
+        "statusViewValue": 1,
+        "statusPlayValue": 1,
+        "statusDownloadValue": 2,
+        "statusAddPlaylistValue": 0,
+        "refMapping": [],
+        "genreKey": "s-nhac-tre",
+        "streamUrls": [],
+        "description": "Ca khúc Anh Nhớ Ra do ca sĩ VũTrang,  thể hiện, thuộc thể loại Nhạc Trẻ. Các bạn có thể nghe, download (tải nhạc) bài hát Anh Nho Ra   mp3, playlist/album, MV/Video Anh Nhớ Ra miễn phí tại NhacCuaTui.com."
+      },
+      {
+        "key": "cDEq8jbxFI4R",
+        "title": "Nhẫn Tâm Là Em",
+        "thumbnail": "https://avatar-ex-swe.nixcdn.com/song/2022/09/03/0/8/f/d/1662201306089_300.jpg",
+        "duration": "04:31",
+        "artists": [
+          {
+            "artistId": 50871,
+            "name": "Nguyễn Trần Trung Quân",
+            "shortLink": "nguyen-tran-trung-quan",
+            "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2022/09/16/2/e/3/c/1663308919898_300.jpg"
+          }
+        ],
+        "type": "SONG",
+        "dateRelease": 1662638400000,
+        "dateCreate": 1662201305527,
+        "uploadBy": {
+          "userName": "loopsmusic",
+          "fullName": "LOOPS MUSIC",
+          "avatarUrl": ""
+        },
+        "provider": {
+          "name": "LOOPS MUSIC",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/provider/2022/06/01/3/d/d/9/1654052613310.jpg"
+        },
+        "isMyPlaylist": false,
+        "statusViewValue": 1,
+        "statusPlayValue": 1,
+        "statusDownloadValue": 2,
+        "statusAddPlaylistValue": 0,
+        "refMapping": [],
+        "genreKey": "s-nhac-tre",
+        "streamUrls": [],
+        "description": "Ca khúc Nhẫn Tâm Là Em do ca sĩ Nguyễn Trần Trung Quân thể hiện, thuộc thể loại Nhạc Trẻ. Các bạn có thể nghe, download (tải nhạc) bài hát Nhan Tam La Em   mp3, playlist/album, MV/Video Nhẫn Tâm Là Em miễn phí tại NhacCuaTui.com."
+      },
+      {
+        "key": "ddiwafE1ONwl",
+        "title": "Em Đau Lắm Đấy",
+        "thumbnail": "https://avatar-ex-swe.nixcdn.com/song/2022/08/23/b/0/1/e/1661226215142_300.jpg",
+        "duration": "04:46",
+        "artists": [
+          {
+            "artistId": 97153,
+            "name": "Hương Ly",
+            "shortLink": "huong-ly",
+            "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2020/11/02/c/4/b/1/1604299335097_300.jpg"
+          }
+        ],
+        "type": "SONG",
+        "dateRelease": 1661515200000,
+        "dateCreate": 1661226214755,
+        "uploadBy": {
+          "userName": "loopsmusic",
+          "fullName": "LOOPS MUSIC",
+          "avatarUrl": ""
+        },
+        "provider": {
+          "name": "LOOPS MUSIC",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/provider/2022/06/01/3/d/d/9/1654052613310.jpg"
+        },
+        "isMyPlaylist": false,
+        "statusViewValue": 1,
+        "statusPlayValue": 1,
+        "statusDownloadValue": 2,
+        "statusAddPlaylistValue": 0,
+        "refMapping": [],
+        "genreKey": "s-nhac-tre",
+        "streamUrls": [],
+        "description": "Ca khúc Em Đau Lắm Đấy do ca sĩ Hương Ly thể hiện, thuộc thể loại Nhạc Trẻ. Các bạn có thể nghe, download (tải nhạc) bài hát Em Dau Lam Day   mp3, playlist/album, MV/Video Em Đau Lắm Đấy miễn phí tại NhacCuaTui.com."
+      },
+      {
+        "key": "GZZTzUhClujD",
+        "title": "Chưa Quên Người Yêu Cũ",
+        "thumbnail": "https://avatar-ex-swe.nixcdn.com/song/2022/07/28/3/b/5/b/1658997436153_300.jpg",
+        "duration": "05:02",
+        "artists": [
+          {
+            "artistId": 193354,
+            "name": "Hà Nhi",
+            "shortLink": "ha-nhi",
+            "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2022/06/07/7/1/4/6/1654588529598_300.jpg"
+          }
+        ],
+        "type": "SONG",
+        "dateRelease": 1659528000000,
+        "dateCreate": 1658997435836,
+        "uploadBy": {
+          "userName": "skymusic",
+          "fullName": "SKYMUSIC",
+          "avatarUrl": ""
+        },
+        "provider": {
+          "name": "SKYMUSIC",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/provider/2020/02/06/7/c/c/b/1580961979050.jpg"
+        },
+        "isMyPlaylist": false,
+        "statusViewValue": 1,
+        "statusPlayValue": 1,
+        "statusDownloadValue": 2,
+        "statusAddPlaylistValue": 0,
+        "refMapping": [],
+        "genreKey": "s-nhac-tre",
+        "streamUrls": [],
+        "description": "Ca khúc Chưa Quên Người Yêu Cũ do ca sĩ Hà Nhi thể hiện, thuộc thể loại Nhạc Trẻ. Các bạn có thể nghe, download (tải nhạc) bài hát Chua Quen Nguoi Yeu Cu   mp3, playlist/album, MV/Video Chưa Quên Người Yêu Cũ miễn phí tại NhacCuaTui.com."
+      },
+      {
+        "key": "jvaolomZtGnd",
+        "title": "Một Ngàn Nỗi Đau",
+        "thumbnail": "https://avatar-ex-swe.nixcdn.com/song/2022/06/22/2/2/2/d/1655884422688_300.jpg",
+        "duration": "05:21",
+        "artists": [
+          {
+            "artistId": 43190,
+            "name": "Văn Mai Hương",
+            "shortLink": "van-mai-huong",
+            "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2021/01/22/9/6/7/5/1611280199069_300.jpg"
+          },
+          {
+            "artistId": 221310,
+            "name": "Hứa Kim Tuyền",
+            "shortLink": "hua-kim-tuyen",
+            "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2021/03/30/c/2/0/6/1617079270471_300.jpg"
+          }
+        ],
+        "type": "SONG",
+        "dateRelease": 1655985600000,
+        "dateCreate": 1655884422359,
+        "uploadBy": {
+          "userName": "yinyangmedia",
+          "fullName": "YIN YANG MEDIA",
+          "avatarUrl": ""
+        },
+        "provider": {
+          "name": "YIN YANG MEDIA",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/provider/2020/02/06/7/c/c/b/1580970715693.jpg"
+        },
+        "isMyPlaylist": false,
+        "statusViewValue": 1,
+        "statusPlayValue": 1,
+        "statusDownloadValue": 2,
+        "statusAddPlaylistValue": 0,
+        "refMapping": [],
+        "genreKey": "s-nhac-tre",
+        "streamUrls": [],
+        "description": "Ca khúc Một Ngàn Nỗi Đau do ca sĩ Văn Mai HươngHứa Kim Tuyền,  thể hiện, thuộc thể loại Nhạc Trẻ. Các bạn có thể nghe, download (tải nhạc) bài hát Mot Ngan Noi Dau   mp3, playlist/album, MV/Video Một Ngàn Nỗi Đau miễn phí tại NhacCuaTui.com."
+      },
+      {
+        "key": "eBHoZrKqSL1Z",
+        "title": "Anh Ơi Ở Lại (Live Version)",
+        "thumbnail": "https://avatar-ex-swe.nixcdn.com/song/2022/07/27/f/d/6/8/1658892762802_300.jpg",
+        "duration": "04:51",
+        "artists": [
+          {
+            "artistId": 209774,
+            "name": "Đạt G",
+            "shortLink": "dat-g",
+            "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2022/07/14/2/1/0/a/1657771898603_300.jpg"
+          }
+        ],
+        "type": "SONG",
+        "dateRelease": 1659099600000,
+        "dateCreate": 1658892698431,
+        "uploadBy": {
+          "userName": "sonymusic",
+          "fullName": "SONY MUSIC",
+          "avatarUrl": ""
+        },
+        "provider": {
+          "name": "SONY MUSIC",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/provider/2020/02/13/8/d/9/4/1581563932392.jpg"
+        },
+        "isMyPlaylist": false,
+        "statusViewValue": 1,
+        "statusPlayValue": 1,
+        "statusDownloadValue": 0,
+        "statusAddPlaylistValue": 0,
+        "refMapping": [],
+        "genreKey": "s-nhac-tre",
+        "streamUrls": [],
+        "description": "Ca khúc Anh Ơi Ở Lại (Live Version) do ca sĩ Đạt G thể hiện, thuộc thể loại Nhạc Trẻ. Các bạn có thể nghe, download (tải nhạc) bài hát Anh Oi O Lai (Live Version)   mp3, playlist/album, MV/Video Anh Ơi Ở Lại (Live Version) miễn phí tại NhacCuaTui.com."
+      },
+      {
+        "key": "ENwwBWpgDXnz",
+        "title": "lời tạm biệt chưa nói",
+        "thumbnail": "https://avatar-ex-swe.nixcdn.com/song/2022/07/21/a/a/7/5/1658391970153_300.jpg",
+        "duration": "04:19",
+        "artists": [
+          {
+            "artistId": 154648,
+            "name": "GREY D",
+            "shortLink": "grey-d",
+            "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2022/08/01/b/e/a/1/1659321743301_300.jpg"
+          },
+          {
+            "artistId": 66948,
+            "name": "Orange",
+            "shortLink": "orange",
+            "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2021/11/11/b/1/9/7/1636604745202_300.jpg"
+          }
+        ],
+        "type": "SONG",
+        "dateRelease": 1658664000000,
+        "dateCreate": 1658391969603,
+        "uploadBy": {
+          "userName": "m_music_records",
+          "fullName": "M MUSIC RECORDS",
+          "avatarUrl": ""
+        },
+        "provider": {
+          "name": "M MUSIC RECORDS",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/provider/2022/06/28/6/c/5/d/1656392106957.jpg"
+        },
+        "isMyPlaylist": false,
+        "statusViewValue": 1,
+        "statusPlayValue": 1,
+        "statusDownloadValue": 2,
+        "statusAddPlaylistValue": 0,
+        "refMapping": [],
+        "genreKey": "s-nhac-tre",
+        "streamUrls": [],
+        "description": "Ca khúc lời tạm biệt chưa nói do ca sĩ GREY DOrange,  thể hiện, thuộc thể loại Nhạc Trẻ. Các bạn có thể nghe, download (tải nhạc) bài hát loi tam biet chua noi   mp3, playlist/album, MV/Video lời tạm biệt chưa nói miễn phí tại NhacCuaTui.com."
+      },
+      {
+        "key": "DHDO44xp6xUO",
+        "title": "dằm trong tim",
+        "thumbnail": "https://avatar-ex-swe.nixcdn.com/song/2022/07/21/a/a/7/5/1658391663646_300.jpg",
+        "duration": "03:50",
+        "artists": [
+          {
+            "artistId": 194498,
+            "name": "Suni Hạ Linh",
+            "shortLink": "suni-ha-linh",
+            "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2019/11/07/3/8/1/0/1573113563975_300.jpg"
+          },
+          {
+            "artistId": 272853,
+            "name": "TDK",
+            "shortLink": null,
+            "imageUrl": null
+          }
+        ],
+        "type": "SONG",
+        "dateRelease": 1658664000000,
+        "dateCreate": 1658391662649,
+        "uploadBy": {
+          "userName": "m_music_records",
+          "fullName": "M MUSIC RECORDS",
+          "avatarUrl": ""
+        },
+        "provider": {
+          "name": "M MUSIC RECORDS",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/provider/2022/06/28/6/c/5/d/1656392106957.jpg"
+        },
+        "isMyPlaylist": false,
+        "statusViewValue": 1,
+        "statusPlayValue": 1,
+        "statusDownloadValue": 2,
+        "statusAddPlaylistValue": 0,
+        "refMapping": [],
+        "genreKey": "s-nhac-tre",
+        "streamUrls": [],
+        "description": "Ca khúc dằm trong tim do ca sĩ Suni Hạ LinhTDK,  thể hiện, thuộc thể loại Nhạc Trẻ. Các bạn có thể nghe, download (tải nhạc) bài hát dam trong tim   mp3, playlist/album, MV/Video dằm trong tim miễn phí tại NhacCuaTui.com."
+      },
+      {
+        "key": "KYXccMclW8ve",
+        "title": "Vỡ Tan (Talkshow Chuyện Chúng Ta)",
+        "thumbnail": "https://avatar-ex-swe.nixcdn.com/song/2022/08/08/8/5/a/0/1659956625030_300.jpg",
+        "duration": "05:16",
+        "artists": [
+          {
+            "artistId": 22314,
+            "name": "Trịnh Thăng Bình",
+            "shortLink": "trinh-thang-binh",
+            "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2022/10/28/d/f/a/6/1666943774061_300.jpg"
+          },
+          {
+            "artistId": 209774,
+            "name": "Đạt G",
+            "shortLink": "dat-g",
+            "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2022/07/14/2/1/0/a/1657771898603_300.jpg"
+          }
+        ],
+        "type": "SONG",
+        "dateRelease": 1660309200000,
+        "dateCreate": 1659956624562,
+        "uploadBy": {
+          "userName": "loopsmusic",
+          "fullName": "LOOPS MUSIC",
+          "avatarUrl": ""
+        },
+        "provider": {
+          "name": "LOOPS MUSIC",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/provider/2022/06/01/3/d/d/9/1654052613310.jpg"
+        },
+        "isMyPlaylist": false,
+        "statusViewValue": 1,
+        "statusPlayValue": 1,
+        "statusDownloadValue": 2,
+        "statusAddPlaylistValue": 0,
+        "refMapping": [],
+        "genreKey": "s-nhac-tre",
+        "streamUrls": [],
+        "description": "Ca khúc Vỡ Tan (Talkshow Chuyện Chúng Ta) do ca sĩ Trịnh Thăng BìnhĐạt G,  thể hiện, thuộc thể loại Nhạc Trẻ. Các bạn có thể nghe, download (tải nhạc) bài hát Vo Tan (Talkshow Chuyen Chung Ta)   mp3, playlist/album, MV/Video Vỡ Tan (Talkshow Chuyện Chúng Ta) miễn phí tại NhacCuaTui.com."
+      },
+      {
+        "key": "eMUTZDEa2hMn",
+        "title": "Chuyện Về Người Con Gái",
+        "thumbnail": "https://avatar-ex-swe.nixcdn.com/song/2022/07/15/2/5/0/1/1657881124149_300.jpg",
+        "duration": "04:05",
+        "artists": [
+          {
+            "artistId": 7119,
+            "name": "Phương Thanh",
+            "shortLink": "phuong-thanh",
+            "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2022/04/14/c/9/e/b/1649928757506_300.jpg"
+          }
+        ],
+        "type": "SONG",
+        "dateRelease": 1657976400000,
+        "dateCreate": 1657881120192,
+        "uploadBy": {
+          "userName": "nct_official",
+          "fullName": "NCT OFFICIAL",
+          "avatarUrl": ""
+        },
+        "provider": {
+          "name": "NCT MUSIC DISTRIBUTION",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/provider/2020/02/13/8/d/9/4/1581565412825.jpg"
+        },
+        "isMyPlaylist": false,
+        "statusViewValue": 1,
+        "statusPlayValue": 1,
+        "statusDownloadValue": 2,
+        "statusAddPlaylistValue": 0,
+        "refMapping": [],
+        "genreKey": "s-nhac-tre",
+        "streamUrls": [],
+        "description": "Ca khúc Chuyện Về Người Con Gái do ca sĩ Phương Thanh thể hiện, thuộc thể loại Nhạc Trẻ. Các bạn có thể nghe, download (tải nhạc) bài hát Chuyen Ve Nguoi Con Gai   mp3, playlist/album, MV/Video Chuyện Về Người Con Gái miễn phí tại NhacCuaTui.com."
+      },
+      {
+        "key": "zMxqieYukQ4z",
+        "title": "Liệu Người Có Thấy",
+        "thumbnail": "https://avatar-ex-swe.nixcdn.com/song/2022/08/05/5/b/8/a/1659690163420_300.jpg",
+        "duration": "05:27",
+        "artists": [
+          {
+            "artistId": 432072,
+            "name": "Thanh Maii",
+            "shortLink": null,
+            "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2022/07/26/0/0/6/e/1658816584280_300.jpg"
+          },
+          {
+            "artistId": 60281,
+            "name": "A.C Xuân Tài",
+            "shortLink": "xuan-tai",
+            "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2021/02/01/a/9/c/8/1612168673898_300.jpg"
+          }
+        ],
+        "type": "SONG",
+        "dateRelease": 1660046400000,
+        "dateCreate": 1659690163026,
+        "uploadBy": {
+          "userName": "loopsmusic",
+          "fullName": "LOOPS MUSIC",
+          "avatarUrl": ""
+        },
+        "provider": {
+          "name": "LOOPS MUSIC",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/provider/2022/06/01/3/d/d/9/1654052613310.jpg"
+        },
+        "isMyPlaylist": false,
+        "statusViewValue": 1,
+        "statusPlayValue": 1,
+        "statusDownloadValue": 2,
+        "statusAddPlaylistValue": 0,
+        "refMapping": [],
+        "genreKey": "s-nhac-tre",
+        "streamUrls": [],
+        "description": "Ca khúc Liệu Người Có Thấy do ca sĩ Thanh MaiiA.C Xuân Tài,  thể hiện, thuộc thể loại Nhạc Trẻ. Các bạn có thể nghe, download (tải nhạc) bài hát Lieu Nguoi Co Thay   mp3, playlist/album, MV/Video Liệu Người Có Thấy miễn phí tại NhacCuaTui.com."
+      },
+      {
+        "key": "yzmyXbFpwQ4v",
+        "title": "Người Yêu Mới Em Tên Gì",
+        "thumbnail": "https://avatar-ex-swe.nixcdn.com/song/2021/12/09/4/2/0/1/1639043184480_300.jpg",
+        "duration": "05:20",
+        "artists": [
+          {
+            "artistId": 135263,
+            "name": "Cao Nam Thành",
+            "shortLink": "cao-nam-thanh",
+            "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2017/11/19/8/9/b/3/1511100269341_300.jpg"
+          }
+        ],
+        "type": "SONG",
+        "dateRelease": 1639310400000,
+        "dateCreate": 1639043176640,
+        "uploadBy": {
+          "userName": "nct_official",
+          "fullName": "NCT OFFICIAL",
+          "avatarUrl": ""
+        },
+        "provider": {
+          "name": "NCT MUSIC DISTRIBUTION",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/provider/2020/02/13/8/d/9/4/1581565412825.jpg"
+        },
+        "isMyPlaylist": false,
+        "statusViewValue": 1,
+        "statusPlayValue": 1,
+        "statusDownloadValue": 2,
+        "statusAddPlaylistValue": 0,
+        "refMapping": [],
+        "genreKey": "s-nhac-tre",
+        "streamUrls": [],
+        "description": "Ca khúc Người Yêu Mới Em Tên Gì do ca sĩ Cao Nam Thành thể hiện, thuộc thể loại Nhạc Trẻ. Các bạn có thể nghe, download (tải nhạc) bài hát Nguoi Yeu Moi Em Ten Gi   mp3, playlist/album, MV/Video Người Yêu Mới Em Tên Gì miễn phí tại NhacCuaTui.com."
+      },
+      {
+        "key": "yODlDIB98ZnG",
+        "title": "Khóc Trong Vô Vọng",
+        "thumbnail": "https://avatar-ex-swe.nixcdn.com/song/2021/12/01/7/7/6/1/1638331510142_300.jpg",
+        "duration": "04:54",
+        "artists": [
+          {
+            "artistId": 364346,
+            "name": "VIET LEE",
+            "shortLink": null,
+            "imageUrl": null
+          }
+        ],
+        "type": "SONG",
+        "dateRelease": 1638363600000,
+        "dateCreate": 1638331503043,
+        "uploadBy": {
+          "userName": "nct_official",
+          "fullName": "NCT OFFICIAL",
+          "avatarUrl": ""
+        },
+        "provider": {
+          "name": "NCT MUSIC DISTRIBUTION",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/provider/2020/02/13/8/d/9/4/1581565412825.jpg"
+        },
+        "isMyPlaylist": false,
+        "statusViewValue": 1,
+        "statusPlayValue": 1,
+        "statusDownloadValue": 2,
+        "statusAddPlaylistValue": 0,
+        "refMapping": [],
+        "genreKey": "s-nhac-tre",
+        "streamUrls": [],
+        "description": "Ca khúc Khóc Trong Vô Vọng do ca sĩ VIET LEE thể hiện, thuộc thể loại Nhạc Trẻ. Các bạn có thể nghe, download (tải nhạc) bài hát Khoc Trong Vo Vong   mp3, playlist/album, MV/Video Khóc Trong Vô Vọng miễn phí tại NhacCuaTui.com."
+      },
+      {
+        "key": "tiLbAc1r71yE",
+        "title": "Thế Hệ Tan Vỡ",
+        "thumbnail": "https://avatar-ex-swe.nixcdn.com/song/2021/11/22/3/0/c/0/1637580308358_300.jpg",
+        "duration": "04:48",
+        "artists": [
+          {
+            "artistId": 144293,
+            "name": "Kai Đinh",
+            "shortLink": "kai-dinh",
+            "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2021/02/22/0/9/6/7/1613967596751_300.jpg"
+          },
+          {
+            "artistId": 261338,
+            "name": "SIVAN",
+            "shortLink": "minh-an-sivan",
+            "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2020/05/19/e/0/c/d/1589875331171_300.jpg"
+          }
+        ],
+        "type": "SONG",
+        "dateRelease": 1637150400000,
+        "dateCreate": 1637146273750,
+        "uploadBy": {
+          "userName": "yinyangmedia",
+          "fullName": "YIN YANG MEDIA",
+          "avatarUrl": ""
+        },
+        "provider": {
+          "name": "YIN YANG MEDIA",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/provider/2020/02/06/7/c/c/b/1580970715693.jpg"
+        },
+        "isMyPlaylist": false,
+        "statusViewValue": 1,
+        "statusPlayValue": 1,
+        "statusDownloadValue": 2,
+        "statusAddPlaylistValue": 0,
+        "refMapping": [],
+        "genreKey": "s-nhac-tre",
+        "streamUrls": [],
+        "description": "Ca khúc Thế Hệ Tan Vỡ do ca sĩ Kai ĐinhSIVAN,  thể hiện, thuộc thể loại Nhạc Trẻ. Các bạn có thể nghe, download (tải nhạc) bài hát The He Tan Vo   mp3, playlist/album, MV/Video Thế Hệ Tan Vỡ miễn phí tại NhacCuaTui.com."
+      },
+      {
+        "key": "bewbO57bCWJE",
+        "title": "nằm ngủ emru",
+        "thumbnail": "https://avatar-ex-swe.nixcdn.com/song/2021/10/21/c/d/d/a/1634805780011_300.jpg",
+        "duration": "04:14",
+        "artists": [
+          {
+            "artistId": 82091,
+            "name": "Bích Phương",
+            "shortLink": "bich-phuong",
+            "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2021/06/28/b/2/0/9/1624861449651_300.jpg"
+          }
+        ],
+        "type": "SONG",
+        "dateRelease": 1634821200000,
+        "dateCreate": 1634805779474,
+        "uploadBy": {
+          "userName": "yinyangmedia",
+          "fullName": "YIN YANG MEDIA",
+          "avatarUrl": ""
+        },
+        "provider": {
+          "name": "YIN YANG MEDIA",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/provider/2020/02/06/7/c/c/b/1580970715693.jpg"
+        },
+        "isMyPlaylist": false,
+        "statusViewValue": 1,
+        "statusPlayValue": 1,
+        "statusDownloadValue": 2,
+        "statusAddPlaylistValue": 0,
+        "refMapping": [],
+        "genreKey": "s-nhac-tre",
+        "streamUrls": [],
+        "description": "Ca khúc nằm ngủ emru do ca sĩ Bích Phương thể hiện, thuộc thể loại Nhạc Trẻ. Các bạn có thể nghe, download (tải nhạc) bài hát nam ngu emru   mp3, playlist/album, MV/Video nằm ngủ emru miễn phí tại NhacCuaTui.com."
+      },
+      {
+        "key": "o3929Y38WDqC",
+        "title": "Ánh Sao Và Bầu Trời",
+        "thumbnail": "https://avatar-ex-swe.nixcdn.com/song/2021/09/09/f/c/f/d/1631155238247_300.jpg",
+        "duration": "04:20",
+        "artists": [
+          {
+            "artistId": 271439,
+            "name": "T.R.I",
+            "shortLink": "T-R-I",
+            "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2020/08/12/f/2/d/1/1597199590443_300.jpg"
+          }
+        ],
+        "type": "SONG",
+        "dateRelease": 1631277000000,
+        "dateCreate": 1631155218047,
+        "uploadBy": {
+          "userName": "yinyangmedia",
+          "fullName": "YIN YANG MEDIA",
+          "avatarUrl": ""
+        },
+        "provider": {
+          "name": "YIN YANG MEDIA",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/provider/2020/02/06/7/c/c/b/1580970715693.jpg"
+        },
+        "isMyPlaylist": false,
+        "statusViewValue": 1,
+        "statusPlayValue": 1,
+        "statusDownloadValue": 2,
+        "statusAddPlaylistValue": 0,
+        "refMapping": [],
+        "genreKey": "s-nhac-tre",
+        "streamUrls": [],
+        "description": "Ca khúc Ánh Sao Và Bầu Trời do ca sĩ T.R.I thể hiện, thuộc thể loại Nhạc Trẻ. Các bạn có thể nghe, download (tải nhạc) bài hát Anh Sao Va Bau Troi   mp3, playlist/album, MV/Video Ánh Sao Và Bầu Trời miễn phí tại NhacCuaTui.com."
+      },
+      {
+        "key": "ywVdrPTR7b3Z",
+        "title": "Lựa Chọn Thích Hợp",
+        "thumbnail": "https://avatar-ex-swe.nixcdn.com/song/2021/09/16/6/7/0/d/1631779298482_300.jpg",
+        "duration": "05:15",
+        "artists": [
+          {
+            "artistId": 143987,
+            "name": "Vương Anh Tú",
+            "shortLink": "vuong-anh-tu",
+            "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2018/09/28/1/e/7/5/1538105788032_300.jpg"
+          }
+        ],
+        "type": "SONG",
+        "dateRelease": 1631793600000,
+        "dateCreate": 1631779287542,
+        "uploadBy": {
+          "userName": "yinyangmedia",
+          "fullName": "YIN YANG MEDIA",
+          "avatarUrl": ""
+        },
+        "provider": {
+          "name": "YIN YANG MEDIA",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/provider/2020/02/06/7/c/c/b/1580970715693.jpg"
+        },
+        "isMyPlaylist": false,
+        "statusViewValue": 1,
+        "statusPlayValue": 1,
+        "statusDownloadValue": 2,
+        "statusAddPlaylistValue": 0,
+        "refMapping": [
+          {
+            "refKey": "OSku7aY8pGZBD",
+            "refType": "VIDEO"
+          }
+        ],
+        "genreKey": "s-nhac-tre",
+        "streamUrls": [],
+        "description": "Ca khúc Lựa Chọn Thích Hợp do ca sĩ Vương Anh Tú thể hiện, thuộc thể loại Nhạc Trẻ. Các bạn có thể nghe, download (tải nhạc) bài hát Lua Chon Thich Hop   mp3, playlist/album, MV/Video Lựa Chọn Thích Hợp miễn phí tại NhacCuaTui.com."
+      },
+      {
+        "key": "Lew4mD74AIM4",
+        "title": "vâng anh đi đi (liu riu version)",
+        "thumbnail": "https://avatar-ex-swe.nixcdn.com/song/2021/10/02/3/3/3/5/1633150195414_300.jpg",
+        "duration": "03:39",
+        "artists": [
+          {
+            "artistId": 82091,
+            "name": "Bích Phương",
+            "shortLink": "bich-phuong",
+            "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2021/06/28/b/2/0/9/1624861449651_300.jpg"
+          }
+        ],
+        "type": "SONG",
+        "dateRelease": 1633618800000,
+        "dateCreate": 1633150195051,
+        "uploadBy": {
+          "userName": "yinyangmedia",
+          "fullName": "YIN YANG MEDIA",
+          "avatarUrl": ""
+        },
+        "provider": {
+          "name": "YIN YANG MEDIA",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/provider/2020/02/06/7/c/c/b/1580970715693.jpg"
+        },
+        "isMyPlaylist": false,
+        "statusViewValue": 1,
+        "statusPlayValue": 1,
+        "statusDownloadValue": 2,
+        "statusAddPlaylistValue": 0,
+        "refMapping": [],
+        "genreKey": "s-nhac-tre",
+        "streamUrls": [],
+        "description": "Ca khúc vâng anh đi đi (liu riu version) do ca sĩ Bích Phương thể hiện, thuộc thể loại Nhạc Trẻ. Các bạn có thể nghe, download (tải nhạc) bài hát vang anh di di (liu riu version)   mp3, playlist/album, MV/Video vâng anh đi đi (liu riu version) miễn phí tại NhacCuaTui.com."
+      },
+      {
+        "key": "DS5NwsGBlUhU",
+        "title": "Răng Khôn",
+        "thumbnail": "https://avatar-ex-swe.nixcdn.com/song/2021/04/19/d/1/f/1/1618810475930_300.jpg",
+        "duration": "03:51",
+        "artists": [
+          {
+            "artistId": 346056,
+            "name": "Phí Phương Anh",
+            "shortLink": "phi-phuong-anh",
+            "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2021/05/24/8/d/6/e/1621842906046_300.jpg"
+          },
+          {
+            "artistId": 227626,
+            "name": "RIN9",
+            "shortLink": "rin9",
+            "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2020/10/05/6/4/d/d/1601871111572_300.jpg"
+          }
+        ],
+        "type": "SONG",
+        "dateRelease": 1619006400000,
+        "dateCreate": 1618810471654,
+        "uploadBy": {
+          "userName": "yinyangmedia",
+          "fullName": "YIN YANG MEDIA",
+          "avatarUrl": ""
+        },
+        "provider": {
+          "name": "YIN YANG MEDIA",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/provider/2020/02/06/7/c/c/b/1580970715693.jpg"
+        },
+        "isMyPlaylist": false,
+        "statusViewValue": 1,
+        "statusPlayValue": 1,
+        "statusDownloadValue": 2,
+        "statusAddPlaylistValue": 0,
+        "refMapping": [
+          {
+            "refKey": "mnUdUozCwo1hC",
+            "refType": "VIDEO"
+          }
+        ],
+        "genreKey": "s-nhac-tre",
+        "streamUrls": [],
+        "description": "Ca khúc Răng Khôn do ca sĩ Phí Phương AnhRIN9,  thể hiện, thuộc thể loại Nhạc Trẻ. Các bạn có thể nghe, download (tải nhạc) bài hát Rang Khon   mp3, playlist/album, MV/Video Răng Khôn miễn phí tại NhacCuaTui.com."
+      },
+      {
+        "key": "EZwfyBx9IT1N",
+        "title": "Sài Gòn Hôm Nay Mưa",
+        "thumbnail": "https://avatar-ex-swe.nixcdn.com/song/2021/05/30/2/6/7/5/1622365032910_300.jpg",
+        "duration": "04:07",
+        "artists": [
+          {
+            "artistId": 252134,
+            "name": "JSOL",
+            "shortLink": "jsol",
+            "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2022/03/08/5/c/b/f/1646735533969_300.jpg"
+          },
+          {
+            "artistId": 349061,
+            "name": "Hoàng Duyên",
+            "shortLink": "hoang-duyen",
+            "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2022/02/10/5/9/4/6/1644466430613_300.jpg"
+          }
+        ],
+        "type": "SONG",
+        "dateRelease": 0,
+        "dateCreate": 1622364646438,
+        "uploadBy": {
+          "userName": "gazpacho",
+          "fullName": "Triệu",
+          "avatarUrl": ""
+        },
+        "provider": {
+          "name": "UNIVERSAL MUSIC GROUP",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/provider/2020/02/06/7/c/c/b/1580970856708.jpg"
+        },
+        "isMyPlaylist": false,
+        "statusViewValue": 5,
+        "statusPlayValue": 0,
+        "statusDownloadValue": 0,
+        "statusAddPlaylistValue": 0,
+        "refMapping": [],
+        "genreKey": "s-nhac-tre",
+        "streamUrls": [],
+        "description": "Ca khúc Sài Gòn Hôm Nay Mưa do ca sĩ JSOLHoàng Duyên,  thể hiện, thuộc thể loại Nhạc Trẻ. Các bạn có thể nghe, download (tải nhạc) bài hát Sai Gon Hom Nay Mua   mp3, playlist/album, MV/Video Sài Gòn Hôm Nay Mưa miễn phí tại NhacCuaTui.com."
+      },
+      {
+        "key": "tV4swZ9ekyZS",
+        "title": "Tháng Mấy Em Nhớ Anh?",
+        "thumbnail": "https://avatar-ex-swe.nixcdn.com/song/2021/04/01/e/2/b/5/1617248289520_300.jpg",
+        "duration": "05:00",
+        "artists": [
+          {
+            "artistId": 6040,
+            "name": "Hà Anh Tuấn",
+            "shortLink": "ha-anh-tuan",
+            "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2018/06/27/e/8/8/5/1530074198530_300.jpg"
+          }
+        ],
+        "type": "SONG",
+        "dateRelease": 1617285600000,
+        "dateCreate": 1617248278649,
+        "uploadBy": {
+          "userName": "yinyangmedia",
+          "fullName": "YIN YANG MEDIA",
+          "avatarUrl": ""
+        },
+        "provider": {
+          "name": "YIN YANG MEDIA",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/provider/2020/02/06/7/c/c/b/1580970715693.jpg"
+        },
+        "isMyPlaylist": false,
+        "statusViewValue": 1,
+        "statusPlayValue": 1,
+        "statusDownloadValue": 2,
+        "statusAddPlaylistValue": 0,
+        "refMapping": [
+          {
+            "refKey": "flsM9MP8g10sy",
+            "refType": "VIDEO"
+          }
+        ],
+        "genreKey": "s-nhac-tre",
+        "streamUrls": [],
+        "description": "Ca khúc Tháng Mấy Em Nhớ Anh? do ca sĩ Hà Anh Tuấn thể hiện, thuộc thể loại Nhạc Trẻ. Các bạn có thể nghe, download (tải nhạc) bài hát Thang May Em Nho Anh?   mp3, playlist/album, MV/Video Tháng Mấy Em Nhớ Anh? miễn phí tại NhacCuaTui.com."
+      },
+      {
+        "key": "uyQTq9aL9Nfr",
+        "title": "Thức Giấc",
+        "thumbnail": "https://avatar-ex-swe.nixcdn.com/song/2021/07/14/8/c/f/9/1626231010810_300.jpg",
+        "duration": "04:29",
+        "artists": [
+          {
+            "artistId": 104231,
+            "name": "Da LAB",
+            "shortLink": "da-lab",
+            "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2020/08/03/3/f/4/5/1596425146149_300.jpg"
+          }
+        ],
+        "type": "SONG",
+        "dateRelease": 1626264000000,
+        "dateCreate": 1626230995518,
+        "uploadBy": {
+          "userName": "yinyangmedia",
+          "fullName": "YIN YANG MEDIA",
+          "avatarUrl": ""
+        },
+        "provider": {
+          "name": "YIN YANG MEDIA",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/provider/2020/02/06/7/c/c/b/1580970715693.jpg"
+        },
+        "isMyPlaylist": false,
+        "statusViewValue": 1,
+        "statusPlayValue": 1,
+        "statusDownloadValue": 2,
+        "statusAddPlaylistValue": 0,
+        "refMapping": [
+          {
+            "refKey": "1EyDyWiIV4UQW",
+            "refType": "VIDEO"
+          }
+        ],
+        "genreKey": "s-nhac-tre",
+        "streamUrls": [],
+        "description": "Ca khúc Thức Giấc do ca sĩ Da LAB thể hiện, thuộc thể loại Nhạc Trẻ. Các bạn có thể nghe, download (tải nhạc) bài hát Thuc Giac   mp3, playlist/album, MV/Video Thức Giấc miễn phí tại NhacCuaTui.com."
+      },
+      {
+        "key": "J0grxWfPPcto",
+        "title": "Người Ta Đâu Thương Em",
+        "thumbnail": "https://avatar-ex-swe.nixcdn.com/song/2021/02/02/f/6/0/9/1612257024442_300.jpg",
+        "duration": "04:33",
+        "artists": [
+          {
+            "artistId": 52658,
+            "name": "Lyly",
+            "shortLink": "lyly",
+            "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2022/06/21/2/2/b/0/1655806614438_300.jpg"
+          },
+          {
+            "artistId": 231898,
+            "name": "Anh Tú",
+            "shortLink": "anh-tu-the-voice",
+            "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2022/10/17/5/d/1/8/1665975489736_300.jpg"
+          }
+        ],
+        "type": "SONG",
+        "dateRelease": 1612357200000,
+        "dateCreate": 1612257019182,
+        "uploadBy": {
+          "userName": "nct_official",
+          "fullName": "NCT OFFICIAL",
+          "avatarUrl": ""
+        },
+        "provider": {
+          "name": "YIN YANG MEDIA",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/provider/2020/02/06/7/c/c/b/1580970715693.jpg"
+        },
+        "isMyPlaylist": false,
+        "statusViewValue": 1,
+        "statusPlayValue": 1,
+        "statusDownloadValue": 2,
+        "statusAddPlaylistValue": 0,
+        "refMapping": [
+          {
+            "refKey": "krq3MbujFdHks",
+            "refType": "VIDEO"
+          }
+        ],
+        "genreKey": "s-nhac-tre",
+        "streamUrls": [],
+        "description": "Ca khúc Người Ta Đâu Thương Em do ca sĩ LylyAnh Tú,  thể hiện, thuộc thể loại Nhạc Trẻ. Các bạn có thể nghe, download (tải nhạc) bài hát Nguoi Ta Dau Thuong Em   mp3, playlist/album, MV/Video Người Ta Đâu Thương Em miễn phí tại NhacCuaTui.com."
+      },
+      {
+        "key": "E5D1jlNGwZuk",
+        "title": "Dẫu Nhớ Gấp Trăm Lần",
+        "thumbnail": "https://avatar-ex-swe.nixcdn.com/song/2020/10/08/f/a/6/e/1602149652323_300.jpg",
+        "duration": "03:34",
+        "artists": [
+          {
+            "artistId": 23861,
+            "name": "Nguyên Hà",
+            "shortLink": "nguyen-ha",
+            "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2020/05/20/5/f/e/3/1589944002038_300.jpg"
+          }
+        ],
+        "type": "SONG",
+        "dateRelease": 1601982000000,
+        "dateCreate": 1601546518757,
+        "uploadBy": {
+          "userName": "sonymusic",
+          "fullName": "SONY MUSIC",
+          "avatarUrl": ""
+        },
+        "provider": {
+          "name": "SONY MUSIC",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/provider/2020/02/13/8/d/9/4/1581563932392.jpg"
+        },
+        "isMyPlaylist": false,
+        "statusViewValue": 1,
+        "statusPlayValue": 1,
+        "statusDownloadValue": 0,
+        "statusAddPlaylistValue": 0,
+        "refMapping": [],
+        "genreKey": "s-nhac-tre",
+        "streamUrls": [],
+        "description": "Ca khúc Dẫu Nhớ Gấp Trăm Lần do ca sĩ Nguyên Hà thể hiện, thuộc thể loại Nhạc Trẻ. Các bạn có thể nghe, download (tải nhạc) bài hát Dau Nho Gap Tram Lan   mp3, playlist/album, MV/Video Dẫu Nhớ Gấp Trăm Lần miễn phí tại NhacCuaTui.com."
+      },
+      {
+        "key": "R4fWOhkI6yFb",
+        "title": "Chỉ Là Không Cùng Nhau (Lofi Version)",
+        "thumbnail": "https://avatar-ex-swe.nixcdn.com/song/2021/06/25/e/6/6/d/1624587909934_300.jpg",
+        "duration": "03:17",
+        "artists": [
+          {
+            "artistId": 198446,
+            "name": "Tăng Phúc",
+            "shortLink": "tang-phuc",
+            "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2019/11/20/d/f/9/a/1574242685613_300.jpg"
+          },
+          {
+            "artistId": 139454,
+            "name": "Trương Thảo Nhi",
+            "shortLink": "Truong-Thao-Nhi",
+            "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2022/07/11/1/6/0/5/1657535383616_300.jpg"
+          },
+          {
+            "artistId": 274723,
+            "name": "Freak D",
+            "shortLink": null,
+            "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2021/08/18/6/6/f/c/1629259216630_300.jpg"
+          }
+        ],
+        "type": "SONG",
+        "dateRelease": 0,
+        "dateCreate": 0,
+        "uploadBy": {
+          "userName": "phamtung_2003",
+          "fullName": "Tùng Xuân",
+          "avatarUrl": ""
+        },
+        "provider": null,
+        "isMyPlaylist": false,
+        "statusViewValue": 1,
+        "statusPlayValue": 1,
+        "statusDownloadValue": 2,
+        "statusAddPlaylistValue": 0,
+        "refMapping": [],
+        "genreKey": "s-nhac-tre",
+        "streamUrls": [],
+        "description": "Ca khúc Chỉ Là Không Cùng Nhau (Lofi Version) do ca sĩ Tăng PhúcTrương Thảo Nhi, Freak D,  thể hiện, thuộc thể loại Nhạc Trẻ. Các bạn có thể nghe, download (tải nhạc) bài hát Chi La Khong Cung Nhau (Lofi Version)   mp3, playlist/album, MV/Video Chỉ Là Không Cùng Nhau (Lofi Version) miễn phí tại NhacCuaTui.com."
+      },
+      {
+        "key": "2hI4xFTa2lxJ",
+        "title": "Sài Gòn Đau Lòng Quá",
+        "thumbnail": "https://avatar-ex-swe.nixcdn.com/song/2021/03/27/d/2/9/1/1616859493571_300.jpg",
+        "duration": "05:08",
+        "artists": [
+          {
+            "artistId": 221310,
+            "name": "Hứa Kim Tuyền",
+            "shortLink": "hua-kim-tuyen",
+            "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2021/03/30/c/2/0/6/1617079270471_300.jpg"
+          },
+          {
+            "artistId": 349061,
+            "name": "Hoàng Duyên",
+            "shortLink": "hoang-duyen",
+            "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2022/02/10/5/9/4/6/1644466430613_300.jpg"
+          }
+        ],
+        "type": "SONG",
+        "dateRelease": 1616932800000,
+        "dateCreate": 1616859481869,
+        "uploadBy": {
+          "userName": "yinyangmedia",
+          "fullName": "YIN YANG MEDIA",
+          "avatarUrl": ""
+        },
+        "provider": {
+          "name": "YIN YANG MEDIA",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/provider/2020/02/06/7/c/c/b/1580970715693.jpg"
+        },
+        "isMyPlaylist": false,
+        "statusViewValue": 1,
+        "statusPlayValue": 1,
+        "statusDownloadValue": 2,
+        "statusAddPlaylistValue": 0,
+        "refMapping": [
+          {
+            "refKey": "zxRQiexmigd5J",
+            "refType": "VIDEO"
+          }
+        ],
+        "genreKey": "s-nhac-tre",
+        "streamUrls": [],
+        "description": "Ca khúc Sài Gòn Đau Lòng Quá do ca sĩ Hứa Kim TuyềnHoàng Duyên,  thể hiện, thuộc thể loại Nhạc Trẻ. Các bạn có thể nghe, download (tải nhạc) bài hát Sai Gon Dau Long Qua   mp3, playlist/album, MV/Video Sài Gòn Đau Lòng Quá miễn phí tại NhacCuaTui.com."
+      },
+      {
+        "key": "dXom3gj1DHBl",
+        "title": "Khi Giấc Mơ Về",
+        "thumbnail": "https://avatar-ex-swe.nixcdn.com/song/2021/09/23/b/9/f/5/1632376816977_300.jpg",
+        "duration": "04:12",
+        "artists": [
+          {
+            "artistId": 77180,
+            "name": "Uyên Linh",
+            "shortLink": "uyen-linh",
+            "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2017/11/21/c/4/8/a/1511239115657_300.jpg"
+          }
+        ],
+        "type": "SONG",
+        "dateRelease": 1632229200000,
+        "dateCreate": 1632215733869,
+        "uploadBy": {
+          "userName": "yinyangmedia",
+          "fullName": "YIN YANG MEDIA",
+          "avatarUrl": ""
+        },
+        "provider": {
+          "name": "YIN YANG MEDIA",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/provider/2020/02/06/7/c/c/b/1580970715693.jpg"
+        },
+        "isMyPlaylist": false,
+        "statusViewValue": 1,
+        "statusPlayValue": 1,
+        "statusDownloadValue": 2,
+        "statusAddPlaylistValue": 0,
+        "refMapping": [],
+        "genreKey": "s-nhac-tre",
+        "streamUrls": [],
+        "description": "Ca khúc Khi Giấc Mơ Về do ca sĩ Uyên Linh thể hiện, thuộc thể loại Nhạc Trẻ. Các bạn có thể nghe, download (tải nhạc) bài hát Khi Giac Mo Ve   mp3, playlist/album, MV/Video Khi Giấc Mơ Về miễn phí tại NhacCuaTui.com."
+      },
+      {
+        "key": "Ddbc3Q8g5rPG",
+        "title": "Có Ai",
+        "thumbnail": "https://avatar-ex-swe.nixcdn.com/song/2020/10/06/6/7/8/5/1601958038378_300.jpg",
+        "duration": "04:05",
+        "artists": [
+          {
+            "artistId": 163185,
+            "name": "Jun Phạm",
+            "shortLink": "jun-pham",
+            "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2022/11/16/2/2/5/a/1668590066754_300.jpg"
+          }
+        ],
+        "type": "SONG",
+        "dateRelease": 1602162000000,
+        "dateCreate": 1601958034862,
+        "uploadBy": {
+          "userName": "nct_official",
+          "fullName": "NCT OFFICIAL",
+          "avatarUrl": ""
+        },
+        "provider": {
+          "name": "YIN YANG MEDIA",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/provider/2020/02/06/7/c/c/b/1580970715693.jpg"
+        },
+        "isMyPlaylist": false,
+        "statusViewValue": 1,
+        "statusPlayValue": 1,
+        "statusDownloadValue": 2,
+        "statusAddPlaylistValue": 0,
+        "refMapping": [
+          {
+            "refKey": "WJ7zdUJjEx9kd",
+            "refType": "VIDEO"
+          }
+        ],
+        "genreKey": "s-nhac-tre",
+        "streamUrls": [],
+        "description": "Ca khúc Có Ai do ca sĩ Jun Phạm thể hiện, thuộc thể loại Nhạc Trẻ. Các bạn có thể nghe, download (tải nhạc) bài hát Co Ai   mp3, playlist/album, MV/Video Có Ai miễn phí tại NhacCuaTui.com."
+      },
+      {
+        "key": "qIQquvLRMbyT",
+        "title": "Không Thể Đổi Thay",
+        "thumbnail": "https://avatar-ex-swe.nixcdn.com/song/2020/08/20/3/c/7/f/1597907624222_300.jpg",
+        "duration": "04:59",
+        "artists": [
+          {
+            "artistId": 6093,
+            "name": "Hồ Ngọc Hà",
+            "shortLink": "ho-ngoc-ha",
+            "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2020/08/14/5/1/1/9/1597380071736_300.jpg"
+          }
+        ],
+        "type": "SONG",
+        "dateRelease": 1597928400000,
+        "dateCreate": 1597907618138,
+        "uploadBy": {
+          "userName": "nct_official",
+          "fullName": "NCT OFFICIAL",
+          "avatarUrl": ""
+        },
+        "provider": {
+          "name": "NCT MUSIC DISTRIBUTION",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/provider/2020/02/13/8/d/9/4/1581565412825.jpg"
+        },
+        "isMyPlaylist": false,
+        "statusViewValue": 1,
+        "statusPlayValue": 1,
+        "statusDownloadValue": 2,
+        "statusAddPlaylistValue": 0,
+        "refMapping": [],
+        "genreKey": "s-nhac-tre",
+        "streamUrls": [],
+        "description": "Ca khúc Không Thể Đổi Thay do ca sĩ Hồ Ngọc Hà thể hiện, thuộc thể loại Nhạc Trẻ. Các bạn có thể nghe, download (tải nhạc) bài hát Khong The Doi Thay   mp3, playlist/album, MV/Video Không Thể Đổi Thay miễn phí tại NhacCuaTui.com."
+      },
+      {
+        "key": "DT1Ev3vytaQo",
+        "title": "Câu Hẹn Câu Thề",
+        "thumbnail": "https://avatar-ex-swe.nixcdn.com/song/2021/03/29/2/2/1/e/1617029681297_300.jpg",
+        "duration": "05:20",
+        "artists": [
+          {
+            "artistId": 32953,
+            "name": "Đình Dũng",
+            "shortLink": "dinh-dung",
+            "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2022/09/30/7/3/1/4/1664527571153_300.jpg"
+          },
+          {
+            "artistId": 291286,
+            "name": "ACV",
+            "shortLink": null,
+            "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2020/08/17/0/6/7/1/1597629837858_300.jpg"
+          }
+        ],
+        "type": "SONG",
+        "dateRelease": 1617196140000,
+        "dateCreate": 1617029673371,
+        "uploadBy": {
+          "userName": "nct_official",
+          "fullName": "NCT OFFICIAL",
+          "avatarUrl": ""
+        },
+        "provider": {
+          "name": "NCT MUSIC DISTRIBUTION",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/provider/2020/02/13/8/d/9/4/1581565412825.jpg"
+        },
+        "isMyPlaylist": false,
+        "statusViewValue": 1,
+        "statusPlayValue": 1,
+        "statusDownloadValue": 2,
+        "statusAddPlaylistValue": 0,
+        "refMapping": [
+          {
+            "refKey": "77bkT61IoJq65",
+            "refType": "VIDEO"
+          }
+        ],
+        "genreKey": "s-nhac-tre",
+        "streamUrls": [],
+        "description": "Ca khúc Câu Hẹn Câu Thề do ca sĩ Đình DũngACV,  thể hiện, thuộc thể loại Nhạc Trẻ. Các bạn có thể nghe, download (tải nhạc) bài hát Cau Hen Cau The   mp3, playlist/album, MV/Video Câu Hẹn Câu Thề miễn phí tại NhacCuaTui.com."
+      },
+      {
+        "key": "z2YlX4jj6eaJ",
+        "title": "Hôm Qua Hôm Nay",
+        "thumbnail": "https://avatar-ex-swe.nixcdn.com/song/2020/10/01/5/7/b/7/1601546578097_300.jpg",
+        "duration": "03:40",
+        "artists": [
+          {
+            "artistId": 23861,
+            "name": "Nguyên Hà",
+            "shortLink": "nguyen-ha",
+            "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2020/05/20/5/f/e/3/1589944002038_300.jpg"
+          }
+        ],
+        "type": "SONG",
+        "dateRelease": 1601982000000,
+        "dateCreate": 1601546574916,
+        "uploadBy": {
+          "userName": "sonymusic",
+          "fullName": "SONY MUSIC",
+          "avatarUrl": ""
+        },
+        "provider": {
+          "name": "SONY MUSIC",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/provider/2020/02/13/8/d/9/4/1581563932392.jpg"
+        },
+        "isMyPlaylist": false,
+        "statusViewValue": 1,
+        "statusPlayValue": 1,
+        "statusDownloadValue": 0,
+        "statusAddPlaylistValue": 0,
+        "refMapping": [],
+        "genreKey": "s-nhac-tre",
+        "streamUrls": [],
+        "description": "Ca khúc Hôm Qua Hôm Nay do ca sĩ Nguyên Hà thể hiện, thuộc thể loại Nhạc Trẻ. Các bạn có thể nghe, download (tải nhạc) bài hát Hom Qua Hom Nay   mp3, playlist/album, MV/Video Hôm Qua Hôm Nay miễn phí tại NhacCuaTui.com."
+      },
+      {
+        "key": "7A8yyoz1FbDF",
+        "title": "Sao Anh Không Ăn",
+        "thumbnail": "https://avatar-ex-swe.nixcdn.com/song/2020/10/01/5/7/b/7/1601524046054_300.jpg",
+        "duration": "05:17",
+        "artists": [
+          {
+            "artistId": 49294,
+            "name": "Thủy Tiên",
+            "shortLink": "thuy-tien",
+            "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2022/02/22/4/1/9/2/1645513007382_300.jpg"
+          }
+        ],
+        "type": "SONG",
+        "dateRelease": 1601562600000,
+        "dateCreate": 1601524038711,
+        "uploadBy": {
+          "userName": "nct_official",
+          "fullName": "NCT OFFICIAL",
+          "avatarUrl": ""
+        },
+        "provider": {
+          "name": "NCT MUSIC DISTRIBUTION",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/provider/2020/02/13/8/d/9/4/1581565412825.jpg"
+        },
+        "isMyPlaylist": false,
+        "statusViewValue": 1,
+        "statusPlayValue": 1,
+        "statusDownloadValue": 2,
+        "statusAddPlaylistValue": 0,
+        "refMapping": [
+          {
+            "refKey": "g8nCbOcuZzQtk",
+            "refType": "VIDEO"
+          }
+        ],
+        "genreKey": "s-nhac-tre",
+        "streamUrls": [],
+        "description": "Ca khúc Sao Anh Không Ăn do ca sĩ Thủy Tiên thể hiện, thuộc thể loại Nhạc Trẻ. Các bạn có thể nghe, download (tải nhạc) bài hát Sao Anh Khong An   mp3, playlist/album, MV/Video Sao Anh Không Ăn miễn phí tại NhacCuaTui.com."
+      },
+      {
+        "key": "Yz2VJigso6D2",
+        "title": "Chẳng Thể Giữ Lấy Chẳng Đành Buông Tay",
+        "thumbnail": "https://avatar-ex-swe.nixcdn.com/song/2020/09/25/1/2/7/5/1601002612693_300.jpg",
+        "duration": "04:53",
+        "artists": [
+          {
+            "artistId": 15963,
+            "name": "Ngô Kiến Huy",
+            "shortLink": "ngo-kien-huy",
+            "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2020/12/15/e/f/5/9/1608025280378_300.jpg"
+          }
+        ],
+        "type": "SONG",
+        "dateRelease": 1601193600000,
+        "dateCreate": 1601002603439,
+        "uploadBy": {
+          "userName": "nct_official",
+          "fullName": "NCT OFFICIAL",
+          "avatarUrl": ""
+        },
+        "provider": {
+          "name": "YIN YANG MEDIA",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/provider/2020/02/06/7/c/c/b/1580970715693.jpg"
+        },
+        "isMyPlaylist": false,
+        "statusViewValue": 1,
+        "statusPlayValue": 1,
+        "statusDownloadValue": 2,
+        "statusAddPlaylistValue": 0,
+        "refMapping": [
+          {
+            "refKey": "ejPNMLWA4DZdJ",
+            "refType": "VIDEO"
+          }
+        ],
+        "genreKey": "s-nhac-tre",
+        "streamUrls": [],
+        "description": "Ca khúc Chẳng Thể Giữ Lấy Chẳng Đành Buông Tay do ca sĩ Ngô Kiến Huy thể hiện, thuộc thể loại Nhạc Trẻ. Các bạn có thể nghe, download (tải nhạc) bài hát Chang The Giu Lay Chang Danh Buong Tay   mp3, playlist/album, MV/Video Chẳng Thể Giữ Lấy Chẳng Đành Buông Tay miễn phí tại NhacCuaTui.com."
+      },
+      {
+        "key": "dKsdXfHXzrej",
+        "title": "Hoa Nở Không Màu (Acoustic Version)",
+        "thumbnail": "https://avatar-ex-swe.nixcdn.com/song/2020/07/01/4/f/c/5/1593570113461_300.jpg",
+        "duration": "05:20",
+        "artists": [
+          {
+            "artistId": 41861,
+            "name": "Hoài Lâm",
+            "shortLink": "hoai-lam",
+            "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2020/05/27/6/9/5/0/1590568952971_300.jpg"
+          }
+        ],
+        "type": "SONG",
+        "dateRelease": 1593518400000,
+        "dateCreate": 1593515263282,
+        "uploadBy": {
+          "userName": "nct_official",
+          "fullName": "NCT OFFICIAL",
+          "avatarUrl": ""
+        },
+        "provider": {
+          "name": "NCT MUSIC DISTRIBUTION",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/provider/2020/02/13/8/d/9/4/1581565412825.jpg"
+        },
+        "isMyPlaylist": false,
+        "statusViewValue": 1,
+        "statusPlayValue": 1,
+        "statusDownloadValue": 2,
+        "statusAddPlaylistValue": 0,
+        "refMapping": [],
+        "genreKey": "s-nhac-tre",
+        "streamUrls": [],
+        "description": "Ca khúc Hoa Nở Không Màu (Acoustic Version) do ca sĩ Hoài Lâm thể hiện, thuộc thể loại Nhạc Trẻ. Các bạn có thể nghe, download (tải nhạc) bài hát Hoa No Khong Mau (Acoustic Version)   mp3, playlist/album, MV/Video Hoa Nở Không Màu (Acoustic Version) miễn phí tại NhacCuaTui.com."
+      },
+      {
+        "key": "lNePSPX9ZD9b",
+        "title": "Hai Chữ Đã Từng",
+        "thumbnail": "https://avatar-ex-swe.nixcdn.com/song/2020/08/12/8/a/5/4/1597211031990_300.jpg",
+        "duration": "05:06",
+        "artists": [
+          {
+            "artistId": 257455,
+            "name": "Như Việt",
+            "shortLink": "nhu-viet",
+            "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2020/08/12/f/2/d/1/1597212025646_300.jpg"
+          },
+          {
+            "artistId": 291286,
+            "name": "ACV",
+            "shortLink": null,
+            "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2020/08/17/0/6/7/1/1597629837858_300.jpg"
+          }
+        ],
+        "type": "SONG",
+        "dateRelease": 1597237200000,
+        "dateCreate": 1597211028636,
+        "uploadBy": {
+          "userName": "nct_official",
+          "fullName": "NCT OFFICIAL",
+          "avatarUrl": ""
+        },
+        "provider": {
+          "name": "NCT MUSIC DISTRIBUTION",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/provider/2020/02/13/8/d/9/4/1581565412825.jpg"
+        },
+        "isMyPlaylist": false,
+        "statusViewValue": 1,
+        "statusPlayValue": 1,
+        "statusDownloadValue": 2,
+        "statusAddPlaylistValue": 0,
+        "refMapping": [
+          {
+            "refKey": "ePz7fuPjbwbip",
+            "refType": "VIDEO"
+          }
+        ],
+        "genreKey": "s-nhac-tre",
+        "streamUrls": [],
+        "description": "Ca khúc Hai Chữ Đã Từng do ca sĩ Như ViệtACV,  thể hiện, thuộc thể loại Nhạc Trẻ. Các bạn có thể nghe, download (tải nhạc) bài hát Hai Chu Da Tung   mp3, playlist/album, MV/Video Hai Chữ Đã Từng miễn phí tại NhacCuaTui.com."
+      },
+      {
+        "key": "2InfU8D3U8v2",
+        "title": "Đã Sai Từ Lúc Đầu",
+        "thumbnail": "https://avatar-ex-swe.nixcdn.com/song/2020/08/20/3/c/7/f/1597907742160_300.jpg",
+        "duration": "04:54",
+        "artists": [
+          {
+            "artistId": 6093,
+            "name": "Hồ Ngọc Hà",
+            "shortLink": "ho-ngoc-ha",
+            "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2020/08/14/5/1/1/9/1597380071736_300.jpg"
+          }
+        ],
+        "type": "SONG",
+        "dateRelease": 1597928400000,
+        "dateCreate": 1597907736102,
+        "uploadBy": {
+          "userName": "nct_official",
+          "fullName": "NCT OFFICIAL",
+          "avatarUrl": ""
+        },
+        "provider": {
+          "name": "NCT MUSIC DISTRIBUTION",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/provider/2020/02/13/8/d/9/4/1581565412825.jpg"
+        },
+        "isMyPlaylist": false,
+        "statusViewValue": 1,
+        "statusPlayValue": 1,
+        "statusDownloadValue": 2,
+        "statusAddPlaylistValue": 0,
+        "refMapping": [],
+        "genreKey": "s-nhac-tre",
+        "streamUrls": [],
+        "description": "Ca khúc Đã Sai Từ Lúc Đầu do ca sĩ Hồ Ngọc Hà thể hiện, thuộc thể loại Nhạc Trẻ. Các bạn có thể nghe, download (tải nhạc) bài hát Da Sai Tu Luc Dau   mp3, playlist/album, MV/Video Đã Sai Từ Lúc Đầu miễn phí tại NhacCuaTui.com."
+      },
+      {
+        "key": "KOumw3TeYjmE",
+        "title": "Có Một Ngày Buồn Như Thế",
+        "thumbnail": "https://avatar-ex-swe.nixcdn.com/song/2021/04/05/9/d/9/b/1617588094709_300.jpg",
+        "duration": "04:34",
+        "artists": [
+          {
+            "artistId": 23861,
+            "name": "Nguyên Hà",
+            "shortLink": "nguyen-ha",
+            "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2020/05/20/5/f/e/3/1589944002038_300.jpg"
+          }
+        ],
+        "type": "SONG",
+        "dateRelease": 1588942800000,
+        "dateCreate": 1588906033193,
+        "uploadBy": {
+          "userName": "nct_official",
+          "fullName": "NCT OFFICIAL",
+          "avatarUrl": ""
+        },
+        "provider": {
+          "name": "NCT MUSIC DISTRIBUTION",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/provider/2020/02/13/8/d/9/4/1581565412825.jpg"
+        },
+        "isMyPlaylist": false,
+        "statusViewValue": 1,
+        "statusPlayValue": 1,
+        "statusDownloadValue": 2,
+        "statusAddPlaylistValue": 0,
+        "refMapping": [],
+        "genreKey": "s-nhac-tre",
+        "streamUrls": [],
+        "description": "Ca khúc Có Một Ngày Buồn Như Thế do ca sĩ Nguyên Hà thể hiện, thuộc thể loại Nhạc Trẻ. Các bạn có thể nghe, download (tải nhạc) bài hát Co Mot Ngay Buon Nhu The   mp3, playlist/album, MV/Video Có Một Ngày Buồn Như Thế miễn phí tại NhacCuaTui.com."
+      },
+      {
+        "key": "DgUySprRKHvJ",
+        "title": "Có Người",
+        "thumbnail": "https://avatar-ex-swe.nixcdn.com/song/2019/11/07/3/e/1/e/1573088756494_300.jpg",
+        "duration": "03:56",
+        "artists": [
+          {
+            "artistId": 24590,
+            "name": "Vũ Cát Tường",
+            "shortLink": "vu-cat-tuong",
+            "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2019/11/07/3/8/1/0/1573091731155_300.jpg"
+          }
+        ],
+        "type": "SONG",
+        "dateRelease": 0,
+        "dateCreate": 0,
+        "uploadBy": {
+          "userName": "gazpacho",
+          "fullName": "Triệu",
+          "avatarUrl": ""
+        },
+        "provider": null,
+        "isMyPlaylist": false,
+        "statusViewValue": 1,
+        "statusPlayValue": 1,
+        "statusDownloadValue": 2,
+        "statusAddPlaylistValue": 0,
+        "refMapping": [
+          {
+            "refKey": "g4BbC60omAcUA",
+            "refType": "VIDEO"
+          }
+        ],
+        "genreKey": "s-nhac-tre",
+        "streamUrls": [],
+        "description": "Ca khúc Có Người do ca sĩ Vũ Cát Tường thể hiện, thuộc thể loại Nhạc Trẻ. Các bạn có thể nghe, download (tải nhạc) bài hát Co Nguoi   mp3, playlist/album, MV/Video Có Người miễn phí tại NhacCuaTui.com."
+      },
+      {
+        "key": "5KRU5eSrXrbj",
+        "title": "Tình Lãng Phí",
+        "thumbnail": "https://avatar-ex-swe.nixcdn.com/song/2021/01/22/9/f/2/1/1611303663554_300.jpg",
+        "duration": "04:16",
+        "artists": [
+          {
+            "artistId": 43190,
+            "name": "Văn Mai Hương",
+            "shortLink": "van-mai-huong",
+            "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2021/01/22/9/6/7/5/1611280199069_300.jpg"
+          }
+        ],
+        "type": "SONG",
+        "dateRelease": 1611403200000,
+        "dateCreate": 1581655307212,
+        "uploadBy": {
+          "userName": "nct_official",
+          "fullName": "NCT OFFICIAL",
+          "avatarUrl": ""
+        },
+        "provider": {
+          "name": "YIN YANG MEDIA",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/provider/2020/02/06/7/c/c/b/1580970715693.jpg"
+        },
+        "isMyPlaylist": false,
+        "statusViewValue": 1,
+        "statusPlayValue": 1,
+        "statusDownloadValue": 2,
+        "statusAddPlaylistValue": 0,
+        "refMapping": [
+          {
+            "refKey": "NmWNQOYpFaRFe",
+            "refType": "VIDEO"
+          }
+        ],
+        "genreKey": "s-nhac-tre",
+        "streamUrls": [],
+        "description": "Ca khúc Tình Lãng Phí do ca sĩ Văn Mai Hương thể hiện, thuộc thể loại Nhạc Trẻ. Các bạn có thể nghe, download (tải nhạc) bài hát Tinh Lang Phi   mp3, playlist/album, MV/Video Tình Lãng Phí miễn phí tại NhacCuaTui.com."
+      },
+      {
+        "key": "Kx3Kbih0rS5z",
+        "title": "Nàng Thơ",
+        "thumbnail": "https://avatar-ex-swe.nixcdn.com/song/2020/07/31/c/5/8/9/1596188259603_300.jpg",
+        "duration": "04:14",
+        "artists": [
+          {
+            "artistId": 187688,
+            "name": "Hoàng Dũng",
+            "shortLink": "hoang-dung-the-voice",
+            "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2019/09/19/1/e/f/8/1568871085871_300.jpg"
+          }
+        ],
+        "type": "SONG",
+        "dateRelease": 1596459600000,
+        "dateCreate": 1596188250524,
+        "uploadBy": {
+          "userName": "nct_official",
+          "fullName": "NCT OFFICIAL",
+          "avatarUrl": ""
+        },
+        "provider": {
+          "name": "YIN YANG MEDIA",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/provider/2020/02/06/7/c/c/b/1580970715693.jpg"
+        },
+        "isMyPlaylist": false,
+        "statusViewValue": 1,
+        "statusPlayValue": 1,
+        "statusDownloadValue": 2,
+        "statusAddPlaylistValue": 0,
+        "refMapping": [
+          {
+            "refKey": "lPpe5IIcGEsi7",
+            "refType": "VIDEO"
+          }
+        ],
+        "genreKey": "s-nhac-tre",
+        "streamUrls": [],
+        "description": "Ca khúc Nàng Thơ do ca sĩ Hoàng Dũng thể hiện, thuộc thể loại Nhạc Trẻ. Các bạn có thể nghe, download (tải nhạc) bài hát Nang Tho   mp3, playlist/album, MV/Video Nàng Thơ miễn phí tại NhacCuaTui.com."
+      },
+      {
+        "key": "feT9No7wLJXn",
+        "title": "Sai Ngay Từ Đầu",
+        "thumbnail": "https://avatar-ex-swe.nixcdn.com/song/2020/08/07/d/e/f/2/1596794586932_300.jpg",
+        "duration": "05:10",
+        "artists": [
+          {
+            "artistId": 274933,
+            "name": "Gemini Band",
+            "shortLink": "Gemini-Band",
+            "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2020/07/13/6/6/2/4/1594610566834_300.jpg"
+          }
+        ],
+        "type": "SONG",
+        "dateRelease": 1596888000000,
+        "dateCreate": 1596794583510,
+        "uploadBy": {
+          "userName": "nct_official",
+          "fullName": "NCT OFFICIAL",
+          "avatarUrl": ""
+        },
+        "provider": {
+          "name": "NCT MUSIC DISTRIBUTION",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/provider/2020/02/13/8/d/9/4/1581565412825.jpg"
+        },
+        "isMyPlaylist": false,
+        "statusViewValue": 1,
+        "statusPlayValue": 1,
+        "statusDownloadValue": 2,
+        "statusAddPlaylistValue": 0,
+        "refMapping": [
+          {
+            "refKey": "UqHvjnwsuKmmo",
+            "refType": "VIDEO"
+          }
+        ],
+        "genreKey": "s-nhac-tre",
+        "streamUrls": [],
+        "description": "Ca khúc Sai Ngay Từ Đầu do ca sĩ Gemini Band thể hiện, thuộc thể loại Nhạc Trẻ. Các bạn có thể nghe, download (tải nhạc) bài hát Sai Ngay Tu Dau   mp3, playlist/album, MV/Video Sai Ngay Từ Đầu miễn phí tại NhacCuaTui.com."
+      },
+      {
+        "key": "h1JcBDOzfX5m",
+        "title": "Đường Em Đi Anh Sẽ Đi Ngược Lại",
+        "thumbnail": "https://avatar-ex-swe.nixcdn.com/song/2020/08/17/4/1/8/3/1597648878749_300.jpg",
+        "duration": "04:19",
+        "artists": [
+          {
+            "artistId": 224650,
+            "name": "Ali Hoàng Dương",
+            "shortLink": "ali-hoang-duong",
+            "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2020/09/14/0/2/8/0/1600048599012_300.jpg"
+          }
+        ],
+        "type": "SONG",
+        "dateRelease": 1597928400000,
+        "dateCreate": 1597134802873,
+        "uploadBy": {
+          "userName": "nct_official",
+          "fullName": "NCT OFFICIAL",
+          "avatarUrl": ""
+        },
+        "provider": {
+          "name": "NCT MUSIC DISTRIBUTION",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/provider/2020/02/13/8/d/9/4/1581565412825.jpg"
+        },
+        "isMyPlaylist": false,
+        "statusViewValue": 1,
+        "statusPlayValue": 1,
+        "statusDownloadValue": 2,
+        "statusAddPlaylistValue": 0,
+        "refMapping": [
+          {
+            "refKey": "PFSgdzJEEZ20K",
+            "refType": "VIDEO"
+          }
+        ],
+        "genreKey": "s-nhac-tre",
+        "streamUrls": [],
+        "description": "Ca khúc Đường Em Đi Anh Sẽ Đi Ngược Lại do ca sĩ Ali Hoàng Dương thể hiện, thuộc thể loại Nhạc Trẻ. Các bạn có thể nghe, download (tải nhạc) bài hát Duong Em Di Anh Se Di Nguoc Lai   mp3, playlist/album, MV/Video Đường Em Đi Anh Sẽ Đi Ngược Lại miễn phí tại NhacCuaTui.com."
+      },
+      {
+        "key": "uJvfIy0BChcf",
+        "title": "Em Đau Lòng Thế Anh Vừa Lòng Chưa",
+        "thumbnail": "https://avatar-ex-swe.nixcdn.com/song/2020/07/09/d/2/5/f/1594282290770_300.jpg",
+        "duration": "04:34",
+        "artists": [
+          {
+            "artistId": 175280,
+            "name": "Khả Ngân",
+            "shortLink": "kha-ngan",
+            "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2020/07/22/f/1/f/9/1595389252803_300.jpg"
+          }
+        ],
+        "type": "SONG",
+        "dateRelease": 1594472400000,
+        "dateCreate": 1594282285528,
+        "uploadBy": {
+          "userName": "nct_official",
+          "fullName": "NCT OFFICIAL",
+          "avatarUrl": ""
+        },
+        "provider": {
+          "name": "NCT MUSIC DISTRIBUTION",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/provider/2020/02/13/8/d/9/4/1581565412825.jpg"
+        },
+        "isMyPlaylist": false,
+        "statusViewValue": 1,
+        "statusPlayValue": 1,
+        "statusDownloadValue": 2,
+        "statusAddPlaylistValue": 0,
+        "refMapping": [
+          {
+            "refKey": "Rx7pIAh0Eqyfl",
+            "refType": "VIDEO"
+          }
+        ],
+        "genreKey": "s-nhac-tre",
+        "streamUrls": [],
+        "description": "Ca khúc Em Đau Lòng Thế Anh Vừa Lòng Chưa do ca sĩ Khả Ngân thể hiện, thuộc thể loại Nhạc Trẻ. Các bạn có thể nghe, download (tải nhạc) bài hát Em Dau Long The Anh Vua Long Chua   mp3, playlist/album, MV/Video Em Đau Lòng Thế Anh Vừa Lòng Chưa miễn phí tại NhacCuaTui.com."
+      },
+      {
+        "key": "e6M8nmtmEtaK",
+        "title": "Đốt",
+        "thumbnail": "https://avatar-ex-swe.nixcdn.com/song/2020/08/16/0/b/f/0/1597584714595_300.jpg",
+        "duration": "04:23",
+        "artists": [
+          {
+            "artistId": 43190,
+            "name": "Văn Mai Hương",
+            "shortLink": "van-mai-huong",
+            "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2021/01/22/9/6/7/5/1611280199069_300.jpg"
+          }
+        ],
+        "type": "SONG",
+        "dateRelease": 1597582800000,
+        "dateCreate": 1597387868141,
+        "uploadBy": {
+          "userName": "nct_official",
+          "fullName": "NCT OFFICIAL",
+          "avatarUrl": ""
+        },
+        "provider": {
+          "name": "YIN YANG MEDIA",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/provider/2020/02/06/7/c/c/b/1580970715693.jpg"
+        },
+        "isMyPlaylist": false,
+        "statusViewValue": 1,
+        "statusPlayValue": 1,
+        "statusDownloadValue": 2,
+        "statusAddPlaylistValue": 0,
+        "refMapping": [
+          {
+            "refKey": "5mhdlNHIPtE5J",
+            "refType": "VIDEO"
+          }
+        ],
+        "genreKey": "s-nhac-tre",
+        "streamUrls": [],
+        "description": "Ca khúc Đốt do ca sĩ Văn Mai Hương thể hiện, thuộc thể loại Nhạc Trẻ. Các bạn có thể nghe, download (tải nhạc) bài hát Dot   mp3, playlist/album, MV/Video Đốt miễn phí tại NhacCuaTui.com."
+      },
+      {
+        "key": "MdV8nUndXHWg",
+        "title": "Chờ Đợi Có Đáng Sợ (Piano Verison)",
+        "thumbnail": "https://avatar-ex-swe.nixcdn.com/song/2020/08/11/6/d/1/5/1597129790095_300.jpg",
+        "duration": "04:46",
+        "artists": [
+          {
+            "artistId": 105744,
+            "name": "Andiez",
+            "shortLink": "andiez",
+            "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2018/07/13/4/3/2/9/1531469651910_300.jpg"
+          }
+        ],
+        "type": "SONG",
+        "dateRelease": 1597150800000,
+        "dateCreate": 1597129784145,
+        "uploadBy": {
+          "userName": "nct_official",
+          "fullName": "NCT OFFICIAL",
+          "avatarUrl": ""
+        },
+        "provider": {
+          "name": "YIN YANG MEDIA",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/provider/2020/02/06/7/c/c/b/1580970715693.jpg"
+        },
+        "isMyPlaylist": false,
+        "statusViewValue": 1,
+        "statusPlayValue": 1,
+        "statusDownloadValue": 2,
+        "statusAddPlaylistValue": 0,
+        "refMapping": [
+          {
+            "refKey": "ZYIyUxmS91lLU",
+            "refType": "VIDEO"
+          }
+        ],
+        "genreKey": "s-nhac-tre",
+        "streamUrls": [],
+        "description": "Ca khúc Chờ Đợi Có Đáng Sợ (Piano Verison) do ca sĩ Andiez thể hiện, thuộc thể loại Nhạc Trẻ. Các bạn có thể nghe, download (tải nhạc) bài hát Cho Doi Co Dang So (Piano Verison)   mp3, playlist/album, MV/Video Chờ Đợi Có Đáng Sợ (Piano Verison) miễn phí tại NhacCuaTui.com."
+      },
+      {
+        "key": "uUyZXm0sCOOL",
+        "title": "Thật Tâm Em Rất Yêu Anh",
+        "thumbnail": "https://avatar-ex-swe.nixcdn.com/song/2020/07/07/a/2/2/f/1594117164476_300.jpg",
+        "duration": "04:49",
+        "artists": [
+          {
+            "artistId": 116722,
+            "name": "Đào Bá Lộc",
+            "shortLink": "dao-ba-loc",
+            "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2020/07/23/7/f/c/2/1595476761704_300.jpg"
+          }
+        ],
+        "type": "SONG",
+        "dateRelease": 1594298700000,
+        "dateCreate": 1594117160109,
+        "uploadBy": {
+          "userName": "nct_official",
+          "fullName": "NCT OFFICIAL",
+          "avatarUrl": ""
+        },
+        "provider": {
+          "name": "YIN YANG MEDIA",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/provider/2020/02/06/7/c/c/b/1580970715693.jpg"
+        },
+        "isMyPlaylist": false,
+        "statusViewValue": 1,
+        "statusPlayValue": 1,
+        "statusDownloadValue": 2,
+        "statusAddPlaylistValue": 0,
+        "refMapping": [
+          {
+            "refKey": "96bhLfYlztGgM",
+            "refType": "VIDEO"
+          }
+        ],
+        "genreKey": "s-nhac-tre",
+        "streamUrls": [],
+        "description": "Ca khúc Thật Tâm Em Rất Yêu Anh do ca sĩ Đào Bá Lộc thể hiện, thuộc thể loại Nhạc Trẻ. Các bạn có thể nghe, download (tải nhạc) bài hát That Tam Em Rat Yeu Anh   mp3, playlist/album, MV/Video Thật Tâm Em Rất Yêu Anh miễn phí tại NhacCuaTui.com."
+      },
+      {
+        "key": "UboDikTUiMga",
+        "title": "Những Năm Tháng Đó Có Tôi Yêu Người",
+        "thumbnail": "https://avatar-ex-swe.nixcdn.com/song/2020/08/06/6/0/8/0/1596687201446_300.jpg",
+        "duration": "04:26",
+        "artists": [
+          {
+            "artistId": 163185,
+            "name": "Jun Phạm",
+            "shortLink": "jun-pham",
+            "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2022/11/16/2/2/5/a/1668590066754_300.jpg"
+          }
+        ],
+        "type": "SONG",
+        "dateRelease": 1596891600000,
+        "dateCreate": 1596687198607,
+        "uploadBy": {
+          "userName": "nct_official",
+          "fullName": "NCT OFFICIAL",
+          "avatarUrl": ""
+        },
+        "provider": {
+          "name": "YIN YANG MEDIA",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/provider/2020/02/06/7/c/c/b/1580970715693.jpg"
+        },
+        "isMyPlaylist": false,
+        "statusViewValue": 1,
+        "statusPlayValue": 1,
+        "statusDownloadValue": 2,
+        "statusAddPlaylistValue": 0,
+        "refMapping": [],
+        "genreKey": "s-nhac-tre",
+        "streamUrls": [],
+        "description": "Ca khúc Những Năm Tháng Đó Có Tôi Yêu Người do ca sĩ Jun Phạm thể hiện, thuộc thể loại Nhạc Trẻ. Các bạn có thể nghe, download (tải nhạc) bài hát Nhung Nam Thang Do Co Toi Yeu Nguoi   mp3, playlist/album, MV/Video Những Năm Tháng Đó Có Tôi Yêu Người miễn phí tại NhacCuaTui.com."
+      },
+      {
+        "key": "YH2MbuPgDAqD",
+        "title": "Muốn Nói Với Em (Piano Version)",
+        "thumbnail": "https://avatar-ex-swe.nixcdn.com/song/2020/07/16/4/c/1/c/1594881475781_300.jpg",
+        "duration": "05:32",
+        "artists": [
+          {
+            "artistId": 302997,
+            "name": "T Team",
+            "shortLink": null,
+            "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2020/06/30/6/3/b/0/1593517138273_300.jpg"
+          }
+        ],
+        "type": "SONG",
+        "dateRelease": 1594990800000,
+        "dateCreate": 1594881470088,
+        "uploadBy": {
+          "userName": "nct_official",
+          "fullName": "NCT OFFICIAL",
+          "avatarUrl": ""
+        },
+        "provider": {
+          "name": "YIN YANG MEDIA",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/provider/2020/02/06/7/c/c/b/1580970715693.jpg"
+        },
+        "isMyPlaylist": false,
+        "statusViewValue": 1,
+        "statusPlayValue": 1,
+        "statusDownloadValue": 2,
+        "statusAddPlaylistValue": 0,
+        "refMapping": [
+          {
+            "refKey": "LXIw7ePD3aJ25",
+            "refType": "VIDEO"
+          }
+        ],
+        "genreKey": "s-nhac-tre",
+        "streamUrls": [],
+        "description": "Ca khúc Muốn Nói Với Em (Piano Version) do ca sĩ T Team thể hiện, thuộc thể loại Nhạc Trẻ. Các bạn có thể nghe, download (tải nhạc) bài hát Muon Noi Voi Em (Piano Version)   mp3, playlist/album, MV/Video Muốn Nói Với Em (Piano Version) miễn phí tại NhacCuaTui.com."
+      },
+      {
+        "key": "4yr3Kru4RDD1",
+        "title": "Chuyện Rằng",
+        "thumbnail": "https://avatar-ex-swe.nixcdn.com/song/2020/08/07/d/e/f/2/1596786667818_300.jpg",
+        "duration": "04:32",
+        "artists": [
+          {
+            "artistId": 282892,
+            "name": "Thịnh Suy",
+            "shortLink": "thinh-suy",
+            "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2021/12/08/e/3/1/c/1638943600839_300.jpg"
+          }
+        ],
+        "type": "SONG",
+        "dateRelease": 1596891600000,
+        "dateCreate": 1596786664732,
+        "uploadBy": {
+          "userName": "nct_official",
+          "fullName": "NCT OFFICIAL",
+          "avatarUrl": ""
+        },
+        "provider": {
+          "name": "YIN YANG MEDIA",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/provider/2020/02/06/7/c/c/b/1580970715693.jpg"
+        },
+        "isMyPlaylist": false,
+        "statusViewValue": 1,
+        "statusPlayValue": 1,
+        "statusDownloadValue": 2,
+        "statusAddPlaylistValue": 0,
+        "refMapping": [
+          {
+            "refKey": "RdRQJ7by8CmAa",
+            "refType": "VIDEO"
+          }
+        ],
+        "genreKey": "s-nhac-tre",
+        "streamUrls": [],
+        "description": "Ca khúc Chuyện Rằng do ca sĩ Thịnh Suy thể hiện, thuộc thể loại Nhạc Trẻ. Các bạn có thể nghe, download (tải nhạc) bài hát Chuyen Rang   mp3, playlist/album, MV/Video Chuyện Rằng miễn phí tại NhacCuaTui.com."
+      },
+      {
+        "key": "1IafNYNmfrEY",
+        "title": "Em Có Còn Dùng Số Này Không",
+        "thumbnail": "https://avatar-ex-swe.nixcdn.com/song/2019/04/25/5/c/d/b/1556185203444_300.jpg",
+        "duration": "05:15",
+        "artists": [
+          {
+            "artistId": 201355,
+            "name": "Thái Đinh",
+            "shortLink": "thai-dinh",
+            "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2021/03/25/f/6/6/5/1616662911166_300.jpg"
+          }
+        ],
+        "type": "SONG",
+        "dateRelease": 0,
+        "dateCreate": 1556184617321,
+        "uploadBy": {
+          "userName": "nct_official",
+          "fullName": "NCT OFFICIAL",
+          "avatarUrl": ""
+        },
+        "provider": {
+          "name": "SKYMUSIC",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/provider/2020/02/06/7/c/c/b/1580961979050.jpg"
+        },
+        "isMyPlaylist": false,
+        "statusViewValue": 1,
+        "statusPlayValue": 1,
+        "statusDownloadValue": 2,
+        "statusAddPlaylistValue": 0,
+        "refMapping": [],
+        "genreKey": "s-nhac-tre",
+        "streamUrls": [],
+        "description": "Ca khúc Em Có Còn Dùng Số Này Không do ca sĩ Thái Đinh thể hiện, thuộc thể loại Nhạc Trẻ. Các bạn có thể nghe, download (tải nhạc) bài hát Em Co Con Dung So Nay Khong   mp3, playlist/album, MV/Video Em Có Còn Dùng Số Này Không miễn phí tại NhacCuaTui.com."
+      },
+      {
+        "key": "mGXnkTw6AVx7",
+        "title": "Càng Trưởng Thành, Càng Cô Đơn",
+        "thumbnail": "https://avatar-ex-swe.nixcdn.com/song/2020/08/20/3/c/7/f/1597907359391_300.jpg",
+        "duration": "05:05",
+        "artists": [
+          {
+            "artistId": 6093,
+            "name": "Hồ Ngọc Hà",
+            "shortLink": "ho-ngoc-ha",
+            "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2020/08/14/5/1/1/9/1597380071736_300.jpg"
+          }
+        ],
+        "type": "SONG",
+        "dateRelease": 1597928400000,
+        "dateCreate": 1597907353920,
+        "uploadBy": {
+          "userName": "nct_official",
+          "fullName": "NCT OFFICIAL",
+          "avatarUrl": ""
+        },
+        "provider": {
+          "name": "NCT MUSIC DISTRIBUTION",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/provider/2020/02/13/8/d/9/4/1581565412825.jpg"
+        },
+        "isMyPlaylist": false,
+        "statusViewValue": 1,
+        "statusPlayValue": 1,
+        "statusDownloadValue": 2,
+        "statusAddPlaylistValue": 0,
+        "refMapping": [],
+        "genreKey": "s-nhac-tre",
+        "streamUrls": [],
+        "description": "Ca khúc Càng Trưởng Thành, Càng Cô Đơn do ca sĩ Hồ Ngọc Hà thể hiện, thuộc thể loại Nhạc Trẻ. Các bạn có thể nghe, download (tải nhạc) bài hát Cang Truong Thanh, Cang Co Don   mp3, playlist/album, MV/Video Càng Trưởng Thành, Càng Cô Đơn miễn phí tại NhacCuaTui.com."
+      },
+      {
+        "key": "r74dXSRceczz",
+        "title": "Biết",
+        "thumbnail": "https://avatar-ex-swe.nixcdn.com/song/2020/06/03/2/4/d/8/1591173070892_300.jpg",
+        "duration": "04:59",
+        "artists": [
+          {
+            "artistId": 12987,
+            "name": "Khởi My",
+            "shortLink": "khoi-my",
+            "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2017/05/16/5/e/5/1/1494908456636_300.jpg"
+          }
+        ],
+        "type": "SONG",
+        "dateRelease": 1591275600000,
+        "dateCreate": 1591173066561,
+        "uploadBy": {
+          "userName": "nct_official",
+          "fullName": "NCT OFFICIAL",
+          "avatarUrl": ""
+        },
+        "provider": {
+          "name": "YIN YANG MEDIA",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/provider/2020/02/06/7/c/c/b/1580970715693.jpg"
+        },
+        "isMyPlaylist": false,
+        "statusViewValue": 1,
+        "statusPlayValue": 1,
+        "statusDownloadValue": 2,
+        "statusAddPlaylistValue": 0,
+        "refMapping": [],
+        "genreKey": "s-nhac-tre",
+        "streamUrls": [],
+        "description": "Ca khúc Biết do ca sĩ Khởi My thể hiện, thuộc thể loại Nhạc Trẻ. Các bạn có thể nghe, download (tải nhạc) bài hát Biet   mp3, playlist/album, MV/Video Biết miễn phí tại NhacCuaTui.com."
+      },
+      {
+        "key": "CBWH6Q0rdxm0",
+        "title": "Nếu Ta Không May",
+        "thumbnail": "https://avatar-ex-swe.nixcdn.com/song/2020/07/29/5/7/4/a/1596032477211_300.jpg",
+        "duration": "05:28",
+        "artists": [
+          {
+            "artistId": 231898,
+            "name": "Anh Tú",
+            "shortLink": "anh-tu-the-voice",
+            "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2022/10/17/5/d/1/8/1665975489736_300.jpg"
+          },
+          {
+            "artistId": 52658,
+            "name": "Lyly",
+            "shortLink": "lyly",
+            "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2022/06/21/2/2/b/0/1655806614438_300.jpg"
+          }
+        ],
+        "type": "SONG",
+        "dateRelease": 1595941200000,
+        "dateCreate": 1595919251944,
+        "uploadBy": {
+          "userName": "nct_official",
+          "fullName": "NCT OFFICIAL",
+          "avatarUrl": ""
+        },
+        "provider": {
+          "name": "NCT MUSIC DISTRIBUTION",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/provider/2020/02/13/8/d/9/4/1581565412825.jpg"
+        },
+        "isMyPlaylist": false,
+        "statusViewValue": 1,
+        "statusPlayValue": 1,
+        "statusDownloadValue": 2,
+        "statusAddPlaylistValue": 0,
+        "refMapping": [
+          {
+            "refKey": "y8kgEfHFi9NqD",
+            "refType": "VIDEO"
+          }
+        ],
+        "genreKey": "s-nhac-tre",
+        "streamUrls": [],
+        "description": "Ca khúc Nếu Ta Không May do ca sĩ Anh TúLyly,  thể hiện, thuộc thể loại Nhạc Trẻ. Các bạn có thể nghe, download (tải nhạc) bài hát Neu Ta Khong May   mp3, playlist/album, MV/Video Nếu Ta Không May miễn phí tại NhacCuaTui.com."
+      },
+      {
+        "key": "XBzMSEEPE05W",
+        "title": "Nếu Có Một Ngày",
+        "thumbnail": "https://avatar-ex-swe.nixcdn.com/song/2020/05/25/a/b/2/b/1590401361623_300.jpg",
+        "duration": "04:56",
+        "artists": [
+          {
+            "artistId": 97153,
+            "name": "Hương Ly",
+            "shortLink": "huong-ly",
+            "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2020/11/02/c/4/b/1/1604299335097_300.jpg"
+          }
+        ],
+        "type": "SONG",
+        "dateRelease": 1590670800000,
+        "dateCreate": 1590401352522,
+        "uploadBy": {
+          "userName": "nct_official",
+          "fullName": "NCT OFFICIAL",
+          "avatarUrl": ""
+        },
+        "provider": {
+          "name": "NCT MUSIC DISTRIBUTION",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/provider/2020/02/13/8/d/9/4/1581565412825.jpg"
+        },
+        "isMyPlaylist": false,
+        "statusViewValue": 1,
+        "statusPlayValue": 1,
+        "statusDownloadValue": 2,
+        "statusAddPlaylistValue": 0,
+        "refMapping": [
+          {
+            "refKey": "z54PuuShkuxOP",
+            "refType": "VIDEO"
+          }
+        ],
+        "genreKey": "s-nhac-tre",
+        "streamUrls": [],
+        "description": "Ca khúc Nếu Có Một Ngày do ca sĩ Hương Ly thể hiện, thuộc thể loại Nhạc Trẻ. Các bạn có thể nghe, download (tải nhạc) bài hát Neu Co Mot Ngay   mp3, playlist/album, MV/Video Nếu Có Một Ngày miễn phí tại NhacCuaTui.com."
+      },
+      {
+        "key": "Fu0SIXLhgBsm",
+        "title": "Cố Giang Tình (Ballad Version)",
+        "thumbnail": "https://avatar-ex-swe.nixcdn.com/song/2020/04/23/3/9/2/6/1587609658681_300.jpg",
+        "duration": "04:43",
+        "artists": [
+          {
+            "artistId": 298488,
+            "name": "X2X",
+            "shortLink": "X2X",
+            "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2021/03/15/4/7/7/8/1615802750962_300.jpg"
+          }
+        ],
+        "type": "SONG",
+        "dateRelease": 1588006800000,
+        "dateCreate": 1587609648700,
+        "uploadBy": {
+          "userName": "sonymusic",
+          "fullName": "SONY MUSIC",
+          "avatarUrl": ""
+        },
+        "provider": {
+          "name": "SONY MUSIC",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/provider/2020/02/13/8/d/9/4/1581563932392.jpg"
+        },
+        "isMyPlaylist": false,
+        "statusViewValue": 1,
+        "statusPlayValue": 1,
+        "statusDownloadValue": 0,
+        "statusAddPlaylistValue": 0,
+        "refMapping": [
+          {
+            "refKey": "WSx5hOYDu5qFP",
+            "refType": "VIDEO"
+          }
+        ],
+        "genreKey": "s-nhac-tre",
+        "streamUrls": [],
+        "description": "Ca khúc Cố Giang Tình (Ballad Version) do ca sĩ X2X thể hiện, thuộc thể loại Nhạc Trẻ. Các bạn có thể nghe, download (tải nhạc) bài hát Co Giang Tinh (Ballad Version)   mp3, playlist/album, MV/Video Cố Giang Tình (Ballad Version) miễn phí tại NhacCuaTui.com."
+      },
+      {
+        "key": "F0rMUUEq0BV6",
+        "title": "Thầm Yêu (7 Deep Cuts Session)",
+        "thumbnail": "https://avatar-ex-swe.nixcdn.com/song/2020/04/14/7/b/f/3/1586832076340_300.jpg",
+        "duration": "04:29",
+        "artists": [
+          {
+            "artistId": 187030,
+            "name": "Phùng Khánh Linh",
+            "shortLink": "phung-khanh-linh",
+            "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2020/07/28/a/7/b/7/1595920032430_300.jpg"
+          }
+        ],
+        "type": "SONG",
+        "dateRelease": 1586865600000,
+        "dateCreate": 1586832066694,
+        "uploadBy": {
+          "userName": "nct_official",
+          "fullName": "NCT OFFICIAL",
+          "avatarUrl": ""
+        },
+        "provider": {
+          "name": "YIN YANG MEDIA",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/provider/2020/02/06/7/c/c/b/1580970715693.jpg"
+        },
+        "isMyPlaylist": false,
+        "statusViewValue": 1,
+        "statusPlayValue": 1,
+        "statusDownloadValue": 2,
+        "statusAddPlaylistValue": 0,
+        "refMapping": [
+          {
+            "refKey": "V24jrkP4F8E3L",
+            "refType": "VIDEO"
+          }
+        ],
+        "genreKey": "s-nhac-tre",
+        "streamUrls": [],
+        "description": "Ca khúc Thầm Yêu (7 Deep Cuts Session) do ca sĩ Phùng Khánh Linh thể hiện, thuộc thể loại Nhạc Trẻ. Các bạn có thể nghe, download (tải nhạc) bài hát Tham Yeu (7 Deep Cuts Session)   mp3, playlist/album, MV/Video Thầm Yêu (7 Deep Cuts Session) miễn phí tại NhacCuaTui.com."
+      },
+      {
+        "key": "tGYzNRmxM9Yo",
+        "title": "Tomorrow",
+        "thumbnail": "https://avatar-ex-swe.nixcdn.com/song/2020/04/04/0/3/b/7/1585970698287_300.jpg",
+        "duration": "04:25",
+        "artists": [
+          {
+            "artistId": 24590,
+            "name": "Vũ Cát Tường",
+            "shortLink": "vu-cat-tuong",
+            "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2019/11/07/3/8/1/0/1573091731155_300.jpg"
+          }
+        ],
+        "type": "SONG",
+        "dateRelease": 1586167200000,
+        "dateCreate": 1585970684372,
+        "uploadBy": {
+          "userName": "nct_official",
+          "fullName": "NCT OFFICIAL",
+          "avatarUrl": ""
+        },
+        "provider": {
+          "name": "YIN YANG MEDIA",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/provider/2020/02/06/7/c/c/b/1580970715693.jpg"
+        },
+        "isMyPlaylist": false,
+        "statusViewValue": 1,
+        "statusPlayValue": 1,
+        "statusDownloadValue": 2,
+        "statusAddPlaylistValue": 0,
+        "refMapping": [
+          {
+            "refKey": "3eaSYwZCZtUOQ",
+            "refType": "VIDEO"
+          }
+        ],
+        "genreKey": "s-nhac-tre",
+        "streamUrls": [],
+        "description": "Ca khúc Tomorrow do ca sĩ Vũ Cát Tường thể hiện, thuộc thể loại Nhạc Trẻ. Các bạn có thể nghe, download (tải nhạc) bài hát Tomorrow   mp3, playlist/album, MV/Video Tomorrow miễn phí tại NhacCuaTui.com."
+      },
+      {
+        "key": "32kj5e5pMedZ",
+        "title": "Cố Nhớ Để Mà Quên (Piano Version)",
+        "thumbnail": "https://avatar-ex-swe.nixcdn.com/song/2020/04/20/7/4/e/1/1587386513693_300.jpg",
+        "duration": "03:36",
+        "artists": [
+          {
+            "artistId": 294873,
+            "name": "Max",
+            "shortLink": "nham-phuong-nam",
+            "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2021/04/22/1/1/f/9/1619066946118_300.jpg"
+          }
+        ],
+        "type": "SONG",
+        "dateRelease": 1587387600000,
+        "dateCreate": 1587377494279,
+        "uploadBy": {
+          "userName": "nct_official",
+          "fullName": "NCT OFFICIAL",
+          "avatarUrl": ""
+        },
+        "provider": {
+          "name": "NCT MUSIC DISTRIBUTION",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/provider/2020/02/13/8/d/9/4/1581565412825.jpg"
+        },
+        "isMyPlaylist": false,
+        "statusViewValue": 1,
+        "statusPlayValue": 1,
+        "statusDownloadValue": 2,
+        "statusAddPlaylistValue": 0,
+        "refMapping": [],
+        "genreKey": "s-nhac-tre",
+        "streamUrls": [],
+        "description": "Ca khúc Cố Nhớ Để Mà Quên (Piano Version) do ca sĩ Max thể hiện, thuộc thể loại Nhạc Trẻ. Các bạn có thể nghe, download (tải nhạc) bài hát Co Nho De Ma Quen (Piano Version)   mp3, playlist/album, MV/Video Cố Nhớ Để Mà Quên (Piano Version) miễn phí tại NhacCuaTui.com."
+      },
+      {
+        "key": "RC3nFjXmxpcH",
+        "title": "Sau Này",
+        "thumbnail": "https://avatar-ex-swe.nixcdn.com/song/2020/03/13/9/0/5/6/1584066287526_300.jpg",
+        "duration": "04:00",
+        "artists": [
+          {
+            "artistId": 198446,
+            "name": "Tăng Phúc",
+            "shortLink": "tang-phuc",
+            "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2019/11/20/d/f/9/a/1574242685613_300.jpg"
+          }
+        ],
+        "type": "SONG",
+        "dateRelease": 1584187200000,
+        "dateCreate": 1584066278274,
+        "uploadBy": {
+          "userName": "nct_official",
+          "fullName": "NCT OFFICIAL",
+          "avatarUrl": ""
+        },
+        "provider": {
+          "name": "YIN YANG MEDIA",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/provider/2020/02/06/7/c/c/b/1580970715693.jpg"
+        },
+        "isMyPlaylist": false,
+        "statusViewValue": 1,
+        "statusPlayValue": 1,
+        "statusDownloadValue": 2,
+        "statusAddPlaylistValue": 0,
+        "refMapping": [
+          {
+            "refKey": "Uxbwxm8ipGgEC",
+            "refType": "VIDEO"
+          }
+        ],
+        "genreKey": "s-nhac-tre",
+        "streamUrls": [],
+        "description": "Ca khúc Sau Này do ca sĩ Tăng Phúc thể hiện, thuộc thể loại Nhạc Trẻ. Các bạn có thể nghe, download (tải nhạc) bài hát Sau Nay   mp3, playlist/album, MV/Video Sau Này miễn phí tại NhacCuaTui.com."
+      },
+      {
+        "key": "ts1TDqzvjmGE",
+        "title": "Sợ Rằng Em Biết Anh Còn Yêu Em",
+        "thumbnail": "https://avatar-ex-swe.nixcdn.com/song/2020/02/06/1/5/7/4/1580970536614_300.jpg",
+        "duration": "05:22",
+        "artists": [
+          {
+            "artistId": 194720,
+            "name": "JUUN D",
+            "shortLink": "juun-dang-dung",
+            "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2020/02/06/9/4/1/2/1580971397180_300.jpg"
+          }
+        ],
+        "type": "SONG",
+        "dateRelease": 1581080400000,
+        "dateCreate": 1580970520374,
+        "uploadBy": {
+          "userName": "nct_official",
+          "fullName": "NCT OFFICIAL",
+          "avatarUrl": ""
+        },
+        "provider": {
+          "name": "YIN YANG MEDIA",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/provider/2020/02/06/7/c/c/b/1580970715693.jpg"
+        },
+        "isMyPlaylist": false,
+        "statusViewValue": 1,
+        "statusPlayValue": 1,
+        "statusDownloadValue": 2,
+        "statusAddPlaylistValue": 0,
+        "refMapping": [
+          {
+            "refKey": "Ycjk5bB4574VB",
+            "refType": "VIDEO"
+          }
+        ],
+        "genreKey": "s-nhac-tre",
+        "streamUrls": [],
+        "description": "Ca khúc Sợ Rằng Em Biết Anh Còn Yêu Em do ca sĩ JUUN D thể hiện, thuộc thể loại Nhạc Trẻ. Các bạn có thể nghe, download (tải nhạc) bài hát So Rang Em Biet Anh Con Yeu Em   mp3, playlist/album, MV/Video Sợ Rằng Em Biết Anh Còn Yêu Em miễn phí tại NhacCuaTui.com."
+      },
+      {
+        "key": "gjx4906A3RZo",
+        "title": "Những Ngày Thật Khác (7 Deep Cuts Session)",
+        "thumbnail": "https://avatar-ex-swe.nixcdn.com/song/2020/05/12/2/2/0/9/1589255030166_300.jpg",
+        "duration": "04:19",
+        "artists": [
+          {
+            "artistId": 187030,
+            "name": "Phùng Khánh Linh",
+            "shortLink": "phung-khanh-linh",
+            "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2020/07/28/a/7/b/7/1595920032430_300.jpg"
+          }
+        ],
+        "type": "SONG",
+        "dateRelease": 1589277600000,
+        "dateCreate": 1589255020632,
+        "uploadBy": {
+          "userName": "nct_official",
+          "fullName": "NCT OFFICIAL",
+          "avatarUrl": ""
+        },
+        "provider": {
+          "name": "YIN YANG MEDIA",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/provider/2020/02/06/7/c/c/b/1580970715693.jpg"
+        },
+        "isMyPlaylist": false,
+        "statusViewValue": 1,
+        "statusPlayValue": 1,
+        "statusDownloadValue": 2,
+        "statusAddPlaylistValue": 0,
+        "refMapping": [
+          {
+            "refKey": "09UJkwwyiI2HI",
+            "refType": "VIDEO"
+          }
+        ],
+        "genreKey": "s-nhac-tre",
+        "streamUrls": [],
+        "description": "Ca khúc Những Ngày Thật Khác (7 Deep Cuts Session) do ca sĩ Phùng Khánh Linh thể hiện, thuộc thể loại Nhạc Trẻ. Các bạn có thể nghe, download (tải nhạc) bài hát Nhung Ngay That Khac (7 Deep Cuts Session)   mp3, playlist/album, MV/Video Những Ngày Thật Khác (7 Deep Cuts Session) miễn phí tại NhacCuaTui.com."
+      },
+      {
+        "key": "8taCCmGkRYes",
+        "title": "Vẫn Nhớ",
+        "thumbnail": "https://avatar-ex-swe.nixcdn.com/song/2020/04/28/e/5/e/7/1588069154477_300.jpg",
+        "duration": "04:04",
+        "artists": [
+          {
+            "artistId": 193354,
+            "name": "Hà Nhi",
+            "shortLink": "ha-nhi",
+            "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2022/06/07/7/1/4/6/1654588529598_300.jpg"
+          }
+        ],
+        "type": "SONG",
+        "dateRelease": 1588078800000,
+        "dateCreate": 1588069143899,
+        "uploadBy": {
+          "userName": "nct_official",
+          "fullName": "NCT OFFICIAL",
+          "avatarUrl": ""
+        },
+        "provider": {
+          "name": "NCT MUSIC DISTRIBUTION",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/provider/2020/02/13/8/d/9/4/1581565412825.jpg"
+        },
+        "isMyPlaylist": false,
+        "statusViewValue": 1,
+        "statusPlayValue": 1,
+        "statusDownloadValue": 2,
+        "statusAddPlaylistValue": 0,
+        "refMapping": [
+          {
+            "refKey": "PoNJnc44rtP7g",
+            "refType": "VIDEO"
+          }
+        ],
+        "genreKey": "s-nhac-tre",
+        "streamUrls": [],
+        "description": "Ca khúc Vẫn Nhớ do ca sĩ Hà Nhi thể hiện, thuộc thể loại Nhạc Trẻ. Các bạn có thể nghe, download (tải nhạc) bài hát Van Nho   mp3, playlist/album, MV/Video Vẫn Nhớ miễn phí tại NhacCuaTui.com."
+      },
+      {
+        "key": "u4iadYFyuAvN",
+        "title": "Ước Một Ngày (7 Deep Cuts Session)",
+        "thumbnail": "https://avatar-ex-swe.nixcdn.com/song/2020/04/27/0/5/f/c/1587956633482_300.jpg",
+        "duration": "04:04",
+        "artists": [
+          {
+            "artistId": 187030,
+            "name": "Phùng Khánh Linh",
+            "shortLink": "phung-khanh-linh",
+            "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2020/07/28/a/7/b/7/1595920032430_300.jpg"
+          }
+        ],
+        "type": "SONG",
+        "dateRelease": 1588068000000,
+        "dateCreate": 1587956625097,
+        "uploadBy": {
+          "userName": "nct_official",
+          "fullName": "NCT OFFICIAL",
+          "avatarUrl": ""
+        },
+        "provider": {
+          "name": "YIN YANG MEDIA",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/provider/2020/02/06/7/c/c/b/1580970715693.jpg"
+        },
+        "isMyPlaylist": false,
+        "statusViewValue": 1,
+        "statusPlayValue": 1,
+        "statusDownloadValue": 2,
+        "statusAddPlaylistValue": 0,
+        "refMapping": [
+          {
+            "refKey": "5hNXaXN8UqgDU",
+            "refType": "VIDEO"
+          }
+        ],
+        "genreKey": "s-nhac-tre",
+        "streamUrls": [],
+        "description": "Ca khúc Ước Một Ngày (7 Deep Cuts Session) do ca sĩ Phùng Khánh Linh thể hiện, thuộc thể loại Nhạc Trẻ. Các bạn có thể nghe, download (tải nhạc) bài hát Uoc Mot Ngay (7 Deep Cuts Session)   mp3, playlist/album, MV/Video Ước Một Ngày (7 Deep Cuts Session) miễn phí tại NhacCuaTui.com."
+      },
+      {
+        "key": "FmaIYH7CRfl4",
+        "title": "Vỡ Tan Mất Rồi",
+        "thumbnail": "https://avatar-ex-swe.nixcdn.com/song/2020/03/02/3/1/d/d/1583145058141_300.jpg",
+        "duration": "06:09",
+        "artists": [
+          {
+            "artistId": 297426,
+            "name": "Ty An Bảo",
+            "shortLink": "ty-an-bao",
+            "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2020/11/06/7/2/4/6/1604628242057_300.jpg"
+          }
+        ],
+        "type": "SONG",
+        "dateRelease": 1583154000000,
+        "dateCreate": 1583124861064,
+        "uploadBy": {
+          "userName": "nct_official",
+          "fullName": "NCT OFFICIAL",
+          "avatarUrl": ""
+        },
+        "provider": {
+          "name": "NCT MUSIC DISTRIBUTION",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/provider/2020/02/13/8/d/9/4/1581565412825.jpg"
+        },
+        "isMyPlaylist": false,
+        "statusViewValue": 1,
+        "statusPlayValue": 1,
+        "statusDownloadValue": 2,
+        "statusAddPlaylistValue": 0,
+        "refMapping": [],
+        "genreKey": "s-nhac-tre",
+        "streamUrls": [],
+        "description": "Ca khúc Vỡ Tan Mất Rồi do ca sĩ Ty An Bảo thể hiện, thuộc thể loại Nhạc Trẻ. Các bạn có thể nghe, download (tải nhạc) bài hát Vo Tan Mat Roi   mp3, playlist/album, MV/Video Vỡ Tan Mất Rồi miễn phí tại NhacCuaTui.com."
+      },
+      {
+        "key": "5SFW34SGymTT",
+        "title": "Em Ổn Chứ",
+        "thumbnail": "https://avatar-ex-swe.nixcdn.com/song/2020/02/29/2/a/2/5/1582949685413_300.jpg",
+        "duration": "04:51",
+        "artists": [
+          {
+            "artistId": 263000,
+            "name": "Huy Vạc",
+            "shortLink": "huy-vac",
+            "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2020/02/27/f/2/1/c/1582798501233_300.jpg"
+          }
+        ],
+        "type": "SONG",
+        "dateRelease": 1582635600000,
+        "dateCreate": 1582949634820,
+        "uploadBy": {
+          "userName": "nct_official",
+          "fullName": "NCT OFFICIAL",
+          "avatarUrl": ""
+        },
+        "provider": {
+          "name": "SKYMUSIC",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/provider/2020/02/06/7/c/c/b/1580961979050.jpg"
+        },
+        "isMyPlaylist": false,
+        "statusViewValue": 1,
+        "statusPlayValue": 1,
+        "statusDownloadValue": 2,
+        "statusAddPlaylistValue": 0,
+        "refMapping": [],
+        "genreKey": "s-nhac-tre",
+        "streamUrls": [],
+        "description": "Ca khúc Em Ổn Chứ do ca sĩ Huy Vạc thể hiện, thuộc thể loại Nhạc Trẻ. Các bạn có thể nghe, download (tải nhạc) bài hát Em On Chu   mp3, playlist/album, MV/Video Em Ổn Chứ miễn phí tại NhacCuaTui.com."
+      },
+      {
+        "key": "SlfEqfLwLg0q",
+        "title": "Đã Đến Lúc",
+        "thumbnail": "https://avatar-ex-swe.nixcdn.com/song/2020/02/17/f/6/a/4/1581913729168_300.jpg",
+        "duration": "04:02",
+        "artists": [
+          {
+            "artistId": 6076,
+            "name": "Henry",
+            "shortLink": "henry",
+            "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2019/02/08/e/6/4/3/1549602811578_300.jpg"
+          }
+        ],
+        "type": "SONG",
+        "dateRelease": 1582113600000,
+        "dateCreate": 1581913722487,
+        "uploadBy": {
+          "userName": "nct_official",
+          "fullName": "NCT OFFICIAL",
+          "avatarUrl": ""
+        },
+        "provider": {
+          "name": "NCT MUSIC DISTRIBUTION",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/provider/2020/02/13/8/d/9/4/1581565412825.jpg"
+        },
+        "isMyPlaylist": false,
+        "statusViewValue": 1,
+        "statusPlayValue": 1,
+        "statusDownloadValue": 2,
+        "statusAddPlaylistValue": 0,
+        "refMapping": [
+          {
+            "refKey": "n2N96FxXkJwX1",
+            "refType": "VIDEO"
+          }
+        ],
+        "genreKey": "s-nhac-tre",
+        "streamUrls": [],
+        "description": "Ca khúc Đã Đến Lúc do ca sĩ Henry thể hiện, thuộc thể loại Nhạc Trẻ. Các bạn có thể nghe, download (tải nhạc) bài hát Da Den Luc   mp3, playlist/album, MV/Video Đã Đến Lúc miễn phí tại NhacCuaTui.com."
+      },
+      {
+        "key": "H83iaVxlfZEb",
+        "title": "Chỉ Vì Quá Yêu Em",
+        "thumbnail": "https://avatar-ex-swe.nixcdn.com/song/2020/02/27/e/5/3/0/1582797234941_300.jpg",
+        "duration": "04:00",
+        "artists": [
+          {
+            "artistId": 263000,
+            "name": "Huy Vạc",
+            "shortLink": "huy-vac",
+            "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2020/02/27/f/2/1/c/1582798501233_300.jpg"
+          },
+          {
+            "artistId": 62487,
+            "name": "Tiến Nguyễn",
+            "shortLink": "tien-nguyen",
+            "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2019/11/06/a/3/5/2/1573006025480_300.jpg"
+          }
+        ],
+        "type": "SONG",
+        "dateRelease": 1582804800000,
+        "dateCreate": 1582797228735,
+        "uploadBy": {
+          "userName": "nct_official",
+          "fullName": "NCT OFFICIAL",
+          "avatarUrl": ""
+        },
+        "provider": {
+          "name": "NCT MUSIC DISTRIBUTION",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/provider/2020/02/13/8/d/9/4/1581565412825.jpg"
+        },
+        "isMyPlaylist": false,
+        "statusViewValue": 1,
+        "statusPlayValue": 1,
+        "statusDownloadValue": 2,
+        "statusAddPlaylistValue": 0,
+        "refMapping": [],
+        "genreKey": "s-nhac-tre",
+        "streamUrls": [],
+        "description": "Ca khúc Chỉ Vì Quá Yêu Em do ca sĩ Huy VạcTiến Nguyễn,  thể hiện, thuộc thể loại Nhạc Trẻ. Các bạn có thể nghe, download (tải nhạc) bài hát Chi Vi Qua Yeu Em   mp3, playlist/album, MV/Video Chỉ Vì Quá Yêu Em miễn phí tại NhacCuaTui.com."
+      },
+      {
+        "key": "toudLsEcerec",
+        "title": "Đã Gần Như Hạnh Phúc",
+        "thumbnail": "https://avatar-ex-swe.nixcdn.com/song/2020/02/26/1/3/e/a/1582699200861_300.jpg",
+        "duration": "05:12",
+        "artists": [
+          {
+            "artistId": 214376,
+            "name": "Hồ Thiện Quân",
+            "shortLink": "ho-thien-quan",
+            "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2020/02/26/e/a/0/1/1582704015470_300.jpg"
+          }
+        ],
+        "type": "SONG",
+        "dateRelease": 1582635600000,
+        "dateCreate": 1582625380350,
+        "uploadBy": {
+          "userName": "nct_official",
+          "fullName": "NCT OFFICIAL",
+          "avatarUrl": ""
+        },
+        "provider": {
+          "name": "NCT MUSIC DISTRIBUTION",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/provider/2020/02/13/8/d/9/4/1581565412825.jpg"
+        },
+        "isMyPlaylist": false,
+        "statusViewValue": 1,
+        "statusPlayValue": 1,
+        "statusDownloadValue": 2,
+        "statusAddPlaylistValue": 0,
+        "refMapping": [],
+        "genreKey": "s-nhac-tre",
+        "streamUrls": [],
+        "description": "Ca khúc Đã Gần Như Hạnh Phúc do ca sĩ Hồ Thiện Quân thể hiện, thuộc thể loại Nhạc Trẻ. Các bạn có thể nghe, download (tải nhạc) bài hát Da Gan Nhu Hanh Phuc   mp3, playlist/album, MV/Video Đã Gần Như Hạnh Phúc miễn phí tại NhacCuaTui.com."
+      },
+      {
+        "key": "4p7Da2fHe8uc",
+        "title": "Cách Mình Xa Nhau",
+        "thumbnail": "https://avatar-ex-swe.nixcdn.com/song/2019/12/02/4/2/d/b/1575277558880_300.jpg",
+        "duration": "04:28",
+        "artists": [
+          {
+            "artistId": 60928,
+            "name": "Trang",
+            "shortLink": "trang",
+            "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2019/11/04/4/b/e/1/1572843837617_300.jpg"
+          }
+        ],
+        "type": "SONG",
+        "dateRelease": 1575129600000,
+        "dateCreate": 1575098258448,
+        "uploadBy": {
+          "userName": "nct_official",
+          "fullName": "NCT OFFICIAL",
+          "avatarUrl": ""
+        },
+        "provider": {
+          "name": "SKYMUSIC",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/provider/2020/02/06/7/c/c/b/1580961979050.jpg"
+        },
+        "isMyPlaylist": false,
+        "statusViewValue": 1,
+        "statusPlayValue": 1,
+        "statusDownloadValue": 2,
+        "statusAddPlaylistValue": 0,
+        "refMapping": [],
+        "genreKey": "s-nhac-tre",
+        "streamUrls": [],
+        "description": "Ca khúc Cách Mình Xa Nhau do ca sĩ Trang thể hiện, thuộc thể loại Nhạc Trẻ. Các bạn có thể nghe, download (tải nhạc) bài hát Cach Minh Xa Nhau   mp3, playlist/album, MV/Video Cách Mình Xa Nhau miễn phí tại NhacCuaTui.com."
+      },
+      {
+        "key": "fLkylsUpcfjB",
+        "title": "Điều Buồn Nhất Khi Yêu",
+        "thumbnail": "https://avatar-ex-swe.nixcdn.com/song/2019/12/02/4/2/d/b/1575271236957_300.jpg",
+        "duration": "05:12",
+        "artists": [
+          {
+            "artistId": 130665,
+            "name": "Hòa Minzy",
+            "shortLink": "hoa-minzy",
+            "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2019/12/02/f/d/5/6/1575258945135_300.jpg"
+          }
+        ],
+        "type": "SONG",
+        "dateRelease": 1575133200000,
+        "dateCreate": 1575097302018,
+        "uploadBy": {
+          "userName": "nct_official",
+          "fullName": "NCT OFFICIAL",
+          "avatarUrl": ""
+        },
+        "provider": {
+          "name": "NCT MUSIC DISTRIBUTION",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/provider/2020/02/13/8/d/9/4/1581565412825.jpg"
+        },
+        "isMyPlaylist": false,
+        "statusViewValue": 1,
+        "statusPlayValue": 1,
+        "statusDownloadValue": 2,
+        "statusAddPlaylistValue": 0,
+        "refMapping": [],
+        "genreKey": "s-nhac-tre",
+        "streamUrls": [],
+        "description": "Ca khúc Điều Buồn Nhất Khi Yêu do ca sĩ Hòa Minzy thể hiện, thuộc thể loại Nhạc Trẻ. Các bạn có thể nghe, download (tải nhạc) bài hát Dieu Buon Nhat Khi Yeu   mp3, playlist/album, MV/Video Điều Buồn Nhất Khi Yêu miễn phí tại NhacCuaTui.com."
+      },
+      {
+        "key": "Sgcij6Lb4HUi",
+        "title": "Tự Tâm (Piano Version)",
+        "thumbnail": "https://avatar-ex-swe.nixcdn.com/song/2019/11/12/8/c/7/4/1573521410174_300.jpg",
+        "duration": "04:48",
+        "artists": [
+          {
+            "artistId": 50871,
+            "name": "Nguyễn Trần Trung Quân",
+            "shortLink": "nguyen-tran-trung-quan",
+            "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2022/09/16/2/e/3/c/1663308919898_300.jpg"
+          }
+        ],
+        "type": "SONG",
+        "dateRelease": 1573477200000,
+        "dateCreate": 1573521398950,
+        "uploadBy": {
+          "userName": "nct_official",
+          "fullName": "NCT OFFICIAL",
+          "avatarUrl": ""
+        },
+        "provider": {
+          "name": "NCT MUSIC DISTRIBUTION",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/provider/2020/02/13/8/d/9/4/1581565412825.jpg"
+        },
+        "isMyPlaylist": false,
+        "statusViewValue": 1,
+        "statusPlayValue": 1,
+        "statusDownloadValue": 2,
+        "statusAddPlaylistValue": 0,
+        "refMapping": [
+          {
+            "refKey": "LHif3dXvcZVD8",
+            "refType": "VIDEO"
+          }
+        ],
+        "genreKey": "s-nhac-tre",
+        "streamUrls": [],
+        "description": "Ca khúc Tự Tâm (Piano Version) do ca sĩ Nguyễn Trần Trung Quân thể hiện, thuộc thể loại Nhạc Trẻ. Các bạn có thể nghe, download (tải nhạc) bài hát Tu Tam (Piano Version)   mp3, playlist/album, MV/Video Tự Tâm (Piano Version) miễn phí tại NhacCuaTui.com."
+      },
+      {
+        "key": "siPaRd0v9juk",
+        "title": "Destiny",
+        "thumbnail": "https://avatar-ex-swe.nixcdn.com/song/2019/12/03/1/6/f/b/1575345815299_300.jpg",
+        "duration": "05:19",
+        "artists": [
+          {
+            "artistId": 140293,
+            "name": "Hari Won",
+            "shortLink": "hari-won",
+            "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2019/09/26/1/d/b/5/1569474237302_300.jpg"
+          },
+          {
+            "artistId": 19770,
+            "name": "Park Jung Min",
+            "shortLink": "park-jung-min",
+            "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2019/12/03/a/1/b/5/1575346132460_300.jpg"
+          }
+        ],
+        "type": "SONG",
+        "dateRelease": 1575306000000,
+        "dateCreate": 1575345804056,
+        "uploadBy": {
+          "userName": "nct_official",
+          "fullName": "NCT OFFICIAL",
+          "avatarUrl": ""
+        },
+        "provider": {
+          "name": "SKYMUSIC",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/provider/2020/02/06/7/c/c/b/1580961979050.jpg"
+        },
+        "isMyPlaylist": false,
+        "statusViewValue": 1,
+        "statusPlayValue": 1,
+        "statusDownloadValue": 2,
+        "statusAddPlaylistValue": 0,
+        "refMapping": [],
+        "genreKey": "s-nhac-tre",
+        "streamUrls": [],
+        "description": "Ca khúc Destiny do ca sĩ Hari WonPark Jung Min,  thể hiện, thuộc thể loại Nhạc Trẻ. Các bạn có thể nghe, download (tải nhạc) bài hát Destiny   mp3, playlist/album, MV/Video Destiny miễn phí tại NhacCuaTui.com."
+      },
+      {
+        "key": "odxHqJ7SR0RW",
+        "title": "Về Bên Anh Nhé",
+        "thumbnail": "https://avatar-ex-swe.nixcdn.com/song/2019/12/03/1/6/f/b/1575353976233_300.jpg",
+        "duration": "05:11",
+        "artists": [
+          {
+            "artistId": 79997,
+            "name": "Hồng Dương M4U",
+            "shortLink": "hong-duong-m4u",
+            "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2017/06/29/0/e/a/a/1498721426031_300.jpg"
+          }
+        ],
+        "type": "SONG",
+        "dateRelease": 1575550800000,
+        "dateCreate": 1575353965660,
+        "uploadBy": {
+          "userName": "nct_official",
+          "fullName": "NCT OFFICIAL",
+          "avatarUrl": ""
+        },
+        "provider": {
+          "name": "SKYMUSIC",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/provider/2020/02/06/7/c/c/b/1580961979050.jpg"
+        },
+        "isMyPlaylist": false,
+        "statusViewValue": 1,
+        "statusPlayValue": 1,
+        "statusDownloadValue": 2,
+        "statusAddPlaylistValue": 0,
+        "refMapping": [],
+        "genreKey": "s-nhac-tre",
+        "streamUrls": [],
+        "description": "Ca khúc Về Bên Anh Nhé do ca sĩ Hồng Dương M4U thể hiện, thuộc thể loại Nhạc Trẻ. Các bạn có thể nghe, download (tải nhạc) bài hát Ve Ben Anh Nhe   mp3, playlist/album, MV/Video Về Bên Anh Nhé miễn phí tại NhacCuaTui.com."
+      },
+      {
+        "key": "LNhTmt6EkVd5",
+        "title": "Anh Hiểu Không",
+        "thumbnail": "https://avatar-ex-swe.nixcdn.com/song/2019/09/26/a/a/9/f/1569468369853_300.jpg",
+        "duration": "04:21",
+        "artists": [
+          {
+            "artistId": 140293,
+            "name": "Hari Won",
+            "shortLink": "hari-won",
+            "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2019/09/26/1/d/b/5/1569474237302_300.jpg"
+          }
+        ],
+        "type": "SONG",
+        "dateRelease": 1569502800000,
+        "dateCreate": 1569468355094,
+        "uploadBy": {
+          "userName": "nct_official",
+          "fullName": "NCT OFFICIAL",
+          "avatarUrl": ""
+        },
+        "provider": {
+          "name": "NCT MUSIC DISTRIBUTION",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/provider/2020/02/13/8/d/9/4/1581565412825.jpg"
+        },
+        "isMyPlaylist": false,
+        "statusViewValue": 1,
+        "statusPlayValue": 1,
+        "statusDownloadValue": 2,
+        "statusAddPlaylistValue": 0,
+        "refMapping": [
+          {
+            "refKey": "mG8b2JU4zCaLV",
+            "refType": "VIDEO"
+          }
+        ],
+        "genreKey": "s-nhac-tre",
+        "streamUrls": [],
+        "description": "Ca khúc Anh Hiểu Không do ca sĩ Hari Won thể hiện, thuộc thể loại Nhạc Trẻ. Các bạn có thể nghe, download (tải nhạc) bài hát Anh Hieu Khong   mp3, playlist/album, MV/Video Anh Hiểu Không miễn phí tại NhacCuaTui.com."
+      },
+      {
+        "key": "AHX2SHdodJlR",
+        "title": "Nghe Nói Anh Sắp Kết Hôn",
+        "thumbnail": "https://avatar-ex-swe.nixcdn.com/song/2019/10/23/7/8/b/5/1571804802390_300.jpg",
+        "duration": "04:25",
+        "artists": [
+          {
+            "artistId": 43190,
+            "name": "Văn Mai Hương",
+            "shortLink": "van-mai-huong",
+            "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2021/01/22/9/6/7/5/1611280199069_300.jpg"
+          },
+          {
+            "artistId": 84049,
+            "name": "Bùi Anh Tuấn",
+            "shortLink": "bui-anh-tuan",
+            "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2019/09/12/c/3/c/7/1568273754205_300.jpg"
+          }
+        ],
+        "type": "SONG",
+        "dateRelease": 1571918400000,
+        "dateCreate": 1571804783947,
+        "uploadBy": {
+          "userName": "nct_official",
+          "fullName": "NCT OFFICIAL",
+          "avatarUrl": ""
+        },
+        "provider": {
+          "name": "NCT MUSIC DISTRIBUTION",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/provider/2020/02/13/8/d/9/4/1581565412825.jpg"
+        },
+        "isMyPlaylist": false,
+        "statusViewValue": 1,
+        "statusPlayValue": 1,
+        "statusDownloadValue": 2,
+        "statusAddPlaylistValue": 0,
+        "refMapping": [
+          {
+            "refKey": "L9AumgcWzrcsw",
+            "refType": "VIDEO"
+          }
+        ],
+        "genreKey": "s-nhac-tre",
+        "streamUrls": [],
+        "description": "Ca khúc Nghe Nói Anh Sắp Kết Hôn do ca sĩ Văn Mai HươngBùi Anh Tuấn,  thể hiện, thuộc thể loại Nhạc Trẻ. Các bạn có thể nghe, download (tải nhạc) bài hát Nghe Noi Anh Sap Ket Hon   mp3, playlist/album, MV/Video Nghe Nói Anh Sắp Kết Hôn miễn phí tại NhacCuaTui.com."
+      },
+      {
+        "key": "rCeDa4bA9mMz",
+        "title": "Em Đừng Hỏi",
+        "thumbnail": "https://avatar-ex-swe.nixcdn.com/song/2019/10/10/8/1/6/9/1570677114814_300.jpg",
+        "duration": "04:52",
+        "artists": [
+          {
+            "artistId": 7755,
+            "name": "Ưng Hoàng Phúc",
+            "shortLink": "ung-hoang-phuc",
+            "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2019/10/10/e/c/0/d/1570677205097_300.jpg"
+          }
+        ],
+        "type": "SONG",
+        "dateRelease": 1570712400000,
+        "dateCreate": 1570677096917,
+        "uploadBy": {
+          "userName": "nct_official",
+          "fullName": "NCT OFFICIAL",
+          "avatarUrl": ""
+        },
+        "provider": {
+          "name": "NCT MUSIC DISTRIBUTION",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/provider/2020/02/13/8/d/9/4/1581565412825.jpg"
+        },
+        "isMyPlaylist": false,
+        "statusViewValue": 1,
+        "statusPlayValue": 1,
+        "statusDownloadValue": 2,
+        "statusAddPlaylistValue": 0,
+        "refMapping": [
+          {
+            "refKey": "Lm4lJX7aY18zj",
+            "refType": "VIDEO"
+          }
+        ],
+        "genreKey": "s-nhac-tre",
+        "streamUrls": [],
+        "description": "Ca khúc Em Đừng Hỏi do ca sĩ Ưng Hoàng Phúc thể hiện, thuộc thể loại Nhạc Trẻ. Các bạn có thể nghe, download (tải nhạc) bài hát Em Dung Hoi   mp3, playlist/album, MV/Video Em Đừng Hỏi miễn phí tại NhacCuaTui.com."
+      },
+      {
+        "key": "jyzUEf5T3rMu",
+        "title": "Khó Vẽ Nụ Cười",
+        "thumbnail": "https://avatar-ex-swe.nixcdn.com/song/2019/09/17/b/a/5/a/1568694782034_300.jpg",
+        "duration": "05:32",
+        "artists": [
+          {
+            "artistId": 209774,
+            "name": "Đạt G",
+            "shortLink": "dat-g",
+            "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2022/07/14/2/1/0/a/1657771898603_300.jpg"
+          },
+          {
+            "artistId": 260576,
+            "name": "Du Uyên",
+            "shortLink": null,
+            "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2019/11/07/3/8/1/0/1573111413315_300.jpg"
+          }
+        ],
+        "type": "SONG",
+        "dateRelease": 1568739600000,
+        "dateCreate": 1568694759176,
+        "uploadBy": {
+          "userName": "sonymusic",
+          "fullName": "SONY MUSIC",
+          "avatarUrl": ""
+        },
+        "provider": {
+          "name": "SONY MUSIC",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/provider/2020/02/13/8/d/9/4/1581563932392.jpg"
+        },
+        "isMyPlaylist": false,
+        "statusViewValue": 1,
+        "statusPlayValue": 1,
+        "statusDownloadValue": 0,
+        "statusAddPlaylistValue": 0,
+        "refMapping": [
+          {
+            "refKey": "PUtMGjlTN9DgM",
+            "refType": "VIDEO"
+          }
+        ],
+        "genreKey": "s-nhac-tre",
+        "streamUrls": [],
+        "description": "Ca khúc Khó Vẽ Nụ Cười do ca sĩ Đạt GDu Uyên,  thể hiện, thuộc thể loại Nhạc Trẻ. Các bạn có thể nghe, download (tải nhạc) bài hát Kho Ve Nu Cuoi   mp3, playlist/album, MV/Video Khó Vẽ Nụ Cười miễn phí tại NhacCuaTui.com."
+      },
+      {
+        "key": "UGn25z66rCyd",
+        "title": "Em Muốn Ta Là Gì",
+        "thumbnail": "https://avatar-ex-swe.nixcdn.com/song/2019/10/15/6/d/4/7/1571120849658_300.jpg",
+        "duration": "05:53",
+        "artists": [
+          {
+            "artistId": 126215,
+            "name": "Thanh Hưng",
+            "shortLink": "thanh-hung",
+            "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2019/11/15/2/7/c/d/1573834150811_300.jpg"
+          }
+        ],
+        "type": "SONG",
+        "dateRelease": 1572440400000,
+        "dateCreate": 1571120834485,
+        "uploadBy": {
+          "userName": "nct_official",
+          "fullName": "NCT OFFICIAL",
+          "avatarUrl": ""
+        },
+        "provider": {
+          "name": "NCT MUSIC DISTRIBUTION",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/provider/2020/02/13/8/d/9/4/1581565412825.jpg"
+        },
+        "isMyPlaylist": false,
+        "statusViewValue": 1,
+        "statusPlayValue": 1,
+        "statusDownloadValue": 2,
+        "statusAddPlaylistValue": 0,
+        "refMapping": [
+          {
+            "refKey": "GMOXDEchUnAEY",
+            "refType": "VIDEO"
+          }
+        ],
+        "genreKey": "s-nhac-tre",
+        "streamUrls": [],
+        "description": "Ca khúc Em Muốn Ta Là Gì do ca sĩ Thanh Hưng thể hiện, thuộc thể loại Nhạc Trẻ. Các bạn có thể nghe, download (tải nhạc) bài hát Em Muon Ta La Gi   mp3, playlist/album, MV/Video Em Muốn Ta Là Gì miễn phí tại NhacCuaTui.com."
+      },
+      {
+        "key": "GovJjHYtiAuH",
+        "title": "Duyên Nợ Chỉ Là Cái Cớ",
+        "thumbnail": "https://avatar-ex-swe.nixcdn.com/song/2019/10/30/c/5/9/5/1572407599468_300.jpg",
+        "duration": "06:05",
+        "artists": [
+          {
+            "artistId": 83164,
+            "name": "Yuki Huy Nam",
+            "shortLink": "yuki-huy-nam",
+            "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2019/10/30/4/0/0/1/1572407810249_300.jpg"
+          }
+        ],
+        "type": "SONG",
+        "dateRelease": 1572526800000,
+        "dateCreate": 1572407582692,
+        "uploadBy": {
+          "userName": "nct_official",
+          "fullName": "NCT OFFICIAL",
+          "avatarUrl": ""
+        },
+        "provider": {
+          "name": "NCT MUSIC DISTRIBUTION",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/provider/2020/02/13/8/d/9/4/1581565412825.jpg"
+        },
+        "isMyPlaylist": false,
+        "statusViewValue": 1,
+        "statusPlayValue": 1,
+        "statusDownloadValue": 2,
+        "statusAddPlaylistValue": 0,
+        "refMapping": [
+          {
+            "refKey": "yAUgLMi1A5jqr",
+            "refType": "VIDEO"
+          }
+        ],
+        "genreKey": "s-nhac-tre",
+        "streamUrls": [],
+        "description": "Ca khúc Duyên Nợ Chỉ Là Cái Cớ do ca sĩ Yuki Huy Nam thể hiện, thuộc thể loại Nhạc Trẻ. Các bạn có thể nghe, download (tải nhạc) bài hát Duyen No Chi La Cai Co   mp3, playlist/album, MV/Video Duyên Nợ Chỉ Là Cái Cớ miễn phí tại NhacCuaTui.com."
+      },
+      {
+        "key": "VHcoy6eE1qtq",
+        "title": "Lạnh Lẽo",
+        "thumbnail": "https://avatar-ex-swe.nixcdn.com/song/2019/09/12/c/9/7/4/1568274804925_300.jpg",
+        "duration": "04:46",
+        "artists": [
+          {
+            "artistId": 11733,
+            "name": "Ái Phương",
+            "shortLink": "ai-phuong",
+            "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2019/11/18/4/4/9/c/1574044461934_300.jpg"
+          },
+          {
+            "artistId": 84049,
+            "name": "Bùi Anh Tuấn",
+            "shortLink": "bui-anh-tuan",
+            "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2019/09/12/c/3/c/7/1568273754205_300.jpg"
+          }
+        ],
+        "type": "SONG",
+        "dateRelease": 1568293200000,
+        "dateCreate": 1568274786324,
+        "uploadBy": {
+          "userName": "nct_official",
+          "fullName": "NCT OFFICIAL",
+          "avatarUrl": ""
+        },
+        "provider": {
+          "name": "NCT MUSIC DISTRIBUTION",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/provider/2020/02/13/8/d/9/4/1581565412825.jpg"
+        },
+        "isMyPlaylist": false,
+        "statusViewValue": 1,
+        "statusPlayValue": 1,
+        "statusDownloadValue": 2,
+        "statusAddPlaylistValue": 0,
+        "refMapping": [
+          {
+            "refKey": "zJdkQQiGRmaEV",
+            "refType": "VIDEO"
+          }
+        ],
+        "genreKey": "s-nhac-tre",
+        "streamUrls": [],
+        "description": "Ca khúc Lạnh Lẽo do ca sĩ Ái PhươngBùi Anh Tuấn,  thể hiện, thuộc thể loại Nhạc Trẻ. Các bạn có thể nghe, download (tải nhạc) bài hát Lanh Leo   mp3, playlist/album, MV/Video Lạnh Lẽo miễn phí tại NhacCuaTui.com."
+      },
+      {
+        "key": "u8n2ER2pMUWf",
+        "title": "Người Đó Không Phải Em",
+        "thumbnail": "https://avatar-ex-swe.nixcdn.com/song/2019/08/26/e/b/e/c/1566802140287_300.jpg",
+        "duration": "04:53",
+        "artists": [
+          {
+            "artistId": 88547,
+            "name": "Châu Khải Phong",
+            "shortLink": "chau-khai-phong",
+            "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2019/08/30/d/5/9/d/1567133656446_300.jpg"
+          }
+        ],
+        "type": "SONG",
+        "dateRelease": 1568293200000,
+        "dateCreate": 1566793889645,
+        "uploadBy": {
+          "userName": "nct_official",
+          "fullName": "NCT OFFICIAL",
+          "avatarUrl": ""
+        },
+        "provider": {
+          "name": "NCT MUSIC DISTRIBUTION",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/provider/2020/02/13/8/d/9/4/1581565412825.jpg"
+        },
+        "isMyPlaylist": false,
+        "statusViewValue": 1,
+        "statusPlayValue": 1,
+        "statusDownloadValue": 2,
+        "statusAddPlaylistValue": 0,
+        "refMapping": [
+          {
+            "refKey": "rYlDGyii54PhD",
+            "refType": "VIDEO"
+          }
+        ],
+        "genreKey": "s-nhac-tre",
+        "streamUrls": [],
+        "description": "Ca khúc Người Đó Không Phải Em do ca sĩ Châu Khải Phong thể hiện, thuộc thể loại Nhạc Trẻ. Các bạn có thể nghe, download (tải nhạc) bài hát Nguoi Do Khong Phai Em   mp3, playlist/album, MV/Video Người Đó Không Phải Em miễn phí tại NhacCuaTui.com."
+      },
+      {
+        "key": "phQHokkp2qUL",
+        "title": "Annyeong",
+        "thumbnail": "https://avatar-ex-swe.nixcdn.com/song/2019/08/23/7/6/5/0/1566543410373_300.jpg",
+        "duration": "03:50",
+        "artists": [
+          {
+            "artistId": 273227,
+            "name": "Việt Athen",
+            "shortLink": "viet-athen",
+            "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2019/09/04/9/9/3/9/1567589472524_300.jpg"
+          }
+        ],
+        "type": "SONG",
+        "dateRelease": 1566651600000,
+        "dateCreate": 1566543389244,
+        "uploadBy": {
+          "userName": "nct_official",
+          "fullName": "NCT OFFICIAL",
+          "avatarUrl": ""
+        },
+        "provider": {
+          "name": "NCT MUSIC DISTRIBUTION",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/provider/2020/02/13/8/d/9/4/1581565412825.jpg"
+        },
+        "isMyPlaylist": false,
+        "statusViewValue": 1,
+        "statusPlayValue": 1,
+        "statusDownloadValue": 2,
+        "statusAddPlaylistValue": 0,
+        "refMapping": [
+          {
+            "refKey": "95SeaCFbeYPRp",
+            "refType": "VIDEO"
+          }
+        ],
+        "genreKey": "s-nhac-tre",
+        "streamUrls": [],
+        "description": "Ca khúc Annyeong do ca sĩ Việt Athen thể hiện, thuộc thể loại Nhạc Trẻ. Các bạn có thể nghe, download (tải nhạc) bài hát Annyeong   mp3, playlist/album, MV/Video Annyeong miễn phí tại NhacCuaTui.com."
+      },
+      {
+        "key": "tnvcYCYt7lmv",
+        "title": "Từng Yêu",
+        "thumbnail": "https://avatar-ex-swe.nixcdn.com/song/2019/07/03/7/5/b/e/1562146897414_300.jpg",
+        "duration": "05:04",
+        "artists": [
+          {
+            "artistId": 30078,
+            "name": "Phan Duy Anh",
+            "shortLink": "phan-duy-anh",
+            "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2019/08/13/7/d/5/0/1565688488776_300.jpg"
+          }
+        ],
+        "type": "SONG",
+        "dateRelease": 1560344400000,
+        "dateCreate": 1559903113836,
+        "uploadBy": {
+          "userName": "nct_official",
+          "fullName": "NCT OFFICIAL",
+          "avatarUrl": ""
+        },
+        "provider": {
+          "name": "NCT MUSIC DISTRIBUTION",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/provider/2020/02/13/8/d/9/4/1581565412825.jpg"
+        },
+        "isMyPlaylist": false,
+        "statusViewValue": 1,
+        "statusPlayValue": 1,
+        "statusDownloadValue": 2,
+        "statusAddPlaylistValue": 0,
+        "refMapping": [
+          {
+            "refKey": "BFY12RZyJ4vKq",
+            "refType": "VIDEO"
+          }
+        ],
+        "genreKey": "s-nhac-tre",
+        "streamUrls": [],
+        "description": "Ca khúc Từng Yêu do ca sĩ Phan Duy Anh thể hiện, thuộc thể loại Nhạc Trẻ. Các bạn có thể nghe, download (tải nhạc) bài hát Tung Yeu   mp3, playlist/album, MV/Video Từng Yêu miễn phí tại NhacCuaTui.com."
+      },
+      {
+        "key": "3TyS1S8D9zd7",
+        "title": "Vẫn Yêu",
+        "thumbnail": "https://avatar-ex-swe.nixcdn.com/song/2019/08/10/1/1/8/d/1565421981986_300.jpg",
+        "duration": "05:32",
+        "artists": [
+          {
+            "artistId": 268462,
+            "name": "Trang Thiên",
+            "shortLink": "trang-thien",
+            "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2019/08/19/3/e/8/c/1566180077177_300.jpg"
+          }
+        ],
+        "type": "SONG",
+        "dateRelease": 1565438400000,
+        "dateCreate": 1565421944186,
+        "uploadBy": {
+          "userName": "nct_official",
+          "fullName": "NCT OFFICIAL",
+          "avatarUrl": ""
+        },
+        "provider": {
+          "name": "NCT MUSIC DISTRIBUTION",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/provider/2020/02/13/8/d/9/4/1581565412825.jpg"
+        },
+        "isMyPlaylist": false,
+        "statusViewValue": 1,
+        "statusPlayValue": 1,
+        "statusDownloadValue": 2,
+        "statusAddPlaylistValue": 0,
+        "refMapping": [],
+        "genreKey": "s-nhac-tre",
+        "streamUrls": [],
+        "description": "Ca khúc Vẫn Yêu do ca sĩ Trang Thiên thể hiện, thuộc thể loại Nhạc Trẻ. Các bạn có thể nghe, download (tải nhạc) bài hát Van Yeu   mp3, playlist/album, MV/Video Vẫn Yêu miễn phí tại NhacCuaTui.com."
+      },
+      {
+        "key": "rb4WAcZ0SMEO",
+        "title": "Chuyện Người Anh Thương",
+        "thumbnail": "https://avatar-ex-swe.nixcdn.com/song/2019/08/15/1/4/e/2/1565842468265_300.jpg",
+        "duration": "05:07",
+        "artists": [
+          {
+            "artistId": 291683,
+            "name": "Phạm Nguyên Ngọc",
+            "shortLink": "pham-nguyen-ngoc",
+            "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2019/08/15/a/0/8/9/1565843074139_300.jpg"
+          }
+        ],
+        "type": "SONG",
+        "dateRelease": 1565802000000,
+        "dateCreate": 1565842453543,
+        "uploadBy": {
+          "userName": "nct_official",
+          "fullName": "NCT OFFICIAL",
+          "avatarUrl": ""
+        },
+        "provider": {
+          "name": "SKYMUSIC",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/provider/2020/02/06/7/c/c/b/1580961979050.jpg"
+        },
+        "isMyPlaylist": false,
+        "statusViewValue": 1,
+        "statusPlayValue": 1,
+        "statusDownloadValue": 2,
+        "statusAddPlaylistValue": 0,
+        "refMapping": [],
+        "genreKey": "s-nhac-tre",
+        "streamUrls": [],
+        "description": "Ca khúc Chuyện Người Anh Thương do ca sĩ Phạm Nguyên Ngọc thể hiện, thuộc thể loại Nhạc Trẻ. Các bạn có thể nghe, download (tải nhạc) bài hát Chuyen Nguoi Anh Thuong   mp3, playlist/album, MV/Video Chuyện Người Anh Thương miễn phí tại NhacCuaTui.com."
+      },
+      {
+        "key": "hD2QLdXZWkKn",
+        "title": "Ba Chúng Ta (Three Of Us)",
+        "thumbnail": "https://avatar-ex-swe.nixcdn.com/song/2019/07/29/3/0/0/9/1564390912975_300.jpg",
+        "duration": "04:16",
+        "artists": [
+          {
+            "artistId": 224545,
+            "name": "Han Sara",
+            "shortLink": "han-sara",
+            "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2017/08/18/7/5/8/7/1503041568126_300.jpg"
+          },
+          {
+            "artistId": 26282,
+            "name": "Đỗ Hiếu",
+            "shortLink": "do-hieu",
+            "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2019/07/24/b/a/e/0/1563964820006_300.jpg"
+          }
+        ],
+        "type": "SONG",
+        "dateRelease": 1563973200000,
+        "dateCreate": 1563958525056,
+        "uploadBy": {
+          "userName": "nct_official",
+          "fullName": "NCT OFFICIAL",
+          "avatarUrl": ""
+        },
+        "provider": {
+          "name": "NCT MUSIC DISTRIBUTION",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/provider/2020/02/13/8/d/9/4/1581565412825.jpg"
+        },
+        "isMyPlaylist": false,
+        "statusViewValue": 1,
+        "statusPlayValue": 1,
+        "statusDownloadValue": 3,
+        "statusAddPlaylistValue": 0,
+        "refMapping": [
+          {
+            "refKey": "gyqfpSMAmlk8o",
+            "refType": "VIDEO"
+          }
+        ],
+        "genreKey": "s-nhac-tre",
+        "streamUrls": [],
+        "description": "Ca khúc Ba Chúng Ta (Three Of Us) do ca sĩ Han SaraĐỗ Hiếu,  thể hiện, thuộc thể loại Nhạc Trẻ. Các bạn có thể nghe, download (tải nhạc) bài hát Ba Chung Ta (Three Of Us)   mp3, playlist/album, MV/Video Ba Chúng Ta (Three Of Us) miễn phí tại NhacCuaTui.com."
+      },
+      {
+        "key": "05McKtMafMOi",
+        "title": "Chờ Ngày Anh Nhận Ra Em (Mối Tình Đầu Của Tôi OST)",
+        "thumbnail": "https://avatar-ex-swe.nixcdn.com/song/2019/02/27/7/c/4/7/1551258476400_300.jpg",
+        "duration": "04:58",
+        "artists": [
+          {
+            "artistId": 7534,
+            "name": "Thùy Chi",
+            "shortLink": "thuy-chi",
+            "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2022/12/06/5/4/7/3/1670306976907_300.jpg"
+          }
+        ],
+        "type": "SONG",
+        "dateRelease": 0,
+        "dateCreate": 1547534788712,
+        "uploadBy": {
+          "userName": "kenhlyricemlaai",
+          "fullName": "Em l&agrave; ai?",
+          "avatarUrl": ""
+        },
+        "provider": {
+          "name": "SKYMUSIC",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/provider/2020/02/06/7/c/c/b/1580961979050.jpg"
+        },
+        "isMyPlaylist": false,
+        "statusViewValue": 1,
+        "statusPlayValue": 1,
+        "statusDownloadValue": 2,
+        "statusAddPlaylistValue": 0,
+        "refMapping": [
+          {
+            "refKey": "4vRK0Z5a4D6Pi",
+            "refType": "VIDEO"
+          }
+        ],
+        "genreKey": "s-nhac-tre",
+        "streamUrls": [],
+        "description": "Ca khúc Chờ Ngày Anh Nhận Ra Em (Mối Tình Đầu Của Tôi OST) do ca sĩ Thùy Chi thể hiện, thuộc thể loại Nhạc Trẻ. Các bạn có thể nghe, download (tải nhạc) bài hát Cho Ngay Anh Nhan Ra Em (Moi Tinh Dau Cua Toi OST)   mp3, playlist/album, MV/Video Chờ Ngày Anh Nhận Ra Em (Mối Tình Đầu Của Tôi OST) miễn phí tại NhacCuaTui.com."
+      },
+      {
+        "key": "91YYMKNEcay2",
+        "title": "Đừng Để Anh Phải Nhìn Thấy",
+        "thumbnail": "https://avatar-ex-swe.nixcdn.com/song/2019/07/23/0/a/d/5/1563877398135_300.jpg",
+        "duration": "04:42",
+        "artists": [
+          {
+            "artistId": 288278,
+            "name": "Albus",
+            "shortLink": "dang-quang-minh",
+            "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2019/12/10/e/8/9/7/1575966078202_300.jpg"
+          }
+        ],
+        "type": "SONG",
+        "dateRelease": 1563973200000,
+        "dateCreate": 1563876729085,
+        "uploadBy": {
+          "userName": "nct_official",
+          "fullName": "NCT OFFICIAL",
+          "avatarUrl": ""
+        },
+        "provider": {
+          "name": "NCT MUSIC DISTRIBUTION",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/provider/2020/02/13/8/d/9/4/1581565412825.jpg"
+        },
+        "isMyPlaylist": false,
+        "statusViewValue": 1,
+        "statusPlayValue": 1,
+        "statusDownloadValue": 2,
+        "statusAddPlaylistValue": 0,
+        "refMapping": [
+          {
+            "refKey": "iqT1pIywbnd8J",
+            "refType": "VIDEO"
+          }
+        ],
+        "genreKey": "s-nhac-tre",
+        "streamUrls": [],
+        "description": "Ca khúc Đừng Để Anh Phải Nhìn Thấy do ca sĩ Albus thể hiện, thuộc thể loại Nhạc Trẻ. Các bạn có thể nghe, download (tải nhạc) bài hát Dung De Anh Phai Nhin Thay   mp3, playlist/album, MV/Video Đừng Để Anh Phải Nhìn Thấy miễn phí tại NhacCuaTui.com."
+      },
+      {
+        "key": "bU3xV3BaNgwQ",
+        "title": "Cà Phê Nhớ Em",
+        "thumbnail": "https://avatar-ex-swe.nixcdn.com/song/2019/08/07/3/6/d/a/1565161454639_300.jpg",
+        "duration": "05:11",
+        "artists": [
+          {
+            "artistId": 147566,
+            "name": "Bảo Kun",
+            "shortLink": "bak",
+            "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2019/11/11/4/4/d/7/1573462726109_300.jpg"
+          }
+        ],
+        "type": "SONG",
+        "dateRelease": 1565010000000,
+        "dateCreate": 1564738533487,
+        "uploadBy": {
+          "userName": "nct_official",
+          "fullName": "NCT OFFICIAL",
+          "avatarUrl": ""
+        },
+        "provider": {
+          "name": "NCT MUSIC DISTRIBUTION",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/provider/2020/02/13/8/d/9/4/1581565412825.jpg"
+        },
+        "isMyPlaylist": false,
+        "statusViewValue": 1,
+        "statusPlayValue": 1,
+        "statusDownloadValue": 2,
+        "statusAddPlaylistValue": 0,
+        "refMapping": [
+          {
+            "refKey": "A5x1Bfkqv1GoH",
+            "refType": "VIDEO"
+          }
+        ],
+        "genreKey": "s-nhac-tre",
+        "streamUrls": [],
+        "description": "Ca khúc Cà Phê Nhớ Em do ca sĩ Bảo Kun thể hiện, thuộc thể loại Nhạc Trẻ. Các bạn có thể nghe, download (tải nhạc) bài hát Ca Phe Nho Em   mp3, playlist/album, MV/Video Cà Phê Nhớ Em miễn phí tại NhacCuaTui.com."
+      },
+      {
+        "key": "ImZprWIxr400",
+        "title": "Anh Quên Em Rồi",
+        "thumbnail": "https://avatar-ex-swe.nixcdn.com/song/2019/07/31/1/a/3/2/1564561131717_300.jpg",
+        "duration": "03:51",
+        "artists": [
+          {
+            "artistId": 271655,
+            "name": "CHARLES.",
+            "shortLink": "charles",
+            "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2020/11/26/3/4/7/5/1606365306569_300.jpg"
+          }
+        ],
+        "type": "SONG",
+        "dateRelease": 1564664400000,
+        "dateCreate": 1564561119139,
+        "uploadBy": {
+          "userName": "nct_official",
+          "fullName": "NCT OFFICIAL",
+          "avatarUrl": ""
+        },
+        "provider": {
+          "name": "NCT MUSIC DISTRIBUTION",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/provider/2020/02/13/8/d/9/4/1581565412825.jpg"
+        },
+        "isMyPlaylist": false,
+        "statusViewValue": 1,
+        "statusPlayValue": 1,
+        "statusDownloadValue": 2,
+        "statusAddPlaylistValue": 0,
+        "refMapping": [
+          {
+            "refKey": "ubLsl1MiovxFm",
+            "refType": "VIDEO"
+          }
+        ],
+        "genreKey": "s-nhac-tre",
+        "streamUrls": [],
+        "description": "Ca khúc Anh Quên Em Rồi do ca sĩ CHARLES. thể hiện, thuộc thể loại Nhạc Trẻ. Các bạn có thể nghe, download (tải nhạc) bài hát Anh Quen Em Roi   mp3, playlist/album, MV/Video Anh Quên Em Rồi miễn phí tại NhacCuaTui.com."
+      },
+      {
+        "key": "Z4vh3ifcU1vN",
+        "title": "Chờ Đợi Một Người Quá Khó Phải Không?",
+        "thumbnail": "https://avatar-ex-swe.nixcdn.com/song/2019/07/19/3/8/8/f/1563504286365_300.jpg",
+        "duration": "04:57",
+        "artists": [
+          {
+            "artistId": 215675,
+            "name": "Việt Thắng",
+            "shortLink": "t-yong",
+            "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2019/03/02/8/3/5/4/1551493409680_300.jpg"
+          }
+        ],
+        "type": "SONG",
+        "dateRelease": 1563541200000,
+        "dateCreate": 1563504274999,
+        "uploadBy": {
+          "userName": "nct_official",
+          "fullName": "NCT OFFICIAL",
+          "avatarUrl": ""
+        },
+        "provider": {
+          "name": "NCT MUSIC DISTRIBUTION",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/provider/2020/02/13/8/d/9/4/1581565412825.jpg"
+        },
+        "isMyPlaylist": false,
+        "statusViewValue": 1,
+        "statusPlayValue": 1,
+        "statusDownloadValue": 2,
+        "statusAddPlaylistValue": 0,
+        "refMapping": [],
+        "genreKey": "s-nhac-tre",
+        "streamUrls": [],
+        "description": "Ca khúc Chờ Đợi Một Người Quá Khó Phải Không? do ca sĩ Việt Thắng thể hiện, thuộc thể loại Nhạc Trẻ. Các bạn có thể nghe, download (tải nhạc) bài hát Cho Doi Mot Nguoi Qua Kho Phai Khong?   mp3, playlist/album, MV/Video Chờ Đợi Một Người Quá Khó Phải Không? miễn phí tại NhacCuaTui.com."
+      },
+      {
+        "key": "6Ztckr7fPSp4",
+        "title": "Một Người Đã Từng",
+        "thumbnail": "https://avatar-ex-swe.nixcdn.com/song/2019/07/12/5/7/7/f/1562901448438_300.jpg",
+        "duration": "04:49",
+        "artists": [
+          {
+            "artistId": 198636,
+            "name": "Đức Lương",
+            "shortLink": "ducluong",
+            "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2019/07/12/e/c/0/2/1562920606894_300.jpg"
+          }
+        ],
+        "type": "SONG",
+        "dateRelease": 1562864400000,
+        "dateCreate": 1562901430671,
+        "uploadBy": {
+          "userName": "nct_official",
+          "fullName": "NCT OFFICIAL",
+          "avatarUrl": ""
+        },
+        "provider": {
+          "name": "NCT MUSIC DISTRIBUTION",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/provider/2020/02/13/8/d/9/4/1581565412825.jpg"
+        },
+        "isMyPlaylist": false,
+        "statusViewValue": 1,
+        "statusPlayValue": 1,
+        "statusDownloadValue": 2,
+        "statusAddPlaylistValue": 0,
+        "refMapping": [
+          {
+            "refKey": "bB9tYlKjOopQq",
+            "refType": "VIDEO"
+          }
+        ],
+        "genreKey": "s-nhac-tre",
+        "streamUrls": [],
+        "description": "Ca khúc Một Người Đã Từng do ca sĩ Đức Lương thể hiện, thuộc thể loại Nhạc Trẻ. Các bạn có thể nghe, download (tải nhạc) bài hát Mot Nguoi Da Tung   mp3, playlist/album, MV/Video Một Người Đã Từng miễn phí tại NhacCuaTui.com."
+      },
+      {
+        "key": "xS1KRpSm1qaZ",
+        "title": "Bà Ngày Xưa Đẹp Lắm (Acoustic Version)",
+        "thumbnail": "https://avatar-ex-swe.nixcdn.com/song/2019/07/15/6/c/9/7/1563167145513_300.jpg",
+        "duration": "04:35",
+        "artists": [
+          {
+            "artistId": 291272,
+            "name": "NonHanTa",
+            "shortLink": "nonhanta",
+            "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2019/07/19/2/3/b/1/1563509005550_300.jpg"
+          }
+        ],
+        "type": "SONG",
+        "dateRelease": 1563195600000,
+        "dateCreate": 1563165624163,
+        "uploadBy": {
+          "userName": "nct_official",
+          "fullName": "NCT OFFICIAL",
+          "avatarUrl": ""
+        },
+        "provider": {
+          "name": "NCT MUSIC DISTRIBUTION",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/provider/2020/02/13/8/d/9/4/1581565412825.jpg"
+        },
+        "isMyPlaylist": false,
+        "statusViewValue": 1,
+        "statusPlayValue": 1,
+        "statusDownloadValue": 2,
+        "statusAddPlaylistValue": 0,
+        "refMapping": [],
+        "genreKey": "s-nhac-tre",
+        "streamUrls": [],
+        "description": "Ca khúc Bà Ngày Xưa Đẹp Lắm (Acoustic Version) do ca sĩ NonHanTa thể hiện, thuộc thể loại Nhạc Trẻ. Các bạn có thể nghe, download (tải nhạc) bài hát Ba Ngay Xua Dep Lam (Acoustic Version)   mp3, playlist/album, MV/Video Bà Ngày Xưa Đẹp Lắm (Acoustic Version) miễn phí tại NhacCuaTui.com."
+      },
+      {
+        "key": "i6etFyaFFAUt",
+        "title": "Điều Không Ngờ Nhất",
+        "thumbnail": "https://avatar-ex-swe.nixcdn.com/song/2019/07/01/5/0/9/4/1561963622922_300.jpg",
+        "duration": "04:35",
+        "artists": [
+          {
+            "artistId": 148884,
+            "name": "Vicky Nhung",
+            "shortLink": "vicky-nhung",
+            "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2020/09/09/2/2/4/8/1599620037001_300.jpg"
+          }
+        ],
+        "type": "SONG",
+        "dateRelease": 1562245200000,
+        "dateCreate": 1561963611842,
+        "uploadBy": {
+          "userName": "nct_official",
+          "fullName": "NCT OFFICIAL",
+          "avatarUrl": ""
+        },
+        "provider": {
+          "name": "NCT MUSIC DISTRIBUTION",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/provider/2020/02/13/8/d/9/4/1581565412825.jpg"
+        },
+        "isMyPlaylist": false,
+        "statusViewValue": 1,
+        "statusPlayValue": 1,
+        "statusDownloadValue": 2,
+        "statusAddPlaylistValue": 0,
+        "refMapping": [
+          {
+            "refKey": "SXxDF1xUseSz6",
+            "refType": "VIDEO"
+          }
+        ],
+        "genreKey": "s-nhac-tre",
+        "streamUrls": [],
+        "description": "Ca khúc Điều Không Ngờ Nhất do ca sĩ Vicky Nhung thể hiện, thuộc thể loại Nhạc Trẻ. Các bạn có thể nghe, download (tải nhạc) bài hát Dieu Khong Ngo Nhat   mp3, playlist/album, MV/Video Điều Không Ngờ Nhất miễn phí tại NhacCuaTui.com."
+      },
+      {
+        "key": "V48yzfL3b0mL",
+        "title": "Giá Ngày Đầu Đừng Nói Thương Nhau",
+        "thumbnail": "https://avatar-ex-swe.nixcdn.com/song/2018/09/09/8/8/6/7/1536455194591_300.jpg",
+        "duration": "04:30",
+        "artists": [
+          {
+            "artistId": 80242,
+            "name": "Isaac",
+            "shortLink": "isaac",
+            "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2022/12/13/8/0/c/4/1670918456154_300.jpg"
+          }
+        ],
+        "type": "SONG",
+        "dateRelease": 0,
+        "dateCreate": 1536455181423,
+        "uploadBy": {
+          "userName": "gazpacho",
+          "fullName": "Triệu",
+          "avatarUrl": ""
+        },
+        "provider": {
+          "name": "UNIVERSAL MUSIC GROUP",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/provider/2020/02/06/7/c/c/b/1580970856708.jpg"
+        },
+        "isMyPlaylist": false,
+        "statusViewValue": 5,
+        "statusPlayValue": 0,
+        "statusDownloadValue": 0,
+        "statusAddPlaylistValue": 0,
+        "refMapping": [
+          {
+            "refKey": "1ceNpJ8x1dRWi",
+            "refType": "VIDEO"
+          }
+        ],
+        "genreKey": "s-nhac-tre",
+        "streamUrls": [],
+        "description": "Ca khúc Giá Ngày Đầu Đừng Nói Thương Nhau do ca sĩ Isaac thể hiện, thuộc thể loại Nhạc Trẻ. Các bạn có thể nghe, download (tải nhạc) bài hát Gia Ngay Dau Dung Noi Thuong Nhau   mp3, playlist/album, MV/Video Giá Ngày Đầu Đừng Nói Thương Nhau miễn phí tại NhacCuaTui.com."
+      },
+      {
+        "key": "m6gFueImHJGw",
+        "title": "Nơi Tình Yêu Bắt Đầu",
+        "thumbnail": "https://avatar-ex-swe.nixcdn.com/song/2016/10/05/3/d/6/3/1475640997963_300.jpg",
+        "duration": "04:36",
+        "artists": [
+          {
+            "artistId": 84049,
+            "name": "Bùi Anh Tuấn",
+            "shortLink": "bui-anh-tuan",
+            "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2019/09/12/c/3/c/7/1568273754205_300.jpg"
+          }
+        ],
+        "type": "SONG",
+        "dateRelease": 0,
+        "dateCreate": 0,
+        "uploadBy": {
+          "userName": "kukumasu_kukumasu",
+          "fullName": "Dương Th&aacute;i Bảo",
+          "avatarUrl": ""
+        },
+        "provider": null,
+        "isMyPlaylist": false,
+        "statusViewValue": 1,
+        "statusPlayValue": 1,
+        "statusDownloadValue": 2,
+        "statusAddPlaylistValue": 0,
+        "refMapping": [],
+        "genreKey": "s-nhac-tre",
+        "streamUrls": [],
+        "description": "Ca khúc Nơi Tình Yêu Bắt Đầu do ca sĩ Bùi Anh Tuấn thể hiện, thuộc thể loại Nhạc Trẻ. Các bạn có thể nghe, download (tải nhạc) bài hát Noi Tinh Yeu Bat Dau   mp3, playlist/album, MV/Video Nơi Tình Yêu Bắt Đầu miễn phí tại NhacCuaTui.com."
+      },
+      {
+        "key": "xe5j8HaGtnY3",
+        "title": "Thương Em Là Điều Anh Không Thể Ngờ",
+        "thumbnail": "https://avatar-ex-swe.nixcdn.com/song/2018/12/18/2/c/1/f/1545098338244_300.jpg",
+        "duration": "05:09",
+        "artists": [
+          {
+            "artistId": 28499,
+            "name": "Noo Phước Thịnh",
+            "shortLink": "noo-phuoc-thinh",
+            "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2020/09/14/0/2/8/0/1600055795446_300.jpg"
+          }
+        ],
+        "type": "SONG",
+        "dateRelease": 1545066000000,
+        "dateCreate": 1545016303958,
+        "uploadBy": {
+          "userName": "sonymusic",
+          "fullName": "SONY MUSIC",
+          "avatarUrl": ""
+        },
+        "provider": {
+          "name": "SONY MUSIC",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/provider/2020/02/13/8/d/9/4/1581563932392.jpg"
+        },
+        "isMyPlaylist": false,
+        "statusViewValue": 1,
+        "statusPlayValue": 1,
+        "statusDownloadValue": 0,
+        "statusAddPlaylistValue": 0,
+        "refMapping": [
+          {
+            "refKey": "rQsZJrbEX6rHs",
+            "refType": "VIDEO"
+          }
+        ],
+        "genreKey": "s-nhac-tre",
+        "streamUrls": [],
+        "description": "Ca khúc Thương Em Là Điều Anh Không Thể Ngờ do ca sĩ Noo Phước Thịnh thể hiện, thuộc thể loại Nhạc Trẻ. Các bạn có thể nghe, download (tải nhạc) bài hát Thuong Em La Dieu Anh Khong The Ngo   mp3, playlist/album, MV/Video Thương Em Là Điều Anh Không Thể Ngờ miễn phí tại NhacCuaTui.com."
+      },
+      {
+        "key": "Zd94rEDHDKRQ",
+        "title": "Gửi Người Yêu Cũ",
+        "thumbnail": "https://avatar-ex-swe.nixcdn.com/song/2020/11/18/2/f/0/4/1605669096273_300.jpg",
+        "duration": "04:44",
+        "artists": [
+          {
+            "artistId": 6093,
+            "name": "Hồ Ngọc Hà",
+            "shortLink": "ho-ngoc-ha",
+            "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2020/08/14/5/1/1/9/1597380071736_300.jpg"
+          }
+        ],
+        "type": "SONG",
+        "dateRelease": 0,
+        "dateCreate": 1470416657195,
+        "uploadBy": {
+          "userName": "nct_official",
+          "fullName": "NCT OFFICIAL",
+          "avatarUrl": ""
+        },
+        "provider": {
+          "name": "NCT MUSIC DISTRIBUTION",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/provider/2020/02/13/8/d/9/4/1581565412825.jpg"
+        },
+        "isMyPlaylist": false,
+        "statusViewValue": 1,
+        "statusPlayValue": 1,
+        "statusDownloadValue": 2,
+        "statusAddPlaylistValue": 0,
+        "refMapping": [
+          {
+            "refKey": "F64g60lPAUhxo",
+            "refType": "VIDEO"
+          }
+        ],
+        "genreKey": "s-nhac-tre",
+        "streamUrls": [],
+        "description": "Ca khúc Gửi Người Yêu Cũ do ca sĩ Hồ Ngọc Hà thể hiện, thuộc thể loại Nhạc Trẻ. Các bạn có thể nghe, download (tải nhạc) bài hát Gui Nguoi Yeu Cu   mp3, playlist/album, MV/Video Gửi Người Yêu Cũ miễn phí tại NhacCuaTui.com."
+      },
+      {
+        "key": "3CkFF2g6njA4",
+        "title": "Gửi Anh Xa Nhớ",
+        "thumbnail": "https://avatar-ex-swe.nixcdn.com/song/2017/09/08/e/2/7/8/1504860350301_300.jpg",
+        "duration": "04:16",
+        "artists": [
+          {
+            "artistId": 82091,
+            "name": "Bích Phương",
+            "shortLink": "bich-phuong",
+            "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2021/06/28/b/2/0/9/1624861449651_300.jpg"
+          }
+        ],
+        "type": "SONG",
+        "dateRelease": 0,
+        "dateCreate": 0,
+        "uploadBy": {
+          "userName": "nghe.nhac.mp3",
+          "fullName": "nghe.nhac.mp3",
+          "avatarUrl": ""
+        },
+        "provider": null,
+        "isMyPlaylist": false,
+        "statusViewValue": 1,
+        "statusPlayValue": 1,
+        "statusDownloadValue": 2,
+        "statusAddPlaylistValue": 0,
+        "refMapping": [
+          {
+            "refKey": "QbekPXIsa4LNG",
+            "refType": "VIDEO"
+          }
+        ],
+        "genreKey": "s-nhac-tre",
+        "streamUrls": [],
+        "description": "Ca khúc Gửi Anh Xa Nhớ do ca sĩ Bích Phương thể hiện, thuộc thể loại Nhạc Trẻ. Các bạn có thể nghe, download (tải nhạc) bài hát Gui Anh Xa Nho   mp3, playlist/album, MV/Video Gửi Anh Xa Nhớ miễn phí tại NhacCuaTui.com."
+      },
+      {
+        "key": "lM2cw8pZZXfe",
+        "title": "Trót Yêu",
+        "thumbnail": "https://avatar-ex-swe.nixcdn.com/song/2014/11/27/c/0/b/c/1417077531523_300.jpg",
+        "duration": "04:48",
+        "artists": [
+          {
+            "artistId": 56672,
+            "name": "Trung Quân",
+            "shortLink": "trung-quan",
+            "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2022/09/15/d/c/b/c/1663237004941_300.jpg"
+          }
+        ],
+        "type": "SONG",
+        "dateRelease": 0,
+        "dateCreate": 0,
+        "uploadBy": {
+          "userName": "lanquyen89",
+          "fullName": "lanquyen89",
+          "avatarUrl": ""
+        },
+        "provider": {
+          "name": "Đang Cập Nhật",
+          "imageUrl": ""
+        },
+        "isMyPlaylist": false,
+        "statusViewValue": 1,
+        "statusPlayValue": 1,
+        "statusDownloadValue": 2,
+        "statusAddPlaylistValue": 0,
+        "refMapping": [
+          {
+            "refKey": "U0vif7sQUDLGc",
+            "refType": "VIDEO"
+          }
+        ],
+        "genreKey": "s-nhac-tre",
+        "streamUrls": [],
+        "description": "Ca khúc Trót Yêu do ca sĩ Trung Quân thể hiện, thuộc thể loại Nhạc Trẻ. Các bạn có thể nghe, download (tải nhạc) bài hát Trot Yeu   mp3, playlist/album, MV/Video Trót Yêu miễn phí tại NhacCuaTui.com."
+      },
+      {
+        "key": "5BGgqchDP8ES",
+        "title": "Nhìn Về Quá Khứ",
+        "thumbnail": "https://avatar-ex-swe.nixcdn.com/song/2021/09/06/4/6/0/b/1630900789729_300.jpg",
+        "duration": "04:23",
+        "artists": [
+          {
+            "artistId": 210405,
+            "name": "Ti Ti",
+            "shortLink": null,
+            "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2016/05/28/7/6/6/8/1464437137435_300.jpg"
+          }
+        ],
+        "type": "SONG",
+        "dateRelease": 1630933200000,
+        "dateCreate": 1630900774296,
+        "uploadBy": {
+          "userName": "nct_official",
+          "fullName": "NCT OFFICIAL",
+          "avatarUrl": ""
+        },
+        "provider": {
+          "name": "NCT MUSIC DISTRIBUTION",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/provider/2020/02/13/8/d/9/4/1581565412825.jpg"
+        },
+        "isMyPlaylist": false,
+        "statusViewValue": 1,
+        "statusPlayValue": 1,
+        "statusDownloadValue": 2,
+        "statusAddPlaylistValue": 0,
+        "refMapping": [],
+        "genreKey": "s-nhac-tre",
+        "streamUrls": [],
+        "description": "Ca khúc Nhìn Về Quá Khứ do ca sĩ Ti Ti thể hiện, thuộc thể loại Nhạc Trẻ. Các bạn có thể nghe, download (tải nhạc) bài hát Nhin Ve Qua Khu   mp3, playlist/album, MV/Video Nhìn Về Quá Khứ miễn phí tại NhacCuaTui.com."
+      },
+      {
+        "key": "b1AjmTIRqz18",
+        "title": "Anh Cứ Đi Đi",
+        "thumbnail": "https://avatar-ex-swe.nixcdn.com/song/2017/11/13/3/e/1/2/1510543585615_300.jpg",
+        "duration": "04:11",
+        "artists": [
+          {
+            "artistId": 140293,
+            "name": "Hari Won",
+            "shortLink": "hari-won",
+            "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2019/09/26/1/d/b/5/1569474237302_300.jpg"
+          }
+        ],
+        "type": "SONG",
+        "dateRelease": 0,
+        "dateCreate": 1464875352260,
+        "uploadBy": {
+          "userName": "nct_official",
+          "fullName": "NCT OFFICIAL",
+          "avatarUrl": ""
+        },
+        "provider": {
+          "name": "SKYMUSIC",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/provider/2020/02/06/7/c/c/b/1580961979050.jpg"
+        },
+        "isMyPlaylist": false,
+        "statusViewValue": 1,
+        "statusPlayValue": 1,
+        "statusDownloadValue": 2,
+        "statusAddPlaylistValue": 0,
+        "refMapping": [
+          {
+            "refKey": "2X8uWUNRThLHI",
+            "refType": "VIDEO"
+          }
+        ],
+        "genreKey": "s-nhac-tre",
+        "streamUrls": [],
+        "description": "Ca khúc Anh Cứ Đi Đi do ca sĩ Hari Won thể hiện, thuộc thể loại Nhạc Trẻ. Các bạn có thể nghe, download (tải nhạc) bài hát Anh Cu Di Di   mp3, playlist/album, MV/Video Anh Cứ Đi Đi miễn phí tại NhacCuaTui.com."
+      },
+      {
+        "key": "btmm6eYyZzW4",
+        "title": "Nhắm Mắt Thấy Mùa Hè (Nhắm Mắt Thấy Mùa Hè OST)",
+        "thumbnail": "https://avatar-ex-swe.nixcdn.com/song/2018/05/28/a/5/1/6/1527475057443_300.jpg",
+        "duration": "04:43",
+        "artists": [
+          {
+            "artistId": 23861,
+            "name": "Nguyên Hà",
+            "shortLink": "nguyen-ha",
+            "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2020/05/20/5/f/e/3/1589944002038_300.jpg"
+          }
+        ],
+        "type": "SONG",
+        "dateRelease": 0,
+        "dateCreate": 1527474270706,
+        "uploadBy": {
+          "userName": "nct_official",
+          "fullName": "NCT OFFICIAL",
+          "avatarUrl": ""
+        },
+        "provider": {
+          "name": "SKYMUSIC",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/provider/2020/02/06/7/c/c/b/1580961979050.jpg"
+        },
+        "isMyPlaylist": false,
+        "statusViewValue": 1,
+        "statusPlayValue": 1,
+        "statusDownloadValue": 2,
+        "statusAddPlaylistValue": 0,
+        "refMapping": [
+          {
+            "refKey": "J9lRpcbCLs3IJ",
+            "refType": "VIDEO"
+          }
+        ],
+        "genreKey": "s-nhac-tre",
+        "streamUrls": [],
+        "description": "Ca khúc Nhắm Mắt Thấy Mùa Hè (Nhắm Mắt Thấy Mùa Hè OST) do ca sĩ Nguyên Hà thể hiện, thuộc thể loại Nhạc Trẻ. Các bạn có thể nghe, download (tải nhạc) bài hát Nham Mat Thay Mua He (Nham Mat Thay Mua He OST)   mp3, playlist/album, MV/Video Nhắm Mắt Thấy Mùa Hè (Nhắm Mắt Thấy Mùa Hè OST) miễn phí tại NhacCuaTui.com."
+      },
+      {
+        "key": "0wD8uUkbUMXR",
+        "title": "Trái Tim Em Cũng Biết Đau",
+        "thumbnail": "https://avatar-ex-swe.nixcdn.com/song/2017/08/24/3/f/b/f/1503547119985_300.jpg",
+        "duration": "05:02",
+        "artists": [
+          {
+            "artistId": 12516,
+            "name": "Bảo Anh",
+            "shortLink": "bao-anh",
+            "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2020/04/04/4/4/a/a/1585971562432_300.jpg"
+          }
+        ],
+        "type": "SONG",
+        "dateRelease": 0,
+        "dateCreate": 0,
+        "uploadBy": {
+          "userName": "nghe.nhac.mp3",
+          "fullName": "nghe.nhac.mp3",
+          "avatarUrl": ""
+        },
+        "provider": null,
+        "isMyPlaylist": false,
+        "statusViewValue": 1,
+        "statusPlayValue": 1,
+        "statusDownloadValue": 2,
+        "statusAddPlaylistValue": 0,
+        "refMapping": [],
+        "genreKey": "s-nhac-tre",
+        "streamUrls": [],
+        "description": "Ca khúc Trái Tim Em Cũng Biết Đau do ca sĩ Bảo Anh thể hiện, thuộc thể loại Nhạc Trẻ. Các bạn có thể nghe, download (tải nhạc) bài hát Trai Tim Em Cung Biet Dau   mp3, playlist/album, MV/Video Trái Tim Em Cũng Biết Đau miễn phí tại NhacCuaTui.com."
+      },
+      {
+        "key": "sTIb2MUfPtjf",
+        "title": "Anh Muốn Nói",
+        "thumbnail": "https://avatar-ex-swe.nixcdn.com/song/2016/12/21/2/0/c/5/1482295168703_300.jpg",
+        "duration": "04:45",
+        "artists": [
+          {
+            "artistId": 22314,
+            "name": "Trịnh Thăng Bình",
+            "shortLink": "trinh-thang-binh",
+            "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2022/10/28/d/f/a/6/1666943774061_300.jpg"
+          }
+        ],
+        "type": "SONG",
+        "dateRelease": 0,
+        "dateCreate": 0,
+        "uploadBy": {
+          "userName": "nghe.nhac.mp3",
+          "fullName": "nghe.nhac.mp3",
+          "avatarUrl": ""
+        },
+        "provider": null,
+        "isMyPlaylist": false,
+        "statusViewValue": 1,
+        "statusPlayValue": 1,
+        "statusDownloadValue": 2,
+        "statusAddPlaylistValue": 0,
+        "refMapping": [
+          {
+            "refKey": "TAYsK9ilO7iqb",
+            "refType": "VIDEO"
+          }
+        ],
+        "genreKey": "s-nhac-tre",
+        "streamUrls": [],
+        "description": "Ca khúc Anh Muốn Nói do ca sĩ Trịnh Thăng Bình thể hiện, thuộc thể loại Nhạc Trẻ. Các bạn có thể nghe, download (tải nhạc) bài hát Anh Muon Noi   mp3, playlist/album, MV/Video Anh Muốn Nói miễn phí tại NhacCuaTui.com."
+      },
+      {
+        "key": "vOJgz8CSLCpy",
+        "title": "Chiều Hôm Ấy",
+        "thumbnail": "https://avatar-ex-swe.nixcdn.com/song/2017/07/02/c/1/4/f/1498982534096_300.jpg",
+        "duration": "05:09",
+        "artists": [
+          {
+            "artistId": 235406,
+            "name": "JayKii",
+            "shortLink": "jaykii",
+            "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2019/04/08/1/7/f/1/1554720310886_300.jpg"
+          }
+        ],
+        "type": "SONG",
+        "dateRelease": 0,
+        "dateCreate": 0,
+        "uploadBy": {
+          "userName": "lanquyen89",
+          "fullName": "lanquyen89",
+          "avatarUrl": ""
+        },
+        "provider": null,
+        "isMyPlaylist": false,
+        "statusViewValue": 1,
+        "statusPlayValue": 1,
+        "statusDownloadValue": 2,
+        "statusAddPlaylistValue": 0,
+        "refMapping": [
+          {
+            "refKey": "kkzN71GWdALg9",
+            "refType": "VIDEO"
+          }
+        ],
+        "genreKey": "s-nhac-tre",
+        "streamUrls": [],
+        "description": "Ca khúc Chiều Hôm Ấy do ca sĩ JayKii thể hiện, thuộc thể loại Nhạc Trẻ. Các bạn có thể nghe, download (tải nhạc) bài hát Chieu Hom Ay   mp3, playlist/album, MV/Video Chiều Hôm Ấy miễn phí tại NhacCuaTui.com."
+      },
+      {
+        "key": "QA7u2hBY7pSC",
+        "title": "Một Thời Đã Xa",
+        "thumbnail": "https://avatar-ex-swe.nixcdn.com/song/2015/11/03/7/9/e/c/1446548995686_300.jpg",
+        "duration": "05:18",
+        "artists": [
+          {
+            "artistId": 7534,
+            "name": "Thùy Chi",
+            "shortLink": "thuy-chi",
+            "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2022/12/06/5/4/7/3/1670306976907_300.jpg"
+          }
+        ],
+        "type": "SONG",
+        "dateRelease": 0,
+        "dateCreate": 1446214151072,
+        "uploadBy": {
+          "userName": "nct_official",
+          "fullName": "NCT OFFICIAL",
+          "avatarUrl": ""
+        },
+        "provider": {
+          "name": "SKYMUSIC",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/provider/2020/02/06/7/c/c/b/1580961979050.jpg"
+        },
+        "isMyPlaylist": false,
+        "statusViewValue": 1,
+        "statusPlayValue": 1,
+        "statusDownloadValue": 2,
+        "statusAddPlaylistValue": 0,
+        "refMapping": [],
+        "genreKey": "s-nhac-tre",
+        "streamUrls": [],
+        "description": "Ca khúc Một Thời Đã Xa do ca sĩ Thùy Chi thể hiện, thuộc thể loại Nhạc Trẻ. Các bạn có thể nghe, download (tải nhạc) bài hát Mot Thoi Da Xa   mp3, playlist/album, MV/Video Một Thời Đã Xa miễn phí tại NhacCuaTui.com."
+      },
+      {
+        "key": "miHy5IoqIr26",
+        "title": "Giả Vờ Nói Yêu Em Đi",
+        "thumbnail": "https://avatar-ex-swe.nixcdn.com/song/2018/10/24/3/c/c/b/1540364420386_300.jpg",
+        "duration": "04:01",
+        "artists": [
+          {
+            "artistId": 223449,
+            "name": "Jin Ju",
+            "shortLink": "jin-ju",
+            "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2019/08/28/3/6/4/d/1566964121605_300.jpg"
+          }
+        ],
+        "type": "SONG",
+        "dateRelease": 1540386000000,
+        "dateCreate": 1540364372132,
+        "uploadBy": {
+          "userName": "nct_official",
+          "fullName": "NCT OFFICIAL",
+          "avatarUrl": ""
+        },
+        "provider": {
+          "name": "SKYMUSIC",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/provider/2020/02/06/7/c/c/b/1580961979050.jpg"
+        },
+        "isMyPlaylist": false,
+        "statusViewValue": 1,
+        "statusPlayValue": 1,
+        "statusDownloadValue": 2,
+        "statusAddPlaylistValue": 0,
+        "refMapping": [
+          {
+            "refKey": "cSxl03v25njLp",
+            "refType": "VIDEO"
+          }
+        ],
+        "genreKey": "s-nhac-tre",
+        "streamUrls": [],
+        "description": "Ca khúc Giả Vờ Nói Yêu Em Đi do ca sĩ Jin Ju thể hiện, thuộc thể loại Nhạc Trẻ. Các bạn có thể nghe, download (tải nhạc) bài hát Gia Vo Noi Yeu Em Di   mp3, playlist/album, MV/Video Giả Vờ Nói Yêu Em Đi miễn phí tại NhacCuaTui.com."
+      },
+      {
+        "key": "ZjhJVYGX2eth",
+        "title": "Em Đã Yêu Người Khác Rồi",
+        "thumbnail": "https://avatar-ex-swe.nixcdn.com/song/2021/11/04/5/1/4/e/1635984859370_300.jpg",
+        "duration": "05:24",
+        "artists": [
+          {
+            "artistId": 135263,
+            "name": "Cao Nam Thành",
+            "shortLink": "cao-nam-thanh",
+            "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2017/11/19/8/9/b/3/1511100269341_300.jpg"
+          }
+        ],
+        "type": "SONG",
+        "dateRelease": 1636200000000,
+        "dateCreate": 1635984846629,
+        "uploadBy": {
+          "userName": "nct_official",
+          "fullName": "NCT OFFICIAL",
+          "avatarUrl": ""
+        },
+        "provider": {
+          "name": "NCT MUSIC DISTRIBUTION",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/provider/2020/02/13/8/d/9/4/1581565412825.jpg"
+        },
+        "isMyPlaylist": false,
+        "statusViewValue": 1,
+        "statusPlayValue": 1,
+        "statusDownloadValue": 2,
+        "statusAddPlaylistValue": 0,
+        "refMapping": [],
+        "genreKey": "s-nhac-tre",
+        "streamUrls": [],
+        "description": "Ca khúc Em Đã Yêu Người Khác Rồi do ca sĩ Cao Nam Thành thể hiện, thuộc thể loại Nhạc Trẻ. Các bạn có thể nghe, download (tải nhạc) bài hát Em Da Yeu Nguoi Khac Roi   mp3, playlist/album, MV/Video Em Đã Yêu Người Khác Rồi miễn phí tại NhacCuaTui.com."
+      }
+    ],
+    "videos": null,
+    "description": "Những ca khúc buồn ballad gây thương nhớ.",
+    "dateModify": "22/12/2022",
+    "listTag": [
+      {
+        "group": "the-loai",
+        "key": "nhac-tre",
+        "name": "Nhạc Trẻ"
+      },
+      {
+        "group": "tam-trang",
+        "key": "buon",
+        "name": "Buồn"
+      },
+      {
+        "group": "tam-trang",
+        "key": "that-tinh",
+        "name": "Thất Tình"
+      },
+      {
+        "group": "khung-canh",
+        "key": "lang-man",
+        "name": "Lãng Mạn"
+      },
+      {
+        "group": "chu-de",
+        "key": "con-gai",
+        "name": "Con Gái"
+      },
+      {
+        "group": "chu-de",
+        "key": "tinh-yeu",
+        "name": "Tình Yêu"
+      },
+      {
+        "group": "chu-de",
+        "key": "con-trai",
+        "name": "Con Trai"
+      }
+    ],
+    "numOfItems": 0
+  },
+  "time": 1672058647634
+}

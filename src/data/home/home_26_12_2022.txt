@@ -1,0 +1,2060 @@
+{
+  "status": "success",
+  "newRelease": {
+    "song": [
+      {
+        "key": "keh67ns4dkPq",
+        "title": "Em Có Thích Nuôi Mèo Không",
+        "thumbnail": "https://avatar-ex-swe.nixcdn.com/song/2022/12/15/0/3/9/2/1671077785820_300.jpg",
+        "duration": "03:23",
+        "artists": [
+          {
+            "artistId": 495422,
+            "name": "VinT",
+            "shortLink": null,
+            "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2022/12/15/f/c/b/5/1671076755190_300.jpg"
+          }
+        ],
+        "type": "SONG",
+        "dateRelease": 1671814800000,
+        "dateCreate": 1671077785306,
+        "uploadBy": null,
+        "provider": null,
+        "isMyPlaylist": false,
+        "statusViewValue": 1,
+        "statusPlayValue": 1,
+        "statusDownloadValue": 2,
+        "statusAddPlaylistValue": 0,
+        "refMapping": [],
+        "genreKey": "",
+        "streamUrls": [],
+        "description": null
+      },
+      {
+        "key": "qToCw4wpCCVh",
+        "title": "Chuyện Tình Tôi",
+        "thumbnail": "https://avatar-ex-swe.nixcdn.com/song/2022/12/23/1/9/1/5/1671778029457_300.jpg",
+        "duration": "03:02",
+        "artists": [
+          {
+            "artistId": 38627,
+            "name": "KHOA",
+            "shortLink": "khoa",
+            "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2022/08/22/d/e/c/c/1661149748998_300.jpg"
+          },
+          {
+            "artistId": 133023,
+            "name": "Kay Trần",
+            "shortLink": "kay-tran",
+            "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2021/07/05/7/5/8/a/1625467381647_300.jpg"
+          },
+          {
+            "artistId": 496006,
+            "name": "KASS",
+            "shortLink": null,
+            "imageUrl": null
+          }
+        ],
+        "type": "SONG",
+        "dateRelease": 1671973200000,
+        "dateCreate": 1536762310547,
+        "uploadBy": null,
+        "provider": null,
+        "isMyPlaylist": false,
+        "statusViewValue": 1,
+        "statusPlayValue": 1,
+        "statusDownloadValue": 2,
+        "statusAddPlaylistValue": 0,
+        "refMapping": [
+          {
+            "refKey": "HvWKzFurs5lpi",
+            "refType": "VIDEO"
+          }
+        ],
+        "genreKey": "",
+        "streamUrls": [],
+        "description": null
+      },
+      {
+        "key": "ESFq1iGH8zTQ",
+        "title": "một đời",
+        "thumbnail": "https://avatar-ex-swe.nixcdn.com/song/2022/12/20/5/6/7/f/1671530957863_300.jpg",
+        "duration": "05:28",
+        "artists": [
+          {
+            "artistId": 292052,
+            "name": "14 Casper",
+            "shortLink": null,
+            "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2022/05/28/0/9/f/5/1653672387148_300.jpg"
+          },
+          {
+            "artistId": 458704,
+            "name": "Bon Nghiêm",
+            "shortLink": null,
+            "imageUrl": null
+          },
+          {
+            "artistId": 312892,
+            "name": "buitruonglinh",
+            "shortLink": "buitruonglinh",
+            "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2022/12/14/3/f/d/9/1670999886855_300.jpg"
+          }
+        ],
+        "type": "SONG",
+        "dateRelease": 1671627600000,
+        "dateCreate": 1671342161573,
+        "uploadBy": null,
+        "provider": null,
+        "isMyPlaylist": false,
+        "statusViewValue": 1,
+        "statusPlayValue": 1,
+        "statusDownloadValue": 0,
+        "statusAddPlaylistValue": 0,
+        "refMapping": [],
+        "genreKey": "",
+        "streamUrls": [],
+        "description": null
+      },
+      {
+        "key": "kTCkw3fw09gI",
+        "title": "Thiên Thần Ơi",
+        "thumbnail": "https://avatar-ex-swe.nixcdn.com/song/2022/12/21/b/2/7/c/1671618957201_300.jpg",
+        "duration": "03:16",
+        "artists": [
+          {
+            "artistId": 209774,
+            "name": "Đạt G",
+            "shortLink": "dat-g",
+            "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2022/07/14/2/1/0/a/1657771898603_300.jpg"
+          }
+        ],
+        "type": "SONG",
+        "dateRelease": 1671850800000,
+        "dateCreate": 1671618956171,
+        "uploadBy": null,
+        "provider": null,
+        "isMyPlaylist": false,
+        "statusViewValue": 1,
+        "statusPlayValue": 1,
+        "statusDownloadValue": 2,
+        "statusAddPlaylistValue": 0,
+        "refMapping": [],
+        "genreKey": "",
+        "streamUrls": [],
+        "description": null
+      },
+      {
+        "key": "QZcp0prH30ML",
+        "title": "Cưa Anh",
+        "thumbnail": "https://avatar-ex-swe.nixcdn.com/song/2022/12/13/a/f/7/3/1670918210969_300.jpg",
+        "duration": "03:06",
+        "artists": [
+          {
+            "artistId": 297771,
+            "name": "Duệ My",
+            "shortLink": "due-my",
+            "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2022/12/14/3/f/d/9/1670992846027_300.jpg"
+          },
+          {
+            "artistId": 175274,
+            "name": "StillaD",
+            "shortLink": "stillad",
+            "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2022/12/14/3/f/d/9/1670992664030_300.jpg"
+          }
+        ],
+        "type": "SONG",
+        "dateRelease": 1671973800000,
+        "dateCreate": 1670918210252,
+        "uploadBy": null,
+        "provider": null,
+        "isMyPlaylist": false,
+        "statusViewValue": 1,
+        "statusPlayValue": 1,
+        "statusDownloadValue": 2,
+        "statusAddPlaylistValue": 0,
+        "refMapping": [],
+        "genreKey": "",
+        "streamUrls": [],
+        "description": null
+      },
+      {
+        "key": "7FXJTj3v1Y6P",
+        "title": "Đôi Ly Whisky",
+        "thumbnail": "https://avatar-ex-swe.nixcdn.com/song/2022/12/15/0/3/9/2/1671089790561_300.jpg",
+        "duration": "02:54",
+        "artists": [
+          {
+            "artistId": 88555,
+            "name": "Nguyễn Trọng Tài",
+            "shortLink": "nguyen-trong-tai",
+            "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2019/10/22/1/f/8/1/1571729753304_300.jpg"
+          },
+          {
+            "artistId": 306101,
+            "name": "Lazii",
+            "shortLink": null,
+            "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2020/05/12/5/a/7/c/1589255733101_300.jpg"
+          }
+        ],
+        "type": "SONG",
+        "dateRelease": 1671883200000,
+        "dateCreate": 1671089789846,
+        "uploadBy": null,
+        "provider": null,
+        "isMyPlaylist": false,
+        "statusViewValue": 1,
+        "statusPlayValue": 1,
+        "statusDownloadValue": 2,
+        "statusAddPlaylistValue": 0,
+        "refMapping": [],
+        "genreKey": "",
+        "streamUrls": [],
+        "description": null
+      }
+    ],
+    "playlist": []
+  },
+  "ranking": {
+    "song": [
+      {
+        "title": "Đế Vương",
+        "position": 1,
+        "oldPosition": 0,
+        "highestPosition": 1,
+        "totalWeekInRanked": 12,
+        "thumbnail": "https://avatar-ex-swe.nixcdn.com/song/2021/11/29/a/9/5/0/1638180197658_300.jpg",
+        "artists": [
+          {
+            "artistId": 32953,
+            "name": "Đình Dũng",
+            "shortLink": "dinh-dung",
+            "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2022/09/30/7/3/1/4/1664527571153_300.jpg"
+          },
+          {
+            "artistId": 291286,
+            "name": "ACV",
+            "shortLink": null,
+            "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2020/08/17/0/6/7/1/1597629837858_300.jpg"
+          }
+        ],
+        "songKey": "w8lmuII1Yn2G",
+        "viewIn24H": null,
+        "duration": 0
+      },
+      {
+        "title": "Bước Qua Nhau",
+        "position": 2,
+        "oldPosition": 0,
+        "highestPosition": 1,
+        "totalWeekInRanked": 13,
+        "thumbnail": "https://avatar-ex-swe.nixcdn.com/song/2021/11/19/6/d/9/1/1637317177185_300.jpg",
+        "artists": [
+          {
+            "artistId": 57932,
+            "name": "Vũ",
+            "shortLink": "vu",
+            "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2022/09/06/8/9/f/3/1662436842575_300.jpg"
+          }
+        ],
+        "songKey": "EdENCgJm9dAa",
+        "viewIn24H": null,
+        "duration": 0
+      },
+      {
+        "title": "Câu Hứa Chưa Vẹn Tròn",
+        "position": 3,
+        "oldPosition": 0,
+        "highestPosition": 2,
+        "totalWeekInRanked": 18,
+        "thumbnail": "https://avatar-ex-swe.nixcdn.com/song/2021/09/23/b/9/f/5/1632384189938_300.jpg",
+        "artists": [
+          {
+            "artistId": 303099,
+            "name": "Phát Huy T4",
+            "shortLink": "phat-huy-t4",
+            "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2021/09/23/d/9/5/f/1632383622884_300.jpg"
+          }
+        ],
+        "songKey": "tnP3A32iG5Wz",
+        "viewIn24H": null,
+        "duration": 0
+      },
+      {
+        "title": "Ái Nộ",
+        "position": 4,
+        "oldPosition": 0,
+        "highestPosition": 1,
+        "totalWeekInRanked": 25,
+        "thumbnail": "https://avatar-ex-swe.nixcdn.com/song/2021/08/30/2/1/a/e/1630316309035_300.jpg",
+        "artists": [
+          {
+            "artistId": 248713,
+            "name": "Masew",
+            "shortLink": "masew",
+            "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2022/06/16/c/6/8/8/1655374371348_300.jpg"
+          },
+          {
+            "artistId": 295175,
+            "name": "Khôi Vũ",
+            "shortLink": "khoi-vu",
+            "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2021/09/13/8/9/3/6/1631521867789_300.jpg"
+          }
+        ],
+        "songKey": "AyqiSaUZD9Ey",
+        "viewIn24H": null,
+        "duration": 0
+      },
+      {
+        "title": "Thê Lương",
+        "position": 5,
+        "oldPosition": 0,
+        "highestPosition": 1,
+        "totalWeekInRanked": 34,
+        "thumbnail": "https://avatar-ex-swe.nixcdn.com/song/2021/03/12/e/2/9/e/1615554946033_300.jpg",
+        "artists": [
+          {
+            "artistId": 348946,
+            "name": "Phúc Chinh",
+            "shortLink": null,
+            "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2021/07/13/0/6/d/2/1626145766324_300.jpg"
+          }
+        ],
+        "songKey": "nmxw6tXZyBQy",
+        "viewIn24H": null,
+        "duration": 0
+      },
+      {
+        "title": "Câu Hẹn Câu Thề",
+        "position": 6,
+        "oldPosition": 0,
+        "highestPosition": 2,
+        "totalWeekInRanked": 47,
+        "thumbnail": "https://avatar-ex-swe.nixcdn.com/song/2021/03/29/2/2/1/e/1617029681297_300.jpg",
+        "artists": [
+          {
+            "artistId": 32953,
+            "name": "Đình Dũng",
+            "shortLink": "dinh-dung",
+            "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2022/09/30/7/3/1/4/1664527571153_300.jpg"
+          },
+          {
+            "artistId": 291286,
+            "name": "ACV",
+            "shortLink": null,
+            "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2020/08/17/0/6/7/1/1597629837858_300.jpg"
+          }
+        ],
+        "songKey": "DT1Ev3vytaQo",
+        "viewIn24H": null,
+        "duration": 0
+      },
+      {
+        "title": "Sài Gòn Đau Lòng Quá",
+        "position": 7,
+        "oldPosition": 0,
+        "highestPosition": 1,
+        "totalWeekInRanked": 47,
+        "thumbnail": "https://avatar-ex-swe.nixcdn.com/song/2021/03/27/d/2/9/1/1616859493571_300.jpg",
+        "artists": [
+          {
+            "artistId": 221310,
+            "name": "Hứa Kim Tuyền",
+            "shortLink": "hua-kim-tuyen",
+            "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2021/03/30/c/2/0/6/1617079270471_300.jpg"
+          },
+          {
+            "artistId": 349061,
+            "name": "Hoàng Duyên",
+            "shortLink": "hoang-duyen",
+            "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2022/02/10/5/9/4/6/1644466430613_300.jpg"
+          }
+        ],
+        "songKey": "2hI4xFTa2lxJ",
+        "viewIn24H": null,
+        "duration": 0
+      },
+      {
+        "title": "Muộn Rồi Mà Sao Còn",
+        "position": 8,
+        "oldPosition": 0,
+        "highestPosition": 1,
+        "totalWeekInRanked": 42,
+        "thumbnail": "https://avatar-ex-swe.nixcdn.com/song/2021/04/29/9/1/f/8/1619691182261_300.jpg",
+        "artists": [
+          {
+            "artistId": 63207,
+            "name": "Sơn Tùng M-TP",
+            "shortLink": "son-tung-mtp",
+            "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2021/05/12/7/d/c/b/1620802736418_300.jpg"
+          }
+        ],
+        "songKey": "6nAqBAZ3nxuV",
+        "viewIn24H": null,
+        "duration": 0
+      },
+      {
+        "title": "Cưới Thôi",
+        "position": 9,
+        "oldPosition": 0,
+        "highestPosition": 2,
+        "totalWeekInRanked": 23,
+        "thumbnail": "https://avatar-ex-swe.nixcdn.com/song/2021/09/09/f/c/f/d/1631181753902_300.jpg",
+        "artists": [
+          {
+            "artistId": 248713,
+            "name": "Masew",
+            "shortLink": "masew",
+            "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2022/06/16/c/6/8/8/1655374371348_300.jpg"
+          },
+          {
+            "artistId": 359537,
+            "name": "Masiu",
+            "shortLink": "masiu",
+            "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2021/08/30/8/3/f/f/1630313898499_300.jpg"
+          },
+          {
+            "artistId": 85076,
+            "name": "B Ray",
+            "shortLink": "bray",
+            "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2020/05/27/6/9/5/0/1590562104987_300.jpg"
+          },
+          {
+            "artistId": 349867,
+            "name": "TAP",
+            "shortLink": null,
+            "imageUrl": null
+          }
+        ],
+        "songKey": "SQTZSysfmPRJ",
+        "viewIn24H": null,
+        "duration": 0
+      },
+      {
+        "title": "Tình Thương Phu Thê",
+        "position": 10,
+        "oldPosition": 0,
+        "highestPosition": 3,
+        "totalWeekInRanked": 24,
+        "thumbnail": "https://avatar-ex-swe.nixcdn.com/song/2021/05/26/a/4/3/5/1622033146255_300.jpg",
+        "artists": [
+          {
+            "artistId": 358051,
+            "name": "Chí Hướng",
+            "shortLink": "chi-huong",
+            "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2021/09/20/9/a/8/4/1632115580469_300.jpg"
+          }
+        ],
+        "songKey": "dyuboCveJEDw",
+        "viewIn24H": null,
+        "duration": 0
+      }
+    ],
+    "week": 51,
+    "year": 2022,
+    "key": null
+  },
+  "showcase": [
+    {
+      "title": "Họp Gia Đình - Huy Lee, Mẹ Gấu",
+      "key": "wyjllbnsg",
+      "thumbnail": "https://avatar-ex-swe.nixcdn.com/slideshow/2022/12/17/8/4/8/c/1671270159335_org.jpg",
+      "url": "https://www.nhaccuatui.com/bai-hat/hop-gia-dinh-huy-lee-me-gau.ylQm1h9vY2FX.html",
+      "description": "Họp Gia Đình - Huy Lee, Mẹ Gấu",
+      "order": 1,
+      "imageUrl": "https://avatar-ex-swe.nixcdn.com/slideshow-web/2022/12/17/5/c/3/3/1671270160283.jpg"
+    },
+    {
+      "title": "Quả Táo - TIA, Freaky, CM1X",
+      "key": "wyjlzdnsa",
+      "thumbnail": "https://avatar-ex-swe.nixcdn.com/slideshow/2022/12/23/6/1/7/1/1671766282084_org.jpg",
+      "url": "https://www.nhaccuatui.com/bai-hat/qua-tao-tia-hai-chau-ft-freaky-ft-cm1x.2eGgibj6YecO.html",
+      "description": "Quả Táo - TIA, Freaky, CM1X",
+      "order": 2,
+      "imageUrl": "https://avatar-ex-swe.nixcdn.com/slideshow-web/2022/12/23/9/c/3/a/1671788650706.jpg"
+    },
+    {
+      "title": "Tuần Mới Nhạc Mới",
+      "key": "wyjllkyje",
+      "thumbnail": "https://avatar-ex-swe.nixcdn.com/slideshow/2022/12/26/9/9/c/6/1672022538270_org.jpg",
+      "url": "https://www.nhaccuatui.com/playlist/tuan-moi-nhac-moi-va.WJ48BOpJH2bV.html",
+      "description": "Tuần Mới Nhạc Mới",
+      "order": 3,
+      "imageUrl": "https://avatar-ex-swe.nixcdn.com/slideshow-web/2022/12/26/b/a/a/c/1672022539283.jpg"
+    },
+    {
+      "title": "Ngủ Một Mình (tình rất tình) - HIEUTHUHAI, Negav, Kewtiie",
+      "key": "wyjllfeqb",
+      "thumbnail": "https://avatar-ex-swe.nixcdn.com/slideshow/2022/12/14/2/1/1/4/1670996723064_org.jpg",
+      "url": "https://www.nhaccuatui.com/bai-hat/ngu-mot-minh-tinh-rat-tinh-hieuthuhai-ft-negav-ft-kewtiie.yX3LbE2D6Pci.html",
+      "description": "Ngủ Một Mình (tình rất tình) - HIEUTHUHAI, Negav, Kewtiie",
+      "order": 4,
+      "imageUrl": "https://avatar-ex-swe.nixcdn.com/slideshow-web/2022/12/14/0/5/d/e/1670996723627.jpg"
+    },
+    {
+      "title": "EP OXO - SIVAN ",
+      "key": "wyjlzpczf",
+      "thumbnail": "https://avatar-ex-swe.nixcdn.com/slideshow/2022/12/21/d/5/2/4/1671620609255_org.jpg",
+      "url": "https://www.nhaccuatui.com/playlist/ep-oxo-sivan-minh-an-sivan.dFerFANlWQhN.html",
+      "description": "EP OXO - SIVAN ",
+      "order": 5,
+      "imageUrl": "https://avatar-ex-swe.nixcdn.com/slideshow-web/2022/12/21/d/8/2/2/1671620609628.jpg"
+    }
+  ],
+  "song": [
+    {
+      "key": "yMAmcK7ndD5X",
+      "title": "Em Vẫn Tin Vào Tình Yêu Ấy (Piano Version)",
+      "thumbnail": "https://avatar-ex-swe.nixcdn.com/song/2022/12/22/3/8/0/0/1671677524634_300.jpg",
+      "duration": "05:16",
+      "artists": [
+        {
+          "artistId": 6558,
+          "name": "Lương Bích Hữu",
+          "shortLink": "luong-bich-huu",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2022/12/22/5/d/9/b/1671677654977_300.jpg"
+        }
+      ],
+      "type": "SONG",
+      "dateRelease": 1671800400000,
+      "dateCreate": 1671621121343,
+      "uploadBy": null,
+      "provider": null,
+      "isMyPlaylist": false,
+      "statusViewValue": 1,
+      "statusPlayValue": 1,
+      "statusDownloadValue": 2,
+      "statusAddPlaylistValue": 0,
+      "refMapping": [],
+      "genreKey": "",
+      "streamUrls": [],
+      "description": ""
+    },
+    {
+      "key": "dyARe0bNwOXU",
+      "title": "Đơn",
+      "thumbnail": "https://avatar-ex-swe.nixcdn.com/song/2022/12/08/f/7/5/2/1670489955383_300.jpg",
+      "duration": "02:24",
+      "artists": [
+        {
+          "artistId": 469758,
+          "name": "JP Long",
+          "shortLink": null,
+          "imageUrl": null
+        }
+      ],
+      "type": "SONG",
+      "dateRelease": 1671973200000,
+      "dateCreate": 1670489954988,
+      "uploadBy": null,
+      "provider": null,
+      "isMyPlaylist": false,
+      "statusViewValue": 1,
+      "statusPlayValue": 1,
+      "statusDownloadValue": 2,
+      "statusAddPlaylistValue": 0,
+      "refMapping": [],
+      "genreKey": "",
+      "streamUrls": [],
+      "description": ""
+    },
+    {
+      "key": "4lPy1BU3B9zb",
+      "title": "Nếu Em Còn Đợi Anh",
+      "thumbnail": "https://avatar-ex-swe.nixcdn.com/song/2022/12/15/0/3/9/2/1671089350442_300.jpg",
+      "duration": "03:53",
+      "artists": [
+        {
+          "artistId": 312892,
+          "name": "buitruonglinh",
+          "shortLink": "buitruonglinh",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2022/12/14/3/f/d/9/1670999886855_300.jpg"
+        }
+      ],
+      "type": "SONG",
+      "dateRelease": 1671022800000,
+      "dateCreate": 1670820301621,
+      "uploadBy": null,
+      "provider": null,
+      "isMyPlaylist": false,
+      "statusViewValue": 1,
+      "statusPlayValue": 1,
+      "statusDownloadValue": 2,
+      "statusAddPlaylistValue": 0,
+      "refMapping": [],
+      "genreKey": "",
+      "streamUrls": [],
+      "description": ""
+    },
+    {
+      "key": "ssaRJhjD1MqD",
+      "title": "Cưới Thôi 2",
+      "thumbnail": "https://avatar-ex-swe.nixcdn.com/song/2022/12/20/5/6/7/f/1671509447021_300.jpg",
+      "duration": "03:19",
+      "artists": [
+        {
+          "artistId": 248713,
+          "name": "Masew",
+          "shortLink": "masew",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2022/06/16/c/6/8/8/1655374371348_300.jpg"
+        }
+      ],
+      "type": "SONG",
+      "dateRelease": 1671800400000,
+      "dateCreate": 1671509443905,
+      "uploadBy": null,
+      "provider": null,
+      "isMyPlaylist": false,
+      "statusViewValue": 1,
+      "statusPlayValue": 1,
+      "statusDownloadValue": 2,
+      "statusAddPlaylistValue": 0,
+      "refMapping": [],
+      "genreKey": "",
+      "streamUrls": [],
+      "description": ""
+    },
+    {
+      "key": "TcPGC0JoqBJA",
+      "title": "Sweet Lies (Sped Up Version)",
+      "thumbnail": "https://avatar-ex-swe.nixcdn.com/song/2022/12/16/7/d/4/0/1671157722433_300.jpg",
+      "duration": "01:40",
+      "artists": [
+        {
+          "artistId": 306774,
+          "name": "Nathan Dawe",
+          "shortLink": null,
+          "imageUrl": null
+        },
+        {
+          "artistId": 319965,
+          "name": "Talia Mar",
+          "shortLink": null,
+          "imageUrl": null
+        },
+        {
+          "artistId": 470102,
+          "name": "sped up nightcore",
+          "shortLink": null,
+          "imageUrl": null
+        }
+      ],
+      "type": "SONG",
+      "dateRelease": 1671210000000,
+      "dateCreate": 1671157721978,
+      "uploadBy": null,
+      "provider": null,
+      "isMyPlaylist": false,
+      "statusViewValue": 1,
+      "statusPlayValue": 1,
+      "statusDownloadValue": 0,
+      "statusAddPlaylistValue": 0,
+      "refMapping": [],
+      "genreKey": "",
+      "streamUrls": [],
+      "description": ""
+    },
+    {
+      "key": "Z3cpIFtvW0MD",
+      "title": "Superstar",
+      "thumbnail": "https://avatar-ex-swe.nixcdn.com/song/2022/05/23/9/c/1/2/1653281045366_300.jpg",
+      "duration": "03:21",
+      "artists": [
+        {
+          "artistId": 8984,
+          "name": "Darin",
+          "shortLink": "darin",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2016/01/25/4/1/1/7/1453717989659_300.jpg"
+        }
+      ],
+      "type": "SONG",
+      "dateRelease": 1652374800000,
+      "dateCreate": 1653281045247,
+      "uploadBy": null,
+      "provider": null,
+      "isMyPlaylist": false,
+      "statusViewValue": 1,
+      "statusPlayValue": 1,
+      "statusDownloadValue": 0,
+      "statusAddPlaylistValue": 0,
+      "refMapping": [],
+      "genreKey": "",
+      "streamUrls": [],
+      "description": ""
+    },
+    {
+      "key": "LeUOYciSyXzf",
+      "title": "Wherever You Go",
+      "thumbnail": "https://avatar-ex-swe.nixcdn.com/song/2022/03/15/f/8/5/5/1647303160757_300.jpg",
+      "duration": "03:20",
+      "artists": [
+        {
+          "artistId": 198992,
+          "name": "Alok",
+          "shortLink": null,
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2016/12/22/5/a/d/7/1482395324270_300.jpg"
+        },
+        {
+          "artistId": 117955,
+          "name": "John Martin",
+          "shortLink": "",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2022/06/09/5/6/6/7/1654762423141_300.jpg"
+        }
+      ],
+      "type": "SONG",
+      "dateRelease": 1641488400000,
+      "dateCreate": 1647303166900,
+      "uploadBy": null,
+      "provider": null,
+      "isMyPlaylist": false,
+      "statusViewValue": 1,
+      "statusPlayValue": 1,
+      "statusDownloadValue": 0,
+      "statusAddPlaylistValue": 0,
+      "refMapping": [],
+      "genreKey": "",
+      "streamUrls": [],
+      "description": ""
+    },
+    {
+      "key": "TvocCTrHLuAB",
+      "title": "Sleepwalking",
+      "thumbnail": "https://avatar-ex-swe.nixcdn.com/song/2022/10/06/f/1/0/4/1665026159887_300.jpg",
+      "duration": "03:07",
+      "artists": [
+        {
+          "artistId": 21010,
+          "name": "All Time Low",
+          "shortLink": "",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2013/8657_All_Time_Low_A_300.jpg"
+        }
+      ],
+      "type": "SONG",
+      "dateRelease": 1665075600000,
+      "dateCreate": 1665026159515,
+      "uploadBy": null,
+      "provider": null,
+      "isMyPlaylist": false,
+      "statusViewValue": 1,
+      "statusPlayValue": 1,
+      "statusDownloadValue": 0,
+      "statusAddPlaylistValue": 0,
+      "refMapping": [],
+      "genreKey": "",
+      "streamUrls": [],
+      "description": ""
+    },
+    {
+      "key": "Bx89IOCYEx3J",
+      "title": "No More Friends",
+      "thumbnail": "https://avatar-ex-swe.nixcdn.com/song/2022/12/12/2/8/0/d/1670816165651_300.jpg",
+      "duration": "02:01",
+      "artists": [
+        {
+          "artistId": 317864,
+          "name": "Rich The Kid",
+          "shortLink": null,
+          "imageUrl": null
+        }
+      ],
+      "type": "SONG",
+      "dateRelease": 1671296400000,
+      "dateCreate": 1670816165409,
+      "uploadBy": null,
+      "provider": null,
+      "isMyPlaylist": false,
+      "statusViewValue": 1,
+      "statusPlayValue": 1,
+      "statusDownloadValue": 0,
+      "statusAddPlaylistValue": 0,
+      "refMapping": [],
+      "genreKey": "",
+      "streamUrls": [],
+      "description": ""
+    },
+    {
+      "key": "pcsIRDtZvW0y",
+      "title": "Bài Này Không Để Đi Diễn",
+      "thumbnail": "https://avatar-ex-swe.nixcdn.com/song/2022/10/17/b/9/5/f/1665981317873_300.jpg",
+      "duration": "02:58",
+      "artists": [
+        {
+          "artistId": 139808,
+          "name": "Anh Tú Atus",
+          "shortLink": "anh-tu",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2021/03/18/7/5/f/f/1616036280838_300.jpg"
+        }
+      ],
+      "type": "SONG",
+      "dateRelease": 1665939600000,
+      "dateCreate": 1665981317547,
+      "uploadBy": null,
+      "provider": null,
+      "isMyPlaylist": false,
+      "statusViewValue": 1,
+      "statusPlayValue": 1,
+      "statusDownloadValue": 2,
+      "statusAddPlaylistValue": 0,
+      "refMapping": [],
+      "genreKey": "",
+      "streamUrls": [],
+      "description": ""
+    }
+  ],
+  "top100": [
+    {
+      "key": "aY3KIEnpCywU",
+      "title": "Top 100 Remix Việt Hay Nhất",
+      "thumbnail": "https://avatar-ex-swe.nixcdn.com/playlist/2020/09/16/e/1/f/f/1600244112678_300.jpg",
+      "duration": "00:00",
+      "artists": [
+        {
+          "artistId": 8248,
+          "name": "V.A",
+          "shortLink": "va",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2020/08/18/e/4/e/c/1597723219000_300.jpg"
+        }
+      ],
+      "type": "PLAYLIST",
+      "dateRelease": 0,
+      "dateCreate": 1492071522570,
+      "uploadBy": null,
+      "provider": null,
+      "refMapping": [],
+      "genreKey": "",
+      "songs": null,
+      "videos": null,
+      "description": "",
+      "dateModify": "26/12/2022",
+      "listTag": [],
+      "numOfItems": 100
+    },
+    {
+      "key": "m3liaiy6vVsF",
+      "title": "Top 100 Nhạc Trẻ Hay Nhất",
+      "thumbnail": "https://avatar-ex-swe.nixcdn.com/playlist/2022/10/11/d/4/8/5/1665486043600_300.jpg",
+      "duration": "00:00",
+      "artists": [
+        {
+          "artistId": 8248,
+          "name": "V.A",
+          "shortLink": "va",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2020/08/18/e/4/e/c/1597723219000_300.jpg"
+        }
+      ],
+      "type": "PLAYLIST",
+      "dateRelease": 0,
+      "dateCreate": 1492070599420,
+      "uploadBy": null,
+      "provider": null,
+      "refMapping": [],
+      "genreKey": "",
+      "songs": null,
+      "videos": null,
+      "description": "",
+      "dateModify": "26/12/2022",
+      "listTag": [],
+      "numOfItems": 100
+    },
+    {
+      "key": "zE23R7bc8e9X",
+      "title": "Top 100 Pop USUK Hay Nhất",
+      "thumbnail": "https://avatar-ex-swe.nixcdn.com/playlist/2022/08/15/d/d/7/6/1660552932402_300.jpg",
+      "duration": "00:00",
+      "artists": [
+        {
+          "artistId": 8248,
+          "name": "V.A",
+          "shortLink": "va",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2020/08/18/e/4/e/c/1597723219000_300.jpg"
+        }
+      ],
+      "type": "PLAYLIST",
+      "dateRelease": 0,
+      "dateCreate": 1492071929561,
+      "uploadBy": null,
+      "provider": null,
+      "refMapping": [],
+      "genreKey": "",
+      "songs": null,
+      "videos": null,
+      "description": "",
+      "dateModify": "26/12/2022",
+      "listTag": [],
+      "numOfItems": 100
+    },
+    {
+      "key": "cv4YefsXF887",
+      "title": "Top 100 Nhạc Latin Hay Nhất",
+      "thumbnail": "https://avatar-ex-swe.nixcdn.com/playlist/2021/05/26/b/e/2/9/1622014540231_300.jpg",
+      "duration": "00:00",
+      "artists": [
+        {
+          "artistId": 8248,
+          "name": "V.A",
+          "shortLink": "va",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2020/08/18/e/4/e/c/1597723219000_300.jpg"
+        }
+      ],
+      "type": "PLAYLIST",
+      "dateRelease": 0,
+      "dateCreate": 1492072545985,
+      "uploadBy": null,
+      "provider": null,
+      "refMapping": [],
+      "genreKey": "",
+      "songs": null,
+      "videos": null,
+      "description": "",
+      "dateModify": "26/12/2022",
+      "listTag": [],
+      "numOfItems": 100
+    },
+    {
+      "key": "BjTXbslQAOYD",
+      "title": "Top 100 Blues/Jazz Hay Nhất",
+      "thumbnail": "https://avatar-ex-swe.nixcdn.com/playlist/2020/09/16/e/1/f/f/1600250971140_300.jpg",
+      "duration": "00:00",
+      "artists": [
+        {
+          "artistId": 8248,
+          "name": "V.A",
+          "shortLink": "va",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2020/08/18/e/4/e/c/1597723219000_300.jpg"
+        }
+      ],
+      "type": "PLAYLIST",
+      "dateRelease": 0,
+      "dateCreate": 1492072348553,
+      "uploadBy": null,
+      "provider": null,
+      "refMapping": [],
+      "genreKey": "",
+      "songs": null,
+      "videos": null,
+      "description": "",
+      "dateModify": "26/12/2022",
+      "listTag": [],
+      "numOfItems": 100
+    },
+    {
+      "key": "iY1AnIsXedqE",
+      "title": "Top 100 Rap Việt Hay Nhất",
+      "thumbnail": "https://avatar-ex-swe.nixcdn.com/playlist/2021/04/07/2/7/0/9/1617776161396_300.jpg",
+      "duration": "00:00",
+      "artists": [
+        {
+          "artistId": 8248,
+          "name": "V.A",
+          "shortLink": "va",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2020/08/18/e/4/e/c/1597723219000_300.jpg"
+        }
+      ],
+      "type": "PLAYLIST",
+      "dateRelease": 0,
+      "dateCreate": 1492071260414,
+      "uploadBy": null,
+      "provider": null,
+      "refMapping": [],
+      "genreKey": "",
+      "songs": null,
+      "videos": null,
+      "description": "",
+      "dateModify": "26/12/2022",
+      "listTag": [],
+      "numOfItems": 100
+    }
+  ],
+  "topic": [
+    {
+      "title": "Chill Out",
+      "key": "wepgktzom",
+      "backgroundColor": "#287291",
+      "description": "Chill out là một khái niệm phát sinh từ một từ lóng của relax, thư giãn. Chill out xuất hiện từ khoảng đầu những năm 90 thế kỷ 20, ban đầu được coi như tổng hợp các loại nhạc êm dịu, tiết tấu chậm được sáng tạo bởi các nhạc sĩ của dòng nhạc điện tử hiện đại (electronica).\r\nVề sau này, dòng chill out đã mở rộng không gian ảnh hưởng ra thị trường âm nhạc đại chúng và rất được ưa chuộng, được coi như một liệu pháp âm thanh giúp người nghe như thư thái, lấy lại cân bằng giữa cuộc sống quá bận rộn. Nghe một bản nhạc chill out, dù ở bất cứ đâu là một cách để giảm stress!\r\n",
+      "coverImageURL": "https://avatar-ex-swe.nixcdn.com/topic/mobile/2021/03/09/b/0/5/0/1615284927806.jpg",
+      "thumbURL": "https://avatar-ex-swe.nixcdn.com/topic/image-1440/2021/03/09/1/6/4/9/1615284949701_640.png"
+    },
+    {
+      "title": "Motivation",
+      "key": "wraadpkon",
+      "backgroundColor": "#00c4de",
+      "description": "Đôi lúc bạn sẽ phải “quét dọn” những tàn dư tâm trạng mệt mỏi. Những lúc đó, âm nhạc chính là liều thuốc tốt nhất. Hãy nghe những playlist sau tạo động lực cuộc sống.",
+      "coverImageURL": "https://avatar-ex-swe.nixcdn.com/topic/mobile/2020/09/04/5/9/2/a/1599203330765.jpg",
+      "thumbURL": "https://avatar-ex-swe.nixcdn.com/topic/image-1440/2020/09/04/e/3/7/5/1599203331252_640.png"
+    },
+    {
+      "title": "US-UK",
+      "key": "weieatejm",
+      "backgroundColor": "#7a7000",
+      "description": "Vốn sở hữu thị phần rộng khắp tại tất cả các quốc gia trên thế giới nên tại NhacCuaTui cũng không ngoại lệ khi US-UK cũng là một trong những thể loại chính được đông đảo user yêu thích và ủng hộ. Lợi thế của US-UK là ngôn ngữ gần gũi, quen thuộc, nhưng để làm nên những kì tích như trong năm vừa qua phải kể đến sự sáng tạo và nỗ lực không ngừng nghỉ của rất nhiều các nghệ sĩ để mỗi một ca khúc cho ra mắt lại là một tác phẩm để đời, một big hit khiến mọi người thuộc nằm lòng và nhớ ra ngay khi chỉ vừa nghe vài nốt nhạc dạo. Cùng lắng nghe lại và chia sẻ cùng mọi người những ca khúc có thể làm nên kì tích ấy.",
+      "coverImageURL": "https://avatar-ex-swe.nixcdn.com/topic/mobile/2022/08/08/6/f/6/6/1659944920640.jpg",
+      "thumbURL": "https://avatar-ex-swe.nixcdn.com/topic/image-1440/2022/08/08/6/9/c/8/1659944938452_640.png"
+    },
+    {
+      "title": "Nhạc Buồn",
+      "key": "weoumvsph",
+      "backgroundColor": "#600fc2",
+      "description": "Các ngày lễ thường là ngày dành cho các đôi tình nhân được bên nhau, chia sẻ yêu thương. Nhưng đâu đó vẫn còn những người không may mắn chưa tìm được tình yêu. Đừng buồn và nghĩ mình không may mắn bởi vì hẹn hò với nỗi cô đơn vẫn có những niềm vui và sự thú vị riêng. NhacCuaTui.Com hy vọng đây sẽ là món quà dành cho những bạn F.A. Chúc các bạn sẽ mau tìm được tình yêu của mình.",
+      "coverImageURL": "https://avatar-ex-swe.nixcdn.com/topic/mobile/2022/12/05/2/4/a/2/1670222063961.jpg",
+      "thumbURL": "https://avatar-ex-swe.nixcdn.com/topic/image-1440/2022/12/05/4/a/8/9/1670222076742_640.png"
+    },
+    {
+      "title": "Indie",
+      "key": "wrarzoqrv",
+      "backgroundColor": "#551066",
+      "description": "Dòng nhạc Indie luôn mang lại một sự mới lạ, một cá tính riêng đặc sắc của những nghệ sĩ tài năng. Hãy cùng NhacCuaTui thưởng thức âm nhạc tuyệt vời này.",
+      "coverImageURL": "https://avatar-ex-swe.nixcdn.com/topic/mobile/2020/06/17/7/b/3/b/1592387428543.jpg",
+      "thumbURL": "https://avatar-ex-swe.nixcdn.com/topic/image-1440/2020/06/19/e/d/d/3/1592557720724_640.png"
+    },
+    {
+      "title": "Driving",
+      "key": "wrsurasyy",
+      "backgroundColor": "#0d2452",
+      "description": "Tuổi trẻ này thì ngắn, thế giới thì rộng lớn bao la. Nên thay vì ngồi im và chờ cơ hội, bạn cần phải chạy thật nhanh để ngắm nhìn mọi thứ.",
+      "coverImageURL": "https://avatar-ex-swe.nixcdn.com/topic/mobile/2021/04/23/1/a/f/a/1619168954014.jpg",
+      "thumbURL": "https://avatar-ex-swe.nixcdn.com/topic/image-1440/2021/04/23/d/5/7/a/1619168954720_640.png"
+    },
+    {
+      "title": "Du Lịch",
+      "key": "wepqryibo",
+      "backgroundColor": "#8a4c28",
+      "description": "Tuổi trẻ là những chuỗi ngày tươi đẹp mà mỗi con người chỉ trải qua một lần duy nhất trong đời. Vì thế hay tận dụng thật tốt quãng thời gian đẹp đẽ này, đi nhiều hơn, học hỏi nhiều hơn thay vì sống một cuộc sống tẻ nhạt nhàm chán, và hãy để NhacCuaTui giúp bạn làm cho những chuyến đi của mình thêm phần sống động qua những playlist rộn rã và tràn đầy năng lượng tuổi trẻ.",
+      "coverImageURL": "https://avatar-ex-swe.nixcdn.com/topic/mobile/2020/06/17/7/b/3/b/1592361216548.jpg",
+      "thumbURL": "https://avatar-ex-swe.nixcdn.com/topic/image-1440/2020/06/19/e/d/d/3/1592557045875_640.png"
+    },
+    {
+      "title": "Yoga",
+      "key": "wrawbgkqq",
+      "backgroundColor": "#20ab94",
+      "description": "Yoga không chỉ là một bài tập thể dục đơn thuần, mà còn là cánh cửa để hợp nhất thể chất và tâm hồn con người. Tập Yoga giúp bạn có được cơ thể dẻo dai, tinh thần minh mẫn để luôn vững vàng giữa những áp lực bủa vây. Hi vọng trong khi tập luyện, với những bài hát nhẹ nhàng và thanh âm mang hơi thở của thiên nhiên này, sẽ giúp bạn có được sự tịnh tâm như mình mong muốn.",
+      "coverImageURL": "https://avatar-ex-swe.nixcdn.com/topic/mobile/2020/06/17/7/b/3/b/1592387522912.jpg",
+      "thumbURL": "https://avatar-ex-swe.nixcdn.com/topic/image-1440/2020/06/19/e/d/d/3/1592557739331_640.png"
+    },
+    {
+      "title": "Hòa Tấu",
+      "key": "weotltzru",
+      "backgroundColor": "#2b1238",
+      "description": "Piano, Organ, Guitar, Saxophone... cùng với những nghệ sĩ tài năng, tất cả đã tạo nên những tuyệt tác bất hủ đến mức quen thuộc, chắc chắn rằng bạn đã ít nhất một lần nghe qua giai điệu của những bản hoà tấu này!\r\nMời các bạn cùng thưởng thức những giai điệu du dương, nhẹ nhàng và vô cùng ngọt ngào tại NhacCuaTui.Com - trang nghe nhạc hàng đầu Việt Nam hiện nay hay nhất để giải tỏa mọi căng thẳng trong cuộc sống \r\n",
+      "coverImageURL": "https://avatar-ex-swe.nixcdn.com/topic/mobile/2020/06/18/8/1/b/5/1592453567354.jpg",
+      "thumbURL": "https://avatar-ex-swe.nixcdn.com/topic/image-1440/2020/06/19/e/d/d/3/1592558021390_640.png"
+    },
+    {
+      "title": "Mẹ Và Bé",
+      "key": "weoxznzkc",
+      "backgroundColor": "#4d2705",
+      "description": "Theo nhiều nghiên cứu khoa học đã chỉ ra rằng việc cho những bà mẹ đang mang thai và thai nhi nghe nhạc rất tốt cho trí não và sự phát triển của trẻ sau này. <br>\r\nNhacCuaTui xin gửi đến những người phụ nữ sắp mang trong mình thiên chức làm mẹ những bản nhạc, những giai điệu du dương, thư giãn và thoải mái nhất <br>\r\nHãy cùng NhacCuaTui chuẩn bị và chăm sóc tốt nhất cho những thiên thần bé nhỏ sắp chào đời các bạn nhé.",
+      "coverImageURL": "https://avatar-ex-swe.nixcdn.com/topic/mobile/2020/06/22/7/c/e/e/1592812644880.jpg",
+      "thumbURL": "https://avatar-ex-swe.nixcdn.com/topic/image-1440/2020/06/22/1/9/d/e/1592812854445_640.png"
+    },
+    {
+      "title": "Khiêu Vũ",
+      "key": "weiaxmkjc",
+      "backgroundColor": "#0b3e4d",
+      "description": "\"Dancesport\" là tên gọi mới của thi đấu khiêu vũ. Khi nói đến \"Dancesport\" là chúng ta cần có các giải thi đấu khiêu vũ chứ không phải chơi khiêu vũ như môn thể thao. Thử nhìn nhận khiêu vũ như một môn thể thao xem sao. Rõ ràng cũng như mọi môn thể thao khác, thông thường chia làm hai loại:</br>\r\n1/ Thể thao quần chúng dành cho mọi người để vui chơi giải trí và rèn luyện thể lực, không lấy thi đấu làm trọng. Có chăng thì chỉ cho vui thôi chứ không để thử tài cao thấp hay phân chia thứ hạng. Trong quá trình phát triển thể thao quần chúng dần dà sẽ có sự tuyển chọn hay tự định hình các cá nhân có khả năng để tham gia Thể thao thành tích cao. Với khiêu vũ đây là Khiêu vũ giao tiếp (Social Dance).</br>\r\n2/ Thể thao thành tích cao là môn thể thao có giải thi đấu theo thể thức luật lệ thống nhất không phải ở quốc gia mà ở qui mô thế giới . Số lượng người tham gia thường là những hạt nhân xuất sắc tuyên chọn từ phong trào thể thao quần chúng. Các giải có chấm điểm, có phân thứ hạng, từ qui mô nhỏ đến qui mô lớn, quốc gia, khu vực rồi đến thế giới. Với khiêu vũ đây là Thi đấu khiêu vũ (Dancesport).</br></br>\r\n(Nguồn: Dancesport.vn)",
+      "coverImageURL": "https://avatar-ex-swe.nixcdn.com/topic/mobile/2020/06/22/7/c/e/e/1592812588030.jpg",
+      "thumbURL": "https://avatar-ex-swe.nixcdn.com/topic/image-1440/2020/06/19/e/d/d/3/1592558655656_640.png"
+    },
+    {
+      "title": "Nhạc Phim",
+      "key": "weibcrjia",
+      "backgroundColor": "#091857",
+      "description": "Những bộ phim hay chắc chắn sẽ không thể hoàn hảo và lấy được nhiều tình cảm của khán giả nếu thiếu những bản nhạc phim tuyệt vời, chất chứa đầy tình cảm. Vì thế nhạc phim đóng một vai trò rất quan trọng trong việc đạt được thành công của bộ phim. NhacCuaTui.Com xin hân hạnh được gửi đến những tuyển tập nhạc phim hay nhất, mời các bạn cùng lắng nghe và chia sẻ.",
+      "coverImageURL": "https://avatar-ex-swe.nixcdn.com/topic/mobile/2022/12/05/2/4/a/2/1670222644758.jpg",
+      "thumbURL": "https://avatar-ex-swe.nixcdn.com/topic/image-1440/2022/12/05/4/a/8/9/1670222784794_640.png"
+    }
+  ],
+  "topicEvent": [
+    {
+      "groupName": "Năng Lượng GEN Z_Gen Z Power!",
+      "listPlaylist": [
+        {
+          "key": "UPiCc4LqmeH5",
+          "title": "Tín Hiệu Vũ Trụ",
+          "thumbnail": "https://avatar-ex-swe.nixcdn.com/playlist/2022/12/26/4/5/9/7/1672024735335_300.jpg",
+          "duration": "00:00",
+          "artists": [
+            {
+              "artistId": 8248,
+              "name": "V.A",
+              "shortLink": "va",
+              "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2020/08/18/e/4/e/c/1597723219000_300.jpg"
+            }
+          ],
+          "type": "PLAYLIST",
+          "dateRelease": 0,
+          "dateCreate": 1672023304083,
+          "uploadBy": null,
+          "provider": null,
+          "refMapping": [],
+          "genreKey": "",
+          "songs": null,
+          "videos": null,
+          "description": "",
+          "dateModify": "26/12/2022",
+          "listTag": [],
+          "numOfItems": 33
+        },
+        {
+          "key": "jUhoGY7nWJf7",
+          "title": "Hết Nước Chấm!",
+          "thumbnail": "https://avatar-ex-swe.nixcdn.com/playlist/2022/12/26/4/5/9/7/1672037068765_300.jpg",
+          "duration": "00:00",
+          "artists": [
+            {
+              "artistId": 8248,
+              "name": "V.A",
+              "shortLink": "va",
+              "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2020/08/18/e/4/e/c/1597723219000_300.jpg"
+            }
+          ],
+          "type": "PLAYLIST",
+          "dateRelease": 0,
+          "dateCreate": 1672035473225,
+          "uploadBy": null,
+          "provider": null,
+          "refMapping": [],
+          "genreKey": "",
+          "songs": null,
+          "videos": null,
+          "description": "",
+          "dateModify": "26/12/2022",
+          "listTag": [],
+          "numOfItems": 69
+        },
+        {
+          "key": "PEmEMnMdE8Gp",
+          "title": "Gét Gô!",
+          "thumbnail": "https://avatar-ex-swe.nixcdn.com/playlist/2022/12/26/4/5/9/7/1672040148819_300.jpg",
+          "duration": "00:00",
+          "artists": [
+            {
+              "artistId": 8248,
+              "name": "V.A",
+              "shortLink": "va",
+              "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2020/08/18/e/4/e/c/1597723219000_300.jpg"
+            }
+          ],
+          "type": "PLAYLIST",
+          "dateRelease": 0,
+          "dateCreate": 1672040148473,
+          "uploadBy": null,
+          "provider": null,
+          "refMapping": [],
+          "genreKey": "",
+          "songs": null,
+          "videos": null,
+          "description": "",
+          "dateModify": "26/12/2022",
+          "listTag": [],
+          "numOfItems": 35
+        },
+        {
+          "key": "gIkRTMfXFcsY",
+          "title": "Giai Điệu Chữa Lành",
+          "thumbnail": "https://avatar-ex-swe.nixcdn.com/playlist/2022/12/26/4/5/9/7/1672028103630_300.jpg",
+          "duration": "00:00",
+          "artists": [
+            {
+              "artistId": 8248,
+              "name": "V.A",
+              "shortLink": "va",
+              "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2020/08/18/e/4/e/c/1597723219000_300.jpg"
+            }
+          ],
+          "type": "PLAYLIST",
+          "dateRelease": 0,
+          "dateCreate": 1672028103178,
+          "uploadBy": null,
+          "provider": null,
+          "refMapping": [],
+          "genreKey": "",
+          "songs": null,
+          "videos": null,
+          "description": "",
+          "dateModify": "26/12/2022",
+          "listTag": [],
+          "numOfItems": 30
+        },
+        {
+          "key": "5Rpx4AdThbye",
+          "title": "Top All Stars Bình Chọn 2022",
+          "thumbnail": "https://avatar-ex-swe.nixcdn.com/playlist/2022/12/09/a/f/8/0/1670573561983_300.jpg",
+          "duration": "00:00",
+          "artists": [
+            {
+              "artistId": 8248,
+              "name": "V.A",
+              "shortLink": "va",
+              "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2020/08/18/e/4/e/c/1597723219000_300.jpg"
+            }
+          ],
+          "type": "PLAYLIST",
+          "dateRelease": 0,
+          "dateCreate": 1670496553672,
+          "uploadBy": null,
+          "provider": null,
+          "refMapping": [],
+          "genreKey": "",
+          "songs": null,
+          "videos": null,
+          "description": "",
+          "dateModify": "09/12/2022",
+          "listTag": [],
+          "numOfItems": 86
+        },
+        {
+          "key": "C6GaVhpbvkI4",
+          "title": "Lofi & Chill",
+          "thumbnail": "https://avatar-ex-swe.nixcdn.com/playlist/2022/12/22/6/1/4/b/1671683733401_300.jpg",
+          "duration": "00:00",
+          "artists": [
+            {
+              "artistId": 8248,
+              "name": "V.A",
+              "shortLink": "va",
+              "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2020/08/18/e/4/e/c/1597723219000_300.jpg"
+            }
+          ],
+          "type": "PLAYLIST",
+          "dateRelease": 0,
+          "dateCreate": 1671683733082,
+          "uploadBy": null,
+          "provider": null,
+          "refMapping": [],
+          "genreKey": "",
+          "songs": null,
+          "videos": null,
+          "description": "",
+          "dateModify": "22/12/2022",
+          "listTag": [],
+          "numOfItems": 100
+        },
+        {
+          "key": "HBZM63bzs4SY",
+          "title": "V-Pop Chill",
+          "thumbnail": "https://avatar-ex-swe.nixcdn.com/playlist/2022/12/09/a/f/8/0/1670575775699_300.jpg",
+          "duration": "00:00",
+          "artists": [
+            {
+              "artistId": 8248,
+              "name": "V.A",
+              "shortLink": "va",
+              "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2020/08/18/e/4/e/c/1597723219000_300.jpg"
+            }
+          ],
+          "type": "PLAYLIST",
+          "dateRelease": 0,
+          "dateCreate": 1584095784858,
+          "uploadBy": null,
+          "provider": null,
+          "refMapping": [],
+          "genreKey": "",
+          "songs": null,
+          "videos": null,
+          "description": "",
+          "dateModify": "09/12/2022",
+          "listTag": [],
+          "numOfItems": 97
+        },
+        {
+          "key": "mmjpd92gZrYj",
+          "title": "Teenage Heartbreak",
+          "thumbnail": "https://avatar-ex-swe.nixcdn.com/playlist/2022/05/12/1/d/f/4/1652337086418_300.jpg",
+          "duration": "00:00",
+          "artists": [
+            {
+              "artistId": 8248,
+              "name": "V.A",
+              "shortLink": "va",
+              "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2020/08/18/e/4/e/c/1597723219000_300.jpg"
+            }
+          ],
+          "type": "PLAYLIST",
+          "dateRelease": 0,
+          "dateCreate": 1652337086071,
+          "uploadBy": null,
+          "provider": null,
+          "refMapping": [],
+          "genreKey": "",
+          "songs": null,
+          "videos": null,
+          "description": "",
+          "dateModify": "19/12/2022",
+          "listTag": [],
+          "numOfItems": 23
+        },
+        {
+          "key": "tpJa5nmDaFpJ",
+          "title": "Gen Gì Gen Z",
+          "thumbnail": "https://avatar-ex-swe.nixcdn.com/playlist/2022/12/14/2/d/d/9/1671004967483_300.jpg",
+          "duration": "00:00",
+          "artists": [
+            {
+              "artistId": 8248,
+              "name": "V.A",
+              "shortLink": "va",
+              "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2020/08/18/e/4/e/c/1597723219000_300.jpg"
+            }
+          ],
+          "type": "PLAYLIST",
+          "dateRelease": 0,
+          "dateCreate": 1671004967374,
+          "uploadBy": null,
+          "provider": null,
+          "refMapping": [],
+          "genreKey": "",
+          "songs": null,
+          "videos": null,
+          "description": "",
+          "dateModify": "26/12/2022",
+          "listTag": [],
+          "numOfItems": 67
+        },
+        {
+          "key": "oZyNOVXPZ2Xz",
+          "title": "Top Trending Tiktok Songs 2022",
+          "thumbnail": "https://avatar-ex-swe.nixcdn.com/playlist/2022/12/09/a/f/8/0/1670582493564_300.jpg",
+          "duration": "00:00",
+          "artists": [
+            {
+              "artistId": 8248,
+              "name": "V.A",
+              "shortLink": "va",
+              "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2020/08/18/e/4/e/c/1597723219000_300.jpg"
+            }
+          ],
+          "type": "PLAYLIST",
+          "dateRelease": 0,
+          "dateCreate": 1648527796684,
+          "uploadBy": null,
+          "provider": null,
+          "refMapping": [],
+          "genreKey": "",
+          "songs": null,
+          "videos": null,
+          "description": "",
+          "dateModify": "16/12/2022",
+          "listTag": [],
+          "numOfItems": 200
+        },
+        {
+          "key": "fkfyj3GSLC4t",
+          "title": "GEN Z Nghe Gì",
+          "thumbnail": "https://avatar-ex-swe.nixcdn.com/playlist/2022/08/09/5/0/c/4/1660040834391_300.jpg",
+          "duration": "00:00",
+          "artists": [
+            {
+              "artistId": 8248,
+              "name": "V.A",
+              "shortLink": "va",
+              "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2020/08/18/e/4/e/c/1597723219000_300.jpg"
+            }
+          ],
+          "type": "PLAYLIST",
+          "dateRelease": 0,
+          "dateCreate": 1616388320486,
+          "uploadBy": null,
+          "provider": null,
+          "refMapping": [],
+          "genreKey": "",
+          "songs": null,
+          "videos": null,
+          "description": "",
+          "dateModify": "02/12/2022",
+          "listTag": [],
+          "numOfItems": 186
+        }
+      ]
+    },
+    {
+      "groupName": "Đừng Sợ Thứ Hai_No Worries Monday",
+      "listPlaylist": [
+        {
+          "key": "JscQZgtrBx9M",
+          "title": "Nhạc Cho Thứ Hai",
+          "thumbnail": "https://avatar-ex-swe.nixcdn.com/playlist/2022/12/15/f/7/7/6/1671094042624_300.jpg",
+          "duration": "00:00",
+          "artists": [
+            {
+              "artistId": 8248,
+              "name": "V.A",
+              "shortLink": "va",
+              "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2020/08/18/e/4/e/c/1597723219000_300.jpg"
+            }
+          ],
+          "type": "PLAYLIST",
+          "dateRelease": 0,
+          "dateCreate": 1512622303314,
+          "uploadBy": null,
+          "provider": null,
+          "refMapping": [],
+          "genreKey": "",
+          "songs": null,
+          "videos": null,
+          "description": "",
+          "dateModify": "15/12/2022",
+          "listTag": [],
+          "numOfItems": 20
+        },
+        {
+          "key": "ePPbYIqms4OR",
+          "title": "21 Fat Burning Songs",
+          "thumbnail": "https://avatar-ex-swe.nixcdn.com/playlist/2022/05/12/1/d/f/4/1652346061725_300.jpg",
+          "duration": "00:00",
+          "artists": [
+            {
+              "artistId": 8248,
+              "name": "V.A",
+              "shortLink": "va",
+              "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2020/08/18/e/4/e/c/1597723219000_300.jpg"
+            }
+          ],
+          "type": "PLAYLIST",
+          "dateRelease": 0,
+          "dateCreate": 1652346061562,
+          "uploadBy": null,
+          "provider": null,
+          "refMapping": [],
+          "genreKey": "",
+          "songs": null,
+          "videos": null,
+          "description": "",
+          "dateModify": "12/05/2022",
+          "listTag": [],
+          "numOfItems": 21
+        },
+        {
+          "key": "yXyH3yOKRjvi",
+          "title": "Vi Vu Lướt Nhạc",
+          "thumbnail": "https://avatar-ex-swe.nixcdn.com/playlist/2021/12/31/c/a/f/8/1640940905622_300.jpg",
+          "duration": "00:00",
+          "artists": [
+            {
+              "artistId": 8248,
+              "name": "V.A",
+              "shortLink": "va",
+              "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2020/08/18/e/4/e/c/1597723219000_300.jpg"
+            }
+          ],
+          "type": "PLAYLIST",
+          "dateRelease": 0,
+          "dateCreate": 1640940905488,
+          "uploadBy": null,
+          "provider": null,
+          "refMapping": [],
+          "genreKey": "",
+          "songs": null,
+          "videos": null,
+          "description": "",
+          "dateModify": "11/10/2022",
+          "listTag": [],
+          "numOfItems": 70
+        },
+        {
+          "key": "09LiyMV5eIe5",
+          "title": "Never Give Up",
+          "thumbnail": "https://avatar-ex-swe.nixcdn.com/playlist/2019/01/08/0/d/e/9/1546920469687_300.jpg",
+          "duration": "00:00",
+          "artists": [
+            {
+              "artistId": 8248,
+              "name": "V.A",
+              "shortLink": "va",
+              "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2020/08/18/e/4/e/c/1597723219000_300.jpg"
+            }
+          ],
+          "type": "PLAYLIST",
+          "dateRelease": 0,
+          "dateCreate": 1537150121774,
+          "uploadBy": null,
+          "provider": null,
+          "refMapping": [],
+          "genreKey": "",
+          "songs": null,
+          "videos": null,
+          "description": "",
+          "dateModify": "09/09/2020",
+          "listTag": [],
+          "numOfItems": 44
+        },
+        {
+          "key": "iNQb56CdA9W3",
+          "title": "Feeling Good",
+          "thumbnail": "https://avatar-ex-swe.nixcdn.com/playlist/2020/09/08/e/5/7/c/1599531481243_300.jpg",
+          "duration": "00:00",
+          "artists": [
+            {
+              "artistId": 8248,
+              "name": "V.A",
+              "shortLink": "va",
+              "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2020/08/18/e/4/e/c/1597723219000_300.jpg"
+            }
+          ],
+          "type": "PLAYLIST",
+          "dateRelease": 0,
+          "dateCreate": 1534757093642,
+          "uploadBy": null,
+          "provider": null,
+          "refMapping": [],
+          "genreKey": "",
+          "songs": null,
+          "videos": null,
+          "description": "",
+          "dateModify": "05/12/2022",
+          "listTag": [],
+          "numOfItems": 61
+        },
+        {
+          "key": "NbU2eZq7ihGP",
+          "title": "Sunshine Pop",
+          "thumbnail": "https://avatar-ex-swe.nixcdn.com/playlist/2020/09/08/e/5/7/c/1599537104560_300.jpg",
+          "duration": "00:00",
+          "artists": [
+            {
+              "artistId": 8248,
+              "name": "V.A",
+              "shortLink": "va",
+              "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2020/08/18/e/4/e/c/1597723219000_300.jpg"
+            }
+          ],
+          "type": "PLAYLIST",
+          "dateRelease": 0,
+          "dateCreate": 1554864697775,
+          "uploadBy": null,
+          "provider": null,
+          "refMapping": [],
+          "genreKey": "",
+          "songs": null,
+          "videos": null,
+          "description": "",
+          "dateModify": "02/08/2022",
+          "listTag": [],
+          "numOfItems": 44
+        },
+        {
+          "key": "yV3sZyCMjsIq",
+          "title": "Morning Motivation",
+          "thumbnail": "https://avatar-ex-swe.nixcdn.com/playlist/2018/09/27/b/6/f/3/1538015824024_300.jpg",
+          "duration": "00:00",
+          "artists": [
+            {
+              "artistId": 8248,
+              "name": "V.A",
+              "shortLink": "va",
+              "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2020/08/18/e/4/e/c/1597723219000_300.jpg"
+            }
+          ],
+          "type": "PLAYLIST",
+          "dateRelease": 0,
+          "dateCreate": 1538015823694,
+          "uploadBy": null,
+          "provider": null,
+          "refMapping": [],
+          "genreKey": "",
+          "songs": null,
+          "videos": null,
+          "description": "",
+          "dateModify": "27/09/2018",
+          "listTag": [],
+          "numOfItems": 10
+        }
+      ]
+    },
+    {
+      "groupName": "Ở Đây Có Hit_Best Music Shoutouts",
+      "listPlaylist": [
+        {
+          "key": "aEINaIMf6iFi",
+          "title": "Ballad Việt",
+          "thumbnail": "https://avatar-ex-swe.nixcdn.com/playlist/2022/12/20/b/1/3/7/1671534201062_300.jpg",
+          "duration": "00:00",
+          "artists": [
+            {
+              "artistId": 8248,
+              "name": "V.A",
+              "shortLink": "va",
+              "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2020/08/18/e/4/e/c/1597723219000_300.jpg"
+            }
+          ],
+          "type": "PLAYLIST",
+          "dateRelease": 0,
+          "dateCreate": 1670900646601,
+          "uploadBy": null,
+          "provider": null,
+          "refMapping": [],
+          "genreKey": "",
+          "songs": null,
+          "videos": null,
+          "description": "",
+          "dateModify": "22/12/2022",
+          "listTag": [],
+          "numOfItems": 112
+        },
+        {
+          "key": "M1vPfriwlett",
+          "title": "Combo Hits",
+          "thumbnail": "https://avatar-ex-swe.nixcdn.com/playlist/2022/12/19/a/3/4/0/1671434403222_300.jpg",
+          "duration": "00:00",
+          "artists": [
+            {
+              "artistId": 8248,
+              "name": "V.A",
+              "shortLink": "va",
+              "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2020/08/18/e/4/e/c/1597723219000_300.jpg"
+            }
+          ],
+          "type": "PLAYLIST",
+          "dateRelease": 0,
+          "dateCreate": 1671434402558,
+          "uploadBy": null,
+          "provider": null,
+          "refMapping": [],
+          "genreKey": "",
+          "songs": null,
+          "videos": null,
+          "description": "",
+          "dateModify": "19/12/2022",
+          "listTag": [],
+          "numOfItems": 101
+        },
+        {
+          "key": "aFfvQMo8iH6h",
+          "title": "100% Gây Nghiện",
+          "thumbnail": "https://avatar-ex-swe.nixcdn.com/playlist/2022/12/19/a/3/4/0/1671439607398_300.jpg",
+          "duration": "00:00",
+          "artists": [
+            {
+              "artistId": 8248,
+              "name": "V.A",
+              "shortLink": "va",
+              "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2020/08/18/e/4/e/c/1597723219000_300.jpg"
+            }
+          ],
+          "type": "PLAYLIST",
+          "dateRelease": 0,
+          "dateCreate": 1671439607284,
+          "uploadBy": null,
+          "provider": null,
+          "refMapping": [],
+          "genreKey": "",
+          "songs": null,
+          "videos": null,
+          "description": "",
+          "dateModify": "19/12/2022",
+          "listTag": [],
+          "numOfItems": 56
+        },
+        {
+          "key": "Ni3mvCW5sJEA",
+          "title": "Trào Lưu Nhạc Hot",
+          "thumbnail": "https://avatar-ex-swe.nixcdn.com/playlist/2022/12/19/a/3/4/0/1671437497895_300.jpg",
+          "duration": "00:00",
+          "artists": [
+            {
+              "artistId": 8248,
+              "name": "V.A",
+              "shortLink": "va",
+              "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2020/08/18/e/4/e/c/1597723219000_300.jpg"
+            }
+          ],
+          "type": "PLAYLIST",
+          "dateRelease": 0,
+          "dateCreate": 1671437497549,
+          "uploadBy": null,
+          "provider": null,
+          "refMapping": [],
+          "genreKey": "",
+          "songs": null,
+          "videos": null,
+          "description": "",
+          "dateModify": "19/12/2022",
+          "listTag": [],
+          "numOfItems": 150
+        },
+        {
+          "key": "jIAUpIr1AqWc",
+          "title": "Today's Top Hits",
+          "thumbnail": "https://avatar-ex-swe.nixcdn.com/playlist/2022/12/14/2/d/d/9/1670990069925_300.jpg",
+          "duration": "00:00",
+          "artists": [
+            {
+              "artistId": 8248,
+              "name": "V.A",
+              "shortLink": "va",
+              "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2020/08/18/e/4/e/c/1597723219000_300.jpg"
+            }
+          ],
+          "type": "PLAYLIST",
+          "dateRelease": 0,
+          "dateCreate": 1670990069540,
+          "uploadBy": null,
+          "provider": null,
+          "refMapping": [],
+          "genreKey": "",
+          "songs": null,
+          "videos": null,
+          "description": "",
+          "dateModify": "17/12/2022",
+          "listTag": [],
+          "numOfItems": 99
+        },
+        {
+          "key": "Ksg8d2RRSrXl",
+          "title": "Hit Quốc Tế",
+          "thumbnail": "https://avatar-ex-swe.nixcdn.com/playlist/2022/12/19/a/3/4/0/1671434594022_300.jpg",
+          "duration": "00:00",
+          "artists": [
+            {
+              "artistId": 8248,
+              "name": "V.A",
+              "shortLink": "va",
+              "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2020/08/18/e/4/e/c/1597723219000_300.jpg"
+            }
+          ],
+          "type": "PLAYLIST",
+          "dateRelease": 0,
+          "dateCreate": 1671434592660,
+          "uploadBy": null,
+          "provider": null,
+          "refMapping": [],
+          "genreKey": "",
+          "songs": null,
+          "videos": null,
+          "description": "",
+          "dateModify": "19/12/2022",
+          "listTag": [],
+          "numOfItems": 69
+        },
+        {
+          "key": "fb7YDyfASno0",
+          "title": "Hit Việt Quốc Dân",
+          "thumbnail": "https://avatar-ex-swe.nixcdn.com/playlist/2022/12/15/f/7/7/6/1671092142076_300.jpg",
+          "duration": "00:00",
+          "artists": [
+            {
+              "artistId": 8248,
+              "name": "V.A",
+              "shortLink": "va",
+              "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2020/08/18/e/4/e/c/1597723219000_300.jpg"
+            }
+          ],
+          "type": "PLAYLIST",
+          "dateRelease": 0,
+          "dateCreate": 1671092141950,
+          "uploadBy": null,
+          "provider": null,
+          "refMapping": [],
+          "genreKey": "",
+          "songs": null,
+          "videos": null,
+          "description": "",
+          "dateModify": "15/12/2022",
+          "listTag": [],
+          "numOfItems": 96
+        },
+        {
+          "key": "8ZwcoxYMHm1T",
+          "title": "Âu Mỹ Đặc Sắc",
+          "thumbnail": "https://avatar-ex-swe.nixcdn.com/playlist/2022/12/13/f/b/6/5/1670900507133_300.jpg",
+          "duration": "00:00",
+          "artists": [
+            {
+              "artistId": 8248,
+              "name": "V.A",
+              "shortLink": "va",
+              "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2020/08/18/e/4/e/c/1597723219000_300.jpg"
+            }
+          ],
+          "type": "PLAYLIST",
+          "dateRelease": 0,
+          "dateCreate": 1670900506741,
+          "uploadBy": null,
+          "provider": null,
+          "refMapping": [],
+          "genreKey": "",
+          "songs": null,
+          "videos": null,
+          "description": "",
+          "dateModify": "",
+          "listTag": [],
+          "numOfItems": 162
+        }
+      ]
+    }
+  ],
+  "video": [
+    {
+      "key": "IqjC0rhjuz1dE",
+      "title": "Quả Táo",
+      "thumbnail": "https://avatar-ex-swe.nixcdn.com/mv/2022/12/16/a/9/d/a/1671173283134_640.jpg",
+      "duration": "04:29",
+      "artists": [
+        {
+          "artistId": 138020,
+          "name": "TIA",
+          "shortLink": "tia-hai-chau",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2020/08/21/f/5/9/d/1597997391886_300.jpg"
+        },
+        {
+          "artistId": 194581,
+          "name": "Freaky",
+          "shortLink": "freaky",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2020/08/13/a/9/8/e/1597287164260_300.jpg"
+        },
+        {
+          "artistId": 257023,
+          "name": "CM1X",
+          "shortLink": "CM1X",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2020/07/16/1/e/6/7/1594881879589_300.jpg"
+        }
+      ],
+      "type": "VIDEO",
+      "dateRelease": 1671710400000,
+      "dateCreate": 1671173282901,
+      "uploadBy": null,
+      "provider": null,
+      "isMyPlaylist": false,
+      "statusViewValue": 1,
+      "statusPlayValue": 1,
+      "statusDownloadValue": 2,
+      "statusAddPlaylistValue": 0,
+      "refMapping": [],
+      "genreKey": "",
+      "streamUrls": []
+    },
+    {
+      "key": "5VSPnfkfQrWvx",
+      "title": "Nếu Một Ngày Gặp Lại",
+      "thumbnail": "https://avatar-ex-swe.nixcdn.com/mv/2022/12/23/d/f/c/5/1671763048555_640.jpg",
+      "duration": "06:17",
+      "artists": [
+        {
+          "artistId": 139454,
+          "name": "Trương Thảo Nhi",
+          "shortLink": "Truong-Thao-Nhi",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2022/07/11/1/6/0/5/1657535383616_300.jpg"
+        }
+      ],
+      "type": "VIDEO",
+      "dateRelease": 1671715800000,
+      "dateCreate": 1671763047554,
+      "uploadBy": null,
+      "provider": null,
+      "isMyPlaylist": false,
+      "statusViewValue": 1,
+      "statusPlayValue": 1,
+      "statusDownloadValue": 2,
+      "statusAddPlaylistValue": 0,
+      "refMapping": [],
+      "genreKey": "",
+      "streamUrls": []
+    },
+    {
+      "key": "bZOkRJBlAmgr9",
+      "title": "Yêu Người Có Ước Mơ (Visual Video)",
+      "thumbnail": "https://avatar-ex-swe.nixcdn.com/mv/2022/12/22/c/d/3/6/1671685450435_640.jpg",
+      "duration": "04:56",
+      "artists": [
+        {
+          "artistId": 312892,
+          "name": "buitruonglinh",
+          "shortLink": "buitruonglinh",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2022/12/14/3/f/d/9/1670999886855_300.jpg"
+        }
+      ],
+      "type": "VIDEO",
+      "dateRelease": 1671022800000,
+      "dateCreate": 1671685450220,
+      "uploadBy": null,
+      "provider": null,
+      "isMyPlaylist": false,
+      "statusViewValue": 1,
+      "statusPlayValue": 1,
+      "statusDownloadValue": 2,
+      "statusAddPlaylistValue": 0,
+      "refMapping": [],
+      "genreKey": "",
+      "streamUrls": []
+    },
+    {
+      "key": "3Zu2tX0OMFctf",
+      "title": "dỗi ít thôi ôm đê (ShenlongZ Remix)",
+      "thumbnail": "https://avatar-ex-swe.nixcdn.com/mv/2022/12/12/6/0/b/4/1670843015707_640.jpg",
+      "duration": "03:13",
+      "artists": [
+        {
+          "artistId": 283804,
+          "name": "Phúc Du",
+          "shortLink": "phuc-du",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2022/08/06/e/d/e/4/1659718913983_300.jpg"
+        },
+        {
+          "artistId": 283358,
+          "name": "AMEE",
+          "shortLink": "emee",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2019/02/20/b/f/b/d/1550638514193_300.jpg"
+        }
+      ],
+      "type": "VIDEO",
+      "dateRelease": 1670389200000,
+      "dateCreate": 1670843012727,
+      "uploadBy": null,
+      "provider": null,
+      "isMyPlaylist": false,
+      "statusViewValue": 1,
+      "statusPlayValue": 1,
+      "statusDownloadValue": 2,
+      "statusAddPlaylistValue": 0,
+      "refMapping": [],
+      "genreKey": "",
+      "streamUrls": []
+    },
+    {
+      "key": "awoUVaZ2HXqLt",
+      "title": "All I Want For Christmas Is You (Make My Wish Come True Edition)",
+      "thumbnail": "https://avatar-ex-swe.nixcdn.com/mv/2019/12/21/0/f/e/9/1576905236701_640.jpg",
+      "duration": "04:02",
+      "artists": [
+        {
+          "artistId": 6643,
+          "name": "Mariah Carey",
+          "shortLink": "mariah-carey",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2020/09/16/7/7/c/6/1600228036808_300.jpg"
+        }
+      ],
+      "type": "VIDEO",
+      "dateRelease": 0,
+      "dateCreate": 0,
+      "uploadBy": null,
+      "provider": null,
+      "isMyPlaylist": false,
+      "statusViewValue": 1,
+      "statusPlayValue": 1,
+      "statusDownloadValue": 3,
+      "statusAddPlaylistValue": 0,
+      "refMapping": [],
+      "genreKey": "",
+      "streamUrls": []
+    },
+    {
+      "key": "LvDhjRc2WnQ9s",
+      "title": "Merry Christmas",
+      "thumbnail": "https://avatar-ex-swe.nixcdn.com/mv/2022/04/13/8/4/a/5/1649862113765_640.jpg",
+      "duration": "03:29",
+      "artists": [
+        {
+          "artistId": 95138,
+          "name": "Ed Sheeran",
+          "shortLink": "ed-sheeran",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2021/06/25/5/6/f/6/1624608342223_300.jpg"
+        },
+        {
+          "artistId": 5929,
+          "name": "Elton John",
+          "shortLink": "elton-john",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2016/01/25/4/1/1/7/1453717097375_300.jpg"
+        }
+      ],
+      "type": "VIDEO",
+      "dateRelease": 0,
+      "dateCreate": 0,
+      "uploadBy": null,
+      "provider": null,
+      "isMyPlaylist": false,
+      "statusViewValue": 1,
+      "statusPlayValue": 1,
+      "statusDownloadValue": 2,
+      "statusAddPlaylistValue": 0,
+      "refMapping": [],
+      "genreKey": "",
+      "streamUrls": []
+    },
+    {
+      "key": "cIlMr3U4Q1u0S",
+      "title": "Tình Yêu Là (Live Performance)",
+      "thumbnail": "https://avatar-ex-swe.nixcdn.com/mv/2022/10/18/7/a/1/b/1666065382138_640.jpg",
+      "duration": "04:46",
+      "artists": [
+        {
+          "artistId": 230534,
+          "name": "Hiền Hồ",
+          "shortLink": "hien-ho",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2017/06/19/8/e/5/e/1497839721553_300.jpg"
+        }
+      ],
+      "type": "VIDEO",
+      "dateRelease": 1665147600000,
+      "dateCreate": 1666065381411,
+      "uploadBy": null,
+      "provider": null,
+      "isMyPlaylist": false,
+      "statusViewValue": 1,
+      "statusPlayValue": 1,
+      "statusDownloadValue": 2,
+      "statusAddPlaylistValue": 0,
+      "refMapping": [],
+      "genreKey": "",
+      "streamUrls": []
+    },
+    {
+      "key": "1SzJMgJBCtRMc",
+      "title": "Officially Christmas",
+      "thumbnail": "https://avatar-ex-swe.nixcdn.com/mv/2022/04/13/8/4/a/5/1649862120593_640.jpg",
+      "duration": "03:27",
+      "artists": [
+        {
+          "artistId": 148800,
+          "name": "Dan + Shay",
+          "shortLink": null,
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2022/11/08/f/d/5/5/1667877019532_300.jpg"
+        }
+      ],
+      "type": "VIDEO",
+      "dateRelease": 0,
+      "dateCreate": 0,
+      "uploadBy": null,
+      "provider": null,
+      "isMyPlaylist": false,
+      "statusViewValue": 1,
+      "statusPlayValue": 1,
+      "statusDownloadValue": 2,
+      "statusAddPlaylistValue": 0,
+      "refMapping": [],
+      "genreKey": "",
+      "streamUrls": []
+    },
+    {
+      "key": "sHxKix1dLMly",
+      "title": "Last Christmas",
+      "thumbnail": "https://avatar-ex-swe.nixcdn.com/mv/2019/12/20/2/f/d/c/1576813725237_640.jpg",
+      "duration": "04:38",
+      "artists": [
+        {
+          "artistId": 7884,
+          "name": "Wham",
+          "shortLink": "",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2016/01/25/4/1/1/7/1453717704834_300.jpg"
+        }
+      ],
+      "type": "VIDEO",
+      "dateRelease": 0,
+      "dateCreate": 1350461236000,
+      "uploadBy": null,
+      "provider": null,
+      "isMyPlaylist": false,
+      "statusViewValue": 1,
+      "statusPlayValue": 1,
+      "statusDownloadValue": 0,
+      "statusAddPlaylistValue": 0,
+      "refMapping": [
+        {
+          "refKey": "gAN8eCUPf4Hd",
+          "refType": "SONG"
+        }
+      ],
+      "genreKey": "",
+      "streamUrls": []
+    }
+  ],
+  "clientIp": "183.80.235.131",
+  "time": 1672057994742
+}
