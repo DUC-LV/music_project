@@ -6,7 +6,7 @@ from .models import ShowCaseHome, TopicShowCase
 # Create your views here.
 class GetShowCase(View):
     def get(self, request):
-        topic = TopicShowCase.objects.filter(topic_name="noel_2022").all()
+        topic = TopicShowCase.objects.filter(topic_name="promotions_26/12/2022").all()
         topic_ids = [tp.id for tp in topic]
         list_playlist = ShowCaseHome.objects.filter(topic_event_id__in=topic_ids).all()
         topic_playlist_map = {}
