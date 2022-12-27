@@ -7,7 +7,7 @@ const Layout = ({ children }: React.PropsWithChildren<{}>) => {
 	return(
 		<Box>
 			<Header />
-            <PlayMusic />
+            <PlayMusic keySong=""/>
 			{children}
 		</Box>
 	)

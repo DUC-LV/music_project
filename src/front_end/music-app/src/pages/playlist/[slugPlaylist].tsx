@@ -2,6 +2,7 @@ import { useRouter } from "next/router";
 import React, { useEffect, useState } from "react";
 import { Box, Flex, Grid, Image, Text } from "theme-ui";
 import getPlaylistDetail from "../../service/getPlaylistDetail";
+import PlayMusic from "../../components/PlayMusic";
 export interface DataTags{
     name: string | undefined;
 }
@@ -20,141 +21,141 @@ export interface NameSong {
     duration: string | undefined;
     artist: DataArtist[] | undefined;
     image: string | undefined;
+    key: string | undefined;
 }
 
 interface DataListSong {
     song: NameSong[] | undefined,
 }
 export const ListSonginPlayList = ({ song }: DataListSong) => {
+    const [keySong, setKeySong] = useState('');
     return(
-        <Box
-            sx={{
-                ml: '30px',
-                mr: '30px',
-                mt: '30px'
-            }}
-        >
-            <Text as="h2" sx={{ color: 'rgba(244,246,248,0.88)'}}>Danh sách bài hát</Text>
+        <>
             <Box
                 sx={{
-                    background: "#212a35",
-                    borderRadius: '4px', height: '35px'
+                    ml: '30px',
+                    mr: '30px',
+                    mt: '30px'
                 }}
             >
-                <Grid
+                <Text as="h2" sx={{ color: 'rgba(244,246,248,0.88)'}}>Danh sách bài hát</Text>
+                <Box
                     sx={{
-                        gridTemplateColumns: ['3','3.5fr 2fr 1.3fr'],
-                        mt: '20px',
+                        background: "#212a35",
+                        borderRadius: '4px', height: '35px'
                     }}
                 >
-                    <Text
-                        as="h3"
+                    <Grid
                         sx={{
-                            ml: '20px',
-                            color: '#dadde0',
-                            my: '7px',
-                        }}>
-                        Tiêu Đề
-                    </Text>
-                    <Text
-                        as="h3"
-                        sx={{ 
-                            color: '#dadde0',
-                            my: '7px'
-                        }}>
-                        Nghệ Sĩ
-                    </Text>
-                    <Text
-                        as="h3"
-                        sx={{
-                            textAlign: 'center',
-                            color: '#dadde0',
-                            my: '7px'
-                        }}>
-                        Thời Gian
-                    </Text>
-                </Grid>
-            </Box>
-            {song?.map((item:any, index:any) => {
-                return(
-                    <Box
-                        key={index}
-                        sx={{
-                            background: '#212a35',
-                            borderRadius: '4px',
-                            height: '40px',
-                            cursor: 'pointer',
-                            ":hover": {
-                                background: 'rgba(244,246,248,0.05)'
-                            }
-                            }}
-                        >
-                        <Grid
+                            gridTemplateColumns: ['3','3.5fr 2fr 1.3fr'],
+                            mt: '20px',
+                        }}
+                    >
+                        <Text
+                            as="h3"
                             sx={{
-                                gridTemplateColumns: ['3','3.5fr 2fr 1.3fr'],
-                                mt: '5px',
-                                backgroundColor: '',
+                                ml: '20px',
+                                color: '#dadde0',
+                                my: '7px',
+                            }}>
+                            Tiêu Đề
+                        </Text>
+                        <Text
+                            as="h3"
+                            sx={{
+                                color: '#dadde0',
+                                my: '7px'
+                            }}>
+                            Nghệ Sĩ
+                        </Text>
+                        <Text
+                            as="h3"
+                            sx={{
+                                textAlign: 'center',
+                                color: '#dadde0',
+                                my: '7px'
+                            }}>
+                            Thời Gian
+                        </Text>
+                    </Grid>
+                </Box>
+                {song?.map((item:any, index:any) => {
+                    return(
+                        <Box
+                            key={index}
+                            sx={{
+                                background: '#212a35',
+                                borderRadius: '4px',
+                                height: '40px',
+                                cursor: 'pointer',
+                                ":hover": {
+                                    background: 'rgba(244,246,248,0.05)'
+                                }
+                            }}
+                            onClick={() => {
+                                setKeySong(item?.key)
                             }}
                         >
-                            <Flex>
-                                {/* <Image
-                                    alt=""
-                                    src={item?.image}
-                                    sx={{
-                                        height: '20px',
-                                        width: '40px'
-                                    }}
-                                /> */}
+                            <Grid
+                                sx={{
+                                    gridTemplateColumns: ['3','3.5fr 2fr 1.3fr'],
+                                    mt: '5px',
+                                    backgroundColor: '',
+                                }}
+                            >
+                                <Flex>
+                                    <Text
+                                        sx={{
+                                            marginX: '20px',
+                                            whiteSpace: 'nowrap',
+                                            overflow: 'hidden',
+                                            textOverflow: "ellipsis",
+                                            color: 'rgba(244,246,248,0.88)',
+                                            fontSize: '14px',
+                                            my: '10px',
+                                            fontWeight: '700'
+                                        }}>
+                                        {item?.name}
+                                    </Text>
+                                </Flex>
                                 <Text
                                     sx={{
-                                        marginX: '20px',
+                                        my: '10px',
                                         whiteSpace: 'nowrap',
                                         overflow: 'hidden',
-                                        textOverflow: "ellipsis",
-                                        color: 'rgba(244,246,248,0.88)',
+                                        textOverflow:'ellipsis',
+                                        fontWeight: '700'
+                                    }}
+                                >
+                                    {item?.artist?.map((items:any, index :any) => {
+                                        return(
+                                            <Text key={index}
+                                                  sx={{
+                                                      fontSize: '14px',
+                                                      color: 'rgba(244,246,248,0.5)',
+                                                  }}>
+                                                {items?.nameArtist}&emsp;
+                                            </Text>
+                                        );
+                                    })}
+                                </Text>
+                                <Text
+                                    sx={{
+                                        textAlign: 'center',
                                         fontSize: '14px',
+                                        color: 'rgba(244,246,248,0.5)',
                                         my: '10px',
                                         fontWeight: '700'
                                     }}>
-                                    {item?.name}
+                                    {item?.duration}
                                 </Text>
-                            </Flex>
-                            <Text
-                                sx={{
-                                    my: '10px',
-                                    whiteSpace: 'nowrap',
-                                    overflow: 'hidden',
-                                    textOverflow:'ellipsis',
-                                    fontWeight: '700'
-                                }}
-                            >
-                                {item?.artist?.map((items:any, index :any) => {
-                                    return(
-                                        <Text key={index}
-                                            sx={{
-                                                fontSize: '14px',
-                                                color: 'rgba(244,246,248,0.5)',
-                                            }}>
-                                            {items?.nameArtist}&emsp;
-                                        </Text>
-                                    );
-                                })}
-                            </Text>
-                            <Text 
-                                sx={{
-                                    textAlign: 'center', 
-                                    fontSize: '14px', 
-                                    color: 'rgba(244,246,248,0.5)', 
-                                    my: '10px',
-                                    fontWeight: '700'
-                                }}>
-                                {item?.duration}
-                            </Text>
-                        </Grid>
-                    </Box>
-                );
-            })}
-        </Box>
+                            </Grid>
+                        </Box>
+                    );
+                })}
+            </Box>
+            <PlayMusic keySong={keySong}/>
+        </>
     );
 }
 
@@ -255,7 +256,7 @@ export const HeaderPlayListDetail = ({ title, thumbnail, dateModify, description
 const PlayListDetail = () => {
     const router = useRouter();
     const [dataHeaderPlaylist, setDataHeaderPlaylist] = useState<DataHeaderPlaylist>();
-    const [dataSong, setDataSong] = useState<DataListSong>()
+    const [dataSong, setDataSong] = useState<DataListSong>();
     useEffect(() => {
         if(router?.query?.key){
             getPlaylistDetail.getAll(String(router.query.key)).then(res => {
@@ -265,43 +266,46 @@ const PlayListDetail = () => {
         }
     }, [router.query.key])
     return(
-        <Box
-            sx={{
-                margin: '0px 320px 0px 200px',
-                "@media only screen and (max-width: 1260px)": {
-                    margin: '0px 0px 0px 210px',
-                },
-                "@media only screen and (max-width: 767px)": {
-                    margin: '0px',
-                },
-            }}
-        >
-            <HeaderPlayListDetail
-                title={dataHeaderPlaylist?.title}
-                thumbnail={dataHeaderPlaylist?.thumbnail}
-                dateModify={dataHeaderPlaylist?.dateModify}
-                description={dataHeaderPlaylist?.description}
-                tags={dataHeaderPlaylist?.tags?.map(item => {
-                    return {
-                        name: item?.name,
-                    }
-                })}
-            />
-            <ListSonginPlayList
-                song={dataSong?.song?.map((item:any) => {
-                    return{
-                        name: item?.title,
-                        duration: item?.duration,
-                        image : item?.thumbnail,
-                        artist: item?.artists?.map((items:any) => {
-                            return {
-                                nameArtist: items?.name,
-                            }
-                        }),
-                    }
-                })}
-            />
-        </Box>
+        <>
+            <Box
+                sx={{
+                    margin: '0px 320px 0px 200px',
+                    "@media only screen and (max-width: 1260px)": {
+                        margin: '0px 0px 0px 210px',
+                    },
+                    "@media only screen and (max-width: 767px)": {
+                        margin: '0px',
+                    },
+                }}
+            >
+                <HeaderPlayListDetail
+                    title={dataHeaderPlaylist?.title}
+                    thumbnail={dataHeaderPlaylist?.thumbnail}
+                    dateModify={dataHeaderPlaylist?.dateModify}
+                    description={dataHeaderPlaylist?.description}
+                    tags={dataHeaderPlaylist?.tags?.map(item => {
+                        return {
+                            name: item?.name,
+                        }
+                    })}
+                />
+                <ListSonginPlayList
+                    song={dataSong?.song?.map((item:any) => {
+                        return{
+                            name: item?.title,
+                            duration: item?.duration,
+                            image : item?.thumbnail,
+                            key: item?.key,
+                            artist: item?.artists?.map((items:any) => {
+                                return {
+                                    nameArtist: items?.name,
+                                }
+                            }),
+                        }
+                    })}
+                />
+            </Box>
+        </>
     );
 }
 export default PlayListDetail;

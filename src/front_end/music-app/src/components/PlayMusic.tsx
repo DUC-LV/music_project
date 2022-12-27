@@ -1,7 +1,17 @@
-import React from "react";
+import React, {useEffect} from "react";
 import { Box } from "theme-ui";
-
-const PlayMusic = () => {
+import getDetailSong from "../service/getDetailSong";
+interface KeyMusic {
+    keySong: string | undefined;
+}
+const PlayMusic = ({ keySong }: KeyMusic) => {
+    useEffect(() => {
+        if(keySong){
+            getDetailSong.getAll(String(keySong)).then(res => {
+                console.log(res.data);
+            })
+        }
+    }, [keySong])
     return(
         <Box
             sx={{

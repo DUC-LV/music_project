@@ -46,7 +46,8 @@ INSTALLED_APPS = [
     'top_100',
     'playlist_detail',
     'mptt',
-    'video'
+    'video',
+    'song_detail',
 ]
 
 MIDDLEWARE = [
