@@ -107,6 +107,7 @@ const SlideShow = ({ dataSlide, groupName, pathnameUrl, pathnameSlug }:DataSlide
                                     "@media only screen and (max-width: 768px)": {
                                         display: 'none',
                                     },
+                                    userSelect: 'all',
                                 }}>
                                     {item?.title}
                                 </Text>

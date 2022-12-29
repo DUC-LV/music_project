@@ -13,6 +13,7 @@ import getShowCaseHome from "../service/getShowCaseHome";
 import getTop100 from "../service/getTop100";
 import getTopicEventHome from "../service/getTopicEventHome";
 import { DataRanking, DataShowCase, DataTopicEvent } from "../untils";
+import PlayMusic from "../components/PlayMusic";
 
 // type Props = {
 //     dataShowCase: Array<DataShowCase>
@@ -59,46 +60,46 @@ const Home = () => {
         getTop100.getAll().then((res:any) => {
             setDataTop100(res.data.top100)
         })
-        .catch((err:any) => {
-            console.log(err.message)
-        })
+            .catch((err:any) => {
+                console.log(err.message)
+            })
     }, [])
     return(
         <Box sx={{ width: '99%'}}>
             {isLoading ? <SkeletonSlide /> :
-            <Slide
-                dataSlide={dataShowCase?.map(item => {
-                    return {
-                        title: item?.title,
-                        key: item?.key,
-                        thumbnail: item?.thumbnail,
-                        url: item?.url,
-                        order: item?.order,
-                        imageUrl: item?.imageUrl,
-						description: item?.description,
-                    }
-                })} 
-            />
+                <Slide
+                    dataSlide={dataShowCase?.map(item => {
+                        return {
+                            title: item?.title,
+                            key: item?.key,
+                            thumbnail: item?.thumbnail,
+                            url: item?.url,
+                            order: item?.order,
+                            imageUrl: item?.imageUrl,
+                            description: item?.description,
+                        }
+                    })}
+                />
             }
             {isLoading ? <SkeletonSlideShow /> : <>
-            {dataTopicEvent?.slice(0,3)?.map((item:any, index:any) => {
-                return(
-                    <Box key={index}>
-                        <SlideShow
-                            groupName={item?.groupName}
-                            dataSlide = {item?.listPlaylist?.map((items:any) => {
-                                return {
-                                    title: items?.title,
-                                    key: items?.key,
-                                    thumbnail: items?.thumbnail
-                                }
-                            })}
-                            pathnameUrl="playlist"
-                            pathnameSlug="slugPlaylist"
-                        />
-                    </Box>
-                );
-            })}</>}
+                {dataTopicEvent?.slice(0,3)?.map((item:any, index:any) => {
+                    return(
+                        <Box key={index}>
+                            <SlideShow
+                                groupName={item?.groupName}
+                                dataSlide = {item?.listPlaylist?.map((items:any) => {
+                                    return {
+                                        title: items?.title,
+                                        key: items?.key,
+                                        thumbnail: items?.thumbnail
+                                    }
+                                })}
+                                pathnameUrl="playlist"
+                                pathnameSlug="slugPlaylist"
+                            />
+                        </Box>
+                    );
+                })}</>}
             <NewReleases
                 title="Mới phát hành"
                 dataSlide = {dataNewReleases?.map((items:any) => {
@@ -172,6 +173,7 @@ const Home = () => {
                 pathnameUrl="top100"
                 pathnameSlug="slugTop100"
             />
+            <PlayMusic keySong=""/>
         </Box>
     );
 }

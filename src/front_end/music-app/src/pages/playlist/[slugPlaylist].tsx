@@ -1,8 +1,8 @@
 import { useRouter } from "next/router";
 import React, { useEffect, useState } from "react";
 import { Box, Flex, Grid, Image, Text } from "theme-ui";
-import getPlaylistDetail from "../../service/getPlaylistDetail";
 import PlayMusic from "../../components/PlayMusic";
+import getPlaylistDetail from "../../service/getPlaylistDetail";
 export interface DataTags{
     name: string | undefined;
 }
@@ -28,7 +28,7 @@ interface DataListSong {
     song: NameSong[] | undefined,
 }
 export const ListSonginPlayList = ({ song }: DataListSong) => {
-    const [keySong, setKeySong] = useState('');
+    const [keySong, setKeySong] = useState('Kgl9avgmbG1v');
     return(
         <>
             <Box
@@ -214,7 +214,7 @@ export const HeaderPlayListDetail = ({ title, thumbnail, dateModify, description
                         textOverflow: 'ellipsis',
                         whiteSpace: 'normal',
                     }}
-                    >{description}
+                >{description}
                 </Text><br></br>
                 <Flex
                     sx={{
@@ -244,7 +244,7 @@ export const HeaderPlayListDetail = ({ title, thumbnail, dateModify, description
                                         color: '#2DAAED',
                                     },
                                 }}
-                                >{item?.name}
+                            >{item?.name}
                             </Box>
                         );
                     })}
