@@ -1,9 +1,11 @@
 import React, {useEffect, useState } from "react";
-import { Box, Flex, Text } from "theme-ui";
+import { Box, Flex } from "theme-ui";
 import getDetailSong from "../service/getDetailSong";
 import AudioControlBar from "./AudioControlBar";
 import ContentSong from "./ContentSong";
 import ListMusicRecomment from "./ListMusicRecomment";
+import {useRouter} from "next/router";
+import getPlaylistDetail from "../service/getPlaylistDetail";
 interface KeyMusic {
     keySong: string | undefined;
 }
@@ -15,6 +17,7 @@ interface StreamUrls{
     streamUrl: string | undefined;
 }
 export interface Song {
+    key: string | undefined;
     title: string | undefined;
     thumbnail: string | undefined;
     duration: string | undefined;
@@ -22,6 +25,7 @@ export interface Song {
     streamUrls: StreamUrls[];
 }
 const PlayMusic = ({ keySong }: KeyMusic, ) => {
+    const router = useRouter();
     const [dataSong, setDataSong] = useState<Song>();
     const [show, setShow] = useState(true);
     const [txt, setTxt] = useState('')
@@ -37,7 +41,6 @@ const PlayMusic = ({ keySong }: KeyMusic, ) => {
         if(keySong){
             getDetailSong.getAll(String(keySong)).then(res => {
                 setDataSong(res.data);
-                console.log(res.data);
             })
         }
     }, [keySong])
@@ -65,7 +68,7 @@ const PlayMusic = ({ keySong }: KeyMusic, ) => {
                         }
                     })}
                 />:
-                <ListMusicRecomment />
+                <ListMusicRecomment keySong={dataSong?.key}/>
             }
             <Flex
                 sx={{
@@ -91,32 +94,11 @@ const PlayMusic = ({ keySong }: KeyMusic, ) => {
                     }}
                 >{txt}</Flex>
                 <Box sx={{ mt: '30px'}}>
-                    <Text
-                        as="h5"
-                        sx={{
-                            color: 'rgba(244,246,248,0.88)',
-                            textAlign: 'center',
-                            cursor: 'pointer',
-                            ":hover": {
-                                color: '#2daaed',
-                            }
-                        }}
-                    >{dataSong?.title}</Text>
-                    <Flex sx={{ justifyContent: 'space-between', position: 'relative', marginX: '20px'}}>
-                        <Text sx={{ fontSize: '13px', color: 'rgba(244,246,248,0.88)'}}>00:00</Text>
-                        <Box
-                            sx={{
-                                height: '2px',
-                                width: '70%',
-                                background: 'rgba(244,246,248,0.05)',
-                                position: 'absolute',
-                                top: '10px',
-                                left: '42px'
-                            }}
-                        ></Box>
-                        <Text sx={{ fontSize: '13px', color: 'rgba(244,246,248,0.88)'}}>{dataSong?.duration ? dataSong?.duration : '04:31'}</Text>
-                    </Flex>
-                    <AudioControlBar />
+                    <AudioControlBar
+                        link={dataSong?.streamUrls?.[0]?.streamUrl}
+                        title={dataSong?.title}
+                        duration={dataSong?.duration}
+                    />
                 </Box>
             </Flex>
         </Box>
