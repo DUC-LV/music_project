@@ -5,6 +5,7 @@ import Menu from "../../components/Menu";
 import { SkeletonVideo } from "../../components/SkeletonLoading";
 import getCategoryVideo from "../../service/getCategoryVideo";
 import { convertSlug } from "../../untils";
+import PlayMusic from "../../components/PlayMusic";
 export interface DataVideo {
 	image?: string;
 	title?: string;
@@ -59,15 +60,15 @@ const CategoryVideo = () => {
                                 }}
                             >
                                 <Image
-                                    // onClick={() => {
-                                    //     router.push({
-                                    //         pathname: `../${url}`,
-                                    //         query:{
-                                    //             slugPlaylist: convertSlug(item.title),
-                                    //             "key": item.key,
-                                    //         }
-                                    //     })
-                                    // }}
+                                    onClick={() => {
+                                        router.push({
+                                            pathname: '../video/[slugVideo]',
+                                            query:{
+                                                slugVideo: convertSlug(item.title),
+                                                "key": item.key,
+                                            }
+                                        })
+                                    }}
                                     alt=""
                                     src={item?.thumbnail}
                                     sx={{
@@ -134,6 +135,7 @@ const CategoryVideo = () => {
                 })}
             </Grid>
             </>}
+            <PlayMusic keySong="" />
         </Box>
     );
 }

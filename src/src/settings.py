@@ -48,6 +48,7 @@ INSTALLED_APPS = [
     'mptt',
     'video',
     'song_detail',
+    'video_detail'
 ]
 
 MIDDLEWARE = [

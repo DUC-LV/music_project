@@ -5,6 +5,7 @@ import ListOfShare from "../../components/ListOfShare";
 import Menu from "../../components/Menu";
 import { LoadingCSS } from "../../components/SkeletonLoading";
 import getCategoryMusic from "../../service/getCategoryMusic";
+import PlayMusic from "../../components/PlayMusic";
 interface  DataMusic{
     thumbnail: string | undefined;
     title: string | undefined;
@@ -56,6 +57,7 @@ const CategoryMusic = () => {
                 url="music/[slugMusic]"
             />
             </>}
+            <PlayMusic keySong="" />
         </Box>
     );
 }

@@ -26,4 +26,5 @@ urlpatterns = [
     path('', include('playlist_detail.urls')),
     path('', include('video.urls')),
     path('', include('song_detail.urls')),
+    path('', include('video_detail.urls')),
 ]

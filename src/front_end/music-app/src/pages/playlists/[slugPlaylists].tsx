@@ -5,6 +5,7 @@ import getCategoryPlaylist from "../../service/getCategoryPlaylist";
 import ListOfShare from "../../components/ListOfShare";
 import Menu from "../../components/Menu";
 import { LoadingCSS } from "../../components/SkeletonLoading";
+import PlayMusic from "../../components/PlayMusic";
 interface  DataPlaylist{
     thumbnail: string | undefined;
     title: string | undefined;
@@ -55,6 +56,7 @@ const CategoryPlayList = () => {
                 url="playlist/[slugPlaylist]"
             />
             </>}
+            <PlayMusic keySong="" />
         </Box>
     );
 }
